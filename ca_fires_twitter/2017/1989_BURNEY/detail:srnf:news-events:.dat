@@ -1,0 +1,1725 @@
+<!-- ltt Default begin --><!-- 
+<link href='/Internet/FSE_DOCUMENTS/fseprd927032.css' rel="styleSheet" type="text/css" />
+<script src="/Internet/FSE_DOCUMENTS/fseprd927033.js"  type="text/javascript" defer></script>
+ -->
+ <!-- <base href=""/>  -->
+<!--  Default_FS ver 1.0 -->     
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="google-site-verification" content="Ax0L7VHnhaVUM12uQO_hUgIiJA_vP_rRWuV9JkSEywM" />
+<!-- rel=dynamic-content indicates an element that is replaced with the contents produced by the specified href. 
+    dyn-cs:* URIs are resolved using the values within the 'wp_dyncs_simple' theme module. --><!--    
+<link rel="dynamic-content" href="co:head">
+<link rel="dynamic-content" href="dyn-cs:id:st_head">
+ -->
+ 
+ <!-- Google Tag Manager for r10 -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NDRWDH6');</script>
+<!-- End Google Tag Manager -->
+ 
+ 
+ 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" type="text/javascript"></script>
+
+<script>
+	var $pjq = jQuery.noConflict();
+</script>
+
+<link href='/Internet/FSE_DOCUMENTS/fseprd927032.css' rel="styleSheet" type="text/css" />
+<script src="/Internet/FSE_DOCUMENTS/fseprd927033.js"  type="text/javascript" ></script>
+
+	<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-47791907-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);var _gaq = _gaq || [];
+  
+	  _gaq.push(['b._setAccount', 'UA-22225025-1']);
+	  _gaq.push(['b._setDomainName', 'usda.gov']);
+	  _gaq.push(['b._setAllowLinker', true]);
+	  _gaq.push(['b._trackPageview']);
+
+	  _gaq.push(['a._setAccount', 'UA-27627304-16']);
+	  _gaq.push(['a._setDomainName', 'usda.gov']);
+	  _gaq.push(['a._setAllowLinker', true]);
+	  _gaq.push(['a._trackPageview']);
+
+	  _gaq.push(['b._setAccount', 'UA-27627304-1']);
+	  _gaq.push(['b._setDomainName', 'usda.gov']);
+	  _gaq.push(['b._setAllowLinker', true]);
+	  _gaq.push(['b._trackPageview']);
+
+
+  
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();ga("send", "pageview");
+  
+	</script>
+
+	<!-- Google Analytics -->
+	<script type="text/javascript">function googleAna(gkey){try{
+	//var pageTracker=_gat._getTracker(gkey);
+	//pageTracker._trackPageview();
+	// The new asynchronous syntax
+	_gaq.push(['_setAccount', gkey]);
+	_gaq.push(['_trackPageview']);
+	}catch(err){}}
+	</script>
+	<!-- script type="text/javascript">var gaJsHost=(("https:"==document.location.protocol)?"https://ssl.":"http://www.");document.write(unescape("%3Cscript src='"+gaJsHost+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script -->
+	<!-- Google Analytics -->
+
+	<script id="_fed_an_ua_tag" type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=USDA&amp;subagency=FS"></script>
+
+	<title>
+	
+		Six Rivers National Forest - News &amp; Events
+	</title>
+
+
+
+        
+
+		<script>
+			djConfig = {
+				parseOnLoad : true,
+				isDebug : false,
+				async: true
+			};
+		</script>
+		
+		<link rel="stylesheet" type="text/css" href="/Internet/scr/dojo/dojo-1.16/dijit/themes/claro/claro.css">
+		<script type="text/javascript" src="/Internet/scr/dojo/dojo-1.16/dojo/dojo.js"></script>
+        
+        
+        <!-- Script for new foresee START 2-->
+
+	<script type="text/javascript">
+		var subsiteCode = "110510";
+
+		// ForeSee Production Embed Script v2.01
+		// DO NOT MODIFY BELOW THIS LINE *****************************************
+		;(function (g) {
+			var d = document, am = d.createElement('script'), h = d.head || d.getElementsByTagName("head")[0], fsr = 'fsReady',
+					aex = {
+						"src": "//gateway.foresee.com/sites/fs-fed-us/production/gateway.min.js",
+						"type": "text/javascript",
+						"async": "true",
+						"data-vendor": "fs",
+						"data-role": "gateway"
+					};
+			for (var attr in aex) { am.setAttribute(attr, aex[attr]); } h.appendChild(am); g[fsr] || (g[fsr] = function () { var aT = '__' + fsr + '_stk__'; g[aT] = g[aT] || []; g[aT].push(arguments); });
+		})(window);
+		// DO NOT MODIFY ABOVE THIS LINE *****************************************
+
+	</script>
+	<!-- Script for new foresee END -->
+<script >bazadebezolkohpepadr="467215575"</script><script type="text/javascript" src="https://www.fs.usda.gov/akam/13/1bd92438"  defer></script></head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body id="content" class="lotusui30dojo tundra claro locale_en">
+
+<!-- Google Tag Manager (noscript) for r10 -->
+<noscript><iframe src=https://www.googletagmanager.com/ns.html?id=GTM-NDRWDH6
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	
+	<div id="stPageFrame">
+
+		<!-- these wptheme* classes are required for the hidden widget container -->
+		<div class="stMainContent wpthemeMainContent" role="main" aria-label="IBM Digital Experience Main">
+			<!-- required - do not remove -->
+
+			<div id="layoutContainers" class="stLayoutContainers stLayoutContainersHidden stGroup wpthemeLayoutContainersHidden">
+				<!-- this layout has one container 
+     Note that the st-* classes are the grid layout classes from the st_layoutGrid module.
+     These should be removed if using a different grid system. -->
+<div class="st-section">
+	
+	<div id='header' class="header" class="st-row">
+		<div class="st-col st-col-whole">
+			<div class='component-container wpthemeFull st-container ibmDndColumn id-Z7_CP74L5LD5057MFSCGG7AAV7H12' name='header' ><div class='component-control id-Z7_3P981242LOMMA0Q5UBBSQ930M3' >        <!-- Begin WIDTopNavPortletView3.jsp -->
+
+
+	<div id="masthead">
+
+
+		<section class="usa-banner" aria-label="Official government website">
+			<div class="usa-accordion">
+				<header class="usa-banner__header">
+					<div class="usa-banner__inner">
+						<div class="grid-col-auto">
+							<img class="usa-banner__header-flag"
+								src="https://www.usda.gov/themes/usda/img/favicons/flag-favicon-57.png"
+								alt="U.S. flag">
+						</div>
+						<div class="grid-col-fill tablet:grid-col-auto">
+							<p class="usa-banner__header-text">An official website of the
+								United States government</p>
+							<p class="usa-banner__header-action" aria-hidden="true">Here&apos;s
+								how you know</p>
+						</div>
+						<button class="usa-accordion__button usa-banner__button"
+							aria-expanded="false" aria-controls="gov-banner-demo">
+							<span class="usa-banner__button-text">Here&apos;s how you
+								know</span>
+						</button>
+					</div>
+				</header>
+				<div class="usa-banner__content usa-accordion__content"
+					id="gov-banner-demo" hidden="">
+					<div class="grid-row grid-gap-lg">
+						<div class="usa-banner__guidance tablet:grid-col-6">
+							<img class="usa-banner__icon usa-media-block__img"
+								src="https://www.usda.gov/themes/usda/img/icon-dot-gov.svg"
+								role="img" alt="Dot gov">
+							<div class="usa-media-block__body">
+								<p>
+									<strong>Official websites use .gov</strong> <br> A <strong>.gov</strong>
+									website belongs to an official government organization in the
+									United States.
+								</p>
+							</div>
+						</div>
+						<div class="usa-banner__guidance tablet:grid-col-6">
+							<img class="usa-banner__icon usa-media-block__img"
+								src="https://www.usda.gov/themes/usda/img/icon-https.svg"
+								role="img" alt="Https">
+							<div class="usa-media-block__body">
+								<p>
+									<strong>Secure .gov websites use HTTPS</strong> <br> A <strong>lock</strong>
+									( <span class="icon-lock"><svg
+											xmlns="http://www.w3.org/2000/svg" width="52" height="64"
+											viewBox="0 0 52 64" class="usa-banner__lock-image" role="img"
+											aria-labelledby="banner-lock-title banner-lock-description">
+											<title id="banner-lock-title">Lock</title><desc
+												id="banner-lock-description">A locked padlock</desc>
+											<path fill="#000000" fill-rule="evenodd"
+												d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z" /></svg></span>
+									) or <strong>https://</strong> means you&apos;ve safely
+									connected to the .gov website. Share sensitive information only
+									on official, secure websites.
+
+								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<div id="logoSkipNav" class="WIDBackgroundColor">
+			<!-- Begin Skip Top Navigation -->
+			<a tabindex="1" href="#main_content" title="Skip to main content">Skip
+				to main content</a>
+			<!-- End Skip Top Navigation -->
+		</div>
+		<header class="usa-header usa-header--extended">
+			<div class="usa-navbar">
+				<div class="usa-logo extended-mega-logo">
+					<img src="/FSCSThemeStatic/themes/usda_nfs/img/usda-symbol.svg" alt="usda logo"
+						class="agency-logo"> <img src="/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
+						alt="usfs shield" class="agency-logo">
+					<div class="logo-text">
+						<em class="usa-logo__text"><a aria-label="Forest Service National Website" href="/"
+							title="Forest Service National Website">Forest Service</a></em>
+						<p>Caring For the Land and Serving People</p>
+					</div>
+					<button class="usa-menu-btn">Menu</button>
+				</div>
+			</div>
+			<nav aria-label="Primary navigation" class="usa-nav">
+				<div class="usa-nav__inner">
+
+					<button class="usa-nav__close">
+						<img alt="close" src="/FSCSThemeStatic/themes/usda_nfs/img/close-white.svg">
+					</button>
+
+					<div class="usa-nav__secondary">
+						<div id="foresttitle">
+							<a href="/srnf">Six Rivers National Forest</a>
+						</div>
+
+
+						<ul class="usa-nav__secondary-links">
+							<li class="usa-nav__secondary-item"><a
+								href="/"
+								title="Forest Service Home, National Website">Forest Service Home</a></li>
+							<li class="usa-nav__secondary-item"><a
+								href="https://www.fs.usda.gov/about-agency">About the Agency</a>
+							</li>
+
+							<li class="usa-nav__secondary-item"><a
+								href="https://www.fs.usda.gov/about-agency/contact-us">Contact
+									the National Office</a></li>
+							<li class="usa-nav__secondary-item"><a
+								href="https://www.fs.usda.gov/inside-fs">Inside the FS</a></li>
+						</ul>
+
+
+
+					</div>
+				</div>
+
+
+
+<!-- Begin inserting Main Navigation.jsp -->
+
+				<script type="text/javascript">
+<!--
+	var eURL = "";
+	var nType ="";
+	var title ="";
+
+	
+	//test script
+		function initSelectOffice(oControl,encodedUrl,b,name)
+	{
+	    var theSelect = document.getElementById(oControl.name);
+	    eURL =encodedUrl;
+	    nType =name;
+	    theSelect.changed = false;
+	    theSelect.onfocus = selectOfficeFocussed;
+	    theSelect.onchange =  selectOfficeChanged ;	  	  
+	    theSelect.onkeydown = selectOfficeKeyed;
+	    theSelect.onclick = selectOfficeClicked;
+		
+	     return true;
+	}
+	
+	 
+	function selectOfficeChanged(theElement)
+	{
+	    var theSelect;
+	
+	    if (theElement && theElement.value)
+	    {
+	        theSelect = theElement;
+	    }
+	    else
+	    {
+	        theSelect = this;
+	    }
+	
+	    if (!theSelect.changed)
+	    {
+	        return false;
+	    }
+	    
+	    var paramArray = theSelect.value.split(".");	
+	    var queryParameters = document.getElementById("offices").value;
+	    document.NationalOffices.action =eURL+queryParameters;
+   	   	document.NationalOffices.submit();
+	   
+	}
+	
+	function selectOfficeClicked()
+	{
+	    this.changed = true;
+	  
+	}
+	
+	function selectOfficeFocussed()
+	{
+	    this.initValue = this.value;
+		
+	    return true;
+	}
+	
+	function selectOfficeKeyed(e)
+	{
+	    var theEvent;
+	    var keyCodeTab = "9";
+	    var keyCodeEnter = "13";
+	    var keyCodeEsc = "27";
+		
+	    if (e)
+	    {
+	        theEvent = e;
+	    }
+	    else
+	    {
+	        theEvent = event;
+	    }
+	
+	    if ((theEvent.keyCode == keyCodeEnter ) && this.value != this.initValue)
+	    {
+	        this.changed = true;
+	        selectOfficeChanged(this);
+	    }
+	    else if (theEvent.keyCode == keyCodeEsc)
+	    {
+	        this.value = this.initValue;
+	    }
+	    else
+	    {
+	        this.changed = false;
+	    }
+		
+	    return true;
+	}	
+//-->
+</script>
+
+				
+
+				<div class="navleft">
+					
+					<script type="text/javascript">
+	var portalLinks = {
+	
+			"Home": {
+				"href" : "/srnf"
+			},
+		
+			"Special Places":{
+
+				"href"	: "/attmain/srnf/specialplaces",
+			},
+		
+			"Recreation":{
+
+				"href"	: "/recmain/srnf/recreation",
+			},
+		
+			"Bicycling":{
+
+				"href"	: "/activity/srnf/recreation/bicycling",
+			},
+		
+			"Camping &amp; Cabins":{
+
+				"href"	: "/activity/srnf/recreation/camping-cabins",
+			},
+		
+			"Fishing":{
+
+				"href"	: "/activity/srnf/recreation/fishing",
+			},
+		
+			"Hiking":{
+
+				"href"	: "/activity/srnf/recreation/hiking",
+			},
+		
+			"Horse Riding &amp; Camping":{
+
+				"href"	: "/activity/srnf/recreation/horseriding-camping",
+			},
+		
+			"Hunting":{
+
+				"href"	: "/activity/srnf/recreation/hunting",
+			},
+		
+			"Nature Viewing":{
+
+				"href"	: "/activity/srnf/recreation/natureviewing",
+			},
+		
+			"OHV Riding &amp; Camping":{
+
+				"href"	: "/activity/srnf/recreation/ohv",
+			},
+		
+			"Outdoor Learning":{
+
+				"href"	: "/activity/srnf/recreation/outdoorlearning",
+			},
+		
+			"Picnicking":{
+
+				"href"	: "/activity/srnf/recreation/picnickinginfo",
+			},
+		
+			"Scenic Driving":{
+
+				"href"	: "/activity/srnf/recreation/scenicdrivinginfo",
+			},
+		
+			"Water Activities":{
+
+				"href"	: "/activity/srnf/recreation/wateractivities",
+			},
+		
+			"Alerts &amp; Notices":{
+
+				"href"	: "/alerts/srnf/alerts-notices",
+			},
+		
+			"Passes &amp; Permits":{
+
+				"href"	: "/main/srnf/passes-permits",
+			},
+		
+			"Recreation Passes &amp; Permits":{
+
+				"href"	: "/main/srnf/passes-permits/recreation",
+			},
+		
+			"Forest Products Permits":{
+
+				"href"	: "/main/srnf/passes-permits/forestproducts",
+			},
+		
+			"Other Permits":{
+
+				"href"	: "/main/srnf/passes-permits/other",
+			},
+		
+			"Maps &amp; Publications":{
+
+				"href"	: "/main/srnf/maps-pubs",
+			},
+		
+			"Land &amp; Resources Management":{
+
+				"href"	: "/land/srnf/landmanagement",
+			},
+		
+			"Planning":{
+
+				"href"	: "/main/srnf/landmanagement/planning",
+			},
+		
+			"Projects":{
+
+				"href"	: "/projects/srnf/landmanagement/projects",
+			},
+		
+			"Resource Management":{
+
+				"href"	: "/resources/srnf/landmanagement/resourcemanagement",
+			},
+		
+			"Fire Management":{
+
+				"href"	: "/main/srnf/fire",
+			},
+		
+			"Learning Center":{
+
+				"href"	: "/main/srnf/learning",
+			},
+		
+			"Nature &amp; Science":{
+
+				"href"	: "/main/srnf/learning/nature-science",
+			},
+		
+			"History &amp; Culture":{
+
+				"href"	: "/main/srnf/learning/history-culture",
+			},
+		
+			"Outdoor Safety &amp; Ethics":{
+
+				"href"	: "/main/srnf/learning/safety-ethics",
+			},
+		
+			"Working Together":{
+
+				"href"	: "/main/srnf/workingtogether",
+			},
+		
+			"Volunteering":{
+
+				"href"	: "/main/srnf/workingtogether/volunteering",
+			},
+		
+			"Partnerships":{
+
+				"href"	: "/main/srnf/workingtogether/partnerships",
+			},
+		
+			"Contracting":{
+
+				"href"	: "/main/srnf/workingtogether/contracting",
+			},
+		
+			"Advisory Committees":{
+
+				"href"	: "/main/srnf/workingtogether/advisorycommittees",
+			},
+		
+			"Tribal Relations":{
+
+				"href"	: "/main/srnf/workingtogether/tribalrelations",
+			},
+		
+			"About the Forest":{
+
+				"href"	: "/main/srnf/about-forest",
+			},
+		
+			"Contact Us":{
+
+				"href"	: "/contactus/srnf/about-forest/contactus",
+			},
+		
+			"Offices":{
+
+				"href"	: "/detail/srnf/about-forest/offices",
+			},
+		
+			"Districts":{
+
+				"href"	: "/main/srnf/about-forest/districts",
+			},
+		
+			"Employment":{
+
+				"href"	: "/main/srnf/about-forest/jobs",
+			},
+		
+			"About the Area":{
+
+				"href"	: "/main/srnf/about-forest/about-area",
+			},
+		
+			"News &amp; Events":{
+
+				"href"	: "/news/srnf/news-events",
+			},
+		
+	}
+	</script>
+
+
+
+					
+
+				</div>
+
+				<!-- End inserting WIDLeftNavPortletView.jsp -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			</nav>
+
+		</header>
+
+
+	</div>    <!-- end  masthead-->
+
+
+<script type="text/javascript">googleAna('UA-15953587-21');googleAna('UA-15887590-1');</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div>
+	</div>
+	<div id='content_container'>
+		<div id='main_content' class="main_content" class="st-row">
+			<div class="st-col st-col-whole">
+				<div class='component-container wpthemeFull st-container ibmDndColumn id-Z7_D0T1FGFJ4KV7VOD28JPECEQQ97' name='main_content' ><div class='component-control id-Z7_3P981242LOMMA0Q5UBBSQ930E2' >        
+</div><div class='component-control id-Z7_3P981242LOMMA0Q5UBBSQ930E1' >        
+
+
+
+
+
+
+
+
+
+
+
+<!-- Begin WIDDetailPortletView.jsp -->
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+	
+
+	
+		
+		
+		
+			
+			
+			
+			
+		
+		
+				
+					
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+			
+      
+			
+			
+			
+			
+
+
+		
+					
+		
+		
+						
+					
+					
+				
+			
+				
+				<h1>Six Rivers Fire Update, Sunday September 3, 2017</h1> 
+
+
+				<meta property="og:description" content="Six Rivers Fire Update, Sunday September 3, 2017">	
+
+
+				
+				
+				
+				
+					
+						<p>Release Date:&nbsp;Sep 3, 2017</p>
+				
+				
+				
+				
+				
+				
+			<!-- gets dynamic conversion of content -->
+				<div class="tablecolor">
+<table align="left" border="1" cellpadding="0" cellspacing="0" style="width:98%;" summary="Incident Information">
+	<thead>
+		<tr>
+			<th scope="row" style="width:129px;height:24px;">
+			<p><strong>Incident/Complex</strong></p>
+			</th>
+			<th style="width:61px;height:24px;">
+			<p style="text-align: center;"><strong>Acres</strong></p>
+			</th>
+			<th style="width:60px;height:24px;">
+			<p><strong>Percent<br />
+			Contained</strong></p>
+			</th>
+			<th style="width:60px;height:24px;">
+			<p style="text-align: center;"><strong>Personnel</strong></p>
+			</th>
+			<th style="width:60px;height:24px;">
+			<p style="margin-left:1.35pt;"><strong>Crews</strong></p>
+			</th>
+			<th style="width:60px;height:24px;">
+			<p><strong>Engines</strong></p>
+			</th>
+			<th style="width:60px;height:24px;">
+			<p style="text-align: center;"><strong>Heli</strong></p>
+			</th>
+			<th style="width:60px;height:24px;">
+			<p style="text-align: center;"><strong>Closures</strong></p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row" style="width: 129px; height: 19px;">
+			<p><strong>Orleans Complex</strong></p>
+			</th>
+			<td style="width:61px;height:19px;">
+			<p style="text-align: center;">17,330</p>
+			</td>
+			<td style="width:60px;height:19px;">
+			<p style="text-align: center;">51</p>
+			</td>
+			<td style="width:60px;height:19px;">
+			<p style="text-align: center;">475</p>
+			</td>
+			<td style="width:60px;height:19px;">
+			<p style="text-align: center;">7</p>
+			</td>
+			<td style="width:60px;height:19px;">
+			<p style="text-align: center;">19</p>
+			</td>
+			<td style="width:60px;height:19px;">
+			<p style="text-align: center;">4</p>
+			</td>
+			<td style="width:60px;height:19px;">
+			<p style="text-align: center;">Yes</p>
+			</td>
+		</tr>
+		<tr>
+			<th scope="row" style="width: 129px; height: 19px;">
+			<p><b>Eclipse Complex:<br />
+			Oak Fire<br />
+			(Oak Fire merged into Young Fire)</b></p>
+			</th>
+			<td style="width:61px;height:19px;">
+			<p style="text-align: center;">71,790</p>
+			</td>
+			<td style="width:60px;height:19px;">
+			<p style="text-align: center;">25</p>
+			</td>
+			<td style="width:60px;height:19px;">
+			<p style="text-align: center;">920</p>
+			</td>
+			<td style="width:60px;height:19px;">
+			<p style="text-align: center;">19</p>
+			</td>
+			<td style="width:60px;height:19px;">
+			<p style="text-align: center;">52</p>
+			</td>
+			<td style="width:60px;height:19px;">
+			<p style="text-align: center;">6</p>
+			</td>
+			<td style="width:60px;height:19px;">
+			<p style="text-align: center;">Yes</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div style="clear:both">
+<p><strong>EUREKA, California, </strong><b>September 3, 2017</b><strong>&nbsp;&ndash; </strong>Current fires and fire complexes on the Six Rivers National Forest include the Orleans Complex and the Oak Fire (part of the Klamath National Forest&rsquo;s Eclipse Complex). Firefighter and public safety is the priority.</p>
+
+<p><strong><a href="https://inciweb.nwcg.gov/incident/5430/">Orleans Complex</a>&mdash;Six Rivers National Forest </strong>(https://inciweb.nwcg.gov/incident/5430/): In late July, a series of thunderstorms passed through northern California igniting the19 fires, three of which remain active. The Ukonom Fire is 4,227 acres; Haypress Fire is 11,318 acres; Burney Fire is 1,451 acres. The complex is being managed using a combination of containment and confinement strategies. Fire behavior has been moderated by a heavy smoke inversion that persisted yesterday and through the night.</p>
+
+<p>An <strong>advisory evacuation warning </strong>will be issued today for residents west of Highway 96 from Burns Creek south to Somes Bar, and along the Salmon River Road from Somes Bar to Wooley Creek.</p>
+
+<p>Today, residents can expect to see local law enforcement and fire staff at their properties. At this time, the fire is not spreading quickly. This is an advisory evacuation warning. The evacuation warning was triggered by burning material rolling from the uphill side of Forest Road (FR) 3N11 and igniting unburned vegetation below. A northeast wind event is predicted for today, which could cause the fire to spread towards Highway 96. Please contact the Fire Information Line at 619-359-3415 or 530-572- 1129 (new today) with questions or concerns.</p>
+
+<p>Overnight, the smoke lifted periodically for firefighters to observe the fire moving west and south around Merrill Mountain. Crews worked to contain spot fires west of Irving Mountain. Road access to those spot fires is compromised by numerous snags. Crews will assess and remove snags today to keep the roads passable. More spot fires are likely in the area. Today, firefighters will work on preparing for structural protection in the evacuation warning area. This includes clearing brush, opening and improving previously built firelines, setting up sprinklers and hoselays, and installing temporary water tanks. Residents are encouraged to take any action that they can to improve their properties, as firefighting resources are extremely limited due to the large number of emergency incidents across the country. Fire Information Officers are available to answer any questions.</p>
+
+<p>The Ukonom Fire continued minimal burning in timber stands north and east of Lick and Ukonom Creeks, but no significant growth was observed. The Burney Fire is in the wilderness with minimal activity.</p>
+
+<p><strong><a href="http://ttps//inciweb.nwcg.gov/incident/5511/">Eclipse Complex&mdash;Oak Fire</a>&mdash;Klamath and Six Rivers National Forests: </strong>(https://inciweb.nwcg.gov/incident/5511/): Yesterday, fires of the complex were slowed by a heavy inversion and thick smoke cover that shaded the fires. The Oak Fire continued to slowly burn north and back into the South Fork Smith River where it continues to hold east of the river. Crews made progress on the Oak Fire&rsquo;s western side, improving containment and contingency lines from Bear Basin Butte along Blue Ridge toward Sugarloaf Mountain. A contingency line is also being improved from Ship Mountain south to Muslatt Mountain. Completion of these lines will require several days of additional patrol and mop-up by crews to remove any remaining heat near the lines. Fire lines around Happy Camp continued to cool with few smokes detected near containment lines.</p>
+
+<p>Today, fire crews are focused on mopping up containment lines around Happy Camp, while extending important contingency lines on the Oak Fire&rsquo;s east and west flanks to protect Indian Creek and the community of Big Flat.</p>
+
+<p>On the Oak Fire&rsquo;s western flank, heavy equipment and crews will continue constructing indirect line along Blue Ridge, west of the South Fork of the Smith River, as a contingency line should the fire spot across the river. The Oak Fire is expected to continue to move north up Clear and Preston creek drainages today and slowly back toward the Smith River&rsquo;s South Fork.</p>
+
+<p><strong>Closures&mdash;Orleans Complex:&nbsp;</strong>Two closure orders are in effect for National Forest roads, trails, and lands in the vicinity of Orleans Complex fires. For the Haypress Fire, Closure Order No. 17-05-801 is in effect on the Ukonom Ranger District. For the Ukonom Fire, Closure Order No. 17-05-797 is in effect on the Ukonom and Happy Camp Ranger Districts.</p>
+
+<p><strong>Closures&mdash;Oak Fire: </strong>Closure Order No. 10-17-09 and Closure Order No. 10-17-07 closes National Forest trails, roads, and lands around the Oak Fire and formerly the Young Fire. Both closure orders remain in effect until the fires are suppressed and declared out.</p>
+
+<p><a href="https://go.usa.gov/xRHYQ">All closure orders</a> can be found at https://go.usa.gov/xRHYQ</p>
+
+<p><strong>Weather: </strong>An Excessive Heat Warning is in effect through Monday.</p>
+
+<p><strong>Safety:</strong></p>
+
+<ul>
+	<li>Motorists should use caution in areas with increased traffic due to fire-suppression activities.</li>
+	<li>Hunters who plan to be in areas near the fires should check for closure orders and fire activity information daily.</li>
+	<li><a href="http://tfr.faa.gov/tfr2/list.html">Temporary flight restrictions </a>(TFRs are in effect over the Orleans Complex and the Young Fire. Planes and drones not associated with fire operations are not allowed within the TFR. For a complete list of TFRs, go to http://tfr.faa.gov/tfr2/list.html.</li>
+	<li><a href="http://bit.ly/2wfQ7Ed">Fire-use restrictions</a> are in effect on the Six Rivers National Forest (http://bit.ly/2wfQ7Ed).</li>
+	<li>Heavy smoke from several active fires on the Klamath, Rogue River-Siskiyou, and the Six Rivers National Forests will continue to affect the region. For <a href="http://www.ncuaqmd.org/">up-to-date air quality advisories</a>, call 866- BURN-DAY (1-866-287-6329) or go to www.ncuaqmd.org.</li>
+</ul>
+
+<p><strong>Prevention: </strong>The risk of starting a wildfire always exists. Remember: &ldquo;One less spark, one less wildfire.&rdquo; <a href="http://preventwildfireca.org/OneLessSpark/">http://preventwildfireca.org/OneLessSpark/</a>.</p>
+</div>
+		
+		
+				
+			
+								
+				<br />
+			
+			
+			
+			<br/>
+			
+	
+	
+
+
+</div></div></div>
+		</div>
+		<div id='right_column'>
+			<div id='critical'  class="st-row">
+				<div class="st-col st-col-whole">
+					<div class='component-container wpthemeFull st-container ibmDndColumn id-Z7_UC1F870SABHSO7RP97MPRTKTV0' name='critical' ><div class='component-control id-Z7_O84C14O0017D9060T4II8R0000' >        
+
+
+
+
+
+
+
+
+<!-- Begin WIDFireInformationPortletView.jsp -->
+
+<style type="text/css">
+
+div.dangerlevel {
+	width: 90px;
+	display: inline-block;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	margin: 2px auto 5px;
+	padding: 1px;
+	font-weight: 700
+}
+.dllow {
+	color: #EAE6C7;
+	background-color: #238E23
+}
+.dlmoderate {
+	color: #EAE6C7;
+	background-color: blue
+}
+.dlhigh {
+	color: #523929;
+	background-color: yellow
+}
+.dlveryhigh {
+	color: white;
+	background-color: #F26D21
+}
+.dlextreme {
+	color: #EAE6C7;
+	background-color: Red
+}
+.IFPL {
+	color: #42210B;
+	background-color: #EACE93
+}
+
+p.zonename {
+	text-align: Center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	margin: 0px auto;
+	padding: 2px 2px 3px 3px;
+	font-weight: 600;
+	color: #EACE93
+}
+
+img.zoneimg {
+        display: block;
+        margin: 0px auto;
+        padding: 0px;
+        font-size: 0
+}
+div.zonesignboard {
+	border-radius: 10px/3px;
+	background-color: #714428;
+	text-align: center;
+	display: block;
+	border: solid #42210B 2px;
+	margin: 0px auto;
+	padding: 2px 0px 0px 0px;
+	height: auto;
+	width: 200px
+}
+
+/*
+#URLsignboard {
+	border-radius: 3px/10px;
+	background-color: #FFFADC;
+	border: 2px solid darkgray;
+	margin: 0px auto;
+	width: 200px
+}
+
+#ur {
+	list-style-position: outside;
+	padding: 0px;
+	margin: 0px
+}
+
+#ur li  {
+	padding: 1px;
+	margin: 0px 2px 3px 30px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+}
+
+#URLsignboard ul  {
+	list-style-image: url('/FSE_WIDTheme/themes/html/FSE_WIDTheme/images/right-box-list.gif');
+	list-style-position: outside;
+	padding: 0px;
+	margin: 0px
+ 
+}
+
+#URLsignboard ul li  { 
+	padding: 1px;
+	margin: 0px 2px 0px 25px
+
+}
+
+
+#URLsignboard ul li a:link, a:visited {
+	color: #000099;
+        text-decoration: none;
+	font-family: 85% Verdana, Arial, Helvetica, sans-serif;
+	font-size: .85em
+
+}
+#URLsignboard ul li  a:hover {
+        text-decoration: underline
+}
+
+*/
+
+#firerestrictiontitle {
+	text-align: center;
+	font-family:Ba/uskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	margin: 0px auto;
+	padding: 1px;
+	font-size: 14pt;
+	font-weight: 700;
+	color: darkslategrey
+}
+</style>
+
+
+
+<script>
+var signRope='/wps/PA_WIDConsumption/images/sign-rope.png';
+var rope='/wps/PA_WIDConsumption/images/rope.png';
+var chains='/wps/PA_WIDConsumption/images/firesignchains.png';
+function smokeyFireSign(){
+	var divfl2=$pjq('<div></div>').attr('id','fl2');
+	var img=$pjq('<img></img>').attr('alt','Fire Danger Sign').attr('src',signRope).addClass('zoneimg');
+	var fd=$pjq('#fd');
+	img.appendTo(divfl2);
+	divfl2.appendTo(fd);
+};
+
+function renderZoneBoard(id,value){
+	//var f=fireLevelNum(value.col3[0]);
+	var f=value.col3[0];
+	var ft=fireLevelText(f);
+	var fc=fireLevelClass(f);
+	//var ifpl=value.col4[0];
+	var ifpl=ifplRoman(value.col4[0]);
+	//alert(ifpl);
+	//alert(ft);
+	//alert(fc);
+	//alert(ifpl);
+	var zb;
+	var name;
+	if ((ft=='N/A') && (ifpl=='N/A')){
+	}else{
+		zb=$pjq('<div></div>').addClass('zonesignboard');
+		name=$pjq('<p/>').addClass('zonename').html(value.col2[0]);
+		name.appendTo(zb);
+	}
+	
+	if (ft=='N/A'){
+	}else {
+		var fdl=$pjq('<div></div>').addClass('dangerlevel').addClass(fc).html(ft);
+		fdl.appendTo(zb);
+	}
+	if (ifpl=='N/A'){
+		//do nothing on IFPL
+	}else {
+		var ifplt='IFPL '+ifpl;
+		var ifpldiv=$pjq('<div></div>').addClass('dangerlevel').addClass('IFPL').html(ifplt);
+		ifpldiv.appendTo(zb);
+	}
+	var divfl2=$pjq('#fl2');	
+	if ((ft=='N/A') && (ifpl=='N/A')){
+	}else {
+		zb.appendTo(divfl2);
+	}
+}
+
+function renderURLSignBoard(ur){
+	if (ur.length!=0) {
+		var zoneRopeImg=$pjq('<img/>').attr('src',rope).attr('alt','').addClass('zoneimg');
+		var divfl2=$pjq('#fl2');	
+		zoneRopeImg.appendTo(divfl2);
+		var usb=$pjq('<div/>').attr('id','URLsignboard').attr('class','box').css('text-align','left');
+		var ul=$pjq('<ul/>');
+		ul.appendTo(usb);
+		$pjq.each(ur,function(key , value){
+			var li=$pjq('<li/>');
+			li.appendTo(ul);
+			var a=$pjq('<a/>').attr('href',value.col3[0]).attr('target','_blank').html(value.col2[0]);
+			a.appendTo(li);
+		});
+		var divfl2=$pjq('#fl2');	
+		usb.appendTo(divfl2);
+	}
+}
+function renderZones(fdlz,ur){
+	//alert(JSON.stringify(fdlz));
+	
+	$pjq.each(fdlz,function(key , value){
+		//alert(key);
+		//alert(JSON.stringify(value));
+		renderZoneBoard(key,value);
+		var zoneRopeImg=$pjq('<img/>').attr('src',rope).attr('alt','').addClass('zoneimg');
+		var divfl2=$pjq('#fl2');	
+		if (key==(fdlz.length-1)) {
+		}else {
+			zoneRopeImg.appendTo(divfl2);
+		}
+	});		
+	renderURLSignBoard(ur);
+	//alert(JSON.stringify(ur));
+}
+
+function forestWide(f,ifpl){
+	//alert(f);
+	//alert(ifpl);
+
+	var ft=fireLevelText(f);
+	//alert(ft);
+	var fc=fireLevelClass(f);
+	var zb=$pjq('<div></div>').addClass('zonesignboard');
+	//alert(f);
+	if (f=='N/A'){
+	}else {
+		var fdl=$pjq('<div></div>').addClass('dangerlevel').addClass(fc).html(ft);
+		fdl.appendTo(zb);
+	}
+	if (ifpl=='N/A'){
+		//do nothing on IFPL
+	}else {
+		var ifplt='IFPL '+ifpl;
+		var ifpldiv=$pjq('<div></div>').addClass('dangerlevel').addClass('IFPL').html(ifplt);
+		ifpldiv.appendTo(zb);
+	}
+	var divfl2=$pjq('#fl2');	
+	zb.appendTo(divfl2);
+	//alert(fc);	
+};
+function fireLevelClass(l){
+	var ret;
+	switch (l){
+		case '1':
+			ret='dllow';	
+			break;
+		case '2':
+			ret='dlmoderate';
+			break;
+		case '3':
+			ret='dlhigh';
+			break;
+		case '4':
+			ret='dlveryhigh';
+			break;
+		case '5':
+			ret='dlextreme';
+			break;
+		default :
+			ret='dllow';
+			break;
+	}
+	return ret;
+	
+};
+
+function ifplRoman(ifpl){
+	var ret;
+	switch(ifpl){
+		case '1':
+			ret='I';	
+			break;
+		case '2':
+			ret='II';
+			break;
+		case '3':
+			ret='III';
+			break;
+		case '4':
+			ret='IV';
+			break;
+		case 'na':
+			ret='N/A';
+			break;
+		default :
+			ret=99;
+			break;
+	}
+	return ret;
+};
+
+function fireLevelNum(t){
+	var ret;
+	switch(t){
+		case 'Low':
+			ret='1';	
+			break;
+		case 'Moderate':
+			ret='2';
+			break;
+		case 'High':
+			ret='3';
+			break;
+		case 'Very High':
+			ret='4';
+			break;
+		case 'Extreme':
+			ret='5';
+			break;
+		case 'N/A':
+			ret='N/A';
+			break;
+		default :
+			ret='99';
+			break;
+	}
+	return ret;
+};
+
+function fireLevelTextFromNumeric(l){
+	var ret;
+	switch (l){
+		case 1:
+			ret='LOW';	
+			break;
+		case 2:
+			ret='MODERATE';
+			break;
+		case 3:
+			ret='HIGH';
+			break;
+		case 4:
+			ret='VERY HIGH';
+			break;
+		case 5:
+			ret='EXTREME';
+			break;
+		//case  '-1':
+		case  'na':
+			ret='N/A';
+			break;
+		default :
+			ret='N/A';
+			break;
+		
+	}
+	return ret;
+	
+};
+
+
+function fireLevelText(l){
+	var ret;
+	switch (l){
+		case '1':
+			ret='LOW';	
+			break;
+		case '2':
+			ret='MODERATE';
+			break;
+		case '3':
+			ret='HIGH';
+			break;
+		case '4':
+			ret='VERY HIGH';
+			break;
+		case '5':
+			ret='EXTREME';
+			break;
+		//case  '-1':
+		case  'na':
+			ret='N/A';
+			break;
+		default :
+			ret='N/A';
+			break;
+		
+	}
+	return ret;
+	
+};
+
+$pjq(document).ready(function(){
+	if (fireLevel2==null){
+		//alert(JSON.stringify(fireLevel1));
+		//carry over fireLevel1 value
+		smokeyFireSign();
+		forestWide(fireLevel1.toString(),'N/A');
+	}else {
+		//alert(JSON.stringify(fireLevel2));
+		if (fireLevel2.dangerLevelAt=='forest'){
+			var fln=fireLevelNum(fireLevel2.fwLevel);
+			if ((fln=='N/A') && (fireLevel2.ifplLevel=='N/A') ){
+				//if both are N/A don't display anything
+			}else {
+				smokeyFireSign();
+				forestWide(fln,fireLevel2.ifplLevel);
+				renderURLSignBoard(fireLevel2.ur);
+			}
+
+
+		}else{
+			smokeyFireSign();
+			renderZones(fireLevel2.fdlz,fireLevel2.ur);
+			
+		}
+	}
+});
+</script>
+
+<!--
+suspect for incorrect banner issue
+   
+-->
+
+
+
+
+
+
+
+
+
+
+          
+
+	   <div style="margin-bottom:10px;text-align:center;">   							
+	     	
+			
+			      
+        	  	 	 
+				  
+			  	  
+		  		  
+	  			  	
+				  	
+				  	
+				   	
+                 		 	
+				  
+				  
+				  
+				  
+				  
+				  
+
+				  
+
+
+
+
+
+
+
+
+
+
+				<script>
+				var fireLevel2= {"dangerLevelAt":"zones","fwLevel":"Moderate","ifplLevel":"N/A","fdlz":[{"id":[1],"col2":["Gasquet/Smith River NRA (Area 110)"],"col3":["1"],"col4":["na"]},{"id":[2],"col2":["Orleans/Lower Trinity (Areas 112, 115)"],"col3":["1"],"col4":["na"]},{"id":[3],"col2":["Mad River / Ruth (Area 130)"],"col3":["1"],"col4":["na"]},{"id":[4],"col2":["Ukonom (Area 201)"],"col3":["1"],"col4":["na"]},{"id":[5],"col2":["Redwood National Park"],"col3":["1"],"col4":["na"]}],"ur":[{"id":[1],"col2":["Burn Day Information"],"col3":["https://www.fs.usda.gov/detail/srnf/home/?cid=FSEPRD1015258"]}]}
+				var fireLevel1= 1
+				</script>
+
+
+				<div id='fd'>
+				</div>
+
+
+
+							
+				
+	 		 
+ 						
+      </div>
+  
+
+</div><div class='component-control id-Z7_3P981242LOMMA0Q5UBBSQ930E3' >        
+</div><div class='component-control id-Z7_G0C0HB411PTU20609J255S00S2' >        
+</div></div></div>
+			</div>
+			<div id='secondary_navigation'  class="st-row">
+				<div class="st-col st-col-whole">
+					<div class='component-container wpthemeFull st-container ibmDndColumn id-Z7_BF8AR0FB6CLNKG5LPV08C4IUM3' name='secondary_navigation' ><div class='component-control id-Z7_3P981242LOMMA0Q5UBBSQ930U0' >        
+</div><div class='component-control id-Z7_3P981242LOMMA0Q5UBBSQ930U2' >        
+</div><div class='component-control id-Z7_3P981242LOMMA0Q5UBBSQ930U1' >        
+</div><div class='component-control id-Z7_3P981242LOMMA0Q5UBBSQ930U3' >        
+</div><div class='component-control id-Z7_3P981242LOMMA0Q5UBBSQ93010' >        
+</div><div class='component-control id-Z7_3P981242LOMMA0Q5UBBSQ93012' >        
+</div></div></div>
+			</div>
+		</div>
+
+	</div>
+	</main><div id='footer' class="footer" class="st-row">
+		<div class="st-col st-col-whole">
+			<div class='component-container wpthemeFull st-container ibmDndColumn id-Z7_2L5UHK1UC1GEPQ6RAKFLMFDAQ7' name='footer' ><div class='component-control id-Z7_3P981242LOMMA0Q5UBBSQ93011' >        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Begin WIDFooterNavContactInfoPortletView.jsp -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<footer class='usa-footer usa-footer--slim'>
+	<div class="grid-container usa-footer__return-to-top">
+	    <a href="#main_content">Return to top</a>
+	</div>
+	<div class="usa-footer__primary-section"></div>
+	<div class='usa-footer__secondary-section'>
+		<div  class="grid-container tablet:flex">
+			<div class="grid-row">       
+				<div id="leftcont" class="desktop:grid-col-3 desktop:order-1 mobile-lg:order-2">  	
+				 
+	<!-- 
+	<p class="heading">Contact Information</p>
+	 -->
+	<p><strong>Six Rivers<br />
+National Forest</strong><br />
+1330 Bayshore Way<br />
+Eureka, <abbr title="California">CA</abbr> 95501<br />
+(707) 442-1721</p>
+
+<p><strong>Gasquet District/<br />
+Smith River National Recreation Area</strong><br />
+10600 Highway 199<br />
+Gasquet, CA&nbsp; 95543<br />
+(707) 457-3131</p>
+
+<p><strong>Orleans/Ukonom District</strong><br />
+1 Ishi Pishi Road<br />
+Orleans, CA&nbsp; 95556<br />
+(530) 627-3291</p>
+
+<p><strong>Lower Trinity District</strong><br />
+580&nbsp;Highway 96<br />
+Willow Creek, CA&nbsp; 95573<br />
+(530) 629-2118</p>
+
+<p><strong>Mad River District</strong><br />
+741 Highway 36<br />
+Bridgeville, CA&nbsp; 95526<br />
+(707) 574-6233</p>
+
+<p class="heading" style="margin-bottom: 12px;"><a href="https://twitter.com/SixRiversNF"><img alt="Twitter logo icon" src="https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/social-icons/twitter-color.svg" style="width: 35px; height: 35px;" /></a> <a href="https://www.flickr.com/photos/usfsregion5/albums"><img alt="graphic: Flickr icon. Select to go to Flickr album." src="https://www.fs.usda.gov//FSCSThemeStatic/themes/usda_nfs/img/social-icons/flickr-color.svg" style="width: 35px; height: 35px;" /></a> <a href="https://www.facebook.com/SixRiversNF"><img alt="Facebook icon" src="https://www.fs.usda.gov//FSCSThemeStatic/themes/usda_nfs/img/social-icons/facebook-color.svg" style="width: 35px; height: 35px;" /></a></p>
+
+	
+	<p>
+		<a id="localContactUSURL" name="localContactUSURL"
+			href="/contactus/srnf/about-forest/contactus">Contact Us</a>
+	</p>
+	
+	
+				
+				</div>   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				<div
+					class="desktop:grid-col-8 desktop:grid-offset-1 desktop:order-2 mobile-lg:order-1">
+					<ul class="usa-list--unstyled grid-row padding-top-2">
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.recreation.gov">Recreation.gov</a></li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://ask.usda.gov/s/">askUSDA</a></li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.usda.gov/oig/forms/contractor-fraud">Report Fraud
+								on USDA Contracts</a></li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.usda.gov/accessibility-statement">Accessibility Statement</a></li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.whitehouse.gov">WhiteHouse.gov</a></li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.usda.gov/policies-and-links">Policies and Links</a>
+						</li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.usda.gov/oig">Visit OIG</a></li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.usda.gov/privacy-policy">Privacy Policy</a></li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.usda.gov/federal-web-site-inventory">eGov</a></li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.usda.gov/our-agency/about-usda/performance">Our Performance</a></li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.usda.gov/plain-writing">Plain Writing</a></li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.usda.gov/non-discrimination-statement">Non-Discrimination Statement</a></li>
+						
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.usda.gov/oascr/civil-rights-statements">Anti-Harassment Policy</a></li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.fs.usda.gov/about-agency/civil-rights#noFEARAct">No FEAR Act Data</a></li>
+						
+						
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.usda.gov/open">Open Government</a></li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.fs.usda.gov/working-with-us/jobs">Careers</a></li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.fs.usda.gov/about-agency/foia">FOIA</a></li>
+						
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.usda.gov/ocio/guidelines-and-compliance-resources/information-quality-activities">Information Quality</a></li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.usa.gov">USA.gov</a></li>
+					</ul>
+				</div>
+				
+
+
+
+
+
+			</div>  
+		</div>   
+	</div>
+
+
+	<div class="usa-footer__agency-branding grid-container">
+		<div class="grid-row">
+			<div class="usa-logo extended-mega-logo">
+				<img alt="usda logo" class="agency-logo"
+					src="/FSCSThemeStatic/themes/usda_nfs/img/usda-symbol.svg">
+				<img alt="usfs shield" class="agency-logo"
+					src="/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg">
+				<div class="logo-text">
+					<em class="usa-logo__text"><a aria-label="Forest Service National Website" href="/"
+						title="Forest Service National Website">Forest Service</a></em>
+					<p>U.S. Department of Agriculture</p>
+				</div>
+			</div>
+			<div
+				class="usa-footer__contact-links mobile-lg:grid-col-fill display-flex flex-align-center mobile-lg:flex-justify-end">
+				<div
+					class="usa-footer__social-links grid-row grid-gap-2 desktop:grid-gap-3 flex-no-wrap">
+					<div class="grid-col-auto">
+						<a class="fs-social-link fs-social-link--twitter"
+							href="https://twitter.com/forestservice" target="_blank"
+							rel="noopener"> <span>Twitter</span>
+						</a>
+					</div>
+					<div class="grid-col-auto">
+						<a class="fs-social-link fs-social-link--facebook"
+							href="https://www.facebook.com/USForestService" target="_blank"
+							rel="noopener"> <span>Facebook</span>
+						</a>
+					</div>
+					<div class="grid-col-auto">
+						<a class="fs-social-link fs-social-link--youtube"
+							href="https://www.youtube.com/user/usdaForestService"
+							target="_blank" rel="noopener"> <span>Youtube</span>
+						</a>
+					</div>
+					<div class="grid-col-auto">
+						<a class="fs-social-link fs-social-link--flickr"
+							href="https://www.flickr.com/photos/usforestservice/"
+							target="_blank" rel="noopener"> <span>Flickr</span>
+						</a>
+					</div>
+					<div class="grid-col-auto">
+						<a class="fs-social-link fs-social-link--instagram"
+							href="https://www.instagram.com/u.s.forestservice/"
+							target="_blank" rel="noopener"> <span>Instagram</span>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+
+
+	
+</footer>
+
+</div></div></div>
+	</div>
+</div>
+</div>
+		</div><!--end main content-->
+
+	</div>
+
+	
+<style>
+.hidewebpageurl {
+display: none;
+visibility: hidden;
+}
+</style>
+<div class="hidewebpageurl" id="webpage_url">https://www.fs.usda.gov/detail/srnf/news-events/?cid=FSEPRD557748</div><noscript><img src="https://www.fs.usda.gov/akam/13/pixel_1bd92438?a=dD1jOTIyY2QxNjg4M2U0NDBiNGM2YTRhMjRjY2VjNzIzZGFkYTdlNjE3JmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;" /></noscript></body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ltt Default end -->

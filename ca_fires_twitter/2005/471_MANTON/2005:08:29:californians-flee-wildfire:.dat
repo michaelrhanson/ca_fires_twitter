@@ -1,0 +1,2477 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Californians flee wildfire  - Lewiston Sun Journal</title>
+<link rel="icon" type="image/png" href="https://multifiles.pressherald.com/uploads/sites/11/2018/12/favicon.png" />
+<link rel="apple-touch-icon" type="image/png" href="" />
+<link rel="apple-touch-icon" type="image/png" sizes="72x72" href="https://multifiles.pressherald.com/uploads/sites/11/2018/12/icon-apple-touch.jpg" />
+<link rel="apple-touch-icon" type="image/png" sizes="114x114" href="https://multifiles.pressherald.com/uploads/sites/11/2018/12/icon-apple-touch-sm.jpg" />
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<script type="text/javascript">
+var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),gform.hooks[o][n].push({tag:i,callable:r,priority:t=null==t?10:t})},doHook:function(n,o,r){var t;if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[n][o]&&((o=gform.hooks[n][o]).sort(function(o,n){return o.priority-n.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==n?t.apply(null,r):r[0]=t.apply(null,r)})),"filter"==n)return r[0]},removeHook:function(o,n,t,i){var r;null!=gform.hooks[o][n]&&(r=(r=gform.hooks[o][n]).filter(function(o,n,r){return!!(null!=i&&i!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][n]=r)}});
+</script>
+<meta name="googlebot" content="noarchive" />
+
+
+<meta name="google-site-verification" content="J302vpYkjhgXSrwAvtkattXJb9QfLfltc2eJIXj-Sbc" />
+
+
+<meta name="apple-itunes-app" content="app-id=147112714">
+
+<script type='text/javascript' src='https://loader-cdn.azureedge.net/prod/masthead/loader.min.js'></script>
+
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+    h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+    (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+    })(window,document.documentElement,'async-hide','dataLayer',4000,
+    {'GTM-TZKX8X':true});</script>
+
+<script type="text/javascript"> (function(userDB) {
+	var initialized;
+	var done = function() {
+	    if (!initialized) {
+	        initialized = true;
+	        timerId && clearTimeout(timerId);
+	        if (window.Connext && window.Connext.Run) {
+	            window.Connext.Run();
+	        } else {
+	            // wait for Connext to load
+	            var timerIdPoll = setInterval(function() {
+	                if (window.Connext && window.Connext.Run) {
+	                    clearInterval(timerIdPoll);
+	                    window.Connext.Run();
+	                }
+	            }, 500);
+	        }
+	    }
+	};
+	var timerId = setTimeout(function() {
+	    done();
+	}, 3000);
+	(window.top._matherq = window.top._matherq || []).push(['getTracker', function(tracker) {
+	tracker.setPaywall('mg2');
+	if (userDB) {
+	    tracker.getUserDBSegment({}, function(userDBData) {
+	        done();
+	    });
+	} else {
+	    done();
+	}
+	}]);
+	})(true);
+	</script>
+<meta name='robots' content='max-image-preview:large, follow' />
+<link rel='canonical' href='https://www.sunjournal.com/2005/08/29/californians-flee-wildfire/'>
+<meta name='description' content='PALM SPRINGS, Calif. (AP) &#8211; Erratic wind and high temperatures stoked a 2,300-acre wildfire on Sunday, leading to the voluntary evacuation of about 100 homes, officials said.The fire was 5 percent contained, said Kathy Ungemach, spokeswoman for the San Bernardino National Forest.No structures or homes were destroyed by flames and there were no injuries reported, [&hellip;]' />
+<meta property='og:locale' content='en_US' />
+<meta property='og:title' content='Californians flee wildfire' />
+<meta property='og:description' content='PALM SPRINGS, Calif. (AP) &#8211; Erratic wind and high temperatures stoked a 2,300-acre wildfire on Sunday, leading to the voluntary evacuation of about 100 homes, officials said.The fire was 5 percent contained, said Kathy Ungemach, spokeswoman for the San Bernardino National Forest.No structures or homes were destroyed by flames and there were no injuries reported, [&hellip;]' />
+<meta property='og:url' content='https://www.sunjournal.com/2005/08/29/californians-flee-wildfire/' />
+<meta property='og:site_name' content='Lewiston Sun Journal' />
+<meta property='og:image' content='https://multifiles.pressherald.com/uploads/sites/11/2018/12/sunjournal-social.jpg' />
+<meta property='og:image:width' content='1200'>
+<meta property='og:image:height' content='630'>
+<meta property='og:image:type' content='image/jpeg'>
+<meta property='article:publisher' content='https://www.facebook.com/sunjournal' />
+<meta property='article:published_time' content='2005-08-29T00:00:00+00:00' />
+<meta property='article:modified_time' content='2005-08-29T00:00:00+00:00' />
+<meta name='twitter:card' content='summary_large_image' />
+<meta name='twitter:title' content='Californians flee wildfire  - Lewiston Sun Journal' />
+<meta name='twitter:creator' content='@sunjournal' />
+<meta name='twitter:site' content='@sunjournal' />
+<script type='application/ld+json' class='speedyseo-schema-graph'>{"@context":"https://schema.org","@graph":[{"@type":"NewsMediaOrganization","@id":"https://www.sunjournal.com#organization","name":"Lewiston Sun Journal","url":"https://www.sunjournal.com","logo":{"@type":"ImageObject","@id":"https://www.sunjournal.com#logo","inLanguage":"en-US","url":"https://multifiles.pressherald.com/uploads/sites/10/2020/07/SJ-logo-color.jpg","contentUrl":"https://multifiles.pressherald.com/uploads/sites/10/2020/07/SJ-logo-color.jpg","width":1200,"height":300,"caption":""},"image":{"@id":"https://www.sunjournal.com"},"sameAs":["https://www.facebook.com/sunjournal","https://www.instagram.com/sunjournal/","https://www.youtube.com/sunjournal","https://twitter.com/sunjournal"]},{"@type":"WebSite","@id":"https://www.sunjournal.com#website","url":"https://www.sunjournal.com","name":"Lewiston Sun Journal","description":"Central and Western Maine News","publisher":{"@id":"https://www.sunjournal.com#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.sunjournal.com?s={search_term_string}"},"query-input":"required name=search_term_string"}]},{"@type":"NewsArticle","@id":"https://www.sunjournal.com/2005/08/29/californians-flee-wildfire/#article","isPartOf":{"@id":"https://www.sunjournal.com/2005/08/29/californians-flee-wildfire/#webpage"},"headline":"Californians flee wildfire","datePublished":"2005-08-29T00:00:00+00:00","dateModified":"2005-08-29T00:00:00+00:00","mainEntityOfPage":{"@id":"https://www.sunjournal.com/2005/08/29/californians-flee-wildfire/#webpage"},"wordCount":269,"publisher":{"@id":"https://www.sunjournal.com#organization"},"image":{"@id":"https://www.sunjournal.com/2005/08/29/californians-flee-wildfire/#primaryimage"}},{"@type":["WebPage"],"@id":"https://www.sunjournal.com/2005/08/29/californians-flee-wildfire/#webpage","url":"https://www.sunjournal.com/2005/08/29/californians-flee-wildfire/","name":"Californians flee wildfire  - Lewiston Sun Journal","isPartOf":{"@id":"https://www.sunjournal.com#website"},"datePublished":"2005-08-29T00:00:00+00:00","dateModified":"2005-08-29T00:00:00+00:00","description":"PALM SPRINGS, Calif. (AP) &#8211; Erratic wind and high temperatures stoked a 2,300-acre wildfire on Sunday, leading to the voluntary evacuation of about 100 homes, officials said.The fire was 5 percent contained, said Kathy Ungemach, spokeswoman for the San Bernardino National Forest.No structures or homes were destroyed by flames and there were no injuries reported, [&hellip;]","inLanguage":"en-US"}]}</script>
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//www.sunjournal.com' />
+<link rel='dns-prefetch' href='//cdn.parsely.com' />
+<link rel='dns-prefetch' href='//securepubads.g.doubleclick.net' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//multifiles.pressherald.com' />
+<link rel="alternate" type="application/rss+xml" title="Lewiston Sun Journal &raquo; Californians flee wildfire Comments Feed" href="https://www.sunjournal.com/2005/08/29/californians-flee-wildfire/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.sunjournal.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.5"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<style id='wp-parsely-recommendations-style-inline-css' type='text/css'>
+.parsely-recommendations-list-title{font-size:1.2em}.parsely-recommendations-list{list-style:none;padding:unset}.parsely-recommendations-cardbody{overflow:hidden;padding:.8em;text-overflow:ellipsis;white-space:nowrap}.parsely-recommendations-cardmedia{padding:.8em .8em 0}
+
+</style>
+<link rel='stylesheet' id='elasticpress-related-posts-block-css' href='https://www.sunjournal.com/wp-content/plugins/elasticpress/dist/css/related-posts-block-styles.min.css?ver=3.6.6' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='smugmugButtonCss-css' href='https://www.sunjournal.com/wp-content/plugins/mtm-smugmug-buy-now/assets/css/mtm-smugmug-link.css?ver=1646825190' type='text/css' media='all' />
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/css/vendor/flexslider.css?ver=2.2.0" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/css/vendor/flexslider.css?ver=2.2.0" type="text/css" media="all"></noscript>
+<link rel='stylesheet' id='bxslider-css' href='https://www.sunjournal.com/wp-content/themes/mainetoday/assets/css/vendor/jquery.bxslider.css?ver=4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css' href='https://www.sunjournal.com/wp-content/themes/mainetoday/assets/css/vendor/slick/slick.css?ver=5.9.5' type='text/css' media='all' />
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/css/vendor/slick/slick-lightbox.css?ver=5.9.5" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/css/vendor/slick/slick-lightbox.css?ver=5.9.5" type="text/css" media="all"></noscript>
+<link rel='stylesheet' id='ticker-css' href='https://www.sunjournal.com/wp-content/themes/mainetoday/assets/css/vendor/ticker-style.css?ver=1530269455' type='text/css' media='all' />
+<link rel="preload" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css?ver=5.9.5" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css?ver=5.9.5" type="text/css" media="all"></noscript>
+<!--[if lt IE 9]>
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/css/ie8.css?ver=1530269455" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/css/ie8.css?ver=1530269455" type="text/css" media="all"></noscript>
+<![endif]-->
+<link rel='stylesheet' id='elasticpress-autosuggest-css' href='https://www.sunjournal.com/wp-content/plugins/elasticpress/dist/css/autosuggest-styles.min.css?ver=3.6.6' type='text/css' media='all' />
+<link rel='stylesheet' id='mainetoday-css' href='https://www.sunjournal.com/wp-content/themes/mainetoday/assets/css/mainetoday.min.css?ver=1667838830' type='text/css' media='all' />
+<link rel='stylesheet' id='mainetoday_sunjournal-css' href='https://www.sunjournal.com/wp-content/themes/mainetoday-sunjournal/assets/css/mtm-child.min.css?ver=1663592645' type='text/css' media='all' />
+<script type='text/javascript' id='handlebars-js-extra'>
+/* <![CDATA[ */
+var sectionFrontData = {"isFront":""};
+var paywall = {"global":{"count":"5","promo":"","returnPath":"https:\/\/www.sunjournal.com\/wp-content\/themes\/mainetoday\/returnpath.php","currentPage":"https:\/\/www.sunjournal.com\/?p=135786","resetCode":"","bypassCode":"","faq":"https:\/\/www.sunjournal.com\/faq","isSingle":1,"premium":0,"premiumSharing":""},"status":"enabled","adBlockLinks":[],"adBlockEnabled":"","stubLinks":"","privateBlockEnabled":"","privateURLs":"","category_list":[{"term_id":313,"name":"Nation \/ World","slug":"nationworld","term_group":0,"term_taxonomy_id":313,"taxonomy":"category","description":"National and world news from the Sun Journal.","parent":288,"count":45188,"filter":"raw","cat_ID":313,"category_count":45188,"category_description":"National and world news from the Sun Journal.","cat_name":"Nation \/ World","category_nicename":"nationworld","category_parent":288}],"ignored_categories":["304","83662",""],"special_categories":[""],"should_ignore":"","category_paywall":"0","absence_after":"10","absence_gift":"0","age":"6370","age_hours":"152894","hardURL":"https:\/\/dev.mainetodaymedia.com\/devtools\/2021-paywall\/archive0321-sj.html","premiumURL":"https:\/\/dev.mainetodaymedia.com\/devtools\/2021-paywall\/hard0421-inline-sj.html","hardPaywallAfter":"20000","alternatePaywallCount":"9","alternatePaywallURL":"https:\/\/dev.mainetodaymedia.com\/devtools\/2021-paywall\/lowprice0421-inline-sj.html","registeredPaywallURL":"https:\/\/dev.mainetodaymedia.com\/devtools\/2020-paywall\/registration\/registration8day-sj.html","paywallLoginURL":"\/\/myaccount.pressherald.com\/login\/universal\/","cookieViewCountLength":"30","ipStackTowns":[],"ipStackURLs":[],"ipStackEndpoint":"https:\/\/api.ipstack.com\/check?access_key=05844a59daaff69dfbf42b0d3aa4fb13","isActive":"false"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.10/handlebars.min.js?ver=5.9.5" async id="handlebars-js"></script>
+<script type='text/javascript' id='mtm-gpt-script-header-js-extra'>
+/* <![CDATA[ */
+var mtmads = {"dfpId":"6119\/smg","ad_tags":{"pos_1_atf_728x90":{"url_vars":{"pos":"1","size":"320, 50","size_mapping":"pos1","min_width":false,"class":"mtm-leaderboard-pos1"},"disabled_assets":["video"],"device":["desktop","mobile"],"location":["home","news","business","opinion","obituaries","obits","sports","life","auto","realestate","jobs","article","weather","things-to-do","out-and-about","forecaster","times-record"]},"pos_2_atf_300x250":{"url_vars":{"pos":"2","fold":"","size":"300,250","size_mapping":"pos2","min_width":false,"class":"pos_2_atf_300x250"},"disabled_assets":["video"],"device":["desktop","mobile"],"location":["home","news","business","opinion","obituaries","obits","sports","life","auto","realestate","jobs","article","things-to-do","out-and-about","forecaster","times-record","weather"]},"pos_3_btf_300x250_300x600":{"url_vars":{"pos":"3","fold":"","size":"300,250","size_mapping":"pos3","min_width":false},"disabled_assets":["video"],"device":["desktop","mobile"],"location":["home","news","business","opinion","obituaries","obits","sports","life","auto","realestate","jobs","article","things-to-do","out-and-about","forecaster","times-record","weather"]},"pos_btf_8_300x250":{"url_vars":{"pos":"8","size":"300,250","size_mapping":"btfmr","min_width":"767"},"disabled_assets":["video"],"device":["desktop"],"location":["home","news","business","opinion","sports","life","obituaries","obits","auto","realestate","article","weather","things-to-do","out-and-about","forecaster","times-record"]},"native_ad":{"url_vars":{"pos":"native","size":"'fluid'","size_mapping":false},"disabled_assets":["video"],"device":["desktop","mobile"],"location":["news","business","opinion","sports","life","article","things-to-do","out-and-about","forecaster","times-record"]},"pos_f_320x50":{"url_vars":{"pos":"f","size":"300,50","size_mapping":"footer","min_width":"0"},"disabled_assets":["video"],"device":["mobile"],"location":["home","news","business","opinion","sports","obituaries","obits","life","auto","realestate","article","weather","things-to-do","out-and-about","forecaster","times-record"]}},"openx_id":"541144822","adInjection":"post","postCategories":["nationworld"],"pageType":"Article"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.sunjournal.com/wp-content/plugins/enable-jquery-migrate-helper/js/jquery/jquery-1.12.4-wp.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type="text/javascript" src="https://www.sunjournal.com/wp-content/plugins/enable-jquery-migrate-helper/js/jquery-migrate/jquery-migrate-1.4.1-wp.js?ver=1.4.1-wp" async id="jquery-migrate-js"></script>
+<script type='text/javascript' src='https://www.sunjournal.com/wp-content/plugins/mtm-smugmug-buy-now/assets/js/mtm-smugmug-link.js?ver=1646825190' id='smugmugButtonJS-js'></script>
+<script type='text/javascript' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js?ver=5.9.5' async='async' id='google-publisher-tag-js'></script>
+<link rel="https://api.w.org/" href="https://www.sunjournal.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.sunjournal.com/wp-json/wp/v2/posts/135786" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.sunjournal.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.sunjournal.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.9.5" />
+<link rel='shortlink' href='https://www.sunjournal.com/?p=135786' />
+<link rel="alternate" type="application/json+oembed" href="https://www.sunjournal.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.sunjournal.com%2F2005%2F08%2F29%2Fcalifornians-flee-wildfire%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.sunjournal.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.sunjournal.com%2F2005%2F08%2F29%2Fcalifornians-flee-wildfire%2F&#038;format=xml" />
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"NewsArticle","headline":"Californians flee wildfire","url":"http:\/\/www.sunjournal.com\/2005\/08\/29\/californians-flee-wildfire\/","mainEntityOfPage":{"@type":"WebPage","@id":"http:\/\/www.sunjournal.com\/2005\/08\/29\/californians-flee-wildfire\/"},"thumbnailUrl":"","image":{"@type":"ImageObject","url":""},"articleSection":"Nation \/ World","author":[],"creator":[],"publisher":{"@type":"Organization","name":"Lewiston Sun Journal","logo":"https:\/\/multifiles.pressherald.com\/uploads\/sites\/11\/2020\/03\/sj-logo.png"},"keywords":[],"dateCreated":"2005-08-29T00:00:00Z","datePublished":"2005-08-29T00:00:00Z","dateModified":"2005-08-29T00:00:00Z"}</script><script type="text/javascript">/* global mtmads */
+var googletag  = googletag || {},
+	isLoggedIn = !!document.cookie.match(/auth0/),
+	doInitialRefresh = true,
+	AdSection,
+	viewportwidth,
+	viewportheight;
+
+googletag.cmd      = googletag.cmd || [];
+mtmads.iFrameData  = mtmads.iFrameData || {};
+mtmads.sizeMapping = mtmads.sizeMapping || {};
+
+googletag.cmd.push(function() {
+	googletag.pubads().disableInitialLoad();
+});
+
+var pbjs = pbjs || {};
+pbjs.que = pbjs.que || [];
+
+function searchForArray(haystack, needle) {
+	var i, j, current;
+	for(i = 0; i < haystack.length; ++i){
+		if(needle.length === haystack[i].length){
+		current = haystack[i];
+		for(j = 0; j < needle.length && needle[j] === current[j]; ++j);
+		if(j === needle.length)
+			return i;
+		}
+	}
+	return -1;
+}
+
+// TODO: Figure out how we can combine the values defined here with `googletag.sizeMapping()` down below.
+// We can't use the sizeMapping values in Prebid, because of a delay in reponse from google for the sizes,
+// So, ideally we'd take these values and place them inside of `googletag.sizeMapping()`.
+var sizeMapping = {
+	pos_1_atf_728x90: [
+		{
+			viewport: [1000, 200],
+			slotSize: [[728, 90],[970, 250]] // SLB only for desktop and tablet wide
+		},
+		{
+			viewport: [750, 200],
+			slotSize: [[728, 90]] // 728 only for Tablet Portrait and above
+		},
+		{
+			viewport: [0, 0],
+			slotSize: [[320, 50], [300,100]] //all sizes
+		}
+	],
+	pos_2_atf_300x250: [
+		{
+			viewport: [812, 200],
+			slotSize: [[300,600]] // Half Page in desktop and tablet wide
+		},
+		{
+			viewport: [0, 0],
+			slotSize: [[300, 250]] // MR all sizes
+		}
+	],
+	pos_3_btf_300x250_300x600: [
+		{
+			viewport: [812, 200],
+			slotSize: [[300,600]] // add half page in tablet wide and desktop
+		},
+		{
+			viewport: [0, 0],
+			slotSize: [] // MR all sizes
+		}
+	],
+	pos_btf_8_300x250: [
+		{
+			viewport: [812, 200],
+			slotSize: [[300,250]] // Desktop
+		},
+		{
+			viewport: [0, 0],
+			slotSize: [] //supress positions 8 and 9 below desktop
+		}
+	],
+	pos_btf_9_300x250: [
+		{
+			viewport: [812, 200],
+			slotSize: [[300,250]] // Desktop
+		},
+		{
+			viewport: [0, 0],
+			slotSize: [] //supress positions 8 and 9 below desktop
+		}
+	],
+	pos_f_320x50: [
+			{
+			viewport: [800, 200],
+			slotSize: [[970, 90], [728, 90]] // Desktop
+		},
+        {
+			viewport: [0, 0],
+			slotSize: [[320, 50]] // some sizes only in mobile
+		}
+	],
+	adslot1: [
+		{
+			viewport: [0, 0],
+			slotSize: [[300, 250]]
+		}
+	],
+	adslot2: [
+		{
+			viewport: [0, 0],
+			slotSize: [[300, 250]]
+		}
+	],
+	adslot3: [
+		{
+			viewport: [0, 0],
+			slotSize: [[300, 250]]
+		}
+	],
+	adslot4: [
+		{
+			viewport: [0, 0],
+			slotSize: [[300, 250]]
+		}
+	],
+	adslot5: [
+		{
+			viewport: [0, 0],
+			slotSize: [[300, 250]]
+		}
+	],
+	adslot6: [
+		{
+			viewport: [0, 0],
+			slotSize: [[300, 250]]
+		}
+	],
+	adslot7: [
+		{
+			viewport: [0, 0],
+			slotSize: [[300, 250]]
+		}
+	],
+	adslot8: [
+		{
+			viewport: [0, 0],
+			slotSize: [[300, 250]]
+		}
+	],
+	adslot9: [
+		{
+			viewport: [0, 0],
+			slotSize: [[300, 250]]
+		}
+	],
+	adslot10: [
+		{
+			viewport: [0, 0],
+			slotSize: [[300, 250]]
+		}
+	]
+}
+
+window.sizeMapping = sizeMapping;
+
+var PREBID_TIMEOUT = 1000;
+var FAILSAFE_TIMEOUT = 3000;
+
+var adUnits = [];
+var adKeys = Object.keys(sizeMapping);
+
+var bidSiteId = '';
+var locationHost = window.location.host;
+
+if ( 0 <= locationHost.indexOf( 'pressherald' ) ) {
+	bidSiteId = '585117';
+} else if ( 0 <= locationHost.indexOf( 'centralmaine' ) ) {
+	bidSiteId = '585116';
+} else if ( 0 <= locationHost.indexOf( 'sunjournal' ) ) {
+	bidSiteId = '584461';
+}
+
+for (let i = 0; i < adKeys.length; i++) {
+
+	var slotID          = adKeys[i];
+	var adTag           = sizeMapping[adKeys[i]];
+	var slotSize        = '';
+	var size            = [];
+
+	if ( adTag ) {
+
+		adTag.map( function(ad) {
+			ad.slotSize.map( function(s) {
+				if ( -1 === searchForArray( size, s ) ) {
+					size.push(s);
+				}
+			} );
+		} );
+
+	}
+
+	var bids = [];
+
+	bids.push( {
+		bidder: 'openx',
+		params: {
+			unit: mtmads.openx_id,
+			delDomain: 'mainetoday-d.openx.net',
+		}
+	} );
+
+	for ( var k = size.length - 1; k >= 0; k-- ) {
+		var newBid = {
+			bidder: 'ix',
+			params: {
+				siteId: bidSiteId,
+				size: size[k]
+			}
+		};
+		bids.push( newBid );
+	}
+
+	adUnit = {
+		code: slotID,
+		mediaTypes: {
+			banner: {
+				sizes: size
+			}
+		},
+		bids: bids
+	}
+
+	adUnits.push(adUnit);
+}
+
+window.prebidAdunits = adUnits;
+
+pbjs.que.push(function() {
+	pbjs.addAdUnits(adUnits);
+	pbjs.requestBids({
+		bidsBackHandler: initAdserver,
+		timeout: PREBID_TIMEOUT
+	});
+});
+
+function initAdserver() {
+	if (pbjs.initAdserverSet) return;
+	pbjs.initAdserverSet = true;
+	googletag.cmd.push(function() {
+		pbjs.setTargetingForGPTAsync && pbjs.setTargetingForGPTAsync();
+		googletag.pubads().refresh();
+	});
+}
+
+// in case PBJS doesn't load
+setTimeout(function() {
+	initAdserver();
+}, FAILSAFE_TIMEOUT);
+
+function pathCategories() {
+    var value = window.location.pathname;
+	var re = new RegExp('^\/[a-z]');
+	if(re.test(value)) {
+        var words = value.split('/');
+        words = words.filter(Boolean);
+        var catArray = words.join();
+        return catArray
+	} else {
+        return 'none';
+	}
+}
+// gpt.js moved to functions.php
+
+/*
+ * 1. The more standards compliant browsers (mozilla/netscape/opera/IE7) use window.innerWidth and window.innerHeight.
+ * 2. IE6 in standards compliant mode (i.e. with a valid doctype as the first line in the document).
+ * 3. Older versions of IE.
+ */
+if ( typeof window.innerWidth !== 'undefined' ) {
+	viewportwidth  = window.innerWidth;
+	viewportheight = window.innerHeight;
+} else if ( typeof document.documentElement !== 'undefined' && typeof document.documentElement.clientWidth !== 'undefined' && document.documentElement.clientWidth !== 0 ) {
+	viewportwidth  = document.documentElement.clientWidth;
+	viewportheight = document.documentElement.clientHeight;
+} else {
+	viewportwidth  = document.getElementsByTagName( 'body' )[0].clientWidth;
+	viewportheight = document.getElementsByTagName( 'body' )[0].clientHeight;
+}
+// Publisher Provided ID
+    function getCookie(name){
+        var re = new RegExp(name + "=([^;]+)");
+        var value = re.exec(document.cookie);
+        return (value != null) ? unescape(value[1]) : null;
+    }
+function supplyPPID() {
+
+    function getCookie(name){
+        var re = new RegExp(name + "=([^;]+)");
+        var value = re.exec(document.cookie);
+        return (value != null) ? unescape(value[1]) : null;
+    }
+    if(getCookie("auth0_sub") !== false && getCookie("auth0_sub") !== null){
+        let actual_account_hashed = getCookie("auth0_sub").replace(/^[\w\s-]+\|/,'')+getCookie("auth0_sub").replace(/^[\w\s-]+\|/,'');
+       return actual_account_hashed;
+      }
+}
+
+// Enable Single Request Architecture.
+googletag.cmd.push( function() {
+
+	if ( 'undefined' !== typeof mtmads.disableAds ) {
+		return;
+	}
+
+	// If refresh() is called elsewhere on the page, prevent refresh() on page load.
+	googletag.pubads().addEventListener( 'slotRenderEnded', function( event ) {
+		doInitialRefresh = false;
+	});
+
+	googletag.pubads().enableLazyLoad({
+		fetchMarginPercent: 0,  // Fetch slots within 0 viewports.
+		renderMarginPercent: 0,  // Render slots within 0 viewports.
+		mobileScaling: 0.5  //  values on mobile.
+	});
+
+	mtmads.sizeMapping.pos1 = googletag.sizeMapping().
+		addSize([1000, 200], [[728, 90],[970, 250]]). // SLB only for desktop and tablet wide
+		addSize([750, 200], [728, 90]). // 728 only for Tablet Portrait and above
+		addSize([0, 0], [[320, 50], [300, 100]]). //all sizes
+		build();
+
+	mtmads.sizeMapping.pos2 = googletag.sizeMapping().
+		addSize([812, 200], [[300,600]]). // add half page in tablet wide and desktop
+		addSize([0, 0], [300, 250]). // MR all sizes
+		build();
+
+	mtmads.sizeMapping.pencil = googletag.sizeMapping().
+		addSize([0, 0], []). // supress below desktop
+		build();
+
+	mtmads.sizeMapping.pos3 = googletag.sizeMapping().
+		addSize([812, 200], [[300,600]]). // add half page in tablet wide and desktop
+		addSize([0, 0], []). // MR all sizes
+		build();
+
+	mtmads.sizeMapping.btfmr = googletag.sizeMapping().
+		addSize([812, 200], [300,250]). // Desktop
+		addSize([0, 0], []). //supress positions 8 and 9 below desktop.
+		build();
+
+	if(window.location.pathname === "/" || window.location.pathname.includes("obituar") || window.location.pathname.includes("times-record")){
+        mtmads.sizeMapping.footer = googletag.sizeMapping().
+		addSize([720, 300], []). // empty above mobile widths
+		addSize([0, 0], [320, 50]). // some sizes only in mobile
+		build();
+    } else {
+        mtmads.sizeMapping.footer = googletag.sizeMapping().
+        addSize([970, 500], [[1, 1],[970, 90]]). // 1x1 above mobile widths
+		addSize([0, 0], [320, 50]). // some sizes only in mobile
+		build();
+    }
+
+	mtmads.sizeMapping.marqears = googletag.sizeMapping().
+		addSize([800, 200], [185, 90]). // drop below 800px wide
+		addSize([0, 0], []). // no ears below desktop
+		build();
+
+	if ( 'undefined' !== typeof mtmads.isVideo ) {
+		mtmads.pos1videocompanion728x90 = googletag.defineSlot( '/' + mtmads.dfpId + '/video/article', [728, 90], 'pos1videocompanion728x90' ).addService(googletag.companionAds()).addService(googletag.pubads());
+		googletag.companionAds().setRefreshUnfilledSlots( true );
+		googletag.pubads().enableVideoAds();
+	} else {
+		if ( 'undefined' !== typeof mtmads.postTags ) {
+			googletag.pubads().setTargeting( 'tag', mtmads.postTags );
+		}
+		if (mtmads.pageType == 'Section Front') {
+            var SFcategoryArray = pathCategories();
+            googletag.pubads().setTargeting( 'category', SFcategoryArray );
+        } else {
+            if ( 'undefined' !== typeof mtmads.postCategories ) {
+                googletag.pubads().setTargeting( 'category', mtmads.postCategories );
+            }
+        }
+	}
+
+	if ( 'undefined' !== typeof mtmads.pageType ) {
+		googletag.pubads().setTargeting( 'pageType', mtmads.pageType );
+	}
+
+
+
+	if ( isLoggedIn ) {
+		googletag.pubads().setTargeting( 'sub', 'true' );
+	} else {
+		googletag.pubads().setTargeting( 'sub', 'false');
+	}
+    if(viewportwidth > 1230) {
+        if(viewportwidth > 1510) {
+            googletag.pubads().setTargeting( 'p1width', ['largebb','wallpaper'] );
+        } else {
+            googletag.pubads().setTargeting( 'p1width', ['largebb'] );
+        }
+    }
+
+	googletag.pubads().enableAsyncRendering();
+    googletag.pubads().setTargeting('page', window.location.pathname);
+    if(supplyPPID() !== false ){
+        googletag.pubads().setPublisherProvidedId(supplyPPID());
+    }
+	googletag.enableServices();
+});
+
+/**
+ * iFrame resize helper.
+ *
+ * @param {int} id Element ID.
+ */
+function iFrameAutoResize( id ){
+	var newheight;
+
+	if ( document.getElementById ){
+		newheight = document.getElementById( id ).contentWindow.document .body.scrollHeight;
+	}
+
+	if ( 'undefined' === typeof mtmads.iFrameData[ id ] || mtmads.iFrameData[ id ] !== newheight ) {
+		document.getElementById( id ).height = ( newheight ) + 'px';
+		mtmads.iFrameData[ id ] = newheight;
+	}
+}
+
+// PH home ad injects position I in home page.
+// PH home ad injects position I in home page.
+googletag.cmd.push (function() {
+    var homePage = AdSection.indexOf("home");
+    if (window.innerWidth < 600 && homePage > 0) {
+
+        var adUnit = AdSection;
+        var sunJournal = AdSection.indexOf("journal");
+        if(sunJournal > 0){
+            adUnit = "smg/sunjournal.com/home";
+        }
+
+            var insert = document.querySelector('div.mtm-featured');
+        var adjElement = "P"; //total paragraphs
+
+        if (typeof(insert) === "object") {
+
+            var myNode = insert; //select the node for insertion
+            var divString = '<div id="adPosition-1" style="border-style:solid; border-color: #CCCCCC; border-width: .5px;margin: 10px auto;overflow: visible;height:252px;width:302px;background-color:#FFFFFF;color:red;"><!--My Big Red Div  --></div>'; //define the Div
+            var adLabelString = '<div class="adlabel" style="text-align:center;color:LightGray;font-size:14px;margin:18px auto -5px;">Advertisement</div>';
+            myNode.insertAdjacentHTML('afterend', divString); //insert the div
+
+            myNode.insertAdjacentHTML('beforeend', adLabelString);
+            adSlotToAdd.push('adPosition-1'); //add slot name
+            var newNode = myNode.nextSibling; //The node created in this loop
+
+
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            var code = 'googletag.cmd.push(function() { googletag.defineSlot("6119/'+adUnit+'", [300, 250], "adPosition-1").setTargeting("pos", "i").addService(googletag.pubads()); googletag.display("adPosition-1"); });';
+
+
+            s.appendChild(document.createTextNode(code));
+            newNode.appendChild(s);
+        }
+    }
+
+window.googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+    var posfheight = jQuery("#pos_f_320x50").height();
+    //if of a certain height, append button html
+    if (  (posfheight > 5) && (jQuery(window).width() > 970) ){
+       jQuery("#fCloseBtn").show();
+    }
+
+})
+
+
+});
+</script><script type="text/javascript">var adSlotToAdd = []; //array to hold values for as Slots.
+
+/**
+* Every five paragraphs, insert ads into the article content.
+*/
+document.addEventListener('DOMContentLoaded', function(){
+   googletag.cmd.push( function() {
+   
+      if ( 'undefined' !== typeof mtmads.disableAds || 'undefined' !== typeof mtmads.disableAdInjection) {
+         return;
+      }
+      
+      let mode = mtmads.adInjection;
+      
+      /**
+      * Since we changed to injecting inline ads in the content filter and category mode will not 
+      * go through that filter, we need to inject the ad containers in JS. 
+      * 
+      * TODO: adjust the injection count. I dont think it's 5, but that's what I'm going with for now. Adjust in `injectEveryXSlots`
+      */
+      if( 'category' === mode ){
+         let objects = document.querySelectorAll( '.mtm-river .river li, .basic-category-list li' );
+         let adSlotCounter = 0;
+         let injectEveryXSlots = 6;
+         
+         for(var i = injectEveryXSlots; i < objects.length; i += injectEveryXSlots){
+            let div = document.createElement('div');
+            let adInformation = document.createElement('span');
+            
+            let container = document.createElement('li');
+            
+            container.classList += 'injectable-ad-slot';
+            div.style = "width:auto; margin: 0 auto;";
+            
+            adInformation.innerText = 'ADVERTISEMENT';
+            adInformation.classList += 'ad-notice';
+            
+            adInformation.style = "display: block; font-size: 10px; color: #999; text-align: center;";
+            
+            container.appendChild(adInformation);
+            container.appendChild(div);
+            
+            div.id = "adslot" + (++adSlotCounter);
+            
+            objects[i].insertAdjacentElement('beforebegin', container);
+         }
+      }
+      
+      switch ( mode ) {
+         case 'post':
+         var objects = document.querySelectorAll( '.post-content div.injectable-ad-slot' );
+         var insertPoint = 5;
+         var siblingTagName = 'P'
+         break;
+         case 'category':
+         var objects = document.querySelectorAll( '.mtm-river .river li.injectable-ad-slot, .basic-category-list .injectable-ad-slot' );
+         var insertPoint = 5;
+         var siblingTagName = 'LI'
+         break;
+         default:
+         return;
+      }
+      
+      var objectCount = objects.length; // total number of P nodes.
+      var count = 1; // initialize count.
+      var position = 0;
+      var fallbackDomain = window.location.host.replace( /^(www|stage)\./i, '').replace('.test', '.com' );
+
+      // This is so we can see how many injected ads should be seen injected
+      document.querySelector('body').setAttribute('data-injected-ad-count', objectCount.toString());
+      
+      // Sun Journal has a unique ad domain.
+      if ( 'sunjournal.com' === fallbackDomain ) {
+         fallbackDomain = 'smg/sunjournal.com';
+      }
+      
+      while ( position < objectCount ) {
+         
+         adTargetName = '/6119/' + ( typeof AdSection !== 'undefined' ? AdSection : fallbackDomain );
+         adTargetName = adTargetName.replace('/6119/sunjournal.com','/6119/smg/sunjournal.com');
+         
+         var myNode = objects[position]; //select the node for insertion.
+         
+         // Do not display the ad if it is too close to the end of the article.
+         if ( objectCount - position < 4 ) {
+            // return;
+         }
+         
+         if ( 
+            ( 'SPAN' === myNode.previousElementSibling.tagName && 'post' === mode) || 
+            ( 'LI' === myNode.previousElementSibling.tagName && 'category' === mode)
+         ) {
+            
+            let slotName = 'adslot' + count;
+            
+            /**
+            * We want to make sure it has at least two "P" tags below it
+            */
+            let nextNode = myNode.nextElementSibling;
+            let hasRemoved = false;
+            
+            for(var siblingCounter = 0; siblingCounter < 3; siblingCounter++){
+               if( position === 0 ){
+                  continue;
+               }
+               
+               if(null === nextNode){
+                  break;
+               }
+               
+               if(nextNode.tagName !== siblingTagName){
+                  myNode.previousElementSibling.remove();
+                  myNode.remove();
+                  hasRemoved = true;
+                  break;
+               }
+               
+               nextNode = nextNode.nextElementSibling;
+            }
+            
+            adSlotToAdd.push( slotName ); //add slot name.
+            
+            mtmads.slotName = googletag.defineSlot( adTargetName, [ ['fluid'], [300, 250] ], slotName )
+            .setTargeting('pos', [ 'i','i' +  count ])
+            .addService( googletag.pubads() );
+            
+            googletag.display( slotName );
+         } 
+         
+         count = count + 1;  //increment values.
+         ++position;
+      }
+   });
+});
+
+   /* APS Script ====================== */
+   
+   !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+   
+   apstag.init({
+      pubID: '31257f2f-b5ff-49d9-9bca-92a523e8c19b', 
+      adServer: 'googletag'
+   });
+   function pos1sizes() {
+      var widthOptions= [];
+      var width = window.innerWidth || document.body.clientWidth;
+      if(width > 1000) {
+         widthOptions =  [[970, 90],[728, 90],[970, 250]];
+      } else if(width > 750) {
+         widthOptions =  [728, 90];   
+      } else {widthOptions = [[320, 50], [300, 50], [300, 100]];}
+      return widthOptions;
+   }
+   function pos2sizes() {
+      var widthOptions= [];
+      var width = window.innerWidth || document.body.clientWidth;
+      if(width > 785) {
+         widthOptions =  [[300, 600],[300, 250]];  
+      } else {widthOptions = [[300, 250]];}
+      return widthOptions;
+   }
+   function pos3sizes() {
+      var widthOptions= [];
+      var width = window.innerWidth || document.body.clientWidth;
+      if(width > 785) {
+         widthOptions =  [[300, 600], [300, 250]];  
+      } else {widthOptions = [[300, 250]];}
+      return widthOptions;
+   }  
+   apstag.fetchBids({
+      slots: [{
+         slotID: 'pos_1_atf_728x90', //example: 'div-gpt-ad-1475102693815-0'
+         slotName: "6119/" + AdSection, //example: '12345/box-1'
+         sizes: pos1sizes() //example: [[300,250], [300,600]]
+      },
+      {
+         slotID: 'pos_2_atf_300x250',
+         slotName: "6119/" + AdSection, //example: '12345/box-1
+         sizes: pos2sizes()
+      },
+      {
+         slotID: 'pos_3_btf_300x250_300x600',
+         slotName: "6119/" + AdSection, //example: '12345/box-1
+         sizes: pos3sizes()
+      },
+      {
+         slotID: 'adslot1',
+         slotName: "6119/" + AdSection, //example: '12345/box-1
+         sizes: [300, 250]
+      },
+      {
+         slotID: 'adslot2',
+         slotName: "6119/" + AdSection, //example: '12345/box-1
+         sizes: [300, 250]
+      },
+      {
+         slotID: 'adslot3',
+         slotName: "6119/" + AdSection, //example: '12345/box-1
+         sizes: [300, 250]
+      }],
+      timeout: 2e3
+   }, function(bids) {
+      // set apstag targeting on googletag, then trigger the first DFP request in googletag's disableInitialLoad integration
+      googletag.cmd.push(function(){
+         apstag.setDisplayBids();
+         
+      });
+   });   
+   
+</script><script type="text/javascript">AdSection = 'sunjournal.com/news';
+googletag.cmd.push(function() {
+
+mtmads.pos_1_atf_728x90 = googletag.defineSlot("/6119/smg/sunjournal.com/news", [320, 50], "pos_1_atf_728x90").setTargeting("pos", "1").defineSizeMapping(mtmads.sizeMapping.pos1).addService(googletag.pubads());
+
+mtmads.pos_2_atf_300x250 = googletag.defineSlot("/6119/smg/sunjournal.com/news", [300,250], "pos_2_atf_300x250").setTargeting("pos", "2").defineSizeMapping(mtmads.sizeMapping.pos2).addService(googletag.pubads());
+
+mtmads.pos_3_btf_300x250_300x600 = googletag.defineSlot("/6119/smg/sunjournal.com/news", [300,250], "pos_3_btf_300x250_300x600").setTargeting("pos", "3").defineSizeMapping(mtmads.sizeMapping.pos3).addService(googletag.pubads());
+
+if ( viewportwidth > 767 ) {
+mtmads.pos_btf_8_300x250 = googletag.defineSlot("/6119/smg/sunjournal.com/news", [300,250], "pos_btf_8_300x250").setTargeting("pos", "8").defineSizeMapping(mtmads.sizeMapping.btfmr).addService(googletag.pubads());
+}
+
+mtmads.native_ad = googletag.defineSlot("/6119/smg/sunjournal.com/news", ['fluid'], "native_ad").setTargeting("pos", "native").addService(googletag.pubads());
+
+mtmads.pos_f_320x50 = googletag.defineSlot("/6119/smg/sunjournal.com/news", [300,50], "pos_f_320x50").setTargeting("pos", "f").defineSizeMapping(mtmads.sizeMapping.footer).addService(googletag.pubads());
+});</script>
+
+
+<script>
+
+	window.addEventListener('DOMContentLoaded', function(){
+		var viewCountReg = new RegExp('mspan_paywall_views=([0-9]+)','i');
+		window.dataLayer = window.dataLayer || [];
+		  window.dataLayer.push( {
+			 'event': 'datalayer-loaded',
+			 'companyName' : 'Maine Today',
+			  'categoryArray': 'nationworld',
+			  'tagArray': 'N/A',
+			  'loggedIn':   (document.cookie.match(/auth0_sub/i) ? 'logged in' : 'logged out'),
+			 
+				'pagesToPaywall': undefined !== window.MSPAN ? window.MSPAN.Paywall.totalViews() : -1,
+				'paywall_hit_count': (viewCountReg.test(document.cookie) ? document.cookie.match( viewCountReg )[1] : '0'),
+				'paywall_status': /auth0_sub/.test(document.cookie) ? 'logged in' : 'logged out',
+				'paywalled': adPaywallFlag(),
+				'metered': isPaywalled(),
+				'meterType': paywallPageStatus(),
+				'premium': (paywall.premium === "0"),
+
+			 'orientation': window.innerHeight > window.innerWidth ? 'Portrait' : 'Landscape',
+			  'contentType': 'Article',
+			  'verifiedAds': (typeof VerifiedAds === 'string' ? true : false),
+		      'adUnit': 'sunjournal.com/news',
+		      'articleID':  135786,
+		      'articlePublishTime': '2005-08-29T00:00:00Z',
+		      'articleSource':'isLocal',
+			   'articleType': 	'null',
+				'articleUpdateTime':  '2005-08-29T00:00:00Z',
+				'hierarchy': '',
+				'publicationName': 'Lewiston Sun Journal',
+				'uid': MSPANcookieAccount(),
+				'wordCount':wordCount(),
+                'characterCount': charCount(),
+                'paragraphCount': paragraphCount(),
+
+		  });
+	});
+
+</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TZKX8X');</script>
+
+
+<meta property="fb:pages" content="" />
+
+
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/fonts/lusitana-v6-latin-700.woff" as="font" type="font/woff" crossorigin="anonymous">
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/fonts/lusitana-v6-latin-700.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/fonts/lusitana-v6-latin-regular.woff" as="font" type="font/woff" crossorigin="anonymous">
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/fonts/lusitana-v6-latin-regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/fonts/open-sans-v16-latin-300.woff" as="font" type="font/woff" crossorigin="anonymous">
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/fonts/open-sans-v16-latin-300.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/fonts/open-sans-v16-latin-600.woff" as="font" type="font/woff" crossorigin="anonymous">
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/fonts/open-sans-v16-latin-600.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/fonts/open-sans-v16-latin-700.woff" as="font" type="font/woff" crossorigin="anonymous">
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/fonts/open-sans-v16-latin-700.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/fonts/open-sans-v16-latin-800.woff" as="font" type="font/woff" crossorigin="anonymous">
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/fonts/open-sans-v16-latin-800.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/fonts/open-sans-v16-latin-regular.woff" as="font" type="font/woff" crossorigin="anonymous">
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/fonts/open-sans-v16-latin-regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/fonts/oswald-v23-latin-200.woff" as="font" type="font/woff" crossorigin="anonymous">
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/fonts/oswald-v23-latin-200.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/fonts/oswald-v23-latin-300.woff" as="font" type="font/woff" crossorigin="anonymous">
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/fonts/oswald-v23-latin-300.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/fonts/oswald-v23-latin-500.woff" as="font" type="font/woff" crossorigin="anonymous">
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/fonts/oswald-v23-latin-500.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/fonts/oswald-v23-latin-600.woff" as="font" type="font/woff" crossorigin="anonymous">
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/fonts/oswald-v23-latin-600.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/fonts/oswald-v23-latin-700.woff" as="font" type="font/woff" crossorigin="anonymous">
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/fonts/oswald-v23-latin-700.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/fonts/oswald-v23-latin-regular.woff" as="font" type="font/woff" crossorigin="anonymous">
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/fonts/oswald-v23-latin-regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/fonts/source-sans-pro-v12-latin-regular.woff" as="font" type="font/woff" crossorigin="anonymous">
+<link rel="preload" href="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/fonts/source-sans-pro-v12-latin-regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+
+
+<script type="text/javascript" src="https://a.omappapi.com/app/js/api.min.js" data-account="120834" data-user="109041" async></script>
+
+
+<link href="https://trinitymedia.ai" rel="preconnect" crossorigin="anonymous" />
+<link href="https://vd.trinitymedia.ai" rel="preconnect" crossorigin="anonymous" />
+
+<meta name="onesignal" content="wordpress-plugin" />
+<script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+                      OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+                      OneSignal.SERVICE_WORKER_PARAM = { scope: "/" };
+        OneSignal.setDefaultNotificationUrl("https://www.sunjournal.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '0891ba06-df51-43be-9c67-184b73f97b72';
+oneSignal_options['allowLocalhostAsSecureOrigin'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "Thanks for subscribing!";
+oneSignal_options['path'] = "https://www.sunjournal.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.4345f3b9-0648-4376-838e-008c1d802430";
+oneSignal_options['persistNotification'] = false;
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-left';
+oneSignal_options['notifyButton']['theme'] = 'default';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['showCredit'] = true;
+                OneSignal.init(window._oneSignalInitOptions);
+                OneSignal.showSlidedownPrompt();      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<link rel="icon" href="https://multifiles.pressherald.com/uploads/sites/11/2018/05/cropped-sj-default-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://multifiles.pressherald.com/uploads/sites/11/2018/05/cropped-sj-default-250x250.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://multifiles.pressherald.com/uploads/sites/11/2018/05/cropped-sj-default-250x250.png" />
+<meta name="msapplication-TileImage" content="https://multifiles.pressherald.com/uploads/sites/11/2018/05/cropped-sj-default-300x300.png" />
+</head>
+<body class="post-template-default single single-post postid-135786 single-format-standard no-js active-paywall story-head nationworld">
+
+<script type="text/javascript">
+/*
+(function() {
+  var ARTICLE_URL = window.location.href;
+  var CONTENT_ID = 'everything';
+  document.write(
+    '<scr'+'ipt '+
+    'src="//survey.g.doubleclick.net/survey?site=_kiv6g2pbbqzm5nlm334qrsb5pe'+
+    '&amp;url='+encodeURIComponent(ARTICLE_URL)+
+    (CONTENT_ID ? '&amp;cid='+encodeURIComponent(CONTENT_ID) : '')+
+    '&amp;random='+(new Date).getTime()+
+    '" type="text/javascript">'+'\x3C/scr'+'ipt>');
+})();
+*/
+</script>
+<script>
+
+var e = document.body;
+e.classList.remove( 'no-js' );
+e.classList.add( 'js' );
+
+</script>
+<div class="paywall-banner">
+<p>
+<img src="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/images/pph-icon.png" style="vertical-align:middle;">
+<span></span>
+<span>
+<a href="https://www.sunjournal.com/login">Sign in</a> or <a href="https://www.sunjournal.com">Subscribe</a> </span>
+<span class="expand-extra-messaging extra-closed">See Offers</span>
+<span class="close-slidedown">
+<img src="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/images/close-icon.png" style="vertical-align:middle;">
+</span>
+</p>
+<div class="special-messaging">
+<p></p>
+<img src="" />
+<br>
+</div>
+</div>
+<div class="js-login-container">
+<div id="paywall-login-form">
+<div class="login-close"><i class='fa fa-close'></i></div>
+<h3>Sign In:</h3>
+<form id="paywall-modal-login" method="post" action="https://myaccount.pressherald.com/login/">
+<div class="message"></div>
+<input type="text" name="email" placeholder="Email"><br />
+<input type="password" name="password" placeholder="Password">
+<div class="fa-3x">
+<i class="fas fa-circle-notch fa-spin"></i>
+</div>
+<button type="submit">Login</button>
+<div class="login-sm-text"><a href="https://www.sunjournal.com/forgot-password">Forgot password?</a> &nbsp;&nbsp;| &nbsp;&nbsp;<a href=" https://www.sunjournal.com/subscribe">Subscribe now</a></div>
+</form>
+</div>
+</div>
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TZKX8X"
+					  height="0" width="0" style="display:none;visibility:hidden"></iframe>
+	</noscript>
+
+
+<div class="mtm-utility-launch">
+<div class="search-mobile slide">
+<form method="get" action="https://www.sunjournal.com/" id="searchform" class="search-mobile-form">
+<input type="text" class="search-box" name="s" id="s" placeholder="What are you looking for?" onFocus="this.placeholder = ''" onBlur="this.placeholder = 'Looking for something?'">
+<input type="submit" value="" class="search-submit-off" id="searchsubmit">
+</form>
+</div>
+
+<div class="utility-menu-skin">
+<ul id="utility-menu" class="menu"><li id="menu-item-8890986" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8890986 depth-0"><a href="https://www.sunjournal.com/news/">News</a>
+<ul class="sub-menu">
+<li id="menu-item-8890990" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8890990 depth-1"><a href="https://www.sunjournal.com/news/">All News</a></li>
+<li id="menu-item-8891014" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891014 depth-1"><a href="https://www.sunjournal.com/news/lewiston-auburn/">Lewiston-Auburn</a></li>
+<li id="menu-item-8891018" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891018 depth-1"><a href="https://www.sunjournal.com/news/localstate/">Maine</a></li>
+<li id="menu-item-8890994" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-8890994 depth-1"><a href="https://www.sunjournal.com/tag/crime/">Crime and Courts</a></li>
+<li id="menu-item-9825083" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9825083 depth-1"><a href="https://www.sunjournal.com/politics/">Politics</a></li>
+<li id="menu-item-8890998" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8890998 depth-1"><a href="https://www.sunjournal.com/news/franklin/">Franklin</a></li>
+<li id="menu-item-8891002" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8891002 depth-1"><a href="https://www.sunjournal.com/oxfordhills/">Oxford Hills</a></li>
+<li id="menu-item-8891006" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8891006 depth-1"><a href="https://www.sunjournal.com/news/river-valley/">River Valley</a></li>
+<li id="menu-item-10377005" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10377005 depth-1"><a href="https://www.sunjournal.com/news/175anniversary/">175th anniversary</a></li>
+<li id="menu-item-9748049" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9748049 depth-1"><a href="https://www.sunjournal.com/news/schools/">Schools &amp; Education</a></li>
+<li id="menu-item-8891010" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891010 depth-1"><a href="https://www.sunjournal.com/news/nationworld/">Nation / World</a></li>
+<li id="menu-item-9213563" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9213563 depth-1"><a href="https://www.sunjournal.com/weeklies/advertiser-democrat/">Advertiser Democrat</a></li>
+<li id="menu-item-8891026" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891026 depth-1"><a href="https://www.sunjournal.com/weeklies/the-bethel-citizen/">The Bethel Citizen</a></li>
+<li id="menu-item-8891030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891030 depth-1"><a href="https://www.sunjournal.com/weeklies/the-franklin-journal/">The Franklin Journal</a></li>
+<li id="menu-item-8891034" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891034 depth-1"><a href="https://www.sunjournal.com/weeklies/livermore-falls-advertiser/">Livermore Falls Advertiser</a></li>
+<li id="menu-item-8891046" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891046 depth-1"><a href="https://www.sunjournal.com/weeklies/rangeley-highlander/">The Rangeley Highlander</a></li>
+<li id="menu-item-8891042" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891042 depth-1"><a href="https://www.sunjournal.com/weeklies/rumford-falls-times/">Rumford Falls Times</a></li>
+</ul>
+</li>
+<li id="menu-item-8891054" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8891054 depth-0"><a href="https://www.sunjournal.com/sports/">Sports</a>
+<ul class="sub-menu">
+<li id="menu-item-8891058" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891058 depth-1"><a href="https://www.sunjournal.com/sports/">All Sports</a></li>
+<li id="menu-item-8891062" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891062 depth-1"><a href="https://www.sunjournal.com/sports/highschoolsports/">High School Sports</a></li>
+<li id="menu-item-10161903" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10161903 depth-1"><a href="https://masthead.smugmug.com/">Purchase Photos</a></li>
+<li id="menu-item-8891066" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891066 depth-1"><a href="https://www.sunjournal.com/sports/community-sports/">Community Sports</a></li>
+<li id="menu-item-8891070" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891070 depth-1"><a href="https://www.sunjournal.com/sports/national-sports/">National Sports</a></li>
+</ul>
+</li>
+<li id="menu-item-8891074" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8891074 depth-0"><a href="https://www.sunjournal.com/opinion/">Opinion</a>
+<ul class="sub-menu">
+<li id="menu-item-8891078" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891078 depth-1"><a href="https://www.sunjournal.com/opinion/">All Opinion</a></li>
+<li id="menu-item-8891082" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891082 depth-1"><a href="https://www.sunjournal.com/opinion/letters/">Letters</a></li>
+<li id="menu-item-8891126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8891126 depth-1"><a href="https://www.sunjournal.com/mark-laflamme/">Mark LaFlamme</a></li>
+</ul>
+</li>
+<li id="menu-item-8891086" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8891086 depth-0"><a href="https://www.sunjournal.com/business/">Business</a>
+<ul class="sub-menu">
+<li id="menu-item-8891090" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891090 depth-1"><a href="https://www.sunjournal.com/business/">All Business</a></li>
+<li id="menu-item-9843848" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9843848 depth-1"><a href="https://www.sunjournal.com/business/the-buzz/">The Buzz</a></li>
+<li id="menu-item-8891094" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8891094 depth-1"><a href="https://www.sunjournal.com/tag/noteworthy/">Noteworthy</a></li>
+<li id="menu-item-8940042" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8940042 depth-1"><a href="https://homes.pressherald.com/">Real Estate</a></li>
+</ul>
+</li>
+<li id="menu-item-8891166" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8891166 depth-0"><a href="https://www.sunjournal.com/obituaries/">Obituaries</a>
+<ul class="sub-menu">
+<li id="menu-item-10572020" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10572020 depth-1"><a href="https://www.sunjournal.com/obituaries/">All Obituaries</a></li>
+<li id="menu-item-10572023" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10572023 depth-1"><a href="https://www.sunjournal.com/death-notices/">Death Notices</a></li>
+</ul>
+</li>
+<li id="menu-item-8891110" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8891110 depth-0"><a href="https://www.sunjournal.com/lifestyle/">A&amp;E</a>
+<ul class="sub-menu">
+<li id="menu-item-8891114" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891114 depth-1"><a href="https://www.sunjournal.com/lifestyle/">All A&amp;E</a></li>
+<li id="menu-item-9083712" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9083712 depth-1"><a href="http://www.sunjournal.com/encore">Things to Do</a></li>
+<li id="menu-item-9083704" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9083704 depth-1"><a href="https://www.sunjournal.com/lifestyle/encore/">Encore</a></li>
+<li id="menu-item-9843968" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-9843968 depth-1"><a href="https://www.sunjournal.com/bplus/">bPlus</a></li>
+<li id="menu-item-10436900" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10436900 depth-1"><a href="https://puzzles.sunjournal.com/">Puzzles &amp; Games</a></li>
+<li id="menu-item-8891158" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-8891158 depth-1"><a href="https://www.sunjournal.com/tag/mystery-photo/">Mystery Photo</a></li>
+<li id="menu-item-9083708" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9083708 depth-1"><a href="https://www.sunjournal.com/events-calendar/#!/">Event Calendar</a></li>
+<li id="menu-item-10428551" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10428551 depth-1"><a href="https://hub.cityspark.com/Event/Submission/SunJournal">Add an Event</a></li>
+<li id="menu-item-10012077" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10012077 depth-1"><a href="https://www.sunjournal.com/signature-events/">Sun Journal Events</a></li>
+</ul>
+</li>
+<li id="menu-item-10449419" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-10449419 depth-0"><a href="https://www.sunjournal.com/lifestyle/advice/">Advice</a>
+<ul class="sub-menu">
+<li id="menu-item-8891122" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891122 depth-1"><a href="https://www.sunjournal.com/lifestyle/sun-spots/">Sun Spots</a></li>
+<li id="menu-item-9868197" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9868197 depth-1"><a href="https://www.sunjournal.com/lifestyle/advice/dear-abby/">Dear Abby</a></li>
+<li id="menu-item-8891154" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891154 depth-1"><a href="https://www.sunjournal.com/lifestyle/advice/horoscope/">Horoscope</a></li>
+<li id="menu-item-8891150" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891150 depth-1"><a href="https://www.sunjournal.com/lifestyle/advice/dr-roach/">Dr. Roach</a></li>
+</ul>
+</li>
+<li id="menu-item-8891174" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8891174 depth-0"><a href="/epaper">ePapers</a></li>
+<li id="menu-item-10001517" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10001517 depth-0"><a href="https://www.sunjournal.com/newsletters/">Newsletters</a></li>
+<li id="menu-item-10389725" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10389725 depth-0"><a href="/archives">Archives</a></li>
+<li id="menu-item-10257239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10257239 depth-0"><a href="https://www.sunjournal.com/mobile-apps/">Mobile Apps</a></li>
+<li id="menu-item-8891170" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8891170 depth-0"><a target="_blank" rel="noopener" href="https://careers.liveandworkinmaine.com/search/?utm_source=mainejobs.com&#038;utm_medium=redirect&#038;utm_campaign=redirect">Jobs</a></li>
+<li id="menu-item-10275017" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10275017 depth-0"><a href="https://www.sunjournal.com/career-opportunities/">Work Here</a></li>
+<li id="menu-item-8998118" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8998118 depth-0"><a href="http://www.mainenotices.com/?utm_source=centralmaine.com&#038;utm_medium=referral&#038;utm_campaign=menu">Public Notices</a></li>
+<li id="menu-item-10124079" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10124079 depth-0"><a href="https://www.sunjournal.com/buyphotos">Photo Store</a></li>
+<li id="menu-item-10255220" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10255220 depth-0"><a href="https://store.masthead.me/collections/sun-journal">Merch Store</a></li>
+<li id="menu-item-10259822" class="myaccount-nav menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10259822 depth-0"><a href="#">Account Management</a>
+<ul class="sub-menu">
+<li id="menu-item-10257233" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10257233 depth-1"><a href="https://myaccount.sunjournal.com">Manage Your Sun Journal Subscription</a></li>
+<li id="menu-item-10259834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10259834 depth-1"><a href="https://myaccount.advertiserdemocrat.com">Manage your Advertiser Democrat Subscription</a></li>
+<li id="menu-item-10259837" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10259837 depth-1"><a href="https://myaccount.bethelcitizen.com">Manage your Bethel Citizen Subscription</a></li>
+<li id="menu-item-10259843" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10259843 depth-1"><a href="https://myaccount.lfadvertiser.com">Manage your Livermore Falls Advertiser Subscription</a></li>
+<li id="menu-item-10259846" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10259846 depth-1"><a href="https://myaccount.thefranklinjournal.com">Manage your Franklin Journal Subscription</a></li>
+<li id="menu-item-10259849" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10259849 depth-1"><a href="https://myaccount.rumfordfallstimes.com">Manage your Rumford Falls Times Subscription</a></li>
+<li id="menu-item-10259852" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10259852 depth-1"><a href="https://myaccount.therangeleyhighlander.com">Manage Your Rangeley Highlander Subscription</a></li>
+</ul>
+</li>
+<li id="menu-item-10259921" class="subscribe-nav menu-item menu-item-type-post_type menu-item-object-page menu-item-10259921 depth-0"><a href="https://www.sunjournal.com/advertise/">Advertise</a></li>
+<li id="menu-item-10257227" class="subscribe-nav menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10257227 depth-0"><a href="#">Subscribe</a>
+<ul class="sub-menu">
+<li id="menu-item-10259795" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10259795 depth-1"><a href="https://subscribe.sunjournal.com">Sun Journal Subscriptions</a></li>
+<li id="menu-item-10259855" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10259855 depth-1"><a href="https://www.sunjournal.com/gift">Gift a Sun Journal Subscription</a></li>
+<li id="menu-item-10259858" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10259858 depth-1"><a href="https://subscribe.advertiserdemocrat.com">Sun Media Group&#8217;s Western Maine Weekly Subscriptions</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="utility-menu-skin-cover">
+</div>
+</div>
+<div class="main-navigation" role="navigation">
+<div class="main-menu-togglers" style="color:#fff">
+<div class="menu-expand">
+<div id="nav-icon3"><span></span><span></span><span></span><span></span></div>
+<div><a href="/"><img src="https://www.sunjournal.com/wp-content/themes/mainetoday-sunjournal/assets/images/sj-logo-sm.png"></a></div>
+
+<div class="search-mobile slide">
+<form method="get" action="https://www.sunjournal.com/" id="searchform" class="search-mobile-form">
+<input type="text" class="search-box" name="s" id="s" placeholder="What are you looking for?" onFocus="this.placeholder = ''" onBlur="this.placeholder = 'Looking for something?'">
+<input type="submit" value="" class="search-submit-off" id="searchsubmit">
+</form>
+</div>
+
+<div class="mobile-menu-skin">
+<ul id="utility-menu" class="menu"><li id="menu-item-8890986" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8890986 depth-0"><a href="https://www.sunjournal.com/news/">News</a>
+<ul class="sub-menu">
+<li id="menu-item-8890990" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8890990 depth-1"><a href="https://www.sunjournal.com/news/">All News</a></li>
+<li id="menu-item-8891014" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891014 depth-1"><a href="https://www.sunjournal.com/news/lewiston-auburn/">Lewiston-Auburn</a></li>
+<li id="menu-item-8891018" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891018 depth-1"><a href="https://www.sunjournal.com/news/localstate/">Maine</a></li>
+<li id="menu-item-8890994" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-8890994 depth-1"><a href="https://www.sunjournal.com/tag/crime/">Crime and Courts</a></li>
+<li id="menu-item-9825083" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9825083 depth-1"><a href="https://www.sunjournal.com/politics/">Politics</a></li>
+<li id="menu-item-8890998" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8890998 depth-1"><a href="https://www.sunjournal.com/news/franklin/">Franklin</a></li>
+<li id="menu-item-8891002" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8891002 depth-1"><a href="https://www.sunjournal.com/oxfordhills/">Oxford Hills</a></li>
+<li id="menu-item-8891006" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8891006 depth-1"><a href="https://www.sunjournal.com/news/river-valley/">River Valley</a></li>
+<li id="menu-item-10377005" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10377005 depth-1"><a href="https://www.sunjournal.com/news/175anniversary/">175th anniversary</a></li>
+<li id="menu-item-9748049" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9748049 depth-1"><a href="https://www.sunjournal.com/news/schools/">Schools &amp; Education</a></li>
+<li id="menu-item-8891010" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891010 depth-1"><a href="https://www.sunjournal.com/news/nationworld/">Nation / World</a></li>
+<li id="menu-item-9213563" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9213563 depth-1"><a href="https://www.sunjournal.com/weeklies/advertiser-democrat/">Advertiser Democrat</a></li>
+<li id="menu-item-8891026" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891026 depth-1"><a href="https://www.sunjournal.com/weeklies/the-bethel-citizen/">The Bethel Citizen</a></li>
+<li id="menu-item-8891030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891030 depth-1"><a href="https://www.sunjournal.com/weeklies/the-franklin-journal/">The Franklin Journal</a></li>
+<li id="menu-item-8891034" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891034 depth-1"><a href="https://www.sunjournal.com/weeklies/livermore-falls-advertiser/">Livermore Falls Advertiser</a></li>
+<li id="menu-item-8891046" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891046 depth-1"><a href="https://www.sunjournal.com/weeklies/rangeley-highlander/">The Rangeley Highlander</a></li>
+<li id="menu-item-8891042" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891042 depth-1"><a href="https://www.sunjournal.com/weeklies/rumford-falls-times/">Rumford Falls Times</a></li>
+</ul>
+</li>
+<li id="menu-item-8891054" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8891054 depth-0"><a href="https://www.sunjournal.com/sports/">Sports</a>
+<ul class="sub-menu">
+<li id="menu-item-8891058" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891058 depth-1"><a href="https://www.sunjournal.com/sports/">All Sports</a></li>
+<li id="menu-item-8891062" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891062 depth-1"><a href="https://www.sunjournal.com/sports/highschoolsports/">High School Sports</a></li>
+<li id="menu-item-10161903" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10161903 depth-1"><a href="https://masthead.smugmug.com/">Purchase Photos</a></li>
+<li id="menu-item-8891066" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891066 depth-1"><a href="https://www.sunjournal.com/sports/community-sports/">Community Sports</a></li>
+<li id="menu-item-8891070" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891070 depth-1"><a href="https://www.sunjournal.com/sports/national-sports/">National Sports</a></li>
+</ul>
+</li>
+<li id="menu-item-8891074" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8891074 depth-0"><a href="https://www.sunjournal.com/opinion/">Opinion</a>
+<ul class="sub-menu">
+<li id="menu-item-8891078" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891078 depth-1"><a href="https://www.sunjournal.com/opinion/">All Opinion</a></li>
+<li id="menu-item-8891082" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891082 depth-1"><a href="https://www.sunjournal.com/opinion/letters/">Letters</a></li>
+<li id="menu-item-8891126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8891126 depth-1"><a href="https://www.sunjournal.com/mark-laflamme/">Mark LaFlamme</a></li>
+</ul>
+</li>
+<li id="menu-item-8891086" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8891086 depth-0"><a href="https://www.sunjournal.com/business/">Business</a>
+<ul class="sub-menu">
+<li id="menu-item-8891090" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891090 depth-1"><a href="https://www.sunjournal.com/business/">All Business</a></li>
+<li id="menu-item-9843848" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9843848 depth-1"><a href="https://www.sunjournal.com/business/the-buzz/">The Buzz</a></li>
+<li id="menu-item-8891094" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8891094 depth-1"><a href="https://www.sunjournal.com/tag/noteworthy/">Noteworthy</a></li>
+<li id="menu-item-8940042" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8940042 depth-1"><a href="https://homes.pressherald.com/">Real Estate</a></li>
+</ul>
+</li>
+<li id="menu-item-8891166" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8891166 depth-0"><a href="https://www.sunjournal.com/obituaries/">Obituaries</a>
+<ul class="sub-menu">
+<li id="menu-item-10572020" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10572020 depth-1"><a href="https://www.sunjournal.com/obituaries/">All Obituaries</a></li>
+<li id="menu-item-10572023" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10572023 depth-1"><a href="https://www.sunjournal.com/death-notices/">Death Notices</a></li>
+</ul>
+</li>
+<li id="menu-item-8891110" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8891110 depth-0"><a href="https://www.sunjournal.com/lifestyle/">A&amp;E</a>
+<ul class="sub-menu">
+<li id="menu-item-8891114" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891114 depth-1"><a href="https://www.sunjournal.com/lifestyle/">All A&amp;E</a></li>
+<li id="menu-item-9083712" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9083712 depth-1"><a href="http://www.sunjournal.com/encore">Things to Do</a></li>
+<li id="menu-item-9083704" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9083704 depth-1"><a href="https://www.sunjournal.com/lifestyle/encore/">Encore</a></li>
+<li id="menu-item-9843968" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-9843968 depth-1"><a href="https://www.sunjournal.com/bplus/">bPlus</a></li>
+<li id="menu-item-10436900" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10436900 depth-1"><a href="https://puzzles.sunjournal.com/">Puzzles &amp; Games</a></li>
+<li id="menu-item-8891158" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-8891158 depth-1"><a href="https://www.sunjournal.com/tag/mystery-photo/">Mystery Photo</a></li>
+<li id="menu-item-9083708" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9083708 depth-1"><a href="https://www.sunjournal.com/events-calendar/#!/">Event Calendar</a></li>
+<li id="menu-item-10428551" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10428551 depth-1"><a href="https://hub.cityspark.com/Event/Submission/SunJournal">Add an Event</a></li>
+<li id="menu-item-10012077" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10012077 depth-1"><a href="https://www.sunjournal.com/signature-events/">Sun Journal Events</a></li>
+</ul>
+</li>
+<li id="menu-item-10449419" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-10449419 depth-0"><a href="https://www.sunjournal.com/lifestyle/advice/">Advice</a>
+<ul class="sub-menu">
+<li id="menu-item-8891122" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891122 depth-1"><a href="https://www.sunjournal.com/lifestyle/sun-spots/">Sun Spots</a></li>
+<li id="menu-item-9868197" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9868197 depth-1"><a href="https://www.sunjournal.com/lifestyle/advice/dear-abby/">Dear Abby</a></li>
+<li id="menu-item-8891154" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891154 depth-1"><a href="https://www.sunjournal.com/lifestyle/advice/horoscope/">Horoscope</a></li>
+<li id="menu-item-8891150" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8891150 depth-1"><a href="https://www.sunjournal.com/lifestyle/advice/dr-roach/">Dr. Roach</a></li>
+</ul>
+</li>
+<li id="menu-item-8891174" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8891174 depth-0"><a href="/epaper">ePapers</a></li>
+<li id="menu-item-10001517" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10001517 depth-0"><a href="https://www.sunjournal.com/newsletters/">Newsletters</a></li>
+<li id="menu-item-10389725" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10389725 depth-0"><a href="/archives">Archives</a></li>
+<li id="menu-item-10257239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10257239 depth-0"><a href="https://www.sunjournal.com/mobile-apps/">Mobile Apps</a></li>
+<li id="menu-item-8891170" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8891170 depth-0"><a target="_blank" rel="noopener" href="https://careers.liveandworkinmaine.com/search/?utm_source=mainejobs.com&#038;utm_medium=redirect&#038;utm_campaign=redirect">Jobs</a></li>
+<li id="menu-item-10275017" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10275017 depth-0"><a href="https://www.sunjournal.com/career-opportunities/">Work Here</a></li>
+<li id="menu-item-8998118" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8998118 depth-0"><a href="http://www.mainenotices.com/?utm_source=centralmaine.com&#038;utm_medium=referral&#038;utm_campaign=menu">Public Notices</a></li>
+<li id="menu-item-10124079" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10124079 depth-0"><a href="https://www.sunjournal.com/buyphotos">Photo Store</a></li>
+<li id="menu-item-10255220" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10255220 depth-0"><a href="https://store.masthead.me/collections/sun-journal">Merch Store</a></li>
+<li id="menu-item-10259822" class="myaccount-nav menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10259822 depth-0"><a href="#">Account Management</a>
+<ul class="sub-menu">
+<li id="menu-item-10257233" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10257233 depth-1"><a href="https://myaccount.sunjournal.com">Manage Your Sun Journal Subscription</a></li>
+<li id="menu-item-10259834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10259834 depth-1"><a href="https://myaccount.advertiserdemocrat.com">Manage your Advertiser Democrat Subscription</a></li>
+<li id="menu-item-10259837" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10259837 depth-1"><a href="https://myaccount.bethelcitizen.com">Manage your Bethel Citizen Subscription</a></li>
+<li id="menu-item-10259843" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10259843 depth-1"><a href="https://myaccount.lfadvertiser.com">Manage your Livermore Falls Advertiser Subscription</a></li>
+<li id="menu-item-10259846" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10259846 depth-1"><a href="https://myaccount.thefranklinjournal.com">Manage your Franklin Journal Subscription</a></li>
+<li id="menu-item-10259849" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10259849 depth-1"><a href="https://myaccount.rumfordfallstimes.com">Manage your Rumford Falls Times Subscription</a></li>
+<li id="menu-item-10259852" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10259852 depth-1"><a href="https://myaccount.therangeleyhighlander.com">Manage Your Rangeley Highlander Subscription</a></li>
+</ul>
+</li>
+<li id="menu-item-10259921" class="subscribe-nav menu-item menu-item-type-post_type menu-item-object-page menu-item-10259921 depth-0"><a href="https://www.sunjournal.com/advertise/">Advertise</a></li>
+<li id="menu-item-10257227" class="subscribe-nav menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10257227 depth-0"><a href="#">Subscribe</a>
+<ul class="sub-menu">
+<li id="menu-item-10259795" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10259795 depth-1"><a href="https://subscribe.sunjournal.com">Sun Journal Subscriptions</a></li>
+<li id="menu-item-10259855" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10259855 depth-1"><a href="https://www.sunjournal.com/gift">Gift a Sun Journal Subscription</a></li>
+<li id="menu-item-10259858" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10259858 depth-1"><a href="https://subscribe.advertiserdemocrat.com">Sun Media Group&#8217;s Western Maine Weekly Subscriptions</a></li>
+</ul>
+</li>
+</ul></div>
+<div class="mobile-menu-skin-cover">
+</div>
+</div>
+</div>
+<div class="sticky-menu">
+<ul id="menu-header" class="sticky-menu"><li id="menu-item-8874370" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8874370 depth-0"><a href="https://www.sunjournal.com/news/">News</a>
+<ul class="sub-menu">
+<li id="menu-item-8877090" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8877090 depth-1"><a href="https://www.sunjournal.com/news/">All News</a></li>
+<li id="menu-item-8874381" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8874381 depth-1"><a href="https://www.sunjournal.com/weeklies/advertiser-democrat/">Advertiser Democrat</a></li>
+<li id="menu-item-8874368" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8874368 depth-1"><a href="https://www.sunjournal.com/news/lewiston-auburn/">Lewiston-Auburn</a></li>
+<li id="menu-item-8874373" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8874373 depth-1"><a href="https://www.sunjournal.com/weeklies/the-bethel-citizen/">The Bethel Citizen</a></li>
+<li id="menu-item-8874384" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8874384 depth-1"><a href="https://www.sunjournal.com/news/localstate/">Maine</a></li>
+<li id="menu-item-8874374" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8874374 depth-1"><a href="https://www.sunjournal.com/weeklies/the-franklin-journal/">The Franklin Journal</a></li>
+<li id="menu-item-8874385" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8874385 depth-1"><a href="https://www.sunjournal.com/mainecrime/">Crime and courts</a></li>
+<li id="menu-item-8874382" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8874382 depth-1"><a href="https://www.sunjournal.com/weeklies/livermore-falls-advertiser/">Livermore Falls Advertiser</a></li>
+<li id="menu-item-9825086" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9825086 depth-1"><a href="https://www.sunjournal.com/politics/">Politics</a></li>
+<li id="menu-item-8874376" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8874376 depth-1"><a href="https://www.sunjournal.com/weeklies/rangeley-highlander/">The Rangeley Highlander</a></li>
+<li id="menu-item-8880510" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8880510 depth-1"><a href="https://www.sunjournal.com/news/franklin/">Franklin</a></li>
+<li id="menu-item-8874372" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8874372 depth-1"><a href="https://www.sunjournal.com/weeklies/rumford-falls-times/">Rumford Falls Times</a></li>
+<li id="menu-item-8880522" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8880522 depth-1"><a href="https://www.sunjournal.com/oxfordhills/">Oxford Hills</a></li>
+<li id="menu-item-9748052" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9748052 depth-1"><a href="https://www.sunjournal.com/news/schools/">Schools &amp; Education</a></li>
+<li id="menu-item-8880526" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8880526 depth-1"><a href="https://www.sunjournal.com/news/river-valley/">River Valley</a></li>
+<li id="menu-item-8878270" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-8878270 depth-1"><a href="https://www.sunjournal.com/connections/">Community News</a></li>
+<li id="menu-item-10377008" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10377008 depth-1"><a href="https://www.sunjournal.com/news/175anniversary/">175th anniversary</a></li>
+<li id="menu-item-8874371" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8874371 depth-1"><a href="https://www.sunjournal.com/news/nationworld/">Nation / World</a></li>
+</ul>
+</li>
+<li id="menu-item-8874391" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8874391 depth-0"><a href="https://www.sunjournal.com/sports/">Sports</a>
+<ul class="sub-menu">
+<li id="menu-item-8877094" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8877094 depth-1"><a href="https://www.sunjournal.com/sports/">All Sports</a></li>
+<li id="menu-item-8874390" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8874390 depth-1"><a href="https://www.sunjournal.com/sports/highschoolsports/">High School Sports</a></li>
+<li id="menu-item-8874386" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8874386 depth-1"><a href="https://www.sunjournal.com/sports/community-sports/">Community Sports</a></li>
+<li id="menu-item-8874387" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8874387 depth-1"><a href="https://www.sunjournal.com/sports/national-sports/">National Sports</a></li>
+<li id="menu-item-10161891" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10161891 depth-1"><a href="https://masthead.smugmug.com/">Purchase Photos</a></li>
+</ul>
+</li>
+<li id="menu-item-8874392" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8874392 depth-0"><a href="https://www.sunjournal.com/opinion/">Opinion</a>
+<ul class="sub-menu">
+<li id="menu-item-9868179" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9868179 depth-1"><a href="https://www.sunjournal.com/opinion/">All Opinion</a></li>
+<li id="menu-item-9868182" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9868182 depth-1"><a href="https://www.sunjournal.com/opinion/letters/">Letters</a></li>
+<li id="menu-item-8874411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8874411 depth-1"><a href="https://www.sunjournal.com/mark-laflamme/">Mark LaFlamme</a></li>
+</ul>
+</li>
+<li id="menu-item-8874394" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8874394 depth-0"><a href="https://www.sunjournal.com/business/">Business</a>
+<ul class="sub-menu">
+<li id="menu-item-8877102" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8877102 depth-1"><a href="https://www.sunjournal.com/business/">All Business</a></li>
+<li id="menu-item-9843845" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9843845 depth-1"><a href="https://www.sunjournal.com/business/the-buzz/">The Buzz</a></li>
+<li id="menu-item-8874396" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8874396 depth-1"><a href="https://www.sunjournal.com/tag/noteworthy/">Noteworthy</a></li>
+<li id="menu-item-8940058" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8940058 depth-1"><a href="https://homes.pressherald.com/">Real Estate</a></li>
+</ul>
+</li>
+<li id="menu-item-8874401" class="single-col menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8874401 depth-0"><a href="https://www.sunjournal.com/obituaries/">Obituaries</a>
+<ul class="sub-menu">
+<li id="menu-item-10572011" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10572011 depth-1"><a href="https://www.sunjournal.com/obituaries/">All Obituaries</a></li>
+<li id="menu-item-10572014" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10572014 depth-1"><a href="https://www.sunjournal.com/death-notices/">Death Notices</a></li>
+</ul>
+</li>
+<li id="menu-item-8874407" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8874407 depth-0"><a href="https://www.sunjournal.com/lifestyle/">A&amp;E</a>
+<ul class="sub-menu">
+<li id="menu-item-8877106" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8877106 depth-1"><a href="https://www.sunjournal.com/lifestyle/">All A&amp;E</a></li>
+<li id="menu-item-8874405" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8874405 depth-1"><a href="http://www.sunjournal.com/encore">Things to do</a></li>
+<li id="menu-item-9297663" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9297663 depth-1"><a href="http://www.sunjournal.com/encore">Encore</a></li>
+<li id="menu-item-9843974" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9843974 depth-1"><a href="https://www.sunjournal.com/bplus/">bPlus</a></li>
+<li id="menu-item-10436885" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10436885 depth-1"><a href="https://puzzles.sunjournal.com/">Puzzles &amp; Games</a></li>
+<li id="menu-item-8878290" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-8878290 depth-1"><a href="https://www.sunjournal.com/tag/mystery-photo/">Mystery Photo</a></li>
+<li id="menu-item-8874402" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8874402 depth-1"><a href="https://www.sunjournal.com/events-calendar/#!/">Event Calendar</a></li>
+<li id="menu-item-10428548" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10428548 depth-1"><a href="https://hub.cityspark.com/Event/Submission/SunJournal">Add an Event</a></li>
+<li id="menu-item-9904344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9904344 depth-1"><a href="https://www.sunjournal.com/signature-events/">Sun Journal Events</a></li>
+</ul>
+</li>
+<li id="menu-item-10449416" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-10449416 depth-0"><a href="https://www.sunjournal.com/lifestyle/advice/">Advice</a>
+<ul class="sub-menu">
+<li id="menu-item-8874409" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8874409 depth-1"><a href="https://www.sunjournal.com/lifestyle/sun-spots/">Sun Spots</a></li>
+<li id="menu-item-4038547" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4038547 depth-1"><a href="https://www.sunjournal.com/lifestyle/advice/dear-abby/">Dear Abby</a></li>
+<li id="menu-item-4038549" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4038549 depth-1"><a href="https://www.sunjournal.com/lifestyle/advice/horoscope/">Horoscope</a></li>
+<li id="menu-item-4038548" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4038548 depth-1"><a href="https://www.sunjournal.com/lifestyle/advice/dr-roach/">Dr. Roach</a></li>
+</ul>
+</li>
+<li id="menu-item-8874416" class="single-col menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8874416 depth-0"><a target="_blank" rel="noopener" href="https://mainejobs.com/lwm.php">Jobs</a>
+<ul class="sub-menu">
+<li id="menu-item-10437131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10437131 depth-1"><a href="https://careers.liveandworkinmaine.com/search/?utm_source=mainejobs.com&#038;utm_medium=redirect&#038;utm_campaign=redirect">Job Board</a></li>
+<li id="menu-item-10437134" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10437134 depth-1"><a href="https://www.sunjournal.com/career-opportunities/">Work Here</a></li>
+</ul>
+</li>
+<li id="menu-item-8998090" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8998090 depth-0"><a href="http://www.mainenotices.com/?utm_source=sunjournal.com&#038;utm_medium=referral&#038;utm_campaign=menu">Public Notices</a></li>
+</ul>
+</div>
+<div class="search-toggle">
+<i class="fa fa-search" aria-hidden="true"></i>
+</div>
+<div class="subscribe-banner-btn">
+<div class="fixed-subscribe-btn" id="MG2Subscribe" style="display:none;"><a href="https://www.sunjournal.com/subscription-plans">Subscribe</a></div>
+<div class="fixed-subscribe-btn" id="MG2MyAccount" style="display:none;"><a href="https://myaccount.sunjournal.com" target="_blank">myAccount</a></div>
+<div class="login-btn fixed-subscribe-btn" id="MG2Login" data-mg2-action="login" style="display:none;"><a href="#">Login</a></div>
+<div class="login-btn fixed-subscribe-btn" id="MG2Logout" data-mg2-action="logout" style="display:none;"><a href="#">Log Out</a></div>
+</div>
+</div>
+<div class="mtm-wrapper
+
+	post-wrapper
+	">
+</div>
+<div class="mtm-wrapper post-wrapper">
+<div id="pos_1_atf_728x90-wrap" class="ad-wrapper"><div id="pos_1_atf_728x90" class="mtm-leaderboard-pos1"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('pos_1_atf_728x90'); });</script></div></div>
+<div class="main-content-wrap">
+<div itemscope itemtype="http://schema.org/Article" id="js-mtm-article" class="article" " id="js-mtm-article">
+<header>
+<a href="" class="category-wrapper">
+</a>
+<div class="timestamp">
+<div class="posted">
+Posted <time itemprop="datePublished" datetime="2005-08-29T04:00:00-04:00">August 29, 2005</time>
+</div>
+</div>
+<div class="font-resize">
+<span>increase font size</span>
+<img src="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/images/font-resize.png" alt="Resize Font" />
+</div>
+<h1 itemprop="headline"><span itemprop="mainEntityOfPage">Californians flee wildfire</span></h1>
+<p class="article-excerpt" itemprop="description">
+</p>
+</header>
+<div class="mtm-article p402_premium">
+<div class="comment-button article-launch" style="display:none;">
+<a onclick="ga('send', 'event', 'UI', 'click', 'articlebottom | viewarticle', {'nonInteraction': 1});">
+Read Article </a>
+</div>
+<div class="post-content clearfix" itemprop="articleBody" id="js-post-content" data-truncate="3">
+<body><p class="StoryText12">PALM SPRINGS, Calif. (AP) – Erratic wind and high temperatures stoked a 2,300-acre wildfire on Sunday, leading to the voluntary evacuation of about 100 homes, officials said.<br><br>The fire was 5 percent contained, said Kathy Ungemach, spokeswoman for the San Bernardino National Forest.<br><br>No structures or homes were destroyed by flames and there were no injuries reported, she said. The fire was started late Friday in Blaisdell Canyon west of Palm Springs by hikers trying to light a campfire, officials said.<br><br>The voluntary evacuation was ordered early Saturday by Riverside County sheriff’s deputies.<br><br>Later Saturday, the Palm Springs Aerial Tramway was ordered closed for the first time in at least 15 years, said Tim Jones, lead supervisor for the tramway.<br><br>The tram transports passengers to two vantage points in the San Jacinto Mountains up to 8,000 feet above the high desert of the Coachella Valley.<br><br>In Northern California, firefighters were able to stop the expansion of a 2,300-acre wildfire that destroyed 30 buildings, injured three firefighters and forced residents of Manton to evacuate, an official said.<br><br>Elmer Benson, spokesman for the state Department of Forestry and Fire Protection, said the fire, which began Friday, was 30 percent contained and he expected it to be fully contained by Monday morning.<br><br>The cause of the blaze remained unknown. Fire officials said it was man-made but have ruled out arson.<br><br>In Utah, a 1,500-acre fire forced the temporary evacuation of 100 residents about 150 miles east of Salt Lake City.<br><br>In rural southwestern Oregon, officials said a 1,600-acre fire near Selma was about 40 percent contained. It destroyed five homes after threatening more than 100.<br><br>AP-ES-08-28-05 1549EDT</p>
+<script>(function(){var js = "window['__CF$cv$params']={r:'795616cf8dca984e',m:'SZ5k0EnnuGdhMivOW97Oz_9bGWdoiOGzS5AM7ESm2ac-1675709611-0-Abrk3WN8yCpXOly7/6TDwR/AknrlaDt5TRUUtxRRE3b+fWSRtVKaaFi8BLfjrx9Lvi0KX8r5DG40oArgdGt/tUZpVjWonMCBignponRVAm1zq2ikMSUjv+sdJqW3n2cR10ma7aSexyjngFd1aPeexU4G1IZ7bXza4PrazHOeRIO9',s:[0x6a2f25f031,0x9a11cdcae7],u:'/cdn-cgi/challenge-platform/h/g'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/g/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body></p><div class="inner-sidebar">
+</div>
+<div class="mobile-article-sidebar-wrapper">
+<div class="mobile-article-sidebar-1"></div>
+<div class="mobile-article-sidebar-2"></div>
+</div>
+<div class="article-social-sharing p402_hide bottom no-print">
+<div class="facebook social-button">
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.sunjournal.com%2F2005%2F08%2F29%2Fcalifornians-flee-wildfire%2F" target="_blank">
+<img src="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/images/article-fb-icon.png" alt="facebook">
+</a>
+</div>
+<div class="twitter social-button">
+<a href="https://twitter.com/intent/tweet/?text=Californians+flee+wildfire&amp;url=https%3A%2F%2Fwww.sunjournal.com%2F%3Fp%3D135786" target="_blank">
+<img src="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/images/article-twitter-icon.png" alt="tweet">
+</a>
+</div>
+<div class="reddit social-button">
+<a href="http://www.reddit.com/submit?title=Californians+flee+wildfire&amp;url=https%3A%2F%2Fwww.sunjournal.com%2F%3Fp%3D135786" target="_blank">
+<img src="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/images/reddit-icon.png" alt="reddit">
+</a>
+</div>
+<div class="email social-button">
+<a href="/cdn-cgi/l/email-protection#88b7fbfdeae2edebfcb5cbe9e4e1eee7fae6e1e9e6fba8eee4ededa8ffe1e4eceee1faedaee9e5f8b3eae7ecf1b5cefae7e5adbab8c4edffe1fbfce7e6a8dbfde6a8c2e7fdfae6e9e4adbbc9adbab8cbe9e4e1eee7fae6e1e9e6fba8eee4ededa8ffe1e4eceee1faedadb8c9adb8c9e0fcfcf8fbadbbc9adbaceadbaceffffffa6fbfde6e2e7fdfae6e9e4a6ebe7e5adbaceadbbcef8adbbccb9bbbdbfb0be">
+<img src="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/images/article-email-icon.png" alt="email">
+</a>
+</div>
+<div class="print social-button">
+<a href="http://api.addthis.com/oexchange/0.8/forward/printfriendly/offer?title=&amp;pubid=ra-535983434d690928&amp;url=https%3A%2F%2Fwww.sunjournal.com%2F2005%2F08%2F29%2Fcalifornians-flee-wildfire%2F" target="_blank">
+<img src="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/images/article-print-icon.png" alt="print">
+</a>
+</div>
+<div class="share-link-container">
+<div class="share-text share-link-button">
+<i class="fa fa-gift" aria-hidden="true"></i>
+</div>
+<div class="share-link-form-container closed">
+<div class="gift-loader hidden"><h2>Loading....</h2></div>
+<div class="close-container">
+<div class="close"><i class='fa fa-close'></i></div>
+</div>
+<div class="subscriber-message">
+<header><p><i class="fa-solid fa-gift"></i> Share this Article</p></header>
+<p>Give this Article </p>
+<p>You can share <span>5</span> more gift articles this month. </p>
+<p>Anyone can access the link you share with no account required. <a href="/article-gifting">Learn more</a>. </p>
+<div class="share-buttons">
+<div class="btn-container share-copy-container"><button class='share-link'><svg xmlns="http://www.w3.org/2000/svg" fill="#0F75C6" viewBox="0 0 640 512"><path d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z" /></svg></button> Copy Link</div>
+<div class="btn-container share-email-container"><button class='share-email'><svg xmlns="http://www.w3.org/2000/svg" fill="#0F75C6" viewBox="0 0 512 512"><path d="M464 64C490.5 64 512 85.49 512 112C512 127.1 504.9 141.3 492.8 150.4L275.2 313.6C263.8 322.1 248.2 322.1 236.8 313.6L19.2 150.4C7.113 141.3 0 127.1 0 112C0 85.49 21.49 64 48 64H464zM217.6 339.2C240.4 356.3 271.6 356.3 294.4 339.2L512 176V384C512 419.3 483.3 448 448 448H64C28.65 448 0 419.3 0 384V176L217.6 339.2z" /></svg></button> Email</div>
+</div>
+<div class="ajax-results">
+<div class="success">Article link sent!</div>
+<div class="failed">An error has occurred. Please try again.</div>
+</div>
+<form action="index.php" method="post" class="share-link-form">
+<input type="email" required placeholder="someone@example.com" class="share-link-form-email">
+<button type="submit">Send!</button>
+</form>
+</div>
+<div class="non-subscriber-inactive">
+<p>Subscribe to gift this article </p>
+<p>With a <span class="sitename">Press Herald</span> subscription, you can gift 5 articles each month. </p>
+<p><a href="/gift-subscribe" target="_blank">SUBSCRIBE TODAY</a></p>
+<p>It looks like you do not have any active subscriptions. To get one, <a class="subscriptions-link" href="">go to the subscriptions page</a>.</p>
+</div>
+<div class="non-subscriber">
+<p>Subscribe to gift this article </p>
+<p>With a <span class="sitename">Press Herald</span> subscription, you can gift 5 articles each month. </p>
+<p><a href="/gift-subscribe" target="_blank">SUBSCRIBE TODAY</a></p>
+<p>Already a subscriber? <a href="/login" class='gift-article-login' data-mg2-action="login">Sign in</a>. </p>
+</div>
+</div>
+</div> </div>
+<div class="mtm-article-comments-talk print-no">
+<hr>
+<div class="comment-login">
+
+<div class="comment-login__messaging comment-login__messaging--error">
+Invalid username/password. </div>
+<div class="comment-login__messaging comment-login__messaging--success">
+<p>Success. Please wait for the page to reload. If the page does not reload within 5 seconds, please refresh the page.</p>
+</div>
+<div class="comment-login__login-form">
+<p>Enter your email and password to access comments.</p>
+<form method="post" action="" class="js-comment-login">
+<label>Email address</label>
+<input type="email" name="email" placeholder="Email" class="comment-login__input comment-login__input--email" required />
+<label>Password</label>
+<input type="password" name="password" placeholder="password" class="comment-login__input comment-login__input--password" required>
+<input type="submit" name="submit" value="Login" class="comment-login__button comment-login__button--login">
+<input type="hidden" name="origin" value="" />
+<p><a href="#" target="_blank" class="js-password-reset-btn">Forgot Password?</a></p>
+<p>Don't have a commenting profile? <button class="js-create">Create one.</button></p>
+</form>
+</div>
+
+<p class="comment-login__footer">Hi, to comment on stories you must <button class="js-create">create a commenting profile</button>. This profile is in addition to your subscription and website login. <br>Already have a commenting profile? <button class="js-login">Login</button>.</p>
+</div>
+<div class="account-creation">
+<div class="account-creation__messaging account-creation__messaging--error">
+<p>Invalid username/password.</p>
+</div>
+<div class="account-creation__messaging account-creation__messaging--success">
+<p>Please check your email to confirm and complete your registration.</p>
+</div>
+<form class="account-creation__new_account js-comment-create">
+<p> Create a commenting profile by providing an email address, password and display name. You will receive an email to complete the registration. Please note the display name will appear on screen when you participate.</p>
+<label>Email Address</label>
+<input class="comment-login__input comment-login__email" type="email" name="email" placeholder="Email Address" required />
+<label>Password</label>
+<input class="comment-login__input comment-login__password" type="password" name="password" placeholder="Password" required />
+<label>Display Name</label>
+<input class="comment-login__input comment-login__text" type="text" name="display_name" placeholder="Display Name" required>
+<input type="hidden" name="origin" value="" />
+<input type="hidden" name="type" value="create">
+<input type="submit" name="submit" value="Create" class="comment-login__button comment-login__button--login">
+<p>Already registered? <a href="#" class="js-login">Log in</a> to join the discussion.</p>
+</form>
+</div>
+<div class="restricted-comments-messaging">
+<p>Only subscribers are eligible to post comments. Please <a href="/subscription-plans">subscribe</a> or <a data-mg2-action="login">login</a> first for digital access. <a href='/about-talk' class='cliff-notes' target="_blank">Here’s why</a>.</p>
+</div>
+<div class="password-reset">
+<p class='password-reset__information'>Use the form below to reset your password. When you've submitted your account email, we will send an email with a reset code.</p>
+<div class="password-reset__messaging--error"></div>
+<div class="password-reset__messaging--success"></div>
+<form id="MTM-Talk-forgot-password">
+<label>Email Address</label>
+<input type="email" name="email" class="password-reset__email" placeholder="Email Address" required>
+<input type="submit" value="reset" class="btn">
+</form>
+</div>
+<div id="coral_talk_stream"></div>
+<div class="comment-logout">
+<button class="comment-logout__btn js-comments-logout">Log out of Comments</button>
+</div>
+</div>
+<div class="feedback clearfix no-print p402_hide">
+<p>
+<a href="/feedback-form/">
+Send questions/comments to the editors. </a>
+</p>
+</div>
+<div class="clearfix"></div>
+
+
+<div id='native_ad' class='no-print'>
+ <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type='text/javascript'>
+						googletag.cmd.push(function() { googletag.display('native_ad'); });
+					</script>
+</div>
+
+<div class='no-print'>
+</div>
+<div class="art-bottom-links no-print p402_hide">
+<div class="art-bottom-title">Related Stories</div>
+<div class="mtm-related-posts" id="js-mtm-related-posts" data-post-id="135786">
+
+<div class="ajax-loader">
+<img src="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/images/ajax-loader.gif" alt="Loading Related Posts">
+</div>
+</div>
+</div>
+<div class="art-bottom-links last-col no-print p402_hide">
+<div class="art-bottom-title">Latest Articles</div>
+<ul> <li>
+<div class="image-crop">
+<a href="https://www.sunjournal.com/2023/02/06/toxic-gas-release-likely-from-ohio-derailment-evacuations-stepped-up/">
+<img width="250" height="250" src="https://www.sunjournal.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" class="attachment-thumbnail size-thumbnail wp-post-image" alt="APTOPIX Train Derailment Ohio" data-lazy-src="https://multifiles.pressherald.com/uploads/sites/11/2023/02/APTOPIX_Train_Derailment_Ohio_76274-1-1675708585-250x250.jpg" data-lazy-srcset="https://multifiles.pressherald.com/uploads/sites/11/2023/02/APTOPIX_Train_Derailment_Ohio_76274-1-1675708585-250x250.jpg 250w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/APTOPIX_Train_Derailment_Ohio_76274-1-1675708585-32x32.jpg 32w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/APTOPIX_Train_Derailment_Ohio_76274-1-1675708585-50x50.jpg 50w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/APTOPIX_Train_Derailment_Ohio_76274-1-1675708585-64x64.jpg 64w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/APTOPIX_Train_Derailment_Ohio_76274-1-1675708585-96x96.jpg 96w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/APTOPIX_Train_Derailment_Ohio_76274-1-1675708585-128x128.jpg 128w" data-lazy-sizes="(max-width: 250px) 100vw, 250px"><noscript><img width="250" height="250" src="https://multifiles.pressherald.com/uploads/sites/11/2023/02/APTOPIX_Train_Derailment_Ohio_76274-1-1675708585-250x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="APTOPIX Train Derailment Ohio" srcset="https://multifiles.pressherald.com/uploads/sites/11/2023/02/APTOPIX_Train_Derailment_Ohio_76274-1-1675708585-250x250.jpg 250w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/APTOPIX_Train_Derailment_Ohio_76274-1-1675708585-32x32.jpg 32w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/APTOPIX_Train_Derailment_Ohio_76274-1-1675708585-50x50.jpg 50w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/APTOPIX_Train_Derailment_Ohio_76274-1-1675708585-64x64.jpg 64w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/APTOPIX_Train_Derailment_Ohio_76274-1-1675708585-96x96.jpg 96w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/APTOPIX_Train_Derailment_Ohio_76274-1-1675708585-128x128.jpg 128w" sizes="(max-width: 250px) 100vw, 250px" /></noscript> </a>
+</div>
+<div class="category">Business</div>
+<h2>
+<a href="https://www.sunjournal.com/2023/02/06/toxic-gas-release-likely-from-ohio-derailment-evacuations-stepped-up/">Toxic gas release likely from Ohio derailment; evacuations stepped up</a>
+</h2>
+</li>
+<li>
+<div class="category">Maine</div>
+<h2>
+<a href="https://www.sunjournal.com/2023/02/06/national-group-threatens-lawsuit-against-maine-school-district-over-gender-policy/">National group threatens lawsuit against Maine school district over gender policy</a>
+</h2>
+</li>
+<li>
+<div class="image-crop">
+<a href="https://www.sunjournal.com/2023/02/06/kirk-m-rogers/">
+<img width="250" height="250" src="https://www.sunjournal.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" class="attachment-thumbnail size-thumbnail wp-post-image" alt loading="lazy" data-lazy-src="https://multifiles.pressherald.com/uploads/sites/11/2023/02/R6707b-250x250.jpg" data-lazy-srcset="https://multifiles.pressherald.com/uploads/sites/11/2023/02/R6707b-250x250.jpg 250w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/R6707b-32x32.jpg 32w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/R6707b-50x50.jpg 50w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/R6707b-64x64.jpg 64w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/R6707b-96x96.jpg 96w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/R6707b-128x128.jpg 128w" data-lazy-sizes="(max-width: 250px) 100vw, 250px"><noscript><img width="250" height="250" src="https://multifiles.pressherald.com/uploads/sites/11/2023/02/R6707b-250x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://multifiles.pressherald.com/uploads/sites/11/2023/02/R6707b-250x250.jpg 250w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/R6707b-32x32.jpg 32w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/R6707b-50x50.jpg 50w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/R6707b-64x64.jpg 64w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/R6707b-96x96.jpg 96w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/R6707b-128x128.jpg 128w" sizes="(max-width: 250px) 100vw, 250px" /></noscript> </a>
+</div>
+<div class="category">Obituaries</div>
+<h2>
+<a href="https://www.sunjournal.com/2023/02/06/kirk-m-rogers/">Kirk M. Rogers</a>
+</h2>
+</li>
+<li>
+<div class="image-crop">
+<a href="https://www.sunjournal.com/2023/02/06/lewiston-dhhs-office-closed-after-pipes-burst/">
+<img width="250" height="250" src="https://www.sunjournal.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" class="attachment-thumbnail size-thumbnail wp-post-image" alt loading="lazy" data-lazy-src="https://multifiles.pressherald.com/uploads/sites/11/2023/02/Image-3-1675703363-250x250.jpeg" data-lazy-srcset="https://multifiles.pressherald.com/uploads/sites/11/2023/02/Image-3-1675703363-250x250.jpeg 250w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/Image-3-1675703363-32x32.jpeg 32w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/Image-3-1675703363-50x50.jpeg 50w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/Image-3-1675703363-64x64.jpeg 64w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/Image-3-1675703363-96x96.jpeg 96w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/Image-3-1675703363-128x128.jpeg 128w" data-lazy-sizes="(max-width: 250px) 100vw, 250px"><noscript><img width="250" height="250" src="https://multifiles.pressherald.com/uploads/sites/11/2023/02/Image-3-1675703363-250x250.jpeg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://multifiles.pressherald.com/uploads/sites/11/2023/02/Image-3-1675703363-250x250.jpeg 250w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/Image-3-1675703363-32x32.jpeg 32w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/Image-3-1675703363-50x50.jpeg 50w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/Image-3-1675703363-64x64.jpeg 64w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/Image-3-1675703363-96x96.jpeg 96w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/Image-3-1675703363-128x128.jpeg 128w" sizes="(max-width: 250px) 100vw, 250px" /></noscript> </a>
+</div>
+<div class="category">Androscoggin County</div>
+<h2>
+<a href="https://www.sunjournal.com/2023/02/06/lewiston-dhhs-office-closed-after-pipes-burst/">Water damage updates: Cleanup continues after burst pipes plague area</a>
+</h2>
+</li>
+<li>
+<div class="image-crop">
+<a href="https://www.sunjournal.com/2023/02/06/former-jail-guard-wont-serve-prison-time-for-2019-fatal-crash/">
+<img width="250" height="250" src="https://www.sunjournal.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" class="attachment-thumbnail size-thumbnail wp-post-image" alt loading="lazy" data-lazy-src="https://multifiles.pressherald.com/uploads/sites/11/2023/02/32819537_20221020_morang-trial_3-1675698443-250x250.jpg" data-lazy-srcset="https://multifiles.pressherald.com/uploads/sites/11/2023/02/32819537_20221020_morang-trial_3-1675698443-250x250.jpg 250w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/32819537_20221020_morang-trial_3-1675698443-32x32.jpg 32w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/32819537_20221020_morang-trial_3-1675698443-50x50.jpg 50w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/32819537_20221020_morang-trial_3-1675698443-64x64.jpg 64w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/32819537_20221020_morang-trial_3-1675698443-96x96.jpg 96w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/32819537_20221020_morang-trial_3-1675698443-128x128.jpg 128w" data-lazy-sizes="(max-width: 250px) 100vw, 250px"><noscript><img width="250" height="250" src="https://multifiles.pressherald.com/uploads/sites/11/2023/02/32819537_20221020_morang-trial_3-1675698443-250x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://multifiles.pressherald.com/uploads/sites/11/2023/02/32819537_20221020_morang-trial_3-1675698443-250x250.jpg 250w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/32819537_20221020_morang-trial_3-1675698443-32x32.jpg 32w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/32819537_20221020_morang-trial_3-1675698443-50x50.jpg 50w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/32819537_20221020_morang-trial_3-1675698443-64x64.jpg 64w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/32819537_20221020_morang-trial_3-1675698443-96x96.jpg 96w, https://multifiles.pressherald.com/uploads/sites/11/2023/02/32819537_20221020_morang-trial_3-1675698443-128x128.jpg 128w" sizes="(max-width: 250px) 100vw, 250px" /></noscript> </a>
+</div>
+<div class="category">Maine</div>
+<h2>
+<a href="https://www.sunjournal.com/2023/02/06/former-jail-guard-wont-serve-prison-time-for-2019-fatal-crash/">Former jail guard won&#8217;t serve prison time for 2019 fatal crash</a>
+</h2>
+</li>
+</ul></div>
+</div> 
+</div> 
+
+<script type="text/javascript">
+				/*
+				(function($, undefined){
+				   'use strict';
+				   $(init);
+				   function init(){
+					  if( /auth0_sub/i.test(document.cookie) ){
+						 return;
+					  }
+					  try { _402_Show(); } catch(e) {}
+				   }
+				   
+				  
+				   return {};
+				}(jQuery)); 
+				*/
+			</script>
+
+<div class="mtm-ad-col-article" id="js-mtm-sidebar">
+<ul class="widget-sidebar">
+<li id="acm_ad_zones-3" class="widget acm_ad_zones"><div id="pos_2_atf_300x250-wrap" class="ad-wrapper"><div id="pos_2_atf_300x250" class="pos_2_atf_300x250"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('pos_2_atf_300x250'); });</script></div></div></li>
+<li id="gform_widget-32" class="widget gform_widget"><link rel='stylesheet' id='gforms_reset_css-css' href='https://www.sunjournal.com/wp-content/plugins/gravityforms/legacy/css/formreset.min.css?ver=2.6.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_formsmain_css-css' href='https://www.sunjournal.com/wp-content/plugins/gravityforms/legacy/css/formsmain.min.css?ver=2.6.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_ready_class_css-css' href='https://www.sunjournal.com/wp-content/plugins/gravityforms/legacy/css/readyclass.min.css?ver=2.6.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_browsers_css-css' href='https://www.sunjournal.com/wp-content/plugins/gravityforms/legacy/css/browsers.min.css?ver=2.6.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.sunjournal.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://www.sunjournal.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='https://www.sunjournal.com/wp-includes/js/dist/dom-ready.min.js?ver=ecda74de0221e1c2ce5c57cbb5af09d5' id='wp-dom-ready-js'></script>
+<script type='text/javascript' src='https://www.sunjournal.com/wp-includes/js/dist/hooks.min.js?ver=1e58c8c5a32b2e97491080c5b10dc71c' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://www.sunjournal.com/wp-includes/js/dist/i18n.min.js?ver=30fcecb428a0e8383d3776bcdd3a7834' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' id='wp-a11y-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type='text/javascript' src='https://www.sunjournal.com/wp-includes/js/dist/a11y.min.js?ver=68e470cf840f69530e9db3be229ad4b6' id='wp-a11y-js'></script>
+<script type='text/javascript' defer='defer' src='https://www.sunjournal.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.6.6.1' id='gform_json-js'></script>
+<script type='text/javascript' id='gform_gravityforms-js-extra'>
+/* <![CDATA[ */
+var gform_i18n = {"datepicker":{"days":{"monday":"Mon","tuesday":"Tue","wednesday":"Wed","thursday":"Thu","friday":"Fri","saturday":"Sat","sunday":"Sun"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"firstDay":1,"iconText":"Select date"}};
+var gf_legacy_multi = [];
+var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file is not allowed. Must be one of the following:","delete_file":"Delete this file","in_progress":"in progress","file_exceeds_limit":"File exceeds size limit","illegal_extension":"This type of file is not allowed.","max_reached":"Maximum number of files reached","unknown_error":"There was a problem while saving the file on the server","currently_uploading":"Please wait for the uploading to complete","cancel":"Cancel","cancel_upload":"Cancel this upload","cancelled":"Cancelled"},"vars":{"images_url":"https:\/\/www.sunjournal.com\/wp-content\/plugins\/gravityforms\/images"}};
+var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2,"code":"USD"},"base_url":"https:\/\/www.sunjournal.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/www.sunjournal.com\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+/* ]]> */
+</script>
+<script type='text/javascript' defer='defer' src='https://www.sunjournal.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.6.6.1' id='gform_gravityforms-js'></script>
+<script type='text/javascript' id='gform_conditional_logic-js-extra'>
+/* <![CDATA[ */
+var gf_legacy = {"is_legacy":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' defer='defer' src='https://www.sunjournal.com/wp-content/plugins/gravityforms/js/conditional_logic.min.js?ver=2.6.6.1' id='gform_conditional_logic-js'></script>
+<script type='text/javascript' defer='defer' src='https://www.google.com/recaptcha/api.js?hl=en&#038;ver=5.9.5#038;render=explicit' id='gform_recaptcha-js'></script>
+<script type='text/javascript' defer='defer' src='https://www.sunjournal.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.6.6.1' id='gform_placeholder-js'></script>
+<script type="text/javascript"></script>
+<div class='gf_browser_chrome gform_wrapper base_wrapper gform_legacy_markup_wrapper' id='gform_wrapper_123' style='display:none'><form method='post' enctype='multipart/form-data' id='gform_123' class='base gform_legacy_markup' action='/2005/08/29/californians-flee-wildfire/'>
+<div class='gform_body gform-body'><ul id='gform_fields_123' class='gform_fields top_label form_sublabel_below description_below'><li id="field_123_1" class="gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_below gfield_visibility_visible" data-js-reload="field_123_1"><h3 class="formtitle">Daily Headlines</h3>
+<div class="formdetail">Sign up and we'll deliver the top stories to begin the day to your inbox at 6 a.m.</div>
+</li><li id="field_123_2" class="gfield field_sublabel_below field_description_below gfield_visibility_visible" data-js-reload="field_123_2"><label class='gfield_label screen-reader-text' for='input_123_2'>Enter your email</label><div class='ginput_container ginput_container_email'>
+<input name='input_2' id='input_123_2' type='text' value='' class='large' placeholder='Enter your email' aria-invalid="false" />
+</div></li><li id="field_123_3" class="gfield field_sublabel_below field_description_below gfield_visibility_hidden" data-js-reload="field_123_3"><div class='admin-hidden-markup'><i class='gform-icon gform-icon--hidden'></i><span>Hidden</span></div><label class='gfield_label screen-reader-text' for='input_123_3'></label><div class='ginput_container ginput_container_text'><input name='input_3' id='input_123_3' type='text' value='https://www.sunjournal.com/2005/08/29/californians-flee-wildfire/' class='medium' aria-invalid="false" /> </div></li><li id="field_123_4" class="gfield field_sublabel_below field_description_below gfield_visibility_hidden" data-js-reload="field_123_4"><div class='admin-hidden-markup'><i class='gform-icon gform-icon--hidden'></i><span>Hidden</span></div><label class='gfield_label screen-reader-text' for='input_123_4'></label><div class='ginput_container ginput_container_text'><input name='input_4' id='input_123_4' type='text' value='Daily ' class='medium' aria-invalid="false" /> </div></li><li id="field_123_5" class="gfield field_sublabel_below field_description_below gfield_visibility_visible" data-js-reload="field_123_5"><label class='gfield_label' for='input_123_5'>CAPTCHA</label><div id='input_123_5' class='ginput_container ginput_recaptcha' data-sitekey='6Le40PcUAAAAAH4qQB4j0xno_zxDty1fo8ykci_9' data-theme='light' data-tabindex='0' data-badge=''></div></li><li id="field_123_6" class="gfield gform_validation_container field_sublabel_below field_description_below gfield_visibility_visible" data-js-reload="field_123_6"><label class='gfield_label' for='input_123_6'>Comments</label><div class='ginput_container'><input name='input_6' id='input_123_6' type='text' value='' /></div><div class='gfield_description' id='gfield_description_123_6'>This field is for validation purposes and should be left unchanged.</div></li></ul></div>
+<div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_123' class='gform_button button' value='Submit' onclick='if(window["gf_submitting_123"]){return false;}  window["gf_submitting_123"]=true;  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_123"]){return false;} window["gf_submitting_123"]=true;  jQuery("#gform_123").trigger("submit",[true]); }' />
+<input type='hidden' class='gform_hidden' name='is_submit_123' value='1' />
+<input type='hidden' class='gform_hidden' name='gform_submit' value='123' />
+<input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+<input type='hidden' class='gform_hidden' name='state_123' value='WyJbXSIsIjljZDljOTdiMWYwNDE1YjFjYTk1Y2UxOWM4NDk4MGUzIl0=' />
+<input type='hidden' class='gform_hidden' name='gform_target_page_number_123' id='gform_target_page_number_123' value='0' />
+<input type='hidden' class='gform_hidden' name='gform_source_page_number_123' id='gform_source_page_number_123' value='1' />
+<input type='hidden' name='gform_field_values' value='' />
+</div>
+</form>
+</div></li>
+<li id="acm_ad_zones-5" class="widget acm_ad_zones"><div id="pos_3_btf_300x250_300x600-wrap" class="ad-wrapper"><div id="pos_3_btf_300x250_300x600"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('pos_3_btf_300x250_300x600'); });</script></div></div></li>
+<div id="most-read-single">
+<div class="featured-header">
+Most read stories </div>
+<div id="most-read-box">
+<ul>
+<li>
+<h3>
+<a href="https://www.sunjournal.com/2023/02/05/the-final-act-for-lewistons-the-cage/">
+The final act for Lewiston’s The Cage </a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="https://www.sunjournal.com/2023/02/04/cheerleading-biddeford-claims-class-a-south-title/">
+Cheerleading: Oxford Hills, Lisbon/St. Dom&#039;s win regional titles </a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="https://www.sunjournal.com/2023/02/05/maine-streakers-running-every-day-because-they-want-to-there-just-hasnt-been-a-reason-to-stop/">
+Maine streakers: Running every day because they want to </a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="https://www.sunjournal.com/2023/02/04/fires-in-central-western-maine-highlight-cold-snap/">
+Fires in Lisbon and Norway highlight cold snap </a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="https://www.sunjournal.com/2023/02/04/maine-cabin-master-project-puts-local-nonprofit-in-the-spotlight/">
+Maine Cabin Master project puts local nonprofit in the spotlight </a>
+</h3>
+</li>
+</ul>
+</div>
+</div>
+<li id="acm_ad_zones-7" class="widget acm_ad_zones"><div id="pos_btf_8_300x250-wrap" class="ad-wrapper"><div id="pos_btf_8_300x250"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('pos_btf_8_300x250'); });</script></div></div></li>
+<li id="acm_ad_zones-9" class="widget acm_ad_zones"></li>
+</ul>
+</div>
+</div> 
+</div>
+</div> 
+</div> 
+<div class="mtm-footer active-widgets">
+<div class="mtm-footer-inner">
+<div class="TopPart">
+<div class="footer-logo">
+<img src="https://multifiles.pressherald.com/uploads/sites/11/2018/12/sj-logo-sm.png" width="225" height="40" alt="Lewiston Sun Journal" />
+</div>
+<div class="footer-logo-white">
+<div class="mtm-mobile-footer-menu"></div>
+<img src="" alt="Lewiston Sun Journal" />
+</div>
+<div class="mtm-footer-social__links">
+<a href="https://www.facebook.com/sunjournal/" target="_blank"><img src="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/images/fb-reverse.png" alt="facebook" /></a>
+<a href="https://twitter.com/sunjournal" target="_blank"><img src="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/images/tw-reverse.png" alt="twitter" /></a>
+<a href="https://www.instagram.com/sunjournal/" target="_blank"><img src="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/images/gram.png" alt="Instagram" /></a>
+<a href="https://www.youtube.com/channel/UCZK14j2gmx8YHEWZ8uDk6UA" target="_blank"><img src="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/images/youtube-reverse.png" alt="youtube" /></a>
+<a href="https://www.linkedin.com/company/sun-journal/" target="_blank"><img src="https://www.sunjournal.com/wp-content/themes/mainetoday/assets/images/li-reverse.png" alt="linkedin" /></a>
+</div>
+</div>
+<div class="footer-widgets clearfix">
+<div id="nav_menu-6" class="widget widget_nav_menu"><h2 class="widgettitle">Contact us</h2>
+<div class="menu-footer-contact-us-container"><ul id="menu-footer-contact-us" class="menu"><li id="menu-item-8881110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8881110 depth-0"><a href="https://www.sunjournal.com/contact/">Staff Directory</a></li>
+<li id="menu-item-8881106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8881106 depth-0"><a href="https://www.sunjournal.com/aboutus/">About the Sun Journal</a></li>
+<li id="menu-item-10590998" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10590998 depth-0"><a href="https://www.sunjournal.com/about-masthead-maine/">About Masthead Maine</a></li>
+<li id="menu-item-8881114" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8881114 depth-0"><a href="https://www.sunjournal.com/submit-news-tip/">Send a News Tip</a></li>
+<li id="menu-item-8881130" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8881130 depth-0"><a href="https://www.sunjournal.com/letters-to-the-editor/">Send a Letter to the Editor</a></li>
+<li id="menu-item-8881134" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8881134 depth-0"><a href="https://www.sunjournal.com/press-releases/">Send a Press Release</a></li>
+<li id="menu-item-8881138" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8881138 depth-0"><a href="https://www.sunjournal.com/announcement/">Send an Announcement</a></li>
+<li id="menu-item-8881142" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8881142 depth-0"><a href="https://www.sunjournal.com/events-calendar/#!/">Add an Event</a></li>
+<li id="menu-item-8881146" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8881146 depth-0"><a href="https://www.sunjournal.com/ask-sun-spots/">Ask Sun Spots</a></li>
+</ul></div></div><div id="nav_menu-2" class="widget widget_nav_menu"><h2 class="widgettitle">Subscribers</h2>
+<div class="menu-footer-subscribers-container"><ul id="menu-footer-subscribers" class="menu"><li id="menu-item-10257209" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10257209 depth-0"><a href="https://myaccount.sunjournal.com">Manage Your Account</a></li>
+<li id="menu-item-10257212" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10257212 depth-0"><a href="https://myaccount.sunjournal.com/smg_sj/complaint">Log a Delivery Issue</a></li>
+<li id="menu-item-9431722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9431722 depth-0"><a href="https://www.sunjournal.com/benefits/">Subscriber Benefits</a></li>
+<li id="menu-item-8881162" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8881162 depth-0"><a href="https://www.sunjournal.com/epaper">Access ePaper</a></li>
+<li id="menu-item-10389947" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10389947 depth-0"><a href="/archives">Search Archives</a></li>
+<li id="menu-item-9243679" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-9243679 depth-0"><a href="https://www.sunjournal.com/mobile-apps/" aria-current="page">Mobile Apps</a></li>
+<li id="menu-item-8877974" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8877974 depth-0"><a href="https://www.sunjournal.com/subscribe-faqs/">FAQs</a></li>
+</ul></div></div><div id="nav_menu-3" class="widget widget_nav_menu"><h2 class="widgettitle">Connect with us</h2>
+<div class="menu-footer-connect-with-us-container"><ul id="menu-footer-connect-with-us" class="menu"><li id="menu-item-10004646" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10004646 depth-0"><a href="https://www.sunjournal.com/newsletters/">Email Newsletters</a></li>
+<li id="menu-item-8881090" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8881090 depth-0"><a href="https://www.facebook.com/sunjournal">Facebook</a></li>
+<li id="menu-item-8881094" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8881094 depth-0"><a href="https://www.instagram.com/sunjournal/#">Instagram</a></li>
+<li id="menu-item-8881098" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8881098 depth-0"><a href="https://twitter.com/sunjournal">Twitter</a></li>
+<li id="menu-item-8881102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8881102 depth-0"><a href="https://www.youtube.com/sunjournal">YouTube</a></li>
+</ul></div></div><div id="nav_menu-4" class="widget widget_nav_menu"><h2 class="widgettitle">Advertise</h2>
+<div class="menu-footer-advertise-container"><ul id="menu-footer-advertise" class="menu"><li id="menu-item-8877994" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8877994 depth-0"><a href="https://www.sunjournal.com/advertise/">Advertise with Us</a></li>
+<li id="menu-item-8877998" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8877998 depth-0"><a href="https://www.sunjournal.com/contact-advertising/">Contact Advertising</a></li>
+<li id="menu-item-8881702" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8881702 depth-0"><a href="https://www.sunjournal.com/submit-an-obituary/">Submit an Obituary</a></li>
+</ul></div></div><div id="nav_menu-5" class="widget widget_nav_menu"><h2 class="widgettitle">Network</h2>
+<div class="menu-footer-network-container"><ul id="menu-footer-network" class="menu"><li id="menu-item-10274960" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10274960 depth-0"><a href="https://www.sunjournal.com/career-opportunities/">Work Here</a></li>
+<li id="menu-item-8880998" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8880998 depth-0"><a href="http://www.centralmaine.com">Centralmaine.com</a></li>
+<li id="menu-item-8881002" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8881002 depth-0"><a href="http://www.pressherald.com">Pressherald.com</a></li>
+<li id="menu-item-9337842" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9337842 depth-0"><a href="https://www.pressherald.com/times-record/">Timesrecord.com</a></li>
+<li id="menu-item-10274963" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10274963 depth-0"><a href="https://www.varsitymaine.com/">Varsitymaine.com</a></li>
+<li id="menu-item-8881006" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8881006 depth-0"><a href="https://www.sunjournal.com/weeklies/advertiser-democrat/">Advertiser Democrat</a></li>
+<li id="menu-item-8881010" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8881010 depth-0"><a href="https://www.sunjournal.com/weeklies/the-bethel-citizen/">Bethel Citizen</a></li>
+<li id="menu-item-8881022" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8881022 depth-0"><a href="https://www.sunjournal.com/weeklies/the-franklin-journal/">Franklin Journal</a></li>
+<li id="menu-item-8881070" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8881070 depth-0"><a href="https://www.sunjournal.com/weeklies/livermore-falls-advertiser/">Livermore Falls Advertiser</a></li>
+<li id="menu-item-8881078" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8881078 depth-0"><a href="https://www.sunjournal.com/weeklies/rangeley-highlander/">Rangeley Highlander</a></li>
+<li id="menu-item-8881082" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8881082 depth-0"><a href="https://www.sunjournal.com/weeklies/rumford-falls-times/">Rumford Falls Times</a></li>
+</ul></div></div><div id="custom_html-21" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><style>
+	
+	.mtm-footer.active-widgets .widget.widget_custom_html {
+     margin-bottom: 0px; 
+}
+	
+	@media only screen and (max-width: 560px) {
+	.main-menu-togglers::after{
+    display:none;
+  }
+		
+		
+	}
+	
+</style>
+<script>
+		jQuery(function(){
+	jQuery(".buy-photo").click(function(event){
+		var href= jQuery(this).attr('href');
+		window.open( 
+             href, "_blank"); 
+		event.stopPropagation();
+		
+});
+	});
+	
+	
+	var linkRewriter = function(a, b) {
+   jQuery('a[href*="' + a + '"]').each(function() {
+        jQuery(this).attr('href', jQuery(this).attr('href').replace(a, b));
+    });
+};
+jQuery(function(){
+linkRewriter('mainetoday.mycapture.com', 'sunjournal.mycapture.com');
+});
+	
+	
+	
+	
+</script>
+<script>
+
+	
+	
+function emailSubmission(){
+    jQuery(".paywall-module  .signup").empty().html("<div id='emailConfirm'><b>Thanks for signing up. Check your email for an activation link.</b></div>");  
+ }
+
+</script>
+<style>
+	
+		
+	.subscribe-banner-btn a{
+		background-color:#f90;
+		
+	}
+	
+		p.wp-caption-text span.wp-caption-text {
+    position: relative;
+    padding: 0px;
+    background: #f1f1f1;
+    color: #222;
+    font-family: "Open sans",sans-serif;
+    font-size: 12px;
+    border-bottom: 0px solid #e1e1e1;
+    z-index: 100;
+}
+	
+	
+	.menu-item-8878274 {
+		visibility: hidden;
+	}
+	.menu-item-8878282 {
+		visibility: hidden;
+	}
+	.ticker{
+		width:800px !important;
+		max-width:100% !important;
+	}
+	.ticker-wrapper.has-js{
+		width:100% !important;
+	}
+	
+	.ticker-content{
+		position:relative !important;
+		left:30px !important;
+		width:auto !important;
+		max-width:100% !important;
+		
+	}
+	.fixed-top{
+		visibility:visible !important;
+		display:block !important;
+		
+	}
+	
+	.mtm-article-full-width header{width:100%}
+	
+	
+	
+	
+	li.menu-item>ul.sub-menu {
+		text-transform: none !important;
+	}
+	
+
+</style>
+<style>
+	.mtm-bottom-col .title-label {
+		max-width: 92.5%;
+	} 
+  .title-label {
+		max-width: 87.5%;
+	} 
+</style>
+<style>
+ 
+	
+	
+	
+	.ticker-container {
+		max-height: 60px;
+	}
+	
+	.article-sidebar h3 {
+   padding: 0 0 0 10px;
+}
+	
+	.mtm-small-main-col-right .mtm-newslist li a.category-link {
+   		color: #fff;
+ }
+	.weekly-newsletter-btn {
+		background-color: #444;
+	}
+.weekly-title {
+    padding-top: 2px;
+	  font-size:13px !important;
+}
+	.weekly-news-bar li {
+    font-size: 13px !important;
+		letter-spacing:-.5px
+	}
+</style>
+<script>
+
+	
+	// Retrieve my current url parameters
+function getParameter(theParameter) {
+  var params = window.location.search.substr(1).split('&');
+  for (var i = 0; i < params.length; i++) {
+    var p=params[i].split('=');
+     if (p[0] == theParameter) {
+      return decodeURIComponent(p[1]);
+    }
+  }
+  return false;
+}
+var url_src = getParameter('utm_source');
+var  url_mdm = getParameter('utm_medium');
+var  url_cpn = getParameter('utm_campaign')
+	
+jQuery(function(){
+	if(url_cpn === "Daily"){
+		
+		document.cookie = "pum-9410942=; expires=Sat, 01 Jan 2022 00:00:00 UTC; path=/;"
+		
+	}
+	
+	
+})
+	
+	
+
+	
+	
+	
+
+</script>
+<noscript>
+	<style>
+.post-content, .mtm-article{display:none;}
+</style>
+</noscript>
+</div></div><div id="custom_html-35" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><style>
+	div[id^='adslot']{
+		
+				width: auto !important;
+
+	}
+	
+	@media screen and (max-width: 800px){
+	.trending-btn-container a {
+		width: 49% !important;
+	} 
+}
+@media screen and (max-width: 400px){
+	.main-menu-togglers::after{
+		content: none !important;
+	}
+}
+</style></div></div><div id="custom_html-36" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><script>
+	/**
+	 * Hide paywall login buttons when the paywall is undefined
+	 */
+	(function($, undefined){
+   'use strict';
+
+   $(init);
+
+   function init(){
+      if( typeof paywall === 'undefined' ){
+         $('.login-btn').hide();
+      }
+   }
+
+   return {};
+}(jQuery));
+</script></div></div><div id="custom_html-49" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget">
+
+<script type="text/javascript">
+(function( $, undefined ){
+   'use strict';
+
+   var inter;
+
+   $(init);
+
+   function init(){
+      var $body = $('body');
+
+      inter = setInterval(function(){
+         if( $body.hasClass('talk-closed-comments') || $body.hasClass('talk-closed-comments')){
+            clearInterval(inter);
+            $body.removeClass('talk-closed-comments');
+         }
+      }, 500);
+   }
+
+   return {};
+}(jQuery));
+	
+	
+
+</script>
+</div></div><div id="custom_html-53" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget">
+<style>
+	@media only screen and (max-width: 550px){
+body .subscribe-banner-btn #MG2MyAccount a, body .subscribe-banner-btn #MG2Subscribe a {
+     display: block !important;
+	padding: 8px 4px
+}
+	}
+	
+body	.main-menu-togglers {
+
+    min-width: 155px;
+}
+	
+	.buy-photo{display:none !important;}
+		.mtm-featured-package-c .top-comment-count {
+    display: block;
+}
+	
+	.mtm-featured-package-c .mtm-newslist .top-comment-count {
+    display: none!important;
+}
+	
+	body .article, body .article p {
+    font-family: "PT Serif",serif !important;
+}
+	body{
+		counter-reset:line;
+	}
+	
+	.mtm-top-stories-masonry	.related li{
+		width:95% !important;
+	}
+	.ad-wrapper.header-ad-2{
+width:200px;
+}
+.trending-float{
+  width:66% !important;
+}
+		#hidepp{display:none}
+	.wp-embedded-content{width:100%}
+	.mtm-main-col .mtm-top-stories-masonry .related{
+		width:100%;
+	}
+</style>
+<style>
+/* CSS for fixing hamburg menu subscribercolors	 */
+	
+	ul#utility-menu li.subscribe-nav .sub-menu a{
+  color:#000 !important;
+}
+	
+	ul#utility-menu li.myaccount-nav ul li a{
+  color:#222 !important;
+}
+</style></div></div><div id="custom_html-55" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget">
+<script>
+
+
+$('.comment-logout__btn').on('click', function(){
+    document.cookie = "MTM_talk={}; path=/; domain=.www.sunjournal.com; expires=" + (new Date()).toGMTString();
+});
+
+
+</script></div></div><div id="custom_html-56" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><script>
+	
+(function($, undefined){
+    var data = {
+        name: 'Guest',
+        type: 'promotion'
+    };
+
+    var expires = new Date();
+
+    if(document.cookie.match(/mspan_paywall_user/i)){
+        return;
+    }
+
+    expires.setDate(21);
+    expires.setMonth(7);
+    expires.setHours(23);
+    expires.setMinutes(59);
+
+    if(window.location.search.match(/promotion=balloons/i)){
+        document.cookie = "MSPAN_Paywall_user=" + encodeURIComponent(JSON.stringify(data)) + "; expires=" + expires.toGMTString() + "; path=/; domain=.sunjournal.com";
+    }
+}(jQuery));
+
+</script></div></div><div id="custom_html-57" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget">
+<script>
+var MTM_Paywall_Promotions = (function(cookies, undefined){
+    'use strict';
+
+    init();
+
+    function init(){
+        var all_promotions = [];
+        var user_cookie = findMSPANCookie();
+        var expire = new Date();
+
+        if( ! user_cookie ){
+            return;
+        }
+    
+        if( 'undefined' === typeof user_cookie['type'] ){
+            return;
+        }
+    
+        if('promotion' === user_cookie['type']){
+
+            expire.setFullYear(expire.getFullYear() + 1);
+            
+            all_promotions.push(user_cookie['type']);
+            document.cookie = 'MSPAN_Paywall_Promotions=' + JSON.stringify(all_promotions) + '; path=/; expires=' + expire.toGMTString();
+        }
+        return;
+    }    
+
+    function findMSPANCookie(){
+        for(var i = 0; i < cookies.length; i++){
+            if(cookies[i].trim().match(/MSPAN_Paywall_user/i)){
+                try{
+                    return JSON.parse(decodeURIComponent(cookies[i].split('=')[1]));
+                }catch(ex){
+                    return false;
+                }
+            }
+        }
+        return false;
+    }
+
+    return {
+        get: function(){
+            return findMSPANCookie();
+        }
+    };
+
+}(document.cookie.split(';')));
+</script></div></div><div id="custom_html-58" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><style>
+.smugmug-link + .smugmug-link{
+  display:none;
+}
+</style>
+<script>
+function MSPANcookieAccount() {
+    try{
+        return document.cookie.match(/auth0_sub\=auth0\|([\w\d\|]+);/i)[1];
+    }catch(ex){
+        console.warn('cannot regex cookie');
+        return 0;
+    }
+}
+	
+MSPANcookieAccount = function(){ return -1; }
+</script>
+
+<style type="text/css">
+.injectable-ad-slot iframe{
+  margin: 0 auto;
+  display: block;
+  width: auto;
+}
+</style></div></div><div id="custom_html-59" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget">
+
+<script type="text/javascript">
+(function($, undefined){
+
+    var checkerInter;
+    var counter = 0;
+
+    $(init);
+
+    function init(){
+        $('body').addClass('notHasInlineAds');
+        checkerInter = setInterval(function(){
+            if( 'undefined' !== typeof adTargetName){
+                clearInterval(checkerInter);
+                $('body').addClass('hasInlineAds');
+                $('body').removeClass('notHasInlineAds');
+            }
+
+            if(counter++ === 10){
+                clearInterval(checkerInter);     
+            }
+        }, 1000);
+    }
+
+}(jQuery));
+</script>
+<style>
+body.notHasInlineAds span.before-injected-ad{
+    display: none;
+}
+	.single-col .sub-menu {
+    width: 200px;
+    grid-template-columns: unset !important;
+    grid-template-rows: none !important;
+    
+}
+</style></div></div><div id="custom_html-68" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="sitename" style="display:none">
+
+</div></div></div> </div>
+<div class="Copyright footer-menu">
+<div class="menu-section-footer-container"><ul id="menu-section-footer" class="menu"><li id="menu-item-9431770" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9431770 depth-0"><a href="https://www.sunjournal.com/privacypolicy/">Privacy Policy</a></li>
+<li id="menu-item-9431774" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9431774 depth-0"><a href="https://www.sunjournal.com/cookie-policy/">Cookie Policy</a></li>
+<li id="menu-item-9431782" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9431782 depth-0"><a href="https://www.sunjournal.com/terms-service/">Terms of Service</a></li>
+<li id="menu-item-9431786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9431786 depth-0"><a href="https://www.sunjournal.com/commenting-terms/">Commenting Terms</a></li>
+<li id="menu-item-9431790" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9431790 depth-0"><a href="https://www.mainenotices.com/?utm_source=centralmaine.com&#038;utm_medium=referral&#038;utm_campaign=menu">Public Notices</a></li>
+<li id="menu-item-9431794" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9431794 depth-0"><a href="https://www.sunjournal.com/buyphotos">Photo Store</a></li>
+<li id="menu-item-10255214" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10255214 depth-0"><a href="https://store.masthead.me/collections/sun-journal">Merch Store</a></li>
+<li id="menu-item-10389734" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10389734 depth-0"><a href="/archives">Archives</a></li>
+</ul></div> </div>
+</div>
+</div>
+<div class="mtm-footer-social">
+<div class="mtm-footer-social__copyright">
+<span class="copyright">&copy; 2023</span>
+| <span class="rights">All Rights Reserved</span>
+| <strong class="blog-name">Lewiston Sun Journal</strong>
+
+
+</div>
+</div>
+<div id='posfHolder'>
+<div id="fCloseBtn">X</div>
+<div id="pos_f_320x50">
+<script>
+ googletag.cmd.push(function() { googletag.display('pos_f_320x50'); });
+</script>
+</div>
+</div>
+<div class="mtm-login-skin" style="">
+</div>
+<script type='text/javascript' id='wp-parsely-loader-js-before'>
+window.wpParselyApiKey = 'sunjournal.com';
+</script>
+<script type='text/javascript' src='https://www.sunjournal.com/wp-content/plugins/wp-parsely/build/loader.js?ver=11d36be1108ae9f257cd' id='wp-parsely-loader-js'></script>
+<script type='text/javascript' data-parsely-site="sunjournal.com" src='https://cdn.parsely.com/keys/sunjournal.com/p.js?ver=3.6.1' id="parsely-cfg"></script>
+<script type='text/javascript' src='https://www.sunjournal.com/wp-content/plugins/enable-jquery-migrate-helper/js/jquery-ui/core.min.js?ver=1.11.4-wp' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://www.sunjournal.com/wp-content/plugins/enable-jquery-migrate-helper/js/jquery-ui/widget.min.js?ver=1.11.4-wp' id='jquery-ui-widget-js'></script>
+<script type='text/javascript' src='https://www.sunjournal.com/wp-content/plugins/enable-jquery-migrate-helper/js/jquery-ui/tabs.min.js?ver=1.11.4-wp' id='jquery-ui-tabs-js'></script>
+<script type='text/javascript' src='https://www.sunjournal.com/wp-content/plugins/enable-jquery-migrate-helper/js/jquery-ui/effect.min.js?ver=1.11.4-wp' id='jquery-effects-core-js'></script>
+<script type='text/javascript' src='https://www.sunjournal.com/wp-content/plugins/enable-jquery-migrate-helper/js/jquery-ui/effect-slide.min.js?ver=1.11.4-wp' id='jquery-effects-slide-js'></script>
+<script type='text/javascript' src='https://www.sunjournal.com/wp-content/plugins/enable-jquery-migrate-helper/js/jquery-ui/position.min.js?ver=1.11.4-wp' id='jquery-ui-position-js'></script>
+<script type='text/javascript' src='https://www.sunjournal.com/wp-content/plugins/enable-jquery-migrate-helper/js/jquery-ui/menu.min.js?ver=1.11.4-wp' id='jquery-ui-menu-js'></script>
+<script type='text/javascript' id='jquery-ui-autocomplete-js-extra'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.sunjournal.com/wp-content/plugins/enable-jquery-migrate-helper/js/jquery-ui/autocomplete.min.js?ver=1.11.4-wp' id='jquery-ui-autocomplete-js'></script>
+<script type='text/javascript' id='mtm-js-extra'>
+/* <![CDATA[ */
+var MTMMailChimp = {"nonce":"c17cbb068e","action":"mtm_mailchimp_subscribe","ajaxurl":"https:\/\/www.sunjournal.com\/wp-admin\/admin-ajax.php"};
+var mtmSettings = {"isSingular":"true","isHome":"false","isComments":"false","url":"https:\/\/www.sunjournal.com","restrictedComments":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.sunjournal.com/wp-content/themes/mainetoday/assets/js/mainetoday.min.js?ver=1673871062' id='mtm-js'></script>
+<script type='text/javascript' src='https://www.sunjournal.com/wp-content/plugins/enable-jquery-migrate-helper/js/jquery-ui/datepicker.min.js?ver=1.11.4-wp' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://www.sunjournal.com/wp-content/themes/mainetoday/assets/js/mtm-datepicker.js?ver=1.0' id='mtm-datepicker-js'></script>
+<script type='text/javascript' src='https://www.sunjournal.com/wp-includes/js/underscore.min.js?ver=1.13.1' id='underscore-js'></script>
+<script type='text/javascript' id='wp-util-js-extra'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.sunjournal.com/wp-includes/js/wp-util.min.js?ver=5.9.5' id='wp-util-js'></script>
+<script type='text/javascript' src='https://www.sunjournal.com/wp-content/themes/mainetoday/assets/js/obits-search.js?ver=1673278891' id='obits-search-js'></script>
+<script type='text/javascript' src='https://www.sunjournal.com/wp-content/themes/mainetoday/assets/js/vendor/prebid.js?ver=1611861787' id='ad-prebid-js'></script>
+<script type='text/javascript' id='elasticpress-autosuggest-js-extra'>
+/* <![CDATA[ */
+var epas = {"query":"{\"from\":0,\"size\":10,\"sort\":[{\"_score\":{\"order\":\"desc\"}}],\"query\":{\"bool\":{\"should\":[{\"bool\":{\"must\":[{\"bool\":{\"should\":[{\"multi_match\":{\"query\":\"ep_autosuggest_placeholder\",\"type\":\"phrase\",\"fields\":[\"post_title^1\",\"post_excerpt^1\",\"post_content^1\",\"post_author.display_name^1\",\"terms.post_tag.name^1\",\"terms.category.name^1\",\"terms.ep_custom_result.name^9999\",\"post_title.suggest^1\",\"term_suggest^1\"],\"boost\":5,\"slop\":5}}]}}],\"filter\":[{\"match\":{\"post_type.raw\":\"post\"}}]}},{\"bool\":{\"must\":[{\"bool\":{\"should\":[{\"multi_match\":{\"query\":\"ep_autosuggest_placeholder\",\"type\":\"phrase\",\"fields\":[\"post_title^1\",\"post_excerpt^1\",\"post_content^1\",\"post_author.display_name^1\",\"terms.ep_custom_result.name^9999\",\"post_title.suggest^1\",\"term_suggest^9998\"],\"boost\":5,\"slop\":5}}]}}],\"filter\":[{\"match\":{\"post_type.raw\":\"page\"}}]}},{\"bool\":{\"must\":[{\"bool\":{\"should\":[{\"multi_match\":{\"query\":\"ep_autosuggest_placeholder\",\"type\":\"phrase\",\"fields\":[\"post_title^1\",\"post_excerpt^1\",\"post_content^1\",\"post_author.display_name^1\",\"terms.post_tag.name^1\",\"terms.category.name^1\",\"terms.ep_custom_result.name^9999\",\"post_title.suggest^1\",\"term_suggest^1\"],\"boost\":5,\"slop\":5}}]}}],\"filter\":[{\"match\":{\"post_type.raw\":\"mtm_asset\"}}]}},{\"bool\":{\"must\":[{\"bool\":{\"should\":[{\"multi_match\":{\"query\":\"ep_autosuggest_placeholder\",\"type\":\"phrase\",\"fields\":[\"post_title^1\",\"post_excerpt^1\",\"post_content^1\",\"post_author.display_name^1\",\"terms.post_tag.name^1\",\"terms.category.name^1\",\"terms.ep_custom_result.name^9999\",\"post_title.suggest^1\",\"term_suggest^1\"],\"boost\":5,\"slop\":5}}]}}],\"filter\":[{\"match\":{\"post_type.raw\":\"mtm_interactive\"}}]}}]}},\"post_filter\":{\"bool\":{\"must\":[{\"terms\":{\"post_type.raw\":[\"post\",\"page\",\"mtm_asset\",\"mtm_interactive\"]}},{\"term\":{\"post_status\":\"publish\"}}]}}}","placeholder":"ep_autosuggest_placeholder","endpointUrl":"https:\/\/mtm2prod.clients.hosted-elasticpress.io\/mtm2prod-sunjournalcom-post-11\/autosuggest","selector":"ep-autosuggest","defaultSelectors":".ep-autosuggest, input[type=\"search\"], .search-field","action":"navigate","mimeTypes":[],"http_headers":[],"triggerAnalytics":"","addSearchTermHeader":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.sunjournal.com/wp-content/plugins/elasticpress/dist/js/autosuggest-script.min.js?ver=3.6.6' id='elasticpress-autosuggest-js'></script>
+<script type='text/javascript' src='https://www.sunjournal.com/wp-content/plugins/lazy-load/js/jquery.sonar.min.js?ver=0.7' id='jquery-sonar-js'></script>
+<script type='text/javascript' src='https://www.sunjournal.com/wp-content/plugins/lazy-load/js/lazy-load.js?ver=0.7' id='wpcom-lazy-load-images-js'></script>
+<script type='text/javascript' src='https://www.sunjournal.com/wp-content/themes/mainetoday-sunjournal/assets/js/mtm-child.min.js?ver=1673278891' id='mainetoday_sunjournal-js'></script>
+<script type='text/javascript' src='https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=5.9.5' async='async' id='remote_sdk-js'></script>
+<script type="text/javascript">
+gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 123) {gf_global["number_formats"][123] = {"1":{"price":false,"value":false},"2":{"price":false,"value":false},"3":{"price":false,"value":false},"4":{"price":false,"value":false},"5":{"price":false,"value":false},"6":{"price":false,"value":false}};if(window['jQuery']){if(!window['gf_form_conditional_logic'])window['gf_form_conditional_logic'] = new Array();window['gf_form_conditional_logic'][123] = { logic: { 5: {"field":{"enabled":true,"actionType":"show","logicType":"all","rules":[{"fieldId":"2","operator":"contains","value":"@"}]},"nextButton":null,"section":null} }, dependents: { 5: [5] }, animation: 0, defaults: {"3":"https:\/\/www.sunjournal.com\/2005\/08\/29\/californians-flee-wildfire\/","4":"Daily "}, fields: {"1":[],"2":[5],"3":[],"4":[],"5":[],"6":[]} }; if(!window['gf_number_format'])window['gf_number_format'] = 'decimal_dot';jQuery(document).ready(function(){window['gformInitPriceFields']();gf_apply_rules(123, [5], true);jQuery('#gform_wrapper_123').show();jQuery(document).trigger('gform_post_conditional_logic', [123, null, true]);} );} if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } );
+</script>
+<script type="text/javascript">
+gform.initializeOnLoaded( function() { jQuery(document).trigger('gform_post_render', [123, 1]) } );
+</script>
+<script type="text/javascript">
+
+      var user_state = "none";
+      var isStage = /^stage/.test(window.location.host);
+      var prodstate = "prod";
+      var clientid = "k7iOQMObRszZEujcsa1ZPwWFrXW2q6T4";
+      var authdomain = "masthead-prod.us.auth0.com";
+      var mgdebug = false;
+
+      if (isStage){
+        prodstate = "stage";
+        authdomain = "masthead-dev.us.auth0.com";
+        clientid = "9Us5GzGyisWRDxBf5KZROabJcccjMBrG";
+        mgdebug = true; 
+      } 
+
+      MG2Loader.init({
+      plugins: [{
+        name: "FP",
+        initOptions: {
+          version: "masthead",
+          environment: prodstate
+        }
+      }, {
+        name: "DL",
+        initOptions: {
+          version: "masthead",
+          collectors: ["connext"],
+          tagManager: "GTM",
+          containerId: "GTM-WKNP65V"
+        }
+      }, {
+        name: "NXT",
+        initOptions: {
+          clientCode: "masthead",
+          environment: prodstate,
+          siteCode: "SJ",
+          configCode: "SJ_config",
+          settingsKey: "SMG_SJ",
+           checkUserDataEveryPageload: true,
+          debug: mgdebug,
+          silentmode: true,
+          authSettings: {
+            domain: authdomain,
+            client_id: clientid,
+            redirect_uri: "https://"+location.host +"/success/"    //example: https://www.websitedomain.com/login
+          },
+          publicEventHandlers: {
+            onNotAuthorized: function(eventData) {
+                var now = new Date();
+                
+                user_state = "loggedout";
+    
+                jQuery('[id="MG2Login"]').show();
+                jQuery('[id="MG2Subscribe"]').show();
+                jQuery('[id="MG2MyAccount"]').hide();
+                jQuery('[id="MG2Logout"]').hide();
+                MTM_Share_Link.init();
+
+            },
+            onAuthorized: function(eventData) {
+                user_state = "registered";
+
+              
+
+                jQuery('[id="MG2Login"]').hide();
+                jQuery('[id="MG2Subscribe"]').show();
+                jQuery('[id="MG2MyAccount"]').hide();
+                jQuery('[id="MG2Logout"]').show();
+                MTM_Share_Link.init();
+                
+            },
+            onHasNoActiveSubscription: function(eventData) {
+                user_state = "inactive";
+
+
+                jQuery('[id="MG2Login"]').hide();
+                jQuery('[id="MG2Subscribe"]').show();
+                jQuery('[id="MG2MyAccount"]').hide();
+                jQuery('[id="MG2Logout"]').show();
+                MTM_Share_Link.init();
+
+            },
+            onHasAccessNotEntitled: function(eventData) {
+                user_state = "notentitled";
+                //not used	
+                jQuery('[id="MG2Login"]').show();
+                jQuery('[id="MG2Subscribe"]').show();
+                jQuery('[id="MG2MyAccount"]').hide();
+                jQuery('[id="MG2Logout"]').hide();
+                MTM_Share_Link.init();
+
+            },
+            onHasAccess: function(eventData) {
+                user_state = "subscribed";
+
+                jQuery('[id="MG2Login"]').hide();
+                jQuery('[id="MG2Subscribe"]').hide();
+                jQuery('[id="MG2MyAccount"]').show();
+                jQuery('[id="MG2Logout"]').show();
+                MTM_Share_Link.init();
+
+        
+            }
+        }
+        }
+      }]
+    });
+
+</script>
+<script type="text/javascript">
+      (function(e,t,o,n,p,r,i){e.visitorGlobalObjectAlias=n;e[e.visitorGlobalObjectAlias]=e[e.visitorGlobalObjectAlias]||function(){(e[e.visitorGlobalObjectAlias].q=e[e.visitorGlobalObjectAlias].q||[]).push(arguments)};e[e.visitorGlobalObjectAlias].l=(new Date).getTime();r=t.createElement("script");r.src=o;r.async=true;i=t.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)})(window,document,"https://diffuser-cdn.app-us1.com/diffuser/diffuser.js","vgo");
+      vgo('setAccount', '476767297');
+      vgo('setTrackByDefault', true);
+
+      vgo('process');
+    </script>
+</body>
+</html>

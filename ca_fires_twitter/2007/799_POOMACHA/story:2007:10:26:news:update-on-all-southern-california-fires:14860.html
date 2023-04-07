@@ -1,0 +1,827 @@
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<script data-ezscrex='false' data-cfasync='false' data-pagespeed-no-defer>var __ez=__ez||{};__ez.stms=Date.now();__ez.evt={};__ez.script={};__ez.ck=__ez.ck||{};__ez.template={};__ez.template.isOrig=false;__ez.queue=function(){var e=0,i=0,t=[],n=!1,s=[],r=[],o=!0,a=function(e,i,n,s,r,o,a){var l=this;this.name=e,this.funcName=i,this.parameters=null===n?null:n instanceof Array?n:[n],this.isBlock=s,this.blockedBy=r,this.deleteWhenComplete=o,this.isError=!1,this.isComplete=!1,this.isInitialized=!1,this.proceedIfError=a,this.isTimeDelay=!1,this.process=function(){u("... func = "+e),l.isInitialized=!0,l.isComplete=!0,u("... func.apply: "+e);var i=l.funcName.split("."),n=null;i.length>3||(n=3===i.length?window[i[0]][i[1]][i[2]]:2===i.length?window[i[0]][i[1]]:window[l.funcName]),null!=n&&n.apply(null,this.parameters),!0===l.deleteWhenComplete&&delete t[e],!0===l.isBlock&&(u("----- F'D: "+l.name),f())}},l=function(e,i,t,n,s,r,o){var a=this;this.name=e,this.path=i,this.async=s,this.defer=r,this.isBlock=t,this.blockedBy=n,this.isInitialized=!1,this.isError=!1,this.isComplete=!1,this.proceedIfError=o,this.isTimeDelay=!1,this.isPath=function(e){return"/"===e[0]&&"/"!==e[1]},this.getSrc=function(e){return void 0!==window.__ezScriptHost&&this.isPath(e)?window.__ezScriptHost+e:e},this.process=function(){a.isInitialized=!0,u("... file = "+e);var i=document.createElement("script");i.src=this.getSrc(this.path),!0===s?i.async=!0:!0===r&&(i.defer=!0),i.onerror=function(){u("----- ERR'D: "+a.name),a.isError=!0,!0===a.isBlock&&f()},i.onreadystatechange=i.onload=function(){var e=i.readyState;u("----- F'D: "+a.name),e&&!/loaded|complete/.test(e)||(a.isComplete=!0,!0===a.isBlock&&f())},document.getElementsByTagName("head")[0].appendChild(i)}},c=function(e,i){this.name=e,this.path="",this.async=!1,this.defer=!1,this.isBlock=!1,this.blockedBy=[],this.isInitialized=!0,this.isError=!1,this.isComplete=i,this.proceedIfError=!1,this.isTimeDelay=!1,this.process=function(){}};function d(e){!0!==h(e)&&0!=o&&e.process()}function h(e){if(!0===e.isTimeDelay&&!1===n)return u(e.name+" blocked = TIME DELAY!"),!0;if(e.blockedBy instanceof Array)for(var i=0;i<e.blockedBy.length;i++){var s=e.blockedBy[i];if(!1===t.hasOwnProperty(s))return u(e.name+" blocked = "+s),!0;if(!0===e.proceedIfError&&!0===t[s].isError)return!1;if(!1===t[s].isComplete)return u(e.name+" blocked = "+s),!0}return!1}function u(e){var i=window.location.href,t=new RegExp("[?&]ezq=([^&#]*)","i").exec(i);"1"===(t?t[1]:null)&&console.debug(e)}function f(){++e>200||(u("let's go"),m(s),m(r))}function m(e){for(var i in e)if(!1!==e.hasOwnProperty(i)){var t=e[i];!0===t.isComplete||h(t)||!0===t.isInitialized||!0===t.isError?!0===t.isError?u(t.name+": error"):!0===t.isComplete?u(t.name+": complete already"):!0===t.isInitialized&&u(t.name+": initialized already"):t.process()}}return window.addEventListener("load",(function(){setTimeout((function(){n=!0,u("TDELAY -----"),f()}),5e3)}),!1),{addFile:function(e,i,n,o,a,c,h,u){var f=new l(e,i,n,o,a,c,h);!0===u?s[e]=f:r[e]=f,t[e]=f,d(f)},addDelayFile:function(e,i){var n=new l(e,i,!1,[],!1,!1,!0);n.isTimeDelay=!0,u(e+" ...  FILE! TDELAY"),r[e]=n,t[e]=n,d(n)},addFunc:function(e,n,o,l,c,h,u,f,m){!0===h&&(e=e+"_"+i++);var p=new a(e,n,o,l,c,u,f);!0===m?s[e]=p:r[e]=p,t[e]=p,d(p)},addDelayFunc:function(e,i,n){var s=new a(e,i,n,!1,[],!0,!0);s.isTimeDelay=!0,u(e+" ...  FUNCTION! TDELAY"),r[e]=s,t[e]=s,d(s)},items:t,processAll:f,setallowLoad:function(e){o=e},markLoaded:function(e){if(e&&0!==e.length){if(e in t){var i=t[e];!0===i.isComplete?u(i.name+" "+e+": error loaded duplicate"):(i.isComplete=!0,i.isInitialized=!0)}else t[e]=new c(e,!0);u("markLoaded dummyfile: "+t[e].name)}},logWhatsBlocked:function(){for(var e in t)!1!==t.hasOwnProperty(e)&&h(t[e])}}}();__ez.evt.add=function(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent?e.attachEvent("on"+t,n):e["on"+t]=n()},__ez.evt.remove=function(e,t,n){e.removeEventListener?e.removeEventListener(t,n,!1):e.detachEvent?e.detachEvent("on"+t,n):delete e["on"+t]};__ez.script.add=function(e){var t=document.createElement("script");t.src=e,t.async=!0,t.type="text/javascript",document.getElementsByTagName("head")[0].appendChild(t)};__ez.dot={};</script>
+<script data-ezscrex="false" data-pagespeed-no-defer data-cfasync="false" type="text/javascript">__ez.queue.addFile('fads.js', '/porpoiseant/fads.js?gcb=195-0&cb=6', true, [], true, false, false, true);</script>
+<script>var __ezaps=[{"slotID":"div-gpt-ad-villagenews_com-medrectangle-2-0","divID":"","slotName":"/1254144,22652045382/villagenews_com-medrectangle-2","sizes":[[728,90]],"floor":{"value":356,"currency":"USD"}},{"slotID":"div-gpt-ad-villagenews_com-medrectangle-4-0","divID":"","slotName":"/1254144,22652045382/villagenews_com-medrectangle-4","sizes":[[300,250]]},{"slotID":"div-gpt-ad-villagenews_com-large-leaderboard-1-0","divID":"","slotName":"/1254144,22652045382/villagenews_com-large-leaderboard-1","sizes":[[300,250]],"floor":{"value":278,"currency":"USD"}},{"slotID":"div-gpt-ad-villagenews_com-large-billboard-2-0","divID":"","slotName":"/1254144,22652045382/villagenews_com-large-billboard-2","sizes":[[300,250]],"floor":{"value":231,"currency":"USD"}}];var __ezapsVideo=[];__ezapid='aa05931b-5308-4ea3-95a2-adf84f4ffde4';</script>
+<script data-ezscrex="false" async data-pagespeed-no-defer type="text/javascript" src="/edmontonalberta/calgary.js?cb=16"></script>
+<script>window.ezslots_raw=[];var __sellerid='ab25641f7aa3da580d6fe8cd504db876';var __schain_domain='';var __ez_nid ='1254144';__advertiserRule=[''];var ezasVars = {'cid':'','pid':'','ssid':44};if(typeof window.ezAutoAdsSetup == 'undefined'){window.google_reactive_ads_global_state = {
+                adCount: {},
+                floatingAdsStacking: { maxZIndexListeners: [], maxZIndexRestrictions: {}, nextRestrictionId: 0 },
+                messageValidationEnabled: false,
+                reactiveTypeDisabledByPublisher: {},
+                reactiveTypeEnabledInAsfe: {},
+                sideRailAvailableSpace: [],
+                sideRailOverlappableElements: [],
+                stateForType: {},
+                tagSpecificState: {},
+                wasPlaTagProcessed: true,
+                wasReactiveAdConfigReceived: { 1: true, 2: true, 8: true },
+                wasReactiveAdVisible: {},
+                wasReactiveTagRequestSent: true,
+                description: "Can't disable auto ads programmatically on the page, so here we are!"
+            };};!function(){window.ezasvEvent=function(e,t){if(!0===e[0].isIntersecting){var i=e[0].target.attributes[0].value.substr(0,e[0].target.attributes[0].value.length-9);window.ezoSTPixelAdd(i,"viewed",1),t.disconnect()}},window.ezaslEvent=function(e,t){if(void 0!==e[0].target.attributes["data-ad-status"]){var i=e[0].target.attributes["data-ad-status"].value,o=e[0].target.attributes[0].value.substr(0,e[0].target.attributes[0].value.length-9);"filled"==i&&(window.ezoSTPixelAdd(o,"loaded",1),new IntersectionObserver(window.ezasvEvent,{threshold:[1]}).observe(document.getElementById(o+"-asloaded"))),"unfilled"==i&&setTimeout((function(){window.ezoAdBackFill(e)}),2e3),t.disconnect()}},window.ezoAdBackFill=function(e){var t=e[0].target,i=t.parentElement;t.style.display="none !important";var o,d=ezoGetSlotNum(i.id);if(o=void 0!==__ez.fads?__ez.fads.initslots[i.id]:__ez_fad_initslot[i.id],void 0===d&&"function"==typeof o&&(d=o(6)),void 0!==d)var n=window[d];if(void 0!==n){n.setTargeting("compid","0"),n.setTargeting("bkfl","1"),n.setTargeting("reft","t");var a=n.getTargeting("br2")[0];void 0!==window.ezoibfh&&void 0!==window.ezoibfh[a]&&(n.setTargeting("br1",a),n.setTargeting("eb_br",window.ezoibfh[a])),googletag.display(n),setTimeout((function(){googletag.pubads().refresh([n])}),500)}},window.ezoSTPixels=[];var e=setInterval((function(){"undefined"!=typeof __ez&&"undefined"!=typeof __ezDotData&&"undefined"!=typeof ezslots&&window.ezslots_raw.length>0&&(window.ezoSTPixelFire(),clearInterval(e))}),250);window.ezoSTPixelAdd=function(e,t,i){window.ezoSTPixels.push({id:e,name:t,value:i}),window.ezoSTPixelFire()},window.ezoGetSlotById=function(e){var t=e.split("div-gpt-ad-")[1].split("-",3).join("-");for(s in window.ezslots_raw)if(window.ezslots_raw[s].tap.includes(t))return window.ezslots_raw[s]},window.ezoGetSlotNum=function(e){if(void 0!==window.ezslots&&0!=window.ezslots)for(var t=0;t<window.ezslots.length;t++){var i=window[ezslots[t]];if(void 0!==i){var o=i.getSlotElementId();if(void 0!==o&&o==e)return ezslots[t]}}},window.ezoSTPixelFire=function(){if("undefined"!=typeof __ez&&"undefined"!=typeof __ezDotData&&"undefined"!=typeof ezslots)for(;window.ezoSTPixels.length>0;){var e=window.ezoSTPixels.shift(),t=window.ezoGetSlotById(e.id);if(void 0===t){var i;if(i=void 0!==__ez.fads?__ez.fads.initslots[e.id]:__ez_fad_initslot[e.id],void 0===googletag.defineSlot)return void window.ezoSTPixels.push(e);if(i(1),void 0===(t=window.ezoGetSlotById(e.id)))return void window.ezoSTPixels.push(e)}var o=[{type:"impression",impression_id:t.eid,domain_id:window.did.toString(),unit:e.id,t_epoch:__ez.dot.getEpoch(0),ad_position:parseInt(t.ap),country_code:__ez.dot.getCC(),pageview_id:__ez.dot.getPageviewId(),comp_id:1,data:__ez.dot.dataToStr([new __ezDotData(e.name,e.value.toString())]),is_orig:0}],d=__ez.dot.getURL("/porpoiseant/army.gif")+"?orig=0&sts="+btoa(JSON.stringify(o));__ez.dot.Fire(d)}}}();</script>
+<script>!function(){var e=setInterval((function(){var t=document.querySelectorAll('[id^="outbrain_widget_"]');0!==t.length&&(function(e){e.forEach((function(e){if(e.parentElement.hasAttribute("data-ez-name")){var t=e.parentElement.attributes["data-ez-name"].value;new IntersectionObserver((function(e,i){e[0].isIntersecting&&(n({unit:t,name:"viewed"}),i.disconnect())}),{threshold:[1]}).observe(e);var i=e.attributes["data-widget-id"].value;window.OBREvents=window.OBREvents||[],OBREvents.push({event:"widgetDataReturned",widgetId:i,func:function(){n({unit:t,name:"loaded"})}})}}))}(t),clearInterval(e))}),250),t=[],i=setInterval((function(){"undefined"!=typeof __ez&&"undefined"!=typeof _ezim_d&&"undefined"!=typeof __ezDotData&&(d(),clearInterval(i))}),2500);function n(e){t.push(e),d()}function d(){var e,i;if(0!==t.length&&"undefined"!=typeof __ez&&"undefined"!=typeof _ezim_d&&"undefined"!=typeof __ezDotData)for(;t.length>0;){var n=t.shift(),d=(e=n.unit,i=n.name,[{type:"impression",impression_id:_ezim_d[e].full_id.split("/")[2],domain_id:window.did.toString(),unit:e,t_epoch:__ez.dot.getEpoch(0),ad_position:_ezim_d[e].position_id,country_code:__ez.dot.getCC(),pageview_id:__ez.dot.getPageviewId(),comp_id:2,data:__ez.dot.dataToStr([new __ezDotData(i,"1")]),is_orig:0}]),o=__ez.dot.getURL("/porpoiseant/army.gif")+"?orig="+(!0===__ez.template.isOrig?1:0)+"&sts="+btoa(JSON.stringify(d));void 0!==window.ezWp&&ezWp&&void 0!==window._ezaq&&_ezaq.hasOwnProperty("visit_uuid")&&(o+="&visit_uuid="+window.visit_uuid),__ez.dot.Fire(o)}}}();</script>
+<script>window.ezhbopt=true;</script>
+<script>window.ezpbCache=true;</script>
+<link href="//ad.doubleclick.net" rel="dns-prefetch">
+<link href="//pagead2.googlesyndication.com" rel="dns-prefetch">
+<link href="//googleads.g.doubleclick.net" rel="dns-prefetch">
+<link href="//tpc.googlesyndication.com" rel="dns-prefetch">
+<link href="//adservice.google.com" rel="dns-prefetch">
+<link href="//secureads.g.doubleclick.net" rel="dns-prefetch">
+<link href="//www.googletagservices.com" rel="dns-prefetch">
+<link rel='preload' as='script' href='//securepubads.g.doubleclick.net/tag/js/gpt.js'>
+<link rel='preload' as='script' href='//go.ezodn.com/hb/dall.js?b=adyoulike,criteo,gumgum,medianet,oftmedia,onemobile,openx,pubmatic,pulsepoint,rhythmone,sharethrough,smilewanted,sovrn,yieldmo&cb=195-0-50' onerror="window.ezDallErr=true">
+<link rel='preload' as='script' href='/porpoiseant/fads.js?gcb=195-0&cb=6'>
+<script type="text/javascript">
+	var __banger_pmp_deals=function(){var d={17:{"DealId":17,"Floor":160},18:{"DealId":18,"Floor":25},19:{"DealId":19,"Floor":100},20:{"DealId":20,"Floor":300},1428:{"DealId":1428,"Floor":25},2310:{"DealId":2310,"Floor":400},2339:{"DealId":2339,"Floor":800},2351:{"DealId":2351,"Floor":155},2526:{"DealId":2526,"Floor":300},2527:{"DealId":2527,"Floor":300},2610:{"DealId":2610,"Floor":125},2688:{"DealId":2688,"Floor":100},2693:{"DealId":2693,"Floor":50},2761:{"DealId":2761,"Floor":200},2763:{"DealId":2763,"Floor":250},2764:{"DealId":2764,"Floor":325},2765:{"DealId":2765,"Floor":400},3044:{"DealId":3044,"Floor":175},3045:{"DealId":3045,"Floor":75},3052:{"DealId":3052,"Floor":20},3053:{"DealId":3053,"Floor":37},3054:{"DealId":3054,"Floor":555},3154:{"DealId":3154,"Floor":275},3455:{"DealId":3455,"Floor":475},3456:{"DealId":3456,"Floor":525},3457:{"DealId":3457,"Floor":600},3682:{"DealId":3682,"Floor":650},3683:{"DealId":3683,"Floor":1000},3684:{"DealId":3684,"Floor":375},3856:{"DealId":3856,"Floor":15},4184:{"DealId":4184,"Floor":425},4185:{"DealId":4185,"Floor":700},4186:{"DealId":4186,"Floor":900},4276:{"DealId":4276,"Floor":65},7:{"DealId":7,"Floor":150},8:{"DealId":8,"Floor":200},9:{"DealId":9,"Floor":300},10:{"DealId":10,"Floor":400},11:{"DealId":11,"Floor":500},12:{"DealId":12,"Floor":600},13:{"DealId":13,"Floor":700},14:{"DealId":14,"Floor":800},15:{"DealId":15,"Floor":1000},916:{"DealId":916,"Floor":95},915:{"DealId":915,"Floor":150},874:{"DealId":874,"Floor":200},835:{"DealId":835,"Floor":200}};return[{"SlotName":"/1254144,22652045382/villagenews_com-medrectangle-2","Deals":[d[17],d[18],d[19],d[20],d[1428],d[2310],d[2339],d[2351],d[2526],d[2527],d[2610],d[2688],d[2693],d[2761],d[2763],d[2764],d[2765],d[3044],d[3045],d[3052],d[3053],d[3054],d[3154],d[3455],d[3456],d[3457],d[3682],d[3683],d[3684],d[3856],d[4184],d[4185],d[4186],d[4276],d[7],d[8],d[9],d[10],d[11],d[12],d[13],d[14],d[15],d[916],d[915],d[874],d[835]]},{"SlotName":"/1254144,22652045382/villagenews_com-medrectangle-4","Deals":[d[17],d[18],d[19],d[20],d[1428],d[2310],d[2351],d[2526],d[2527],d[2610],d[2688],d[2693],d[2761],d[2763],d[2764],d[2765],d[3044],d[3045],d[3052],d[3053],d[3154],d[3455],d[3684],d[3856],d[4184],d[4276],d[7],d[8],d[9],d[10],d[11],d[916],d[915],d[874],d[835]]},{"SlotName":"/1254144,22652045382/villagenews_com-large-billboard-2","Deals":[d[17],d[18],d[19],d[1428],d[2351],d[2610],d[2688],d[2693],d[2761],d[2763],d[3044],d[3045],d[3052],d[3053],d[3856],d[4276],d[7],d[8],d[916],d[915],d[874],d[835]]},{"SlotName":"/1254144,22652045382/villagenews_com-large-leaderboard-1","Deals":[d[17],d[18],d[19],d[20],d[1428],d[2351],d[2526],d[2527],d[2610],d[2688],d[2693],d[2761],d[2763],d[2764],d[3044],d[3045],d[3052],d[3053],d[3154],d[3856],d[4276],d[7],d[8],d[9],d[916],d[915],d[874],d[835]]}]}();
+</script>
+<script type='text/javascript'>_ebcids=[138231308856,138231308940,138231308949,138231387842,138231421744,138231421759,138231421774,138231421783,138231421789,138231421792,138242067587,138242067590,138242067602,138242067605,138242067608,138242067614,138242229406,138242229415,138242229421,138242229430];</script>
+<script data-ezscrex="false" data-cfasync="false" data-pagespeed-no-defer type='text/javascript'>ezobv=176;</script><script data-ezscrex="false" data-cfasync="false" data-pagespeed-no-defer type='text/javascript'>__ez.fads=window.__ez.fads||{cmd:[],initslots:{},kvStore:{},divs:[[],[],[],[],[],[],[]],divsd:[],fadcount:0};var ez_ad_units=[];var ezslots=[];var ezrpos=[];var ezsrqt={};var __ez_fad_haspo=false;var __ez_fad_hascp=false;if(typeof PerformanceObserver!='undefined'&&typeof PerformanceObserver.supportedEntryTypes!='undefined'){if(PerformanceObserver.supportedEntryTypes.indexOf('largest-contentful-paint')>-1){__ez_fad_haspo=true;}}
+try{var __ez_fad_po=new PerformanceObserver((entryList)=>{window.__ez_fad_hascp=true;__ez.fads.cmd.push(function(){__ez.fads.__ez_fad_hascp=true;});});__ez_fad_po.observe({type:'largest-contentful-paint',buffered:true});}catch(e){}
+var __ez_fad_floatshowd=false;__ez.fads.__ez_fad_floatshow=function(d){if(__ez_fad_floatshowd===true||typeof __ez_fad_floating==='undefined'){return;}
+__ez_fad_floatshowd=true;var e=document.getElementById('ezmobfooter');if(e!=null){e.classList.add('ezmobtrans');}else{head=document.head||document.getElementsByTagName('head')[0],style=document.createElement('style');head.appendChild(style);var css="body > #ezmobfooter{bottom:0px;visibility:visible;}";style.type='text/css';if(style.styleSheet){style.styleSheet.cssText=css;}else{style.appendChild(document.createTextNode(css));}}
+googletag.cmd.push(function(){for(var i=0;i<__ez_fad_floating.length;i++){var s=__ez.fads.initslots[__ez_fad_floating[i]](null);googletag.display(__ez_fad_floating[i]);if(typeof window.adjustHbValues==='function'){window.adjustHbValues(window[s]);}
+googletag.pubads().refresh([window[s]]);}});};function __ez_fad_csnt(){return document.cookie.indexOf('ezCMPCookieConsent')!==-1||typeof __ez_conestreq=='undefined';}
+function __ez_fad_rdy(){var h=document.documentElement.scrollHeight;var vh=window.innerHeight||Math.max(document.documentElement.clientHeight,document.body.clientHeight);if(document.body!==null&&(__ez_fad_haspo===false&&h>vh||__ez_fad_hascp||document.readyState==='complete')){return true;}}
+function __ez_fad_position(id){if(__ez.fads.loaded){__ez.fads.cmd.push(function(){__ez.fads.__ez_fad_position(id);});return;}
+__ez.fads.fadcount++;var did=document.getElementById(id);if(did===null){return;}
+var rect=did.getBoundingClientRect();var vs=window.scrollY||document.body.scrollTop||document.documentElement.scrollTop;var vh=vs+window.screen.height;var vw=window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth;var vh=window.innerHeight||Math.max(document.documentElement.clientHeight,document.body.clientHeight);if(rect.top>=vh){__ez.fads.cmd.push(function(){__ez.fads.__ez_fad_position(id);});return;}
+__ez.fads.divs[0].push(id);__ez.fads.divsd.push(id);if(!__ez_fad_csnt()||!__ez_fad_rdy()){setTimeout(function(){__ez_fad_display(id);},50);return;}
+__ez_fad_display(id);}
+function __ez_fad_display(id){if(!__ez_fad_csnt()||!__ez_fad_rdy()){setTimeout(function(){__ez_fad_display(id);},50);return;}
+__ez_fad_gpt();if(__ez_fad_floating.indexOf(id)!==-1){setTimeout(__ez.fads.__ez_fad_floatshow,0);return;}
+googletag.cmd.push(function(){var sn=__ez.fads.initslots[id](0);if(!sn){return;}
+var s=window[sn];googletag.display(id);if(typeof window.ezasBuild==='function'){if(window.ezasBuild(s)){return;}}
+if(typeof window.adjustHbValues==='function'){window.adjustHbValues(s);}
+googletag.pubads().refresh([s]);});}
+function ezSetTargetingFromMap(slot,obj){if(typeof slot==='undefined'){return;}
+for(var key in obj){if(!obj.hasOwnProperty(key)){continue;}
+slot.setTargeting(key,obj[key]);}}
+function ezSetSlotTargeting(divid,key,value){var slot=ezGetSlotById(divid);if(slot){slot.setTargeting(key,value);}else{if(typeof __ez.fads.kvStore[divid]=='undefined'){__ez.fads.kvStore[divid]={};}
+__ez.fads.kvStore[divid][key]=value;}}
+function ezGetSlotById(id){if(typeof window.ezslots==='undefined'||window.ezslots==0){return;}
+for(var i=0;i<window.ezslots.length;i++){var slot=window[ezslots[i]];if(typeof slot==='undefined'){continue;}
+var slotId=slot.getSlotElementId();if(typeof slotId!=='undefined'&&slotId==id){return slot;}}}
+function __ez_close_anchor(){googletag.cmd.push(function(slot){for(var i=0;i<window.ezslots.length;i++){var slot=window[ezslots[i]];if(typeof slot==='undefined'){continue;}
+var alS=slot.getTargeting('al')[0]%1000;if(alS==5){googletag.destroySlots([slot]);}}
+if(typeof window.ezdomain!=='undefined'){var d=new Date();d.setTime(d.getTime()+(2*60*60*1000));var expires="expires="+d.toGMTString();let cookie="ez_anchor_closed=true;domain=."+ezdomain+';'+expires+"; path=/";document.cookie=cookie;}
+if(typeof(__ez_set_outstream_floor)!=='undefined'){__ez_set_outstream_floor(0);}
+var anchor=document.getElementById('ezmobfooter');if(!anchor){return;}
+anchor.innerHTML='';var styleElement=document.getElementById('ezoicCSS');if(!styleElement){return;}
+var cert=document.getElementById('ezoic-certification-fixed');if(cert){cert.style.bottom='15px';}
+var styles=styleElement.sheet?styleElement.sheet:styleElement.styleSheet;for(var i=0;i<styles.cssRules.length;i++){var rules=styles.cssRules[i];if(rules.selectorText==='body'&&rules.style.height==='auto'&&(rules.style.paddingTop!==''||rules.style.paddingBottom!=='')){styles.deleteRule(i);}}});}</script><script data-ezscrex="false" data-cfasync="false" data-pagespeed-no-defer type='text/javascript'>window.isEZABL=false;window.ezmadspc=300;window.ezoViewCheck=false;</script><script data-ezscrex="false" data-cfasync="false" data-pagespeed-no-defer type='text/javascript'>window.ezDisableInitialLoad=false;</script><script data-ezscrex="false" data-cfasync="false" data-pagespeed-no-defer type='text/javascript'>window.googletag=window.googletag||{};googletag.cmd=googletag.cmd||[];</script><script data-ezscrex="false" data-cfasync="false" data-pagespeed-no-defer type='text/javascript'>window.ezogetbrkey = function(s){ var k = 'br1';var k2 = 'eb_br';if(window.ezogtk == ""){k='br1u';k2='eb_bru';}else if(window.ezogtk != "NT"){k='br1t';k2='eb_brt';} s.setTargeting('br1', s.getTargeting(k));s.setTargeting('eb_br', s.getTargeting(k2));};googletag.cmd.push(function() {googletag.pubads().enableSingleRequest();googletag.pubads().addEventListener('slotRenderEnded', function(event) { __ez.queue.addFunc("ezbanger", "ezbanger", event, false, ['banger.js'], true, true, false, true); });googletag.pubads().addEventListener('impressionViewable', function(event) { __ez.queue.addFunc("ezvb", "ezvb", event, false, ['banger.js'], true, true, false, true); });googletag.pubads().addEventListener('slotResponseReceived', function(event) { __ez.queue.addFunc("ezsr", "ezsr", event, false, ['banger.js'], true, true, false, true); });googletag.pubads().addEventListener('slotRequested', function(e) { window.ezsrqt[e.slot.getSlotElementId()] = Date.now();});googletag.pubads().disableInitialLoad();googletag.pubads().enableLazyLoad({fetchMarginPercent: 400, renderMarginPercent: 300, mobileScaling: 2.0});googletag.enableServices();});window.ezoll = false;window.ezoadxnc = '1254144';window.ezoadhb = '1300';var ezaxmns={};var ezaucmns={};
+
+		var __ez_fad_floating = ['div-gpt-ad-villagenews_com-medrectangle-2-0'];
+		var __ez_fad_gptd = __ez_fad_gptd || false;var __ez_fad_ezpbinitd = false;var __ez_fad_pbt = setTimeout(function(){__ez_fad_pb();},5000);function __ez_fad_gpt(){if(__ez_fad_gptd == false){__ez_fad_gptd=true;!function(){var t=document.createElement("script");t.async=!0,t.type="text/javascript";var e="https:"==document.location.protocol;t.src=(e?"https:":"http:")+"//securepubads.g.doubleclick.net/tag/js/gpt.js";var c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(t,c)}();}}function __ez_fad_pb(){if(__ez_fad_ezpbinitd==false && typeof __ez_fad_ezpbinit == 'function'){__ez_fad_ezpbinitd = true;__ez_fad_ezpbinit()}};
+		
+	function __ez_init_slot(bvr, did, slotNum, defineFunc) {
+		googletag.cmd.push(function() {
+			defineFunc();
+			ezrpos[slotNum]=slotNum;
+			ezslots.push("ezslot_" + slotNum);
+			if(__ez.fads.kvStore[did] !== 'undefined') {
+				for (var name in __ez.fads.kvStore[did]) {
+					if (!__ez.fads.kvStore.hasOwnProperty(name)) {
+						ezSetSlotTargeting(did, name, __ez.fads.kvStore[did][name]);
+					}
+				}
+				__ez.fads.kvStore[did] = {};
+			}
+		});return "ezslot_" + slotNum;
+	}
+__ez.fads.initslots['div-gpt-ad-villagenews_com-medrectangle-4-0'] = function(bvr){
+				var defScript = function() {ezslot_1 = googletag.defineSlot('/1254144,22652045382/villagenews_com-medrectangle-4',[300,250],'div-gpt-ad-villagenews_com-medrectangle-4-0').addService(googletag.pubads()).setCollapseEmptyDiv(false);var ezslot_1_raw = {'a':'1','iid1':'8678169747033182','eid':'8678169747033182','t':'134','d':'182039','t1':'134','pvc':'0','ap':'1142','sap':'1142','a':'|0|','as':'revenue','plat':'1','bra':'mod4-c','ic':'1','at':'mbf','adr':'399','ezosn':'1','reft':'tf','refs':'30','ga':'2497208','gala':'','rid':'99998','pt':'22','al':'1022','compid':'0','tap':'villagenews_com-medrectangle-4-8678169747033182','eb_br':'5f2b94bb26a5aa9b1a00e66d30cfd5ec','eba':'1','ebss':[10017,10061,10015,11304,11307],'bv':'16','bvm':'0','bvr':'6','shp':'1','ftsn':'12','ftsng':'12','br1':'500','br2':'260','ezoic':'1','nmau':'0','mau':'0','stl':[64,25,162,27,49,192,93,20,26,145,205,0,165,137,901,902,903],'deal1':[21,22,23,24,25,26,27,28,29,30,760,761,813,815,816,817,818,893,899,919,1794,2339,3054,3430,3456,3457,3458,3460,3682,3683,3919,3933,4185,4186,4604,4605,3676,783,12,13,14,15,16]}; window.ezslots_raw.push( ezslot_1_raw);ezSetTargetingFromMap(ezslot_1,ezslot_1_raw);};
+				return __ez_init_slot(bvr,'div-gpt-ad-villagenews_com-medrectangle-4-0',1, defScript);
+			};__ez.fads.initslots['div-gpt-ad-villagenews_com-large-billboard-2-0'] = function(bvr){
+				var defScript = function() {ezslot_3 = googletag.defineSlot('/1254144,22652045382/villagenews_com-large-billboard-2',[300,250],'div-gpt-ad-villagenews_com-large-billboard-2-0').addService(googletag.pubads()).setCollapseEmptyDiv(false);var ezslot_3_raw = {'a':'1','iid1':'3834787541036401','eid':'3834787541036401','t':'134','d':'182039','t1':'134','pvc':'0','ap':'1107','sap':'1107','a':'|0|','as':'revenue','plat':'1','bra':'mod4-c','ic':'1','at':'mbf','adr':'399','ezosn':'3','reft':'tf','refs':'30','ga':'2497208','gala':'','rid':'99998','pt':'34','al':'1034','compid':'0','tap':'villagenews_com-large-billboard-2-3834787541036401','eb_br':'57914c3716312cb7e954090f0717ea25','eba':'1','ebss':[10017,10061,10015,11304,11307],'bv':'23','bvm':'0','bvr':'3','shp':'3','ftsn':'12','ftsng':'12','br1':'260','br2':'140','ezoic':'1','nmau':'0','mau':'0','stl':[63,168,0,4,0,168,132,192,196,180,187,84,901,182,901,902,903],'deal1':[20,21,22,23,24,25,26,919,1794,2310,2339,2526,2527,2764,2765,3054,3154,3430,3455,3456,3457,3458,3460,3682,3683,3684,4184,4185,4186,4605,3676,783,9,10,11,12,13,14,15,16]}; window.ezslots_raw.push( ezslot_3_raw);ezSetTargetingFromMap(ezslot_3,ezslot_3_raw);};
+				return __ez_init_slot(bvr,'div-gpt-ad-villagenews_com-large-billboard-2-0',3, defScript);
+			};__ez.fads.initslots['div-gpt-ad-villagenews_com-large-leaderboard-1-0'] = function(bvr){
+				var defScript = function() {ezslot_2 = googletag.defineSlot('/1254144,22652045382/villagenews_com-large-leaderboard-1',[300,250],'div-gpt-ad-villagenews_com-large-leaderboard-1-0').addService(googletag.pubads()).setCollapseEmptyDiv(false);var ezslot_2_raw = {'a':'1','iid1':'2521849471073156','eid':'2521849471073156','t':'134','d':'182039','t1':'134','pvc':'0','ap':'1147','sap':'1147','a':'|0|','as':'revenue','plat':'1','bra':'mod4-c','ic':'1','at':'mbf','adr':'399','ezosn':'2','reft':'tf','refs':'30','ga':'2497208','gala':'','rid':'99998','pt':'35','al':'1035','compid':'0','tap':'villagenews_com-large-leaderboard-1-2521849471073156','eb_br':'9e0a1ce5b2455cb9b48d5df4c6bf4053','eba':'1','ebss':[10017,10061,10015,11304,11307],'bv':'2','bvm':'0','bvr':'6','shp':'3','ftsn':'12','ftsng':'12','br1':'350','br2':'160','ezoic':'1','nmau':'0','mau':'0','stl':[157,193,0,192,0,193,196,20,71,201,192,31,902,903,901,902,903],'deal1':[21,22,23,24,25,26,27,28,760,815,817,899,919,1794,2310,2339,2765,3054,3430,3455,3456,3457,3458,3460,3682,3683,3684,3933,4184,4185,4186,4605,3676,783,10,11,12,13,14,15,16]}; window.ezslots_raw.push( ezslot_2_raw);ezSetTargetingFromMap(ezslot_2,ezslot_2_raw);};
+				return __ez_init_slot(bvr,'div-gpt-ad-villagenews_com-large-leaderboard-1-0',2, defScript);
+			};__ez.fads.initslots['div-gpt-ad-villagenews_com-medrectangle-2-0'] = function(bvr){
+				var defScript = function() {ezslot_0 = googletag.defineSlot('/1254144,22652045382/villagenews_com-medrectangle-2',[728,90],'div-gpt-ad-villagenews_com-medrectangle-2-0').addService(googletag.pubads()).setCollapseEmptyDiv(false);var ezslot_0_raw = {'a':'1','iid1':'2152712259076391','eid':'2152712259076391','t':'134','d':'182039','t1':'134','pvc':'0','ap':'1100','sap':'1100','a':'|0|','as':'revenue','plat':'1','bra':'mod4-c','ic':'1','at':'mbf','adr':'399','ezosn':'0','reft':'tf','refs':'30','ga':'2497208','gala':'','rid':'99998','pt':'5','al':'1005','compid':'0','tap':'villagenews_com-medrectangle-2-2152712259076391','eb_br':'bfa042bdb1583c959161b7823290dc1f','eba':'1','ebss':[10017,10061,10015,11304,11307],'bv':'18','bvm':'0','bvr':'8','shp':'1','ftsn':'12','ftsng':'12','br1':'1300','br2':'650','ezoic':'1','nmau':'0','mau':'0','stl':[157,193,0,192,0,193,196,20,71,201,192,31,902,903,901,902,903],'deal1':[21,22,23,24,25,26,27,28,29,30,760,761,813,814,815,816,817,818,819,899,917,918,919,1794,3430,3458,3460,3933,4604,4605,3676,783,16]}; window.ezslots_raw.push( ezslot_0_raw);ezSetTargetingFromMap(ezslot_0,ezslot_0_raw);};
+				return __ez_init_slot(bvr,'div-gpt-ad-villagenews_com-medrectangle-2-0',0, defScript);
+			};</script>
+<script type="text/javascript">(function(){function storageAvailable(type){var storage;try{storage=window[type];var x='__storage_test__';storage.setItem(x,x);storage.removeItem(x);return true;}
+catch(e){return e instanceof DOMException&&(e.code===22||e.code===1014||e.name==='QuotaExceededError'||e.name==='NS_ERROR_DOM_QUOTA_REACHED')&&(storage&&storage.length!==0);}}
+function remove_ama_config(){if(storageAvailable('localStorage')){localStorage.removeItem("google_ama_config");}}
+remove_ama_config()})()</script>
+<script type="text/javascript">var ezoicTestActive = true</script>
+<script data-ezscrex="false" type="text/javascript" data-cfasync="false">var _ezaq = {"ad_cache_level":2,"ad_count_adjustment":3,"ad_lazyload_version":1,"ad_load_version":1,"ad_location_ids":"5,22,35,34","adx_ad_count":4,"bidder_method":1,"bidder_version":4,"city":"Cupertino","country":"US","days_since_last_visit":-1,"display_ad_count":3,"domain_id":182039,"domain_test_group":20230809,"ds_adsize_opt_id":-1,"engaged_time_visit":0,"ezcache_level":0,"ezcache_skip_code":0,"form_factor_id":1,"framework_id":1,"has_bad_image":0,"has_bad_words":0,"iab_category":"","iab_category_0":"379","is_from_recommended_pages":false,"is_return_visitor":false,"is_sitespeed":0,"last_page_load":"","last_pageview_id":"","lt_cache_level":0,"max_ads":21,"metro_code":807,"optimization_version":1,"page_ad_positions":"1100,1107,1142,1147","page_view_count":0,"page_view_id":"106d4b22-cd62-426c-6171-8b3625e0454c","position_selection_id":46,"postal_code":"95014","pv_event_count":0,"response_size_orig":45668,"response_time_orig":152,"serverid":"34.220.170.17:5507","state":"CA","sub_page_ad_positions":"1100,1107,1142,1147","t_epoch":1675709540,"template_id":134,"time_on_site_visit":0,"url":"https://www.villagenews.com/story/2007/10/26/news/update-on-all-southern-california-fires/14860.html","user_id":0,"word_count":2372,"worst_bad_word_level":0};var _ezim_d = {"villagenews_com-large-billboard-2":{"adsense_stat_source_id":5,"adx_ad_count":4,"adx_stat_source_id":35,"full_id":"villagenews_com-large-billboard-2/2023-02-06/3834787541036401","height":"250","position_id":1107,"sub_position_id":1107,"width":"300"},"villagenews_com-large-leaderboard-1":{"adsense_stat_source_id":5,"adx_ad_count":4,"adx_stat_source_id":35,"full_id":"villagenews_com-large-leaderboard-1/2023-02-06/2521849471073156","height":"250","position_id":1147,"sub_position_id":1147,"width":"300"},"villagenews_com-medrectangle-2":{"adsense_stat_source_id":5,"adx_ad_count":4,"adx_stat_source_id":35,"full_id":"villagenews_com-medrectangle-2/2023-02-06/2152712259076391","height":"90","position_id":1100,"sub_position_id":1100,"width":"728"},"villagenews_com-medrectangle-4":{"adsense_stat_source_id":5,"adx_ad_count":4,"adx_stat_source_id":35,"full_id":"villagenews_com-medrectangle-4/2023-02-06/8678169747033182","height":"250","position_id":1142,"sub_position_id":1142,"width":"300"}};var _ezat = {"domain_id":182039,"form_factor_id":1,"framework_id":1,"pageview_date":"2023-02-06","pageview_id":"106d4b22-cd62-426c-6171-8b3625e0454c","template_id":134,"url":"https://www.villagenews.com/story/2007/10/26/news/update-on-all-southern-california-fires/14860.html","visit_uuid":"8a3223d0-7432-49a1-77fb-905d9d434aba"};</script><script data-ezscrex="false" data-pagespeed-no-defer data-cfasync="false" type="text/javascript">__ez.queue.addFile('banger.js', '/porpoiseant/banger.js?cb=195-0&bv=176&v=73&PageSpeed=off', true, [], true, false, false, true);</script>
+<script data-ezscrex='false' data-cfasync='false' data-pagespeed-no-defer>!function(){var e;__ez.vep=(e=[],{Add:function(i,t){__ez.dot.isDefined(i)&&__ez.dot.isValid(t)&&e.push({type:"video",video_impression_id:i,domain_id:__ez.dot.getDID(),t_epoch:__ez.dot.getEpoch(0),data:__ez.dot.dataToStr(t)})},Fire:function(){if(void 0===document.visibilityState||"prerender"!==document.visibilityState){if(__ez.dot.isDefined(e)&&e.length>0)for(;e.length>0;){var i=5;i>e.length&&(i=e.length);var t=e.splice(0,i),o=__ez.dot.getURL("/detroitchicago/grapefruit.gif")+"?orig="+(!0===__ez.template.isOrig?1:0)+"&v="+btoa(JSON.stringify(t));__ez.dot.Fire(o)}e=[]}}})}();</script><script data-ezscrex='false' data-cfasync='false' data-pagespeed-no-defer></script>
+  
+  <meta name="author" content="Village News"/>
+  <meta name="description" content="Update on ALL Southern California fires as of 8 am Oct. 26 San Diego County Witch Fire – 197,990 acres – 45% contained Harris Fire – 84,300"/>
+  <meta name="keywords" content="Riverside"/>
+  <meta name="robots" content="index,follow"/>
+  <meta http-equiv="cache-control" content="private, no-store, no-cache, must-revalidate"/>
+  
+  <meta name="revisit-after" content="45 days"/>
+  
+  <meta property="og:title" content="Update on ALL Southern California fires"/>
+<meta property="og:description" content="Update on ALL Southern California fires as of 8 am Oct. 26 San Diego County Witch Fire – 197,990 acres – 45% contained Harris Fire – 84,300 acres – 20% contained Poomacha Fire – 39,000 acres – 35% contained Rice Fire – 9,000 acres – 40% contained Horno/Ammo Fire – 19,353 acres – 80% contained Wilcox Fire – 100 acres – 100% c..."/>
+<meta property="og:url" content="https://www.villagenews.com/story/2007/10/26/news/update-on-all-southern-california-fires/14860.html"/>
+<meta property="og:site_name" content="Village News"/>
+<meta property="og:type" content="website"/>
+<meta property="og:image" content="https://www.villagenews.com/home/cms_data/dfault/images/companylogo_facebook.png"/>
+  <title>Update on ALL Southern California fires - Village News</title>
+  
+      <meta name="viewport" content="width=device-width, initial-scale=1"/>
+      <link rel="stylesheet" type="text/css" media="screen" href="/app/website_specifics/css_themes/white-3col/white-3col.css"/>
+      <link rel="stylesheet" type="text/css" media="screen" href="/app/website_specifics/pdf_click_menu_small.css"/>
+
+      <link rel="stylesheet" type="text/css" media="screen" href="/app/website_specifics/slick/slick.css"/>      
+      <link rel="stylesheet" type="text/css" media="screen" href="/app/website_specifics/slick/slick-theme.css"/>
+         <link rel="stylesheet" type="text/css" media="screen" href="/home/cms_data/dfault/configuration_files/css_customizations/white/white.css"/>
+         <link rel="stylesheet" type="text/css" media="print" href="/app/website_specifics/print.css"/>
+
+<!-- Desktop/canonical vs. mobile/alternate URLs -->
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://www.villagenews.com/story/2007/10/26/news/update-on-all-southern-california-fires/14860.html?m=true"/>
+
+
+  <link rel="stylesheet" type="text/css" href="/app/website_specifics/fonts/font-awesome-4.6.1/css/font-awesome.min.css"/>
+   <script src="/app/website_specifics/jquery-2-2-2.min.js"></script>
+ <script src="/app/website_specifics/slick.js"></script>
+   <script src="/app/website_specifics/lionslight.js"></script>
+
+    <script>
+
+     function offsiteLink(a,b){
+      a.href='/ajax/selectit?storyId='+b;
+      return false;
+     }
+     function offsiteAdLink(a,b){
+      a.href='/ajax/adselectit?adid='+b;
+      return false;
+     }
+
+
+     debug=false;
+
+
+     function expiredAJAX() {
+      // noop
+     }
+
+
+     function RemoveContent(d) {document.getElementById(d).style.display = "none";}
+     function InsertContent(d) {document.getElementById(d).style.display = ""; swapdiv(d);}
+
+     function swapdiv(a){
+      if (a=='div2'){
+       CLEAR.f.runOverlay('/ajax/popular/blogged');
+      } else {
+       CLEAR.f.runOverlay('/ajax/popular/viewed');
+      }
+     }
+
+    
+    </script>
+  
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-58606394-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-58606394-2');
+</script>
+  
+<script>$(function() {
+    var submitIcon = $('.searchbox-icon');
+    var inputBox = $('.searchbox-input');
+    var searchBox = $('.searchbox');
+    var isOpen = false;
+    submitIcon.click(function () {
+        if (isOpen == false) {
+            searchBox.addClass('searchbox-open');
+            inputBox.focus();
+            isOpen = true;
+        } else {
+            searchBox.removeClass('searchbox-open');
+            inputBox.focusout();
+            isOpen = false;
+        }
+    });
+    submitIcon.mouseup(function () {
+        return false;
+    });
+    searchBox.mouseup(function () {
+        return false;
+    });
+    $(document).mouseup(function () {
+        if (isOpen == true) {
+            $('.searchbox-icon').css('display', 'block');
+            submitIcon.click();
+        }
+    });
+
+
+ runIf($('.menu').length,'jQuery.sticky','/app/website_specifics/sticky.js',function(){
+  $(".menu").sticky({ topSpacing: 0, center:true, className:"stickynow" });
+ });
+
+
+
+});
+function buttonUp() {
+    var inputVal = $('.searchbox-input').val();
+    inputVal = $.trim(inputVal).length;
+    if (inputVal !== 0) {
+        $('.searchbox-icon').css('display', 'none');
+    } else {
+        $('.searchbox-input').val('');
+        $('.searchbox-icon').css('display', 'block');
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+runIf=function(condition,name,url,callback){
+ if(condition){
+  runSafe(name,url,callback);
+ }
+}
+
+
+
+
+
+
+
+runSafe=function(name,url,callback){
+ if(typeof window[name] != 'undefined'){
+  callback();
+ } else {
+  if(typeof runsafe != 'object'){runsafe={};}
+  if(runsafe[url] && runsafe[url].constructor === Array){var loadit=false;} else {runsafe[url]=[];var loadit=true;}
+  runsafe[url].push(callback);
+  // START001 UI stuff not necessary
+  // if (document.body){document.body.style.borderTop="10px solid red";}
+  // END001 UI stuff not necessary
+  if (loadit){
+   var js = document.createElement('script');
+   js.async = true;
+   js.src = url;
+   js.onload = js.onreadystatechange = (function(){return function(){
+    while(runsafe[url].length){
+     var f=runsafe[url].shift();
+     f();
+    }
+    delete runsafe[url];
+    var count = 0; for (var k in runsafe) if (runsafe.hasOwnProperty(k)) count++;
+    if(count==0){
+     // START002 UI stuff not necessary
+     if (document.body){document.body.style.borderTop="none";}
+     // END002 UI stuff not necessary
+    }
+   }})();
+   var first = document.getElementsByTagName('script')[0];
+   first.parentNode.insertBefore(js, first);
+  }
+ }
+}
+
+
+
+
+
+
+
+
+
+
+</script>
+
+<style>
+  
+  .preLoadImg {
+    display: none;
+  }
+
+#undefined-sticky-wrapper:before {
+ height:50px;
+ background-color: #B6BD98;
+}
+
+
+</style>
+
+<!-- CSS for print_sub_alert -->
+<style>
+
+.print_sub_container {
+    width:auto;
+}
+.print_sub_container div {
+    width:auto;
+}
+.print_sub_container .print_sub_header {
+    background-color:#c7edfc;
+    padding: 12px 2px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.print_sub_container .print_sub_content {
+    display: none;
+    padding : 5px;
+}
+
+</style>
+
+
+
+
+ <style id='ezoicCSS'>.ezoic-at-0{margin-left:auto !important;max-width:100% !important;text-align:center !important;padding:0;margin-top:15px !important;display:block !important;float:none !important;min-width:300px;margin-right:auto !important;min-height:250px;line-height:0px;margin-bottom:15px !important;}
+.ezoic-ad.medrectangle-2100{max-width:100% !important;line-height:0px;padding:0;float:none !important;display:inline-block;min-width:728px;min-height:90px;}
+.ezoic-ad{display:inline-block;border:0px;}.ezoic-ad>div>iframe{margin:0px!important;padding:0px!important;}
+.ezmob-footer{position:fixed;left:0;bottom:0;width:100%;background:#fff;z-index:100000;line-height:0}.ezmob-footer-desktop{background-color:#fffc;border-top:1px solid #d3d3d3;padding-top:5px}.ezmob-footer-close{cursor:pointer;color:#b2b2b2;border:1px solid #b2b2b2;border-radius:20px;background:#fff;line-height:20px;display:inline-block;font-size:20px;font-family:arial,sans-serif;padding:0 5px;position:absolute;top:5px;right:5px;height:24px;width:21px;text-align:center}body {
+					padding-bottom: 100px !important;
+					height: auto;
+				}
+				</style><link rel='canonical' href='https://www.villagenews.com/story/2007/10/26/news/update-on-all-southern-california-fires/14860.html' />
+<script type="text/javascript">var ezouid = "1";</script><base href="https://www.villagenews.com/story/2007/10/26/news/update-on-all-southern-california-fires/14860.html"><script type='text/javascript'>
+var ezoTemplate = 'pub_site';
+if(typeof ezouid == 'undefined')
+{
+    var ezouid = 'none';
+}
+var ezoFormfactor = '1';
+var ezo_elements_to_check = Array();
+</script><!-- START EZHEAD -->
+<script data-ezscrex="false" type='text/javascript'>
+var soc_app_id = '0';
+var did = 182039;
+var ezdomain = 'villagenews.com';
+var ezoicSearchable = 1;
+</script>
+<!--{jquery}-->
+<!-- END EZHEAD -->
+<script data-ezscrex='false' data-pagespeed-no-defer data-cfasync='false'>
+function create_ezolpl(pvID, rv) {
+    var d = new Date();
+    d.setTime(d.getTime() + (365*24*60*60*1000));
+    var expires = "expires="+d.toUTCString();
+    __ez.ck.setByCat("ezux_lpl_182039=" + new Date().getTime() + "|" + pvID + "|" + rv + "; " + expires, 3);
+}
+function attach_ezolpl(pvID, rv) {
+    if (document.readyState === "complete") {
+        create_ezolpl(pvID, rv);
+    }
+    if(window.attachEvent) {
+        window.attachEvent("onload", create_ezolpl, pvID, rv);
+    } else {
+        if(window.onload) {
+            var curronload = window.onload;
+            var newonload = function(evt) {
+                curronload(evt);
+                create_ezolpl(pvID, rv);
+            };
+            window.onload = newonload;
+        } else {
+            window.onload = create_ezolpl.bind(null, pvID, rv);
+        }
+    }
+}
+
+__ez.queue.addFunc("attach_ezolpl", "attach_ezolpl", ["106d4b22-cd62-426c-6171-8b3625e0454c", "false"], false, ['/detroitchicago/boise.js'], true, false, false, false);
+</script>
+<script type="text/javascript">var _audins_dom="villagenews_com",_audins_did=182039;__ez.queue.addFile('/detroitchicago/cmbv2.js', '/detroitchicago/cmbv2.js?gcb=195-0&cb=04-3y02-8y06-13y07-2y0b-6y0d-23y13-4y17-5y1c-y23-3y31-4y38-8y5a-2y5e-22y65-1&cmbcb=123&sj=x04x02x06x07x0bx0dx13x17x1cx23x31x38x5ax5ex65', true, [], true, false, true, false);</script>
+<script type="text/javascript" defer>__ez.queue.addFile('/detroitchicago/cmbdv2.js', '/detroitchicago/cmbdv2.js?gcb=195-0&cb=03-8y0c-6y18-5y5f-22&cmbcb=123&sj=x03x0cx18x5f', true, ['/detroitchicago/cmbv2.js'], true, false, true, false);</script></head>
+ <body id="mobile_false">
+
+
+<img class="preLoadImg" src="/home/cms_data/dfault/images/home-menu-icon.png" width="1" height="1" alt=""/>
+<img class="preLoadImg" src="/home/cms_data/dfault/images/home-menu-active-icon.png" width="1" height="1" alt=""/>
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script><br/>
+
+<!-- BEGIN TEXT THAT APPEARED BEFORE THE MAIN DIV. -->
+
+<!-- END TEXT THAT APPEARED BEFORE THE MAIN DIV. -->
+
+
+  <div class="container container_3">
+   <div class="outer_standard_links outer">
+   <div class="standard_links inner widen_vertical_padding skel">
+    <div class="standard_links_left">
+     <p class="wide_spacing small align_left">
+      <a href="https://www.villagenews.com/classifieds">Classified Ads</a><a href="https://www.villagenews.com/directory">Directory</a><a href="https://www.villagenews.com/photos">Photos of the Day</a><a href="https://www.villagenews.com/contact">Contact Us</a><a href="https://www.villagenews.com/donate">Donate</a>
+     </p>
+    </div>
+    <div class="standard_links_middle">
+     <p class="wide_spacing small align_center">
+      <a href="https://www.facebook.com/fallbrookvillagenews" target="_blank"><img class="footer_icon" src="/cms/images/social_media_icons/facebook.png" height="21" alt="FaceBook"/></a><a href="https://twitter.com/thefvillagenews" target="_blank"><img class="footer_icon" src="/cms/images/social_media_icons/twitter_white.png" height="19" alt="Twitter"/></a><a href="https://www.villagenews.com/rss" target="_blank"><img class="footer_icon" src="/cms/images/social_media_icons/rss.png" height="21" alt="RSS"/></a>
+     </p>
+    </div>
+    <div class="standard_links_right">
+     <p class="wide_spacing small align_right">
+      <a href="https://www.villagenews.com/trial">Free Trial</a><a href="https://www.villagenews.com/subscribe">Subscribe</a><a href="https://www.villagenews.com/login?r=%2Fstory%2F2007%2F10%2F26%2Fnews%2Fupdate%2Don%2Dall%2Dsouthern%2Dcalifornia%2Dfires%2F14860%2Ehtml">Sign In</a>
+     </p>
+    </div>
+   </div>
+   </div>
+   
+
+   <!--/// Header ///-->
+   <div class="outer_header widen_vertical_width outer">
+   <div class="header widen_vertical_padding inner skel">
+    <h1>Village News - Also serving the communities of De Luz, Rainbow, Camp Pendleton, Pala and Pauma</h1>
+    <a href="https://www.villagenews.com/" aria-label="Home">
+     <div class="header_story_logo">
+ <!--<img src='/home/cms_data/dfault/images/masthead_260x100.png' alt="">-->
+     </div>
+    </a>
+ 
+    <div class="header_story_ad" aria-hidden="true"><a href="https://msjc.edu/" target="blank"><img src="/IMG/l5_MI9fBGZ1MCgNrEZHPNBU_BrYOV/XPATH/home/cms_data/dfault/web_ads/horiz/6375-msjc_v3hs_728x90.jpgXEXT1076x34675.jpeg" width="728" height="90" alt=""/></a></div>
+ 
+   </div>
+   </div>
+ 
+   <div class="outer_search_bar outer">
+   <div class="search_bar widen_vertical_padding inner skel">
+    <div class="grid_2">
+     <p class="small a2a_padding">
+      
+     </p>
+    </div>
+   </div>
+   </div>
+   <div class="outer_navigation outer">
+    <div class="navigation inner skel">
+
+
+
+
+<div class="menu widen_vertical_padding">
+ <ul>
+  <li class="home-menu-icon">
+   <a class="" href="https://www.villagenews.com/" data-tag="home" aria-label="Home"><span>Home</span></a>
+  </li>
+  <li class="menu_right_border">
+   <a class="active" href="https://www.villagenews.com/section/news">News</a>
+   <!--[if lte IE 7]><a href='#'>the_section<table><tr><td><![endif]-->
+   <ul>
+    <li>
+     <a href="https://www.villagenews.com/section/news">All</a>
+    </li>
+    <li>
+     <a href="https://www.villagenews.com/section/news/business">Business</a>
+    </li>
+    <li>
+     <a href="https://www.villagenews.com/section/news/sheriff%5Flog">Sheriff Log</a>
+    </li>
+    <li>
+     <a href="https://www.villagenews.com/section/news/traffic">Traffic</a>
+    </li>
+   </ul>
+   <!--[if lte IE 7]></td></tr></table></a><![endif]-->
+  </li>
+  <li class="menu_right_border">
+   <a href="https://www.villagenews.com/section/community">Community</a>
+   <!--[if lte IE 7]><a href='#'>the_section<table><tr><td><![endif]-->
+   <ul>
+    <li>
+     <a href="https://www.villagenews.com/section/community">All</a>
+    </li>
+    <li>
+     <a href="https://www.villagenews.com/section/community/announcements">Announcements</a>
+    </li>
+    <li>
+     <a href="https://www.villagenews.com/section/community/education">Education</a>
+    </li>
+    <li>
+     <a href="https://www.villagenews.com/section/community/obituaries">Obituaries</a>
+    </li>
+    <li>
+     <a href="https://www.villagenews.com/section/community/real%5Festate">Real Estate</a>
+    </li>
+   </ul>
+   <!--[if lte IE 7]></td></tr></table></a><![endif]-->
+  </li>
+  <li class="menu_right_border">
+   <a href="https://www.villagenews.com/section/sports">Sports</a>
+  </li>
+  <li class="menu_right_border">
+   <a href="https://www.villagenews.com/section/lifestyles">Lifestyles</a>
+   <!--[if lte IE 7]><a href='#'>the_section<table><tr><td><![endif]-->
+   <ul>
+    <li>
+     <a href="https://www.villagenews.com/section/lifestyles">All</a>
+    </li>
+    <li>
+     <a href="https://www.villagenews.com/section/lifestyles/health">Health</a>
+    </li>
+    <li>
+     <a href="https://www.villagenews.com/section/lifestyles/home%5Fand%5Fgarden">Home and Garden</a>
+    </li>
+   </ul>
+   <!--[if lte IE 7]></td></tr></table></a><![endif]-->
+  </li>
+  <li class="menu_right_border">
+   <a href="https://www.villagenews.com/section/opinion">Opinion</a>
+  </li>
+  <li class="menu_right_border">
+   <a href="https://www.villagenews.com/section/entertainment">Entertainment</a>
+   <!--[if lte IE 7]><a href='#'>the_section<table><tr><td><![endif]-->
+   <ul>
+    <li>
+     <a href="https://www.villagenews.com/section/entertainment">All</a>
+    </li>
+    <li>
+     <a href="https://www.villagenews.com/section/entertainment/arts">Arts</a>
+    </li>
+   </ul>
+   <!--[if lte IE 7]></td></tr></table></a><![endif]-->
+  </li>
+  <li class="menu_right_border">
+   <a href="https://www.villagenews.com/section/regional">Regional</a>
+  </li>
+  <li class="menu_right_border">
+   <a href="https://www.villagenews.com/section/national">National</a>
+  </li>
+  <li class="menu_right_border">
+   <a href="https://www.villagenews.com/section/calendar">Calendar</a>
+  </li>
+  <li id="new-search-white">
+   <form method="GET" class="searchbox" autocomplete="on" action="/findit" name="findit">
+    <input class="searchbox-input" type="search" onkeyup="buttonUp();" placeholder="Search" name="mysearch" required="" value="" title="search"/>
+    <input type="image" src="/app/images/search-img-icon-sm.png" name="mybutton" data-value="Search" class="searchbox-submit" alt="search"/>
+    <span class="searchbox-icon"><img src="/app/images/search-img-icon-sm.png" class="searchbox-img" alt=""/></span>
+   </form>
+  </li>
+</ul>
+ </div>
+    </div>
+    </div>
+   <div class="outer_maincontent outer">
+   <div class="maincontent widen_vertical_padding inner skel">
+    <div class="maincontent skel">
+     <div class="grid_2">
+      <!--/// Begin Article from headline... ///--><!-- open the "right_border" div --><div class="right_border">	<div class="author"><p>		</p>
+	</div><h2>Update on ALL Southern California fires</h2><div class="clear"> </div><!--/// CLEAR ///--><div class="title_separator"></div><div class="volume_issue">
+<div class="a2a_kit a2a_kit_size_20 a2a_default_style single-social">
+    <a class="a2a_button_facebook bothsociallink_border"><img src="/cms/images/social_media_icons/buttons/facebook_15_white.png" alt="facebook"/>  Share</a>
+    <a class="a2a_button_twitter bothsociallink_border"><img src="/cms/images/social_media_icons/buttons/twitter_13_on_15_white.png" alt="twitter"/>  Tweet</a>
+    <a class="a2a_button_pinterest bothsociallink_border" data-pin-config="none"><img src="/cms/images/social_media_icons/buttons/pinterest_15_white.png" alt="pinterest"/></a>
+    <a class="a2a_dd bothsociallink_border" href="https://www.addtoany.com/share" data-annotation="none" aria-label="Addtoany button"><img src="/cms/images/social_media_icons/buttons/addtoany_nobox_15_white.png" alt=""/></a>
+    <a class="comment_link_button bothsociallink_border" href="#readercomments" tag="id-14860">0 Comments</a>
+
+</div>
+<script src="//static.addtoany.com/menu/page.js" async=""></script>
+<p>Last updated 10/26/2007 at Noon</p>
+
+</div><br/><br/><div class="p402_premium"><p>Update on ALL Southern California fires as of 8 am Oct. 26</p><p></p><p>San Diego County</p><p></p><p>Witch Fire – 197,990 acres – 45% contained</p><p></p><p>Harris Fire – 84,300 acres – 20% contained</p><p></p><p>Poomacha Fire – 39,000 acres – 35% contained</p><p></p><p>Rice Fire – 9,000 acres – 40% contained</p><p></p><p>Horno/Ammo Fire – 19,353 acres – 80% contained</p><p></p><p>Wilcox Fire – 100 acres – 100% contained<span id="ezoic-pub-ad-placeholder-142" class="ezoic-adpicker-ad"></span><span class="ezoic-ad ezoic-at-0 medrectangle-4 medrectangle-4142 adtester-container adtester-container-142" data-ez-name="villagenews_com-medrectangle-4"><span id="div-gpt-ad-villagenews_com-medrectangle-4-0" ezaw="300" ezah="250" style="position:relative;z-index:0;display:inline-block;padding:0;min-height:250px;min-width:300px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">if(typeof ez_ad_units != 'undefined'){ez_ad_units.push([[300,250],'villagenews_com-medrectangle-4','ezslot_1',142,'0','0'])};__ez_fad_position('div-gpt-ad-villagenews_com-medrectangle-4-0');</script></span></span></p><p></p><p>Cajon Fire – 250 acres – 100% contained</p><p></p><p>McCoy Fire – 300 acres – 100% contained</p><p></p><p>Coronado Hills Fire – 300 acres – 100% contained</p><p></p><p>San Bernardino County</p><p></p><p>Slide Fire – 13,378 acres – 15% contained</p><p></p><p>Grass Valley Fire - 1,100 acres – 70% contained</p><p></p><p>Martin Fire – 123 acres – 100% contained</p><p></p><p>Walker Fire – 160 acres 100% contained</p><p></p><p>Orange County</p><p></p><p>Santiago Fire – 27,000 acres – 30% contained</p><p></p><p>Los Angeles County</p><p></p><p>Ranch Fire – 58,396 acres – 87% contained</p><p></p><p>Canyon Fire – 4,565 acres – 100% contained</p><p></p><p>Magic Fire – 2,824 acres – 100% contained</p><p></p><p>Buckweed Fire – 38,356 acres – 100% contained</p><p></p><p>Meadowridge Fire – 40 acres - 100% contained</p><p></p><p>Santa Barbara County</p><p></p><p>Sedgewick Fire – 710 acres – 100% contained</p><p></p><p><a href="https://www.villagenews.com/search/Riverside">Riverside</a> County</p><p></p><p>Rosa Fire – 411 acres – 100% contained</p><p></p><p>Roca Fire – 270 acres – 100% contained</p><p></p><p>Ventura County</p><p></p><p>Nightsky Fire – 35 acres – 100% contained</p><p></p><p>Harris Fire</p><p></p><p>Harris Ranch Road &amp; Hwy 94</p><p></p><p>San Diego County</p><p></p><p>This fire has burned 84,300 acres and is 20 percent contained. The fire started October 21 and is burning at Harris Ranch Road and both sides of Highway 94 in Portrero in San Diego County. There have been 21 civilian and 12 firefighter injuries, as well as one death on this fire. 97 homes, 2 commercial properties and 17 outbuildings have been destroyed, and 250 additional structures are damaged. Damage assessments are still being conducted. 1,500 homes are still threatened.</p><p></p><p>Evacuation orders remain in effect. Re-entry for residents only was allowed in the Thousand Trails, Potrero and Tecate neighborhoods. Today residents only will be allowed to re-enter Jamul. The communities of Lyons Valley, Lawson Valley, Carveacre, San Miguel, Portrero, Barrett Junction, Barett Lake area, Engineer Springs, Dulzura, Deerhorn Valley, and homes along Millar Ranch Road are threatened. 1,341 firefighters are assigned under a unified command. The estimated cost of this fire to date is $5.8 million. Harris Fire Information Line (619) 590-3160.</p><p></p><p>Evacuation Order in place for communities of Lawson Valley and Carveacre 10/25/07</p><p></p><p>Harris Fire Fact Sheet 10/25/07 AM</p><p></p><p>Harris Fire Evacuation Order Lifted for Residents in the Otay Lakes and Thousand Trails Area 10/25/07</p><p></p><p>Harris Fire Evacuation Warning 10/24/07</p><p></p><p>Witch Fire</p><p></p><p>Witch Creek Area East of Ramona</p><p></p><p>San Diego County</p><p></p><p>This fire has burned 197,990 acres and is 45 percent contained. The Witch Fire has joined the Poomacha fire in the north. Mandatory evacuations are in place for the community of Julian and there is still a threat to Pine Hills, Cuyamaca, Wynola, Santa Ysabel, Alpine, Mesa Grande and Harbison Canyon. Fire progression has slowed to the west, southwest, and northwest. Residents are being allowed to return to portions of Poway, Valley Center, Escondido, Rancho Santa Fe, San Diego, Ramona and Rancho Bernardo. Wildcat Canyon is closed. Highway 67 is closed from Poway to Ramona.</p><p></p><p>1,061 homes, 30 commercial properties, and 175 outbuildings have been destroyed. 62 homes, 10 commercial properties and 50 outbuildings have been damaged. 1,000 residences, 100 commercial properties, and 300 outbuildings are still threatened. 239 vehicles have been destroyed.</p><p></p><p>2,883 firefighters are assigned to this incident under unified command. 26 firefighters have been injured on this fire. The estimated cost of this fire to date is $7.5 million. Witch Fire Information Line (619) 590-3160.</p><p></p><p>Poomacha Fire</p><p></p><p>Highway 76, Pauma Valley</p><p></p><p>San Diego County</p><p></p><p>This fire started October 23 as a structure fire on the Lajolla Indian Reservation. It has burned 39,000 acres and is 35 percent contained. The Poomacha Fire has joined with the Witch Fire to the south. 60 homes and 19 outbuildings have been destroyed. 2,000 homes remain threatened.</p><p></p><p>Evacuations are in progress in Valley Center. The communities of Valley Center, Rincon, Pauma Valley, Hidden Meadows, Deer Springs, Vista and Palomar are threatened. This fire has resulted in 12 firefighter injuries. 1,482 firefighters are currently assigned to this fire under unified command with CAL FIRE and the Cleveland National Forest. The estimated cost of this fire to date is $1.6 million. Poomacha Fire Information Line (760) 751-7600.</p><p></p><p>Slide Fire</p><p></p><p>San Bernardino National Forest</p><p></p><p>Green Valley Lake near Running Springs</p><p></p><p>San Bernardino County</p><p></p><p>This fire has burned 13,378 acres at Green Valley Lake near Running Springs in San Bernardino County and is currently 15 percent contained. 200 homes and 3 outbuildings have burned.</p><p></p><p>10,000 homes continue to be threatened. More than 2,000 people are at evacuation centers. Communities threateded are Green Valley, Running Springs, Live Oak, Fredalba, Smiley Park, Deer Lick, Calvery Chapel Camp, National Children’s Forest and Visitors Center, and Arrowbear Lake. All roads into the mountain communities are closed.</p><p></p><p>1,359 firefighters are currently assigned to this fire under unified command. The estimated cost of this fire to date is $3 million. Slide Fire Information Line (909) 383-5688.</p><p></p><p>Grass Valley Fire</p><p></p><p>San Bernardino National Forest</p><p></p><p>San Bernardino County</p><p></p><p>This fire has burned 1,100 acres and is 70 percent contained. The fire is northwest of Lake Arrowhead. 100 structures have been lost, and more than 6,000 homes remain threatened. There are mandatory evacuation for areas from Crestline to Snow Valley. Voluntary evacuations are in place for Cedar Pines Park and Valley of Enchantment. Evacuation Center have been established at the National Orange Show in San Bernardino and Victorville Fairgrounds in Victorville.</p><p></p><p>State Highway 18 is closed from 40th/Waterman to the Big Bear Dam, State Highway 330 is closed at Highland to Hwy 18, State Highway 138 is closed at State Highway 173. Residents may leave via these highways (except 330) but cannot go back up into the Mountains. Access to Big Bear is via Hwy 38 from I-10 in Redlands or from Hwy 18 through the Hi-Desert in Lucerne Valley.</p><p></p><p>780 firefighters are assigned to this incident. The estimated cost of this fire to date is $2.7 million. Grass Valley Fire Information Line (909) 383-5688.</p><p></p><p>Santiago Fire</p><p></p><p>Santiago Canyon Road at Silverado Canyon Road</p><p></p><p>Orange County</p><p></p><p>This fire has burned 27,000 acres and is 30 percent contained. Mandatory evacuations are in place for the canyon areas of Santiago Canyon Road between Silverado Canyon Road and Live Oak Canyon Road, including the Santiago Estates area and Jackson Ranch Road. Areas along Live Oak Canyon Road through the Trabuco Canyon area, including O&#39;Neill Regional Park, to Trabuco Creek Road are included in this mandatory evacuation. The following road closures are in place: Santiago Canyon road south of the 241 Toll Road to Live Oak Canyon Road, all of Live Oak Canyon Road, all of Trabuco Canyon Road, Plano Trabuco road north of Robinson Ranch Road (northbound only).</p><p></p><p>Fourteen homes and eight outbuildings have been destroyed, and 8 residential structures and 12 outbuildings were damaged. 1,614 people are assigned to this incident and four firefighter injuries have been reported. The estimated cost of this fire to date is $4.5 million.</p><p></p><p>The Santiago Fire has been determined to be arson-caused. Santiago Fire Information Line (714) 573-6200.</p><p></p><p>Horno/Ammo Fire</p><p></p><p>Camp Pendleton</p><p></p><p>San Diego County</p><p></p><p>The Horno/Ammo Fire has burned 19,353 acres since October 23 and is 80 percent contained. The Horno Fire has two heads, one north bound tied into Basilone Road and the other south bound tied into Aliso Canyon Road. Firing Operations are being conducted on the northern head from San Onofre to Camp Horno and along Canyon Road to Bailone Road. 169 firefighters are assigned to this incident and one firefighter has been injured. For information on area relocations, please contact the Horno/Ammo Fire Information Line at (866) 430-2764.</p><p></p><p>Rice Fire</p><p></p><p>Rice Canyon</p><p></p><p>San Diego County</p><p></p><p>This fire has burned 9,000 acres in Rice Canyon in Northern San Diego County and is 40 percent contained. 206 homes, 2 commercial properties and 40 outbuildings have been destroyed. 200 homes are threatened currently. Evacuation orders are in effect for Fallbrook and outlying areas. Portions of Fallbrook have been reopened to residents. Three firefighters injuries have been reported. 1,073 firefighters are assigned to this fire under unified command. The estimated cost of this fire is $2.3 million. Full containment is expected on October 28. Rice Fire Information Line (619) 590-3160.</p><p></p><p>Ranch Fire</p><p></p><p>Angeles National Forest</p><p></p><p>Los Angeles County</p><p></p><p>This fire has burned 58,396 acres since October 20 and is 87 percent contained. The fire is burning six miles north of Castaic in Los Angeles County. All evacuations have been lifted. One home and eight outbuildings have been destroyed. 492 personnel are assigned to this incident. The estimated cost of this fire to date is $8.2 million. Full containment is expected on October 30. Ranch Fire Information Line (626) 821-6700.</p><p></p><p>CONTAINED</p><p></p><p>Canyon Fire</p><p></p><p>Malibu Canyon</p><p></p><p>Los Angeles County</p><p></p><p>This fire has burned 4,565 acres and is 100 percent contained. Evacuations have been lifted. 22 structures have been damaged or destroyed. Three injuries have been reported. The estimated cost of this fire to date is $4.2 million. Canyon Fire Information Line (323) 881-2411.</p><p></p><p>Cajon Fire - FINAL</p><p></p><p>I-15/Kenwood in Devore</p><p></p><p>San Bernardino County</p><p></p><p>This fire started October 22 and has burned 250 acres. The fire is 100 percent contained. Cajon Fire Information line (909) 383-5688.</p><p></p><p>Rosa Fire - FINAL</p><p></p><p>Near Temecula</p><p></p><p><a href="https://www.villagenews.com/search/Riverside">Riverside</a> County</p><p></p><p>This fire burned 411 acres and is 100 percent contained. Two outbuildings were destroyed by this fire. Evacuations have been lifted and residents may return to their homes. All roads are open. Rosa Fire Information Line (951) 940-6985.</p><p></p><p>Sedgewick Fire - FINAL</p><p></p><p>Brinkerhoff Rd/Sedgewick Ranch/ Figueroa Mountain</p><p></p><p>Santa Barbara County</p><p></p><p>This fire, caused by arching power lines, burned 710 acres and is now 100 percent contained. 30 personnel are assigned to this fire. Sedgewick Fire Information Line (805) 681-5546.</p><p></p><p>Coronado Hills Fire - FINAL</p><p></p><p>South of Cal State San Marcos</p><p></p><p>San Diego County</p><p></p><p>This fire started October 22 and burned 250 acres south of Cal State San Marcos in San Diego County. Two outbuildings were destroyed in Discovery Hills and San Marcos. It is now 100 percent contained. Coronado Hills Fire Line (619) 590-3160.</p><p></p><p>Roca Fire - FINAL</p><p></p><p>East of Temecula</p><p></p><p><a href="https://www.villagenews.com/search/Riverside">Riverside</a> County</p><p></p><p>The Roca Fire burned 270 acres since October 21 and is 100 percent contained. All evacuation orders have been lifted.One home was destroyed and one injury was reported. Roca Fire Information Line (951) 940-6985.</p><p></p><p>Walker Fire</p><p></p><p>Northwest of Lake Arrowhead</p><p></p><p>San Bernardino County</p><p></p><p>This fire burned 160 acres northwest of Lake Arrowhead in San Bernardino County and is now 100 percent contained. The evacuation center is now closed. Four engines remain on scene. Walker Fire Information line (909) 383-5688.</p><p></p><p>McCoy Fire - FINAL</p><p></p><p>Cleveland National Forest</p><p></p><p>San Diego County</p><p></p><p>This fire burned 300 acres and is 100 percent contained. The fire started October 21 in the Boulder Creek/Eagle Peak area of San Diego County. One residence and one outbuilding were destroyed. McCoy Fire Information Line (619) 590-3160.</p><p></p><p>Wilcox Fire - FINAL</p><p></p><p>Camp Pendleton</p><p></p><p>San Diego County</p><p></p><p>This 100 acre fire on Camp Pendleton is now 100% contained. Wilcox Fire Information Line (866) 430-2764.</p><p></p><p>Meadowridge Fire</p><p></p><p>Santa Clarita - 14 Freeway, San Fernando</p><p></p><p>Los Angeles County</p><p></p><p>This 40 acre fire began at 12:30 October 23 and is now 100 percent contained. No communities are currently threatened. 182 firefighters are assigned to this fire under Los Angeles County command. Meadowridge Fire Information Line (323) 881-2411.</p><p></p><p>Buckweed Fire</p><p></p><p>Mint Canyon Road at Sierra Hwy</p><p></p><p>Los Angeles County</p><p></p><p>This fire burned 38,356 acres and is 100 percent contained. The fire started October 21 and is burning at Mint Canyon Road and Sierra Highway in Los Angeles County toward Magic Mountain. 30 structures were damaged and 63 structures have been destroyed. Three civilians and one firefighter were injured. The estimated cost of this fire to date is $7.4 million. Buckweed Fire Information Line (323) 881-2411.</p><p></p><p>Magic Fire - FINAL</p><p></p><p>Old Cross Road at Magic Mountain Parkway</p><p></p><p>Los Angeles County</p><p></p><p>The Magic Fire has burned 2,824 acres since October 22 and is now 100 percent contained. Bouquet Canyon Road from Spunky Canyon to Shadow is closed. Magic Fire Information Line (323) 881-2411.</p><p></p><p>Martin Fire - FINAL</p><p></p><p>Martin Ranch Road at Meyers Road</p><p></p><p>San Bernardino County</p><p></p><p>This fire in the San Bernardino National Forest began at 9 a.m. October 23 and has burned 123 acres. It is 100 percent contained. 77 firefighters are assigned to this incident under unified command and one firefighter injury has been reported. One home has been damaged. No structures are threatened at this time. All evacuation notices have been lifted.</p><p></p><p>Nightsky Fire - FINAL</p><p></p><p>2 miles south of Moorpark</p><p></p><p>Ventura County</p><p></p><p>This fire is in Ventura County and began at 10:35 a.m. October 21 and burned 35 acres. It is 100 percent contained.</p><p></p><p></p></div><!-- close the "right_border" div --></div>
+    <script> 
+      try { _402_Show(); } catch(e) {} 
+    </script><p class="skel"></p><div>
+	<fieldset>
+		<legend>You might be interested in:</legend><ul><li class="other_interest"><a href="https://www.villagenews.com/story/2023/02/02/news/ncpfd-reports-a-large-vehicle-fire-in-bonsall/72206.html">NCPFD reports a large vehicle fire in Bonsall</a></li><li class="other_interest"><a href="https://www.villagenews.com/story/2023/02/02/news/update-21-year-old-man-killed-in-hit-and-run/72205.html">UPDATE: 21-year-old man killed in hit and run</a></li><li class="other_interest"><a href="https://www.villagenews.com/story/2023/02/02/news/motorcyclist-down-at-gird-rd-and-reche/72203.html">Motorcyclist down at Gird Rd. and Reche</a></li><li class="other_interest"><a href="https://www.villagenews.com/story/2023/02/02/news/sheriffs-log/72197.html">Sheriff&#39;s Log</a></li><li class="other_interest"><a href="https://www.villagenews.com/story/2023/02/02/news/local-woman-fights-for-justice/72196.html">Local woman fights for justice</a></li></ul></fieldset></div><div class="clear"> </div><!--/// CLEAR ///--><!--END CONTENT AREA-->
+     </div>
+     
+     <!--BEGIN SIDEBAR CONTENT AREA-->
+     <div class="sidebar_grid align_center"><!--BEGIN SIDEBAR CONTENT AREA--><div id="most_popular"><table style="width:100%;"><tbody><tr><th colspan="2" scope="colgroup">Most Popular</th></tr>
+<tr><td class="mp_photo" style="width:25%;"><a href="https://www.villagenews.com/story/2023/02/02/news/update-21-year-old-man-killed-in-hit-and-run/72205.html" aria-label=""><img src="/IMG/h7p2IsJisMzSyQmJwzKFLuvDt/XPATH/home/cms_data/dfault/photos/stories/id/0/5/72205/s_topXEXT904x32852is.jpg" width="67" height="50" alt=""/></a></td><td class="mp_article" style="width:75%;"><a href="https://www.villagenews.com/story/2023/02/02/news/update-21-year-old-man-killed-in-hit-and-run/72205.html" aria-label="">UPDATE: 21-year-old ma...<span class="mp_author">Village Staff</span></a></td></tr>
+<tr><td class="mp_photo" style="width:25%;"><a href="https://www.villagenews.com/story/2023/02/02/news/local-woman-fights-for-justice/72196.html" aria-label=""><img src="/home/cms_data/dfault/images/mostpopular_default_photo_67x50.jpg" width="67" height="50" alt=""/></a></td><td class="mp_article" style="width:75%;"><a href="https://www.villagenews.com/story/2023/02/02/news/local-woman-fights-for-justice/72196.html" aria-label="">Local woman fights for...<span class="mp_author"></span></a></td></tr>
+<tr><td class="mp_photo" style="width:25%;"><a href="https://www.villagenews.com/story/2023/02/02/lifestyles/local-residents-now-have-alternative-to-sdgande/72173.html" aria-label=""><img src="/IMG/h7p41qVkoHwSnW48z21O58-yz/XPATH/home/cms_data/dfault/photos/stories/id/7/3/72173/s_topXEXT937x32965is.jpg" width="67" height="50" alt=""/></a></td><td class="mp_article" style="width:75%;"><a href="https://www.villagenews.com/story/2023/02/02/lifestyles/local-residents-now-have-alternative-to-sdgande/72173.html" aria-label="">Local residents now ha...<span class="mp_author"></span></a></td></tr>
+<tr><td class="mp_photo" style="width:25%;"><a href="https://www.villagenews.com/story/2023/02/02/community/amy-marie-buell/72188.html" aria-label=""><img src="/IMG/Ssg71xOi220PpY8E905KG3Cy4/XPATH/home/cms_data/dfault/photos/stories/id/8/8/72188/s_topXEXT941x33005is.jpg" width="67" height="50" alt=""/></a></td><td class="mp_article" style="width:75%;"><a href="https://www.villagenews.com/story/2023/02/02/community/amy-marie-buell/72188.html" aria-label="">Amy Marie Buell<span class="mp_author"></span></a></td></tr>
+<tr><td class="mp_photo" style="width:25%;"><a href="https://www.villagenews.com/story/2023/02/02/news/sheriffs-log/72197.html" aria-label=""><img src="/home/cms_data/dfault/images/mostpopular_default_photo_67x50.jpg" width="67" height="50" alt=""/></a></td><td class="mp_article" style="width:75%;"><a href="https://www.villagenews.com/story/2023/02/02/news/sheriffs-log/72197.html" aria-label="">Sheriff&#39;s Log<span class="mp_author"></span></a></td></tr>
+</tbody></table></div><div class="side_separator ss_invisible"></div><div style="text-align:center;" aria-hidden="true"><a href="https://fallbrookvillagedental.com/" target="blank"><img src="/IMG/uhdYgltabTjLheWFr5q5ZElUyjox4zv11/XPATH/home/cms_data/dfault/web_ads/square/7520-05_05_22_fallbrook_village_dental_mrec_both.jpgXEXT1526x45352.jpeg" width="300" height="250" alt=""/></a></div><div class="side_separator"></div><span id="ezoic-pub-ad-placeholder-147" class="ezoic-adpicker-ad"></span><span class="ezoic-ad ezoic-at-0 large-leaderboard-1 large-leaderboard-1147 adtester-container adtester-container-147" data-ez-name="villagenews_com-large-leaderboard-1"><span id="div-gpt-ad-villagenews_com-large-leaderboard-1-0" ezaw="300" ezah="250" style="position:relative;z-index:0;display:inline-block;padding:0;min-height:250px;min-width:300px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">if(typeof ez_ad_units != 'undefined'){ez_ad_units.push([[300,250],'villagenews_com-large-leaderboard-1','ezslot_2',147,'0','0'])};__ez_fad_position('div-gpt-ad-villagenews_com-large-leaderboard-1-0');</script></span><span style="width:300px;display:block;height:14px;margin:auto" class="reportline"><span style="text-align:center;font-size:12px !important;font-family: arial!important;float:left;line-height:normal;"><a href="https://www.ezoic.com/what-is-ezoic/" target="_blank" rel="noopener noreferrer nofollow" style="cursor:pointer"><img src="https://go.ezodn.com/utilcave_com/img/ezoic.png" alt="Ezoic" loading="lazy" style="height:12px !important; padding:2px !important; border:0px !important; cursor:pointer !important; width: 58px !important; margin:0 !important; box-sizing: content-box !important;"/></a></span><span class="ez-report-ad-button" name="?pageview_id=106d4b22-cd62-426c-6171-8b3625e0454c&amp;ad_position_id=147&amp;impression_group_id=villagenews_com-large-leaderboard-1/2023-02-06/2521849471073156&amp;ad_size=300x250&amp;domain_id=182039&amp;url=https://www.villagenews.com/story/2007/10/26/news/update-on-all-southern-california-fires/14860.html" style="cursor: pointer!important; font-size:12px !important;color: #a5a5a5 ;float:right;text-decoration:none !important;font-family:arial !important;line-height:normal;">report this ad</span></span></span><div class="ll_revcontent_ad" aria-hidden="true"><div id="rc-widget-fa853a" data-rc-widget="" data-widget-host="habitat" data-endpoint="//trends.revcontent.com" data-widget-id="234702"></div><script type="text/javascript" src="https://assets.revcontent.com/master/delivery.js" defer="defer"></script></div><div class="side_separator"></div><div style="text-align:center;" aria-hidden="true"><a href="https://www.youtube.com/embed/JeU3KToV1II" target="blank"><img src="/IMG/eRdUupvVdhiZRcdMqzgpjLpdsbdF0qxsy/XPATH/home/cms_data/dfault/web_ads/square/3388-intro_video_thumbnail.pngXEXT1736x38240is.png" width="300" height="250" alt=""/></a></div><div class="side_separator"></div><span id="ezoic-pub-ad-placeholder-107" class="ezoic-adpicker-ad"></span><span class="ezoic-ad ezoic-at-0 large-billboard-2 large-billboard-2107 adtester-container adtester-container-107" data-ez-name="villagenews_com-large-billboard-2"><span id="div-gpt-ad-villagenews_com-large-billboard-2-0" ezaw="300" ezah="250" style="position:relative;z-index:0;display:inline-block;padding:0;min-height:250px;min-width:300px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">if(typeof ez_ad_units != 'undefined'){ez_ad_units.push([[300,250],'villagenews_com-large-billboard-2','ezslot_3',107,'0','0'])};__ez_fad_position('div-gpt-ad-villagenews_com-large-billboard-2-0');</script></span><span style="width:300px;display:block;height:14px;margin:auto" class="reportline"><span style="text-align:center;font-size:12px !important;font-family: arial!important;float:left;line-height:normal;"><a href="https://www.ezoic.com/what-is-ezoic/" target="_blank" rel="noopener noreferrer nofollow" style="cursor:pointer"><img src="https://go.ezodn.com/utilcave_com/img/ezoic.png" alt="Ezoic" loading="lazy" style="height:12px !important; padding:2px !important; border:0px !important; cursor:pointer !important; width: 58px !important; margin:0 !important; box-sizing: content-box !important;"/></a></span><span class="ez-report-ad-button" name="?pageview_id=106d4b22-cd62-426c-6171-8b3625e0454c&amp;ad_position_id=107&amp;impression_group_id=villagenews_com-large-billboard-2/2023-02-06/3834787541036401&amp;ad_size=300x250&amp;domain_id=182039&amp;url=https://www.villagenews.com/story/2007/10/26/news/update-on-all-southern-california-fires/14860.html" style="cursor: pointer!important; font-size:12px !important;color: #a5a5a5 ;float:right;text-decoration:none !important;font-family:arial !important;line-height:normal;">report this ad</span></span></span><div style="text-align:center;" aria-hidden="true"><a href="https://msjc.edu/" target="blank"><img src="/IMG/gTWcpk2mPZfLXeeVXxnviGWdbv15y1q0u/XPATH/home/cms_data/dfault/web_ads/square/9975-msjc_v3_hs_300x250.jpgXEXT1679x35719.jpeg" width="300" height="250" alt=""/></a></div><div class="side_separator"></div><div style="text-align:center;" aria-hidden="true"><a href="https://zcslc.org/" target="blank"><img src="/IMG/xkFqcj5VRsZgdPiMgEb2VBuYx0bz9lryt/XPATH/home/cms_data/dfault/web_ads/square/9918-08_04_22_zion_300x300.gifXEXT1800x35729.gif" width="300" height="300" alt=""/></a></div><div class="side_separator"></div><div style="text-align:center;" aria-hidden="true"><div class="sticky_ad_square"><a href="https://www.coldwellbanker.com/coldwell-banker-village-properties-327c?utm_medium=referral&amp;utm_source=internal&amp;utm_campaign=company&amp;utm_term=327&amp;referredByCompany=327" target="blank"><img src="/IMG/sfciel2cibYJbjhVqrVDfCrUxhhFslvt2/XPATH/home/cms_data/dfault/web_ads/square/6161-03_11_21_cbvillagepropertie_mrec.jpgXEXT1610x41243is.jpeg" width="300" height="250" alt=""/></a></div></div><div class="side_separator"></div><!--END SIDEBAR CONTENT AREA-->
+     </div>
+     <!--END SIDEBAR CONTENT AREA-->
+    </div>
+   </div>
+   </div>
+
+
+
+
+   <div class="bottom_banner_ad widen_vertical_width skel"><!--//////////////////// START READER COMMENTS ////////////////////-->
+<a id="readercomments"></a><div class="comments"><h2>Reader Comments<span class="comment-top-text-left">(0)</span></h2><div class="comment-top-text-right align_right">
+		<a href="https://www.villagenews.com/login?r=%2Fstory%2F2007%2F10%2F26%2Fnews%2Fupdate%2Don%2Dall%2Dsouthern%2Dcalifornia%2Dfires%2F14860%2Ehtml"><img src="/cms/images/comment_icon.gif" alt="comment"/> Log in to add your comment</a></div><div class="clear"> </div><!--/// CLEAR ///--><div class="clear"> </div><!--/// CLEAR ///--><div class="bottom_banner_ad" aria-hidden="true"><div class="bottom_banner_advert_text"><a href="https://www.coldwellbanker.com/coldwell-banker-village-properties-327c?utm_medium=referral&amp;utm_source=internal&amp;utm_campaign=company&amp;utm_term=327&amp;referredByCompany=327" target="blank"><img src="/IMG/yG6RICNBHcJKzTMtGuIIAvQBJoeXG/XPATH/home/cms_data/dfault/web_ads/horiz/6992-03_11_21_cbvillagepropertie_leaderboard.jpgXEXT1806x43156is.jpeg" width="728" height="90" alt=""/></a></div></div></div>
+
+<!-- LL Network Ad --><!-- Ad Filler T Replacement, Stories -->
+<div class="white_space"></div>
+<div class="bottom_banner_ad" aria-hidden="true">
+<div id="rc-widget-fe3d3f" data-rc-widget="" data-widget-host="habitat" data-endpoint="//trends.revcontent.com" data-widget-id="234219"></div><script type="text/javascript" src="https://assets.revcontent.com/master/delivery.js" defer="defer"></script></div><div class="white_space"></div>
+
+<!--Story_full--></div>
+
+
+
+   <div class="outer_footer outer">
+   <div class="footer widen_vertical_padding inner skel">
+
+      <div class="footer_column_1">
+        <h3>Sections</h3>
+        <ul><li><a href="https://www.villagenews.com/section/news" aria-label="Section link">News</a></li><li><a href="https://www.villagenews.com/section/community" aria-label="Section link">Community</a></li><li><a href="https://www.villagenews.com/section/sports" aria-label="Section link">Sports</a></li><li><a href="https://www.villagenews.com/section/lifestyles" aria-label="Section link">Lifestyles</a></li><li><a href="https://www.villagenews.com/section/opinion" aria-label="Section link">Opinion</a></li><li><a href="https://www.villagenews.com/section/entertainment" aria-label="Section link">Entertainment</a></li><li><a href="https://www.villagenews.com/section/regional" aria-label="Section link">Regional</a></li><li><a href="https://www.villagenews.com/section/national" aria-label="Section link">National</a></li><li><a href="https://www.villagenews.com/section/calendar" aria-label="Section link">Calendar</a></li>
+        </ul>
+      </div>
+
+
+      <div class="footer_column_2">
+        <h3>Newspaper</h3>
+        <ul>
+          <li><a href="https://www.villagenews.com/contact">Contact</a></li><li><a href="https://www.villagenews.com/subscribe">Subscribe</a></li><li><a href="https://www.villagenews.com/about">About</a></li><li><a href="https://www.villagenews.com/photos">Photos</a></li>
+        </ul>
+      </div>
+
+
+      <div class="footer_column_3">
+        <h3>Website</h3>
+        <ul>
+          <li><a href="https://www.villagenews.com/terms">Terms of Use</a></li><li><a href="https://www.villagenews.com/privacy">Privacy Policy</a></li><li><a href="https://www.villagenews.com/sitemap_index.xml" target="_blank">Sitemap</a></li><li><a href="https://www.villagenews.com/story/2007/10/26/news/update-on-all-southern-california-fires/14860.html?m=true">Mobile Browser</a></li>
+        </ul>
+      </div>
+
+      <div class="footer_column_4">
+        <h3>Advertise</h3>
+        <ul>
+          <li><a href="https://www.villagenews.com/advertise">Advertise</a></li><li><a href="https://www.villagenews.com/directory">Business Directory</a></li><li><a href="https://www.villagenews.com/advertise/placead">Place a Classified Ad</a></li>
+        </ul>
+      </div>
+
+      <div class="footer_column_5">
+        <h3>Contribute</h3>
+        <ul>
+          <li><a href="https://www.villagenews.com/contact">Submit Content</a></li><li><a href="https://www.villagenews.com/contact">Letter to the Editor</a></li>
+        </ul>
+      </div>
+
+      <div class="footer_column_6">
+        <h3>Connect With Us</h3>
+          <a href="https://www.facebook.com/fallbrookvillagenews" target="_blank"><img class="footer_icon" src="/cms/images/social_media_icons/facebook.png" height="30" alt="FaceBook"/></a><a href="https://twitter.com/thefvillagenews" target="_blank"><img class="footer_icon" src="/cms/images/social_media_icons/twitter.png" height="28" alt="Twitter"/></a><a href="https://www.villagenews.com/rss" target="_blank"><img class="footer_icon" src="/cms/images/social_media_icons/rss.png" height="30" alt="RSS"/></a>
+        <h4>Village News</h4>
+        <p>
+          111 W. Alvarado St.<br/>Suite 200<br/>Fallbrook, CA 92028<br/>Ph: (760) 723-7319<br/>
+       </p>
+        <p>
+          © 2023 Reeder Media, Inc.<br/>
+       </p>
+      </div>
+
+
+   </div>
+   </div>
+   <div class="outer_other_companies outer">
+    <div class="other_companies widen_vertical_padding inner skel">
+
+      <h3>Our Family of Publications Includes:</h3>
+
+      <div class="slickcarousel_pubfamily">
+<div><a href="http://www.myvalleynews.com" target="_blank"><img class="footer_icon" src="/home/customer_files/images/publication_family/valleynews.jpg" height="58" alt="Valleynews"/></a></div><div><a href="http://www.anzavalleynews.com" target="_blank"><img class="footer_icon" src="/home/customer_files/images/publication_family/anzavalley.jpg" height="58" alt="Anzavalley"/></a></div><div><a href="http://www.reedermedia.com" target="_blank"><img class="footer_icon" src="/home/customer_files/images/publication_family/reedermedia-logo.png" height="58" alt="Reedermedia Logo"/></a></div>
+      </div>
+
+    </div>
+   </div>
+
+ <div class="outer_footer2 outer">
+   <div class="footer2 widen_vertical_width inner skel">
+
+
+    <div class="roar_pub">
+     <p>Powered by <strong><a href="http://www.lionslight.com" target="_blank">ROAR Online Publication Software</a></strong> from Lions Light Corporation<br/>
+     © Copyright 2022</p>
+    </div>
+
+
+   </div>
+ </div>
+
+
+  </div>
+  
+
+<script>
+
+$('.slickcarousel_white').slick({
+  dots: false,
+  infinite: true,
+  speed: 300,
+  slidesToShow: 5,
+  slidesToScroll: 1
+});
+
+$('.slickcarousel_pubfamily').slick({
+  dots: false,
+  infinite: true,
+  speed: 300,
+  slidesToShow: 3,
+  slidesToScroll: 1
+});
+
+
+
+$(".more_stories_toggle").click(function () {
+    this.style.margin = "0";
+    $more_stories_toggle = $(this);
+    $more_stories_list = $more_stories_toggle.next(); 							  //getting the next element
+
+//    $more_stories_list.slideToggle("slow", function () {						  //open up the content needed - toggle the slide- if visible, slide up, if not slidedown.
+
+        $more_stories_toggle.text(function () {								  //execute this after slideToggle is done; change text of header based on visibility of content div
+
+            return $more_stories_list.is(":visible") ? "+ More Stories" : "- More Stories";               //change text based on condition
+        });
+//    });
+});
+
+
+
+
+</script>
+
+
+
+<script>
+
+//$(".more_stories_toggle").click(function () {
+//
+//    $more_stories_toggle = $(this);
+//
+//    //getting the next element
+//    $more_stories_list = $more_stories_toggle.next();
+//
+//    //open up the content needed - toggle the slide- if visible, slide up, if not slidedown.
+//    $more_stories_list.slideToggle(200, function () {
+//
+//        //execute this after slideToggle is done
+//        //change text of header based on visibility of content div
+//        $more_stories_toggle.text(function () {
+//
+//            //change text based on condition
+//            return $more_stories_list.is(":visible") ? "- More Stories" : "+ More Stories";
+//        });
+//    });
+//
+//});
+
+</script>
+
+<script>
+
+$( ".print_sub_container" ).click(function() {
+  $( ".print_sub_content" ).slideToggle( 500, function() {
+    // Animation complete.
+  });
+});
+
+</script>
+
+ <small style="padding-top:10px;display:block;">Rendered 02/06/2023 10:52</small><!-- (DESKTOP|PAYWALLFALSE|TRUNCATED) (desktop|paywallfalse|truncated) Cached by Usernum:004135 -->
+ 
+
+<div class="ezmob-footer ezoic-floating-bottom ezo_ad ezmob-footer-desktop" id="ezmobfooter"><center><span id="ezoic-pub-ad-placeholder-100"></span><div class="ezmob-footer ezoic-floating-bottom ezo_ad ezmob-footer-desktop" id="ezmobfooter"><center><span class="ezoic-ad ezoic-at-4 medrectangle-2 medrectangle-2100 adtester-container adtester-container-100" data-ez-name="villagenews_com-medrectangle-2"><span id="div-gpt-ad-villagenews_com-medrectangle-2-0" ezaw="728" ezah="90" style="position:relative;z-index:0;display:inline-block;padding:0;min-height:90px;min-width:728px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">if(typeof ez_ad_units != 'undefined'){ez_ad_units.push([[728,90],'villagenews_com-medrectangle-2','ezslot_0',100,'0','0'])};__ez_fad_position('div-gpt-ad-villagenews_com-medrectangle-2-0');</script></span></span></center><span class="ezmob-footer-close" id="ezmob-footer-close" onclick="__ez_close_anchor()" style="display: none;">x</span></div></center></div>
+	<script>
+		function loadSovrnSignal() {
+			var sovrnSignalScript = document.createElement('script');
+			sovrnSignalScript.src = "//get.s-onetag.com/48e9aff7-e1fb-417c-a320-ed101cdab11f/tag.min.js";
+			sovrnSignalScript.async = true;
+			document.body.appendChild(sovrnSignalScript);
+		}
+		window.addEventListener('load', (e) => {
+			loadSovrnSignal();
+		});
+	</script>
+<script>function __ez_fad_ezpbinit(){var s = document.createElement( 'script' );
+	s.setAttribute( 'src', '//go.ezodn.com/hb/dall.js?b=adyoulike,criteo,gumgum,medianet,oftmedia,onemobile,openx,pubmatic,pulsepoint,rhythmone,sharethrough,smilewanted,sovrn,yieldmo&cb=195-0-50' );
+	s.onerror = function () {window.ezDallErr = true};
+	document.body.appendChild( s );}var ezMedianet={bidder:'medianet',params:{"cid":"8CUBCB617","crid":"188911743"}};var ezYieldmo={bidder:'yieldmo',params:{placementId:'2834942196124164132'}};var ezCriteo={bidder:'criteo',params:{networkId:'7987'}};var ezAYL={bidder: 'adyoulike', params: { placement: '1445fa30166d47821a0f97789148a105' }};var ezSmile={bidder:'smilewanted',params:{zoneId:'ezoic.com_hb_display'}};var ezjsps=function(obj){return JSON.parse(JSON.stringify(obj));};var epbjs=epbjs||{};epbjs.que=epbjs.que||[];epbjs.bidderTimeout=2000;epbjs.useAdj=true;epbjs.SS={"adyoulike":11314,"criteo":10050,"gumgum":10079,"medianet":11307,"oftmedia":10081,"onemobile":11293,"openx":10015,"pubmatic":10061,"pulsepoint":11301,"rhythmone":11298,"sharethrough":11309,"smilewanted":11313,"sovrn":10017,"yieldmo":11315};epbjs.bidders=['adyoulike','criteo','gumgum','medianet','oftmedia','onemobile','openx','pubmatic','pulsepoint','rhythmone','sharethrough','smilewanted','sovrn','yieldmo'];epbjs.que.push(function(){epbjs.aliasBidder('appnexus', 'oftmedia');});epbjs.bidderSettings={'oftmedia': { bidCpmAdjustment: function(bidCpm) { var adj1 = bidCpm * 0.850000; var adj2 = adj1 * 1.000000; return adj2; }},};epbjs.gadj=1.000000;var __enableAnalytics=false;epbjs.testFeatures=['positional-keys'];
+var __s2sbidders=[];
+var __s2sinstreambidders=[];
+var __allBidders=['onemobile','medianet','gumgum','sharethrough','yieldmo','pulsepoint','pubmatic','sovrn','openx','criteo','oftmedia','rhythmone','adyoulike','smilewanted'];
+__ez.queue.addFile('/detroitchicago/houston.js', '/detroitchicago/houston.js?gcb=0&cb=46', false, [], true, false, true, false);__ez.queue.addFunc("epbjsRequestAdUnits", "epbjsRequestAdUnits", [[{code: 'div-gpt-ad-villagenews_com-medrectangle-2-0', mediaTypes: {banner: { sizes:[[728,90]] }}, bids: [{bidder: 'onemobile', params: { dcn: '8a9691b20174742046e2210bface012a', pos: '8a9699b701747420431021125b3b0010' }},ezjsps(ezMedianet),{bidder: 'gumgum', params:{ inSlot: '16891' }},{bidder: 'sharethrough', params: { pkey: 'e1sI5HKO9lbvTm6UAa1WEpg9' }},ezjsps(ezYieldmo),{bidder: 'pulsepoint', params: { cp: 562406, ct: 719177, cf: '728x90' }},{bidder: 'pubmatic', params:{ publisherId: '156983', adSlot: 'e_bottom_floating_728x90' }},{bidder: 'sovrn', params: { tagid: '996065'}},{bidder: 'openx',params: { delDomain: 'ezoic-d.openx.net', unit: '538151782' }},ezjsps(ezCriteo),{bidder: 'rhythmone', params: { placementId: '215626' }},ezjsps(ezAYL),ezjsps(ezSmile)] },{code: 'div-gpt-ad-villagenews_com-medrectangle-4-0', mediaTypes: {banner: { sizes:[[300,250]] }}, bids: [{bidder: 'onemobile', params: { pos: '8a9691b20174742046e2211258fd01b2', dcn: '8a9691b20174742046e2210bface012a' }},ezjsps(ezMedianet),{bidder: 'gumgum', params:{ inSlot: '16886' }},{bidder: 'sharethrough', params: { pkey: 'ZuLKhEvL3Xpyu8vcJZvy4GGZ' }},ezjsps(ezYieldmo),{bidder: 'pulsepoint', params: { ct: 719185, cf: '300x250', cp: 562406 }},{bidder: 'pubmatic', params:{ publisherId: '156983', adSlot: 'e_under_second_paragraph_300x250' }},{bidder: 'sovrn', params: { tagid: '593656'}},{bidder: 'openx',params: { delDomain: 'ezoic-d.openx.net', unit: '538151781' }},ezjsps(ezCriteo),{bidder: 'oftmedia', params:{ placementId: '19594051', video: {skippable: true, playback_method: ['auto_play_sound_off']}}},{bidder: 'rhythmone', params: { placementId: '215626' }},ezjsps(ezAYL),ezjsps(ezSmile)] },{code: 'div-gpt-ad-villagenews_com-large-leaderboard-1-0', mediaTypes: {banner: { sizes:[[300,250]] }}, bids: [{bidder: 'onemobile', params: { pos: '8a9691b20174742046e2211258fd01b2', dcn: '8a9691b20174742046e2210bface012a' }},ezjsps(ezMedianet),{bidder: 'gumgum', params:{ inSlot: '16886' }},{bidder: 'sharethrough', params: { pkey: 'ZuLKhEvL3Xpyu8vcJZvy4GGZ' }},ezjsps(ezYieldmo),{bidder: 'pulsepoint', params: { ct: 719185, cf: '300x250', cp: 562406 }},{bidder: 'pubmatic', params:{ publisherId: '156983', adSlot: 'e_sidebar_bottom_300x250' }},{bidder: 'sovrn', params: { tagid: '593700'}},{bidder: 'openx',params: { delDomain: 'ezoic-d.openx.net', unit: '538151781' }},ezjsps(ezCriteo),{bidder: 'oftmedia', params:{ placementId: '19594063', video: {skippable: true, playback_method: ['auto_play_sound_off']}}},{bidder: 'rhythmone', params: { placementId: '215626' }},ezjsps(ezAYL),ezjsps(ezSmile)] },{code: 'div-gpt-ad-villagenews_com-large-billboard-2-0', mediaTypes: {banner: { sizes:[[300,250]] }}, bids: [{bidder: 'onemobile', params: { dcn: '8a9691b20174742046e2210bface012a', pos: '8a9691b20174742046e2211258fd01b2' }},ezjsps(ezMedianet),{bidder: 'gumgum', params:{ inSlot: '16886' }},{bidder: 'sharethrough', params: { pkey: 'ZuLKhEvL3Xpyu8vcJZvy4GGZ' }},ezjsps(ezYieldmo),{bidder: 'pulsepoint', params: { cp: 562406, cf: '300x250', ct: 719185 }},{bidder: 'pubmatic', params:{ publisherId: '156983', adSlot: 'e_sidebar_middle_300x250' }},{bidder: 'sovrn', params: { tagid: '593689'}},{bidder: 'openx',params: { delDomain: 'ezoic-d.openx.net', unit: '538151781' }},ezjsps(ezCriteo),{bidder: 'oftmedia', params:{ placementId: '19594060', video: {skippable: true, playback_method: ['auto_play_sound_off']}}},{bidder: 'rhythmone', params: { placementId: '215626' }},ezjsps(ezAYL),ezjsps(ezSmile)] }]], false, ['/detroitchicago/houston.js'], true, true, true, true);var __id5pd = 'MTE9OTlhOWRiYWE0OWMyZjU4ODExOGVkMzZmMmU4ZDA0MTI3YmE3ZDI3NmJhYTg3ZjhmNmI4YzAxODNmNjkwZmFlNCYxMj1Nb3ppbGxhJTJGNS4wKyUyOE1hY2ludG9zaCUzQitJbnRlbCtNYWMrT1MrWCsxMF8xNV83JTI5K0FwcGxlV2ViS2l0JTJGNTM3LjM2KyUyOEtIVE1MJTJDK2xpa2UrR2Vja28lMjkrQ2hyb21lJTJGMTA3LjAuMC4wK1NhZmFyaSUyRjUzNy4zNg==';var __uIdHash = 'a8602024bb8937e872c3e49eb45704fd845dab8e4d4eac7ec7d3f6addb152d9c';var __sspDomain = 'www.villagenews.com';</script>
+<script>var __ez_tkn_evnt = function() { if(typeof(_ezaq) != 'undefined'){if(typeof window.ezogtk !== "undefined" && window.ezogtk !== "") {__ez.bit.AddAndFire(_ezaq.page_view_id,[new __ezDotData("ext_user_hash",window.ezogtk)]);}}};document.addEventListener("DOMContentLoaded", __ez.queue.addFunc("__ez_tkn_evnt", "__ez_tkn_evnt", event, false, ['/detroitchicago/minneapolis.js','/detroitchicago/memphis.js'], true, true, false, true));</script>
+<script src="/detroitchicago/augusta.js?cb=24" async data-ezscrex="false"></script>
+<script async data-ezscrex="false">__ez.fads.cmd.push(function(){__ez.fads.__ez_fad_load(0,0);__ez.fads.__ez_fad_scrollmon();});</script>
+<script type="text/javascript" data-cfasync="false"></script>
+<script type="text/javascript" style='display:none;'>var __ez_dims = (function() {
+		var setCookie = function( name, content, expiry ) {
+			return document.cookie = name+'='+content+((expiry)?';expires='+(new Date(Math.floor(new Date().getTime()+expiry*1000)).toUTCString()):'')+';path=/';
+		};
+		var ffid = 1;
+		var oh = window.screen.height;
+		var ow = window.screen.width;
+		var h = ffid === 1 ? oh : (oh > ow) ? oh : ow;
+		var w = ffid === 1 ? ow : (oh > ow) ? ow : oh;
+		var uh = window.innerHeight || document.documentElement.clientHeight || document.getElementsByTagName('body')[0].clientHeight;
+		var uw = window.innerWidth || document.documentElement.clientWidth || document.getElementsByTagName('body')[0].clientWidth;
+		setCookie('ezds', encodeURIComponent('ffid='+ffid+',w='+w+',h='+h), (31536e3*7));
+		setCookie('ezohw', encodeURIComponent('w='+uw+',h='+uh), (31536e3*7));
+	})();</script><script type='text/javascript' style='display:none;' async>
+</script>
+</body></html>

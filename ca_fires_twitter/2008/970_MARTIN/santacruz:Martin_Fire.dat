@@ -1,0 +1,261 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+
+<meta name="viewport" content="initial-scale=1.0001, minimum-scale=1.0001, maximum-scale=1.0001, user-scalable=no" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<title>Martin Fire - Santa Cruz - LocalWiki</title>
+<meta name="robots" content="index,follow">
+<link rel="icon" type="image/png" href="/static/theme/img/favicons/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="/static/theme/img/favicons/favicon-128.png" sizes="128x128" />
+<link rel="icon" type="image/png" href="/static/theme/img/favicons/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="/static/theme/img/favicons/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/static/theme/img/favicons/favicon-16x16.png" sizes="16x16" />
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/static/theme/img/favicons/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/static/theme/img/favicons/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/static/theme/img/favicons/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/static/theme/img/favicons/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/static/theme/img/favicons/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/static/theme/img/favicons/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/static/theme/img/favicons/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static/theme/img/favicons/apple-touch-icon-152x152.png" />
+<meta name="msapplication-TileColor" content="#f4f4f4" />
+<meta name="application-name" content="LocalWiki" />
+<meta name="msapplication-TileImage" content="/static/theme/img/favicons/mstile-144x144.png" />
+<meta name="msapplication-square70x70logo" content="/static/theme/img/favicons/mstile-70x70.png" />
+<meta name="msapplication-square150x150logo" content="/static/theme/img/favicons/mstile-150x150.png" />
+<meta name="msapplication-wide310x150logo" content="/static/theme/img/favicons/mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="/static/theme/img/favicons/mstile-310x310.png" />
+<script type="text/javascript">
+        
+            var region_id = 126;
+            var region_slug = 'santacruz';
+            var region_name = 'Santa Cruz';
+            var home_hostname = 'localwiki.org';
+            var region_viewboxlbrt = null;
+            
+              
+              var region_is_admin = false;
+              
+            
+        
+    </script>
+<script type="text/javascript" src="/static/CACHE/js/146612c56553.js"></script>
+<link rel="stylesheet" href="/static/CACHE/css/8f59b60d0966.css" type="text/css" />
+<script type="text/javascript" src="//daviswiki.org/_utils/xsession_loader"></script>
+<script type="text/javascript" src="//oaklandwiki.org/_utils/xsession_loader"></script>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-25465476-6']);
+    
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+</head>
+<body>
+<div id="header">
+<div id="common_header">
+<div id="common_title">
+<a href="/"><img src="/static/theme/img/logo.7325c8eae908.png" srcset="/static/theme/img/logo@2x.fafc62d15062.png 2x, /static/theme/img/logo@1.5x.c0d62f635278.png 1.5x" /></a>
+</div>
+<div class="site_search search">
+<form method="GET" action="/_rsearch/santacruz">
+<input type="text" name="q" placeholder="Search Santa Cruz" value="" id="id_q" />
+<input type="submit" value="Search or create page" class="little">
+</form>
+</div>
+<div id="login_info">
+<div>
+<span class="actions">
+<a href="/Users/login/?next=//localwiki.org/santacruz/Martin_Fire" rel="nofollow" class="tiny button">log in</a> or <a href="/Users/_register/?next=//localwiki.org/santacruz/Martin_Fire" rel="nofollow" class="tiny button">create account</a>
+</span>
+</div>
+</div>
+<div class="common_nav">
+<ul>
+<li class="hide5"><a href="/regions">Explore</a></li>
+<li class="hide3"><a href="/about/">About</a></li>
+<li class="hide2"><a href="/blog/">Blog</a></li>
+<li class="hide1"><a href="/donate/">Donate</a></li>
+<li class="hide1"><a href="/api">API</a></li>
+<li class="hide4"><a href="/main/Front%20Page">Help</a></li>
+</ul>
+</div>
+</div>
+<div id="region_header">
+<div id="region_title">
+<h1><a href="/santacruz/">Santa Cruz</a></h1>
+</div>
+<div id="nav" class="region_nav">
+<a href="#" id="pull"></a>
+<ul>
+<li><a href="/santacruz/_explore"><i class="fa fa-bus"></i> Explore</a></li>
+<li><a href="/santacruz/map/"><i class="fa fa-map-marker"></i> Map</a></li>
+<li><a href="/santacruz/_activity"><i class="fa fa-rss"></i> Activity</a></li>
+</ul>
+</div>
+<div id="new_page_area">
+<div>
+<a href="#" class="little button" id="new_page_button"><i class="fa fa-pencil"></i> Add a new page</a>
+<form method="GET" action="/santacruz/_create" id="new_page_form">
+<input type="text" name="pagename" id="pagename" placeholder="Name of page" />
+<input type="hidden" name="show_templates" value="0" />
+<input type="submit" value="Add a new page" class="little">
+</form>
+</div>
+</div>
+</div>
+<div id="header_bar">
+<div class="inner">
+<div id="object_actions">
+<ul>
+<li><a href="/santacruz/Martin_Fire/_edit" rel="nofollow" class="button">Edit</a></li>
+<li><a href="/santacruz/Martin_Fire/_history/" rel="nofollow" class="button">Info</a></li>
+</ul>
+</div>
+<h1 id="object_title"><a href="/santacruz/Martin_Fire">Martin Fire</a></h1>
+</div>
+</div>
+</div>
+<div id="main">
+<div id="main_header">
+</div>
+<div id="content_wrapper">
+<div id="content" class="has_map">
+<div id="map">
+<a class="map_cover small" href="/santacruz/map/Martin_Fire"></a>
+<div id="id_139943394185744"></div>
+<script type="text/javascript">
+    SaplingMap.init_openlayers();
+    OpenLayers.ImgPath = '/static/img/openlayers/themes/dark/';
+
+    olwidget.mblw = {map: function() { return new OpenLayers.Layer.XYZ('MB LW',
+        ["//api.mapbox.com/styles/v1/philipn/ckiu1m3ar0z5319qicx9i9qae/tiles/256/${z}/${x}/${y}@2x?access_token=pk.eyJ1IjoicGhpbGlwbiIsImEiOiJESU5EcmxNIn0.M1ubAkpA0xVnti4x_aOG3g"], {
+            sphericalMercator: true,
+            wrapDateLine: true,
+    }) }};
+
+    var create_map = function() {
+            var map = new olwidget.Map("id_139943394185744", [
+                    new olwidget.InfoLayer([["SRID=4326;GEOMETRYCOLLECTION (POLYGON ((-122.1464938833278353 37.0559042559732248, -122.1359581663135998 37.0567005294591425, -122.1347136213374114 37.0479410615402358, -122.1276647760407315 37.0389836100818499, -122.1314735128489559 37.0381957148353109, -122.1384043409421309 37.0438306987862518, -122.1464402391460169 37.0464767703316085, -122.1464295103150590 37.0465110230797166, -122.1464938833278353 37.0559042559732248)))", "Martin Fire"]], {"name": "None 0"})
+
+                ], 
+                {"layers": ["mblw"], "defaultLon": -122.00823137302997, "mapOptions": {"theme": "/static/openlayers/theme/sapling/style.css", "controls": ["TouchNavigation"]}, "zoomToDataExtentMin": 16, "overlayStyle": {"strokeDashstyle": "solid", "strokeColor": "#db9e33", "fillColor": "#ffc868"}, "mapDivClass": "mapwidget small", "defaultZoom": 10, "defaultLat": 37.05723752772848}
+            );
+            SaplingMap.setup_map(map);
+   }
+
+    if (!window.loaded) {
+        $(window).load(create_map);
+    }
+    else {
+        create_map();
+    }
+</script>
+<div class="info"><a class="view tiny button" href="/santacruz/map/Martin_Fire"><i class="fa fa-search fa-flip-horizontal"></i> View</a><a class="edit tiny button" href="/santacruz/map/Martin_Fire/_edit"><i class="fa fa-pencil"></i> Edit</a></div>
+</div>
+<div id="page">
+<p>
+<span class="image_frame image_frame_border"><a href="/santacruz/Martin_Fire/_files/MartinFireDay2(6-12-08).jpg/_info/"><img style="width: 199px; height: 300px;" src="/media/cache/1e/1f/1e1f2d02e50a09075aec1d6ae230bfbf.jpg" srcset='/media/cache/1e/1f/1e1f2d02e50a09075aec1d6ae230bfbf@2x.jpg 2x, /media/cache/1e/1f/1e1f2d02e50a09075aec1d6ae230bfbf@1.5x.jpg 1.5x'></a><span style="width: 199px;" class="image_caption">Day two of the fire, as seen from the post office in <a href="/santacruz/Felton">Felton</a>.</span></span></p>
+<table><tbody><tr><td style="background-color: rgb(232, 236, 239);">
+<strong>Website</strong></td>
+</tr><tr><td>
+<a href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=273">Cal Fire Incident Information</a></td>
+</tr></tbody></table><p>
+Less than three weeks after the massive <a href="/santacruz/Summit_Fire">Summit Fire</a>, another big fire hit the <a href="/santacruz/Santa_Cruz_Mountains">Santa Cruz Mountains</a>, this time in <a href="/santacruz/Bonny_Doon">Bonny Doon</a>. At about 3:30 pm on June 11, 2008, fire broke out on the 1400 block of <a href="/santacruz/Martin_Road" class="missing_link">Martin Road</a>. Dubbed the Martin Fire or the Bonny Doon Fire, it quickly grew to 400 acres in size and spread into <a href="/santacruz/Bonny_Doon_Ecological_Reserve">Bonny Doon Ecological Reserve</a>. The winds weren't as high as they were during the <a href="/santacruz/Summit_Fire">Summit Fire</a>, but the humidity was extremely low, the temperature was high, and conditions in the entire Bay Area had become dangerous; a red flag fire alert had already been declared and at least eight other fires were burning in Northern California. The giant plume of smoke from the fire was visible from as far away as <a href="/santacruz/Santa_Clara_County">Santa Clara County</a>, and day one saw no containment of it. Day two saw the fire grow to 500 acres in size, and by the end of that day it had stopped growing and the amount of smoke visible in surrounding areas was significantly less. At that time it had destroyed two houses, crept up to the southwestern edge of <a href="/santacruz/Fall_Creek_State_Park">Fall Creek State Park</a>, and even burned completely around <a href="/santacruz/Bonny_Doon_Fire_%26_Rescue">Bonny Doon Fire &amp; Rescue's</a> <a href="/santacruz/Bonny_Doon_Station">Bonny Doon Station</a>. 1700 people were evacuated from 1000 residences and businesses, and the following roads were closed: <a href="/santacruz/Empire_Grade">Empire Grade</a> at <a href="/santacruz/Alba_Road" class="missing_link">Alba Road</a>, <a href="/santacruz/Empire_Grade">Empire Grade</a> at <a href="/santacruz/UCSC">UCSC</a>, <a href="/santacruz/Felton_Empire_Road">Felton Empire Road</a> at <a href="/santacruz/Smith_Road" class="missing_link">Smith Road</a>, <a href="/santacruz/Pine_Flat" class="missing_link">Pine Flat</a> at <a href="/santacruz/Morelli_Ranch" class="missing_link">Morelli Ranch</a>, <a href="/santacruz/Ice_Cream_Grade">Ice Cream Grade</a> at <a href="/santacruz/Pine_Flat_Road" class="missing_link">Pine Flat Road</a>, <a href="/santacruz/Pine_Flat_Road" class="missing_link">Pine Flat Road</a> at <a href="/santacruz/Ice_Cream_Grade">Ice Cream Grade</a>, <a href="/santacruz/Pine_Flat" class="missing_link">Pine Flat</a> at <a href="/santacruz/Quail_Road" class="missing_link">Quail Road</a>, and <a href="/santacruz/Pine_Flat_Road" class="missing_link">Pine Flat Road</a> at <a href="/santacruz/Empire_Grade">Empire Grade</a>. About 10 people evacuated from the fire area stayed over the first night at <a href="/santacruz/San_Lorenzo_Valley_Middle_School">San Lorenzo Valley Middle School</a> in <a href="/santacruz/Felton">Felton</a>, which was the official emergency shelter provided. Day two saw the shelter move to <a href="/santacruz/Scotts_Valley_Middle_School">Scotts Valley Middle School</a> in <a href="/santacruz/Scotts_Valley">Scotts Valley</a>. <a href="/santacruz/Santa_Cruz_County_Animal_Services">Santa Cruz County Animal Services</a> helped evacuate over 150 animals who had been left by their owners for one reason or another. In all, 11 homes were destroyed. Many residents of <a href="/santacruz/Bonny_Doon">Bonny Doon</a> believe the fire was started by people trespassing at <a href="/santacruz/Moon_Rocks" class="missing_link">Moon Rocks</a>, a popular section of <a href="/santacruz/Bonny_Doon_Ecological_Reserve">Bonny Doon Ecological Reserve</a> that is closed to the public, but officials are still investigating the exact cause. The Martin Fire was one of three big fires that hit <a href="/santacruz/Santa_Cruz_County">Santa Cruz County</a> in 2008, which also included the <a href="/santacruz/Summit_Fire">Summit Fire</a> and the <a href="/santacruz/Trabing_Fire">Trabing Fire</a>.</p>
+<h3>
+Related Links</h3>
+<ul><li>
+<a href="/santacruz/Wildfires">Wildfires</a></li>
+<li>
+<a href="/santacruz/Santa_Cruz_History">Santa Cruz History</a></li>
+<li>
+<a href="/santacruz/Emergency_Services">Emergency Services</a></li>
+</ul>
+<div style="clear:both;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div id="object_tags">
+<div class="tags_show">
+<ul class="tag-list tag-info">
+<li class="tag"><a href="/santacruz/tags/disaster" rel="tag">disaster</a></li>
+<li class="tag"><a href="/santacruz/tags/fire" rel="tag">fire</a></li>
+<li class="tag"><a href="/santacruz/tags/wildfire" rel="tag">wildfire</a></li>
+</ul>
+<a class="tiny button tags_button" href="#" onclick="$(this).closest('div').hide().next().show().find('#tagedit-input').focus(); return false;">
+<span><i class="fa fa-tag fa-flip-horizontal"></i> Edit tags</span>
+</a>
+</div>
+<div class="tags edit" style="display: none">
+<form id="pagetagset_form" action="/santacruz/Martin_Fire/_tags/" method="POST"><div style="display: none;">
+<label>leave this field blank to prove your humanity
+<input id="main_content" type="text" name="main_content" value="" />
+</label>
+<script type="text/javascript">
+        document.write('<input type="hidden" name="main_content_js" value="1" />');
+    
+    </script>
+</div>
+<tr><th><label for="id_tags">Tags:</label></th><td><input id="id_tags" name="tags" type="text" value="disaster, fire, wildfire" /><script>
+    $(function(){
+       $('input#id_tags').tagedit({
+           autocompleteURL: '/_api/tags/suggest/' + '?region_id=' + region_id
+       }) 
+    });
+</script>
+<input id="id_version_date" name="version_date" type="hidden" value="2016-09-29 19:17:23.390696" /></td></tr>
+<input type="hidden" name="next" value="/santacruz/Martin_Fire" />
+<br />
+<input type="submit" name="save" class="little" value="Save" />
+</form>
+<a class="edit_tags_cancel" href="/santacruz/Martin_Fire">Cancel</a>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<p class="contributors">
+Contributed by <span class="contributor_list"><a href="/Users/AlexDarocy" class="user_link" title="AlexDarocy"><img class="gravatar" src="https://secure.gravatar.com/avatar/d9ec61baa6ed49a3d5d7d96ab66f9d89.jpg?s=48&r=g&d=mm" width="24" height="24" /><span></span></a><a href="/Users/Harlan" class="user_link" title="Harlan"><img class="gravatar" src="https://secure.gravatar.com/avatar/de7379ce60bdc363424e55f276fb8737.jpg?s=48&r=g&d=mm" width="24" height="24" /><span></span></a><a href="/Users/tcnsc" class="user_link" title="tcnsc"><img class="gravatar" src="https://secure.gravatar.com/avatar/d2076b3678db93ff61752109bbd929fc.jpg?s=48&r=g&d=mm" width="24" height="24" /><span></span></a></span>
+</p>
+</div>
+<div id="global_footer">
+<div id="nearby_regions_bar">
+Nearby LocalWiki regions:
+<a class="region_link" href="//localwiki.org/fortressbayarea/">Fortress Bay Area</a>
+<a class="region_link" href="//localwiki.org/95033/">95033</a>
+<a class="region_link" href="//localwiki.org/sanjose/">San Jose</a>
+<a class="region_link" href="//localwiki.org/san-jose/">San Jose, California</a>
+<a class="region_link" href="//localwiki.org/santa-clara/">Santa Clara</a>
+<a class="region_link" href="//localwiki.org/mvca/">Mountain View</a>
+</div>
+<div id="about">
+<p>
+LocalWiki is a grassroots effort to collect, share and open the world’s local knowledge. We are a 501(c)3 non-profit organization.
+</p>
+<p>
+<a href="https://localwiki.org/about/" target="_blank">Learn more</a> |
+<a href="https://localwiki.org/main/Privacy_Policy" target="_blank">Privacy Policy</a> |
+<a href="https://localwiki.org/main/Terms_of_Use" target="_blank">Terms of Use</a> |
+<a href="http://www.patreon.com/localwiki" target="_blank">Donate</a>
+</p>
+</div>
+<div id="attributions">
+<p>
+<img src="/static/theme/img/cc.png" style="height: 32px; width: 32px;" />
+<img src="/static/theme/img/by.png" style="height: 32px; width: 32px;" />
+</p>
+<p>Except where otherwise noted, this content is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution License</a>. See <a href="https://localwiki.org/main/Copyrights">Copyrights</a>.</p>
+<span id="map_attribution">Map data <a href="https://www.openstreetmap.org/copyright" target="_blank">© OpenStreetMap contributors</a>. Map tiles via <a href="https://mapbox.com" target="_blank">MapBox</a>.</span>
+</div>
+</div>
+</div>
+</body>
+</html>

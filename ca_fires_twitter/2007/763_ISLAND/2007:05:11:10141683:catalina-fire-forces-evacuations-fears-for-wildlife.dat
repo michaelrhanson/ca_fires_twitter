@@ -1,0 +1,910 @@
+<!doctype html><html class="no-js" lang="en"><head><!-- OneTrust Cookies Consent Notice start for npr.org -->
+<script type="text/javascript" src="https://cdn.cookielaw.org/consent/82089dfe-410c-4e1b-a7f9-698174b62a86/OtAutoBlock.js" ></script>
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="82089dfe-410c-4e1b-a7f9-698174b62a86" ></script>
+
+<script type="text/javascript">
+function OptanonWrapper() {
+    NPR_OptanonWrapper = true;
+    document.dispatchEvent(new CustomEvent('npr:DataConsentAvailable'));
+    
+    OneTrust.OnConsentChanged(function() {
+        document.dispatchEvent(new CustomEvent('npr:DataConsentChanged'));
+    });
+ }
+</script>
+<!-- OneTrust Cookies Consent Notice end for npr.org -->
+<script src="https://cdn.cookielaw.org/opt-out/otCCPAiab.js" type="text/javascript" charset="UTF-8" ccpa-opt-out-ids="C0004" ccpa-opt-out-geo="us" ccpa-opt-out-lspa="false"></script><script type="text/plain" class="optanon-category-C0004">
+    document.cookie = "__adblocker=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
+    var setNptTechAdblockerCookie = function(adblocker) {
+        var d = new Date();
+        d.setTime(d.getTime() + 60 * 5 * 1000);
+        document.cookie = "__adblocker=" + (adblocker ? "true" : "false") + "; expires=" + d.toUTCString() + "; path=/";
+    };
+    var script = document.createElement("script");
+    script.setAttribute("async", true);
+    script.setAttribute("src", "//www.npttech.com/advertising.js");
+    script.setAttribute("onerror", "setNptTechAdblockerCookie(true);");
+    document.getElementsByTagName("head")[0].appendChild(script);
+</script><script>
+(function (e, o, n, i) {
+    if (!e) {
+        e = e || {}, window.permutive = e, e.q = [];
+        var t = function () {
+            return ([1e7] + -1e3 + -4e3 + -8e3 + -1e11).replace(/[018]/g, function (e) {
+                return (e ^ (window.crypto || window.msCrypto).getRandomValues(new Uint8Array(1))[0] & 15 >> e / 4).toString(16)
+            })
+        };
+        e.config = i || {}, e.config.apiKey = o, e.config.workspaceId = n, e.config.environment = e.config.environment || "production", (window.crypto || window.msCrypto) && (e.config.viewId = t());
+        for (var g = ["addon", "identify", "track", "trigger", "query", "segment", "segments", "ready", "on", "once", "user", "consent"], r = 0; r < g.length; r++) {
+            var w = g[r];
+            e[w] = function (o) {
+                return function () {
+                    var n = Array.prototype.slice.call(arguments, 0);
+                    e.q.push({functionName: o, arguments: n})
+                };
+            }(w);
+        }
+    }
+})(window.permutive, "12730e07-f09d-4a69-93da-99b43983b663", "e1cef1f0-495f-4973-ba1c-880786e73a66", {"consentRequired": true});
+</script>
+
+
+<!--
+
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+nnn         nnnnnn ppp          pppppp rrr           rrrr
+nnn   nnnn    nnnn ppp   pppppp   pppp rrr   rrrrrr   rrr
+nnn   nnnnnn   nnn ppp   ppppppp   ppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp   ppppp    pppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp           ppppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp   ppppppppppppp rrr   rrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppp   ppppppppppppp rrrrrrrrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+
+We are hiring!
+
+https://n.pr/tech-jobs
+
+-->
+
+
+<script>dataLayer = [];</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.setAttributeNode(d.createAttribute('data-ot-ignore'));j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer', 'GTM-MVD397M');</script>
+<!-- End Google Tag Manager -->
+<script>
+   try {var _sf_startpt=(new Date()).getTime();} catch(e){}
+</script>
+<meta itemscope itemtype="https://schema.org/SpeakableSpecification" itemref="speakable" /><title>Catalina Fire Forces Evacuations, Fears for Wildlife : NPR</title><meta id="speakable" itemprop="cssSelector" content="[data-is-speakable]" /><meta id="google-site-verification" name="google-site-verification" content="1VqzbDm4ukeFVHOoq5LjIKA2fVKZD-EYv8cXZhKXSfU" /><meta charset="utf-8" /><meta name="robots" content="noarchive,index,follow" /><meta name="apple-itunes-app" content="app-id=324906251, app-argument=https://www.npr.org/2007/05/11/10141683/catalina-fire-forces-evacuations-fears-for-wildlife" /><meta name="Rating" content="General" /><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" /><meta name="npr-pjax" /><meta name="date" content="2007-05-11" /><link rel="canonical" href="https://www.npr.org/2007/05/11/10141683/catalina-fire-forces-evacuations-fears-for-wildlife" /><meta name="description" content="A massive wildfire on Catalina Island, off the coast of Los Angeles, has forced hundreds of people to evacuate. It now threatens the resort town of Avalon, as well as several threatened or endangered species, including a rare island fox that only recently has been making a comeback." /><link rel="alternate" type="application/rss+xml" title="National" href="https://feeds.npr.org/1003/rss.xml" /><link rel="alternate" type="application/json" title="National" href="https://feeds.npr.org/feeds/1003/feed.json" /><meta name="cXenseParse:pageclass" content="article" /><meta name="cXenseParse:publishtime" content="2007-05-11T16:00:00-04:00" /><meta name="cXenseParse:author" content="Carrie Kahn" /><link rel="apple-touch-icon" sizes="180x180" href="https://static-assets.npr.org/static/images/favicon/favicon-180x180.png" /><link rel="icon" sizes="96x96" href="https://static-assets.npr.org/static/images/favicon/favicon-96x96.png" /><link rel="icon" sizes="32x32" href="https://static-assets.npr.org/static/images/favicon/favicon-32x32.png" /><link rel="icon" sizes="16x16" href="https://static-assets.npr.org/static/images/favicon/favicon-16x16.png" /><meta property="og:title" content="Catalina Fire Forces Evacuations, Fears for Wildlife" /><meta property="og:url" content="https://www.npr.org/2007/05/11/10141683/catalina-fire-forces-evacuations-fears-for-wildlife" /><meta property="og:type" content="article" /><meta property="og:description" content="A massive wildfire on Catalina Island, off the coast of Los Angeles, has forced hundreds of people to evacuate. It now threatens the resort town of Avalon, as well as several threatened or endangered species, including a rare island fox that only recently has been making a comeback." /><meta property="og:image" content="https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg" /><meta property="og:site_name" content="NPR" /><meta property="fb:app_id" content="138837436154588" /><meta property="fb:pages" content="10643211755" /><meta property="article:content_tier" content="free" /><meta property="article:opinion" content="false" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="Catalina Fire Forces Evacuations, Fears for Wildlife" /><meta name="twitter:site" content="@NPR" /><meta name="twitter:domain" content="npr.org" /><script id="npr-vars">
+   window.NPR = window.NPR || {};
+NPR.ServerConstants = {"cbHost":"npr.org","webHost":"https:\/\/www.npr.org","legacyWebHost":"https:\/\/legacy.npr.org","stripeServiceHost":"https:\/\/stripe.npr.org","recaptchaV3SiteKey":"6LcdN9IZAAAAAOHT985BJjbzjkBjKSxdxK3GeKSt","placesApiKey":"AIzaSyB_wzlXPVwS4kHRAZsM6scMzUAIsJ6aMZ4","embedHost":"https:\/\/www.npr.org","webHostSecure":"https:\/\/secure.npr.org","identityHost":"https:\/\/identity.api.npr.org","apiHost":"https:\/\/api.npr.org","environment":"prod","serverMediaCache":"https:\/\/media.npr.org","googleAnalyticsAccount":"UA-5828686-4","gtmKey":"GTM-MVD397M","nielsenSFCode":"dcr","nielsenAPN":"NPR-dcr","shouldShowHPLocalContent":true,"cookieDomain":".npr.org"};
+NPR.serverVars = {"storyId":"10141683","isHiring":true,"facebookAppId":"138837436154588","webpackPublicPath":"https:\/\/bundles.npr.org\/dist\/bundles\/","persistenceVersion":"a105b39515889d1245a8f8083c0132ba","isBuildOut":true,"topicIds":["P1003","1001","1002"],"primaryTopic":"National","topics":["National","National","Home Page Top Stories","News"],"theme":"1003","programId":"All Things Considered","program":"2","aggIds":["2","1001","1002","1003","13125750"],"byline":["Carrie Kahn"],"contentPartnerOrgFullName":"1 | NPR","pubDate":"2007051116","fullPubDate":"Fri, 11 May 2007 16:00:00 -0400","pageTypeId":"1","title":"Catalina Fire Forces Evacuations, Fears for Wildlife","publisherOrgId":"1"};
+</script>
+<script type="text/javascript" src="https://static-assets.npr.org/static/javascript/lib/modernizr/modernizr.custom.js">
+   </script>
+<script type="text/javascript" async src="https://js.stripe.com/v3/">
+   </script>
+<script>
+   !function(e){function r(r){for(var a,f,d=r[0],o=r[1],b=r[2],i=0,l=[];i<d.length;i++)f=d[i],Object.prototype.hasOwnProperty.call(n,f)&&n[f]&&l.push(n[f][0]),n[f]=0;for(a in o)Object.prototype.hasOwnProperty.call(o,a)&&(e[a]=o[a]);for(u&&u(r);l.length;)l.shift()();return c.push.apply(c,b||[]),t()}function t(){for(var e,r=0;r<c.length;r++){for(var t=c[r],a=!0,d=1;d<t.length;d++){var o=t[d];0!==n[o]&&(a=!1)}a&&(c.splice(r--,1),e=f(f.s=t[0]))}return e}var a={},n={0:0},c=[];function f(r){if(a[r])return a[r].exports;var t=a[r]={i:r,l:!1,exports:{}};return e[r].call(t.exports,t,t.exports,f),t.l=!0,t.exports}f.e=function(e){var r=[],t=n[e];if(0!==t)if(t)r.push(t[2]);else{var a=new Promise((function(r,a){t=n[e]=[r,a]}));r.push(t[2]=a);var c,d=document.createElement("script");d.charset="utf-8",d.timeout=120,f.nc&&d.setAttribute("nonce",f.nc),d.src=function(e){return f.p+""+e+"."+{1:"d8e26a79962103289a29",2:"b21d87b37b33442cf9a4",3:"7ea02041da257dd6dfaf",4:"9e7655eda0b96b5b5d7f",5:"e2651a0fd2a5a8447ae2",6:"10b8abc8e7569dc30dd6",7:"c4046bfa7733c33992ca",8:"c5b30384cc3c8b744e2e",73:"8c34055a5f19f7146030",74:"329fb4c15d80bf26c11d",75:"67d794001c5d18d0a9cb",76:"91a024afb4cb3a9a5b06",77:"75ab624e5e737e05538d",78:"b5ea192b0e57193d2dc6",79:"e570b9e5dc39bbffd90e",80:"abda147d10a95cda1dbe",81:"f1358192a94bef126b65",82:"a250764fb0e387142b8f",83:"06ecdb1bb1eec9fdd392",84:"ca304b42ea4870857b4d",85:"d08d77c47c4f8916f169",86:"3ba51d44f4f5b1861cb0",87:"412ff8ca0866675df2a9",88:"5d980edfdad8a4034bcd",89:"3036ce2c5594ef5363e5",90:"9b7b150cfd310c5101d5",91:"af5b0d5c0ab5a15ec551",92:"d860c54cab0414cb8558",93:"1b31a5fe0d6590105f9c",94:"90f9773688f7f5af5e42",95:"dc85fb1d9b44d0f3aac9",96:"4e32bed11ffebecd44c1",97:"877839bf3710213e1586",98:"bd0785f086d2872b029d",99:"c900eed983f55b8c7a61",100:"98622088f8c866d01df3",101:"8848fa529081af280c47",102:"5b8fa8cfd69a006865de"}[e]+".chunk.js"}(e);var o=new Error;c=function(r){d.onerror=d.onload=null,clearTimeout(b);var t=n[e];if(0!==t){if(t){var a=r&&("load"===r.type?"missing":r.type),c=r&&r.target&&r.target.src;o.message="Loading chunk "+e+" failed.\n("+a+": "+c+")",o.name="ChunkLoadError",o.type=a,o.request=c,t[1](o)}n[e]=void 0}};var b=setTimeout((function(){c({type:"timeout",target:d})}),12e4);d.onerror=d.onload=c,document.head.appendChild(d)}return Promise.all(r)},f.m=e,f.c=a,f.d=function(e,r,t){f.o(e,r)||Object.defineProperty(e,r,{enumerable:!0,get:t})},f.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},f.t=function(e,r){if(1&r&&(e=f(e)),8&r)return e;if(4&r&&"object"==typeof e&&e&&e.__esModule)return e;var t=Object.create(null);if(f.r(t),Object.defineProperty(t,"default",{enumerable:!0,value:e}),2&r&&"string"!=typeof e)for(var a in e)f.d(t,a,function(r){return e[r]}.bind(null,a));return t},f.n=function(e){var r=e&&e.__esModule?function(){return e.default}:function(){return e};return f.d(r,"a",r),r},f.o=function(e,r){return Object.prototype.hasOwnProperty.call(e,r)},f.p="/dist/bundles/",f.oe=function(e){throw console.error(e),e};var d=window.webpackJsonp=window.webpackJsonp||[],o=d.push.bind(d);d.push=r,d=d.slice();for(var b=0;b<d.length;b++)r(d[b]);var u=o;t()}([]);
+</script>
+<script type="text/javascript" src="https://bundles.npr.org/dist/bundles/33.7049c683546b82fea0ae.chunk.js">
+   </script>
+<link rel="stylesheet" data-persist="true" media="screen, print" href="https://bundles.npr.org/dist/bundles/persistent-css-54396a1b1d89b2d07068.css" /><link rel="stylesheet" data-persist="true" media="screen and (min-width: 768px)" href="https://bundles.npr.org/dist/bundles/persistent_medium-css-54396a1b1d89b2d07068.css" /><link rel="stylesheet" data-persist="true" media="screen and (min-width: 1025px)" href="https://bundles.npr.org/dist/bundles/persistent_large-css-54396a1b1d89b2d07068.css" /><link rel="preload" data-persist="true" media="screen, print" href="https://bundles.npr.org/dist/bundles/fonts-css-54396a1b1d89b2d07068.css" as="style" onload="this.onload=null;this.rel='stylesheet'"  /><link rel="stylesheet" media="screen, print" href="https://bundles.npr.org/dist/bundles/newsStory-css-54396a1b1d89b2d07068.css" /><script type="application/ld+json">
+   {"@type":"NewsArticle","publisher":{"@type":"Organization","name":"NPR","logo":{"@type":"ImageObject","url":"https:\/\/media.npr.org\/chrome\/npr-logo.jpg"}},"headline":"Catalina Fire Forces Evacuations, Fears for Wildlife","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.npr.org\/2007\/05\/11\/10141683\/catalina-fire-forces-evacuations-fears-for-wildlife"},"datePublished":"2007-05-11T16:00:00-04:00","dateModified":"2007-05-11T16:00:00-04:00","author":{"@type":"Person","name":["Carrie Kahn"]},"description":"A massive wildfire on Catalina Island, off the coast of Los Angeles, has forced hundreds of people to evacuate. It now threatens the resort town of Avalon, as well as several threatened or endangered species, including a rare island fox that only recently has been making a comeback.","image":{"@type":"ImageObject","url":"https:\/\/media.npr.org\/include\/images\/facebook-default-wide.jpg"},"@context":"http:\/\/schema.org"}
+</script>
+<script type="text/javascript">
+   document.domain="www.npr.org";
+</script>
+<script id="piano-aid" type="text/javascript" data-piano-aid="9ENxKQ58pu">
+    (function(src) {
+        var a = document.createElement("script");
+        a.type = "text/javascript";
+        a.async = true;
+        a.src = src;
+        var b = document.getElementsByTagName("script")[0];
+        b.parentNode.insertBefore(a, b)
+    })("//cdn.piano.io/api/tinypass.min.js");
+    
+    window.pdl = window.pdl || {};
+    window.pdl.requireConsent = true;
+</script>
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="MBVDT-3L9KY-36ZMJ-SPSAR-JR833",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"MBVDT-3L9KY-36ZMJ-SPSAR-JR833";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="eybtajaybbtaajqacqbaafqdunr6cteh-f-dba18d4cd-clienttons-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"34","ak.cp":"55818","ak.ai":parseInt("290690",10),"ak.ol":"0","ak.cr":84,"ak.ipv":6,"ak.proto":"http/1.1","ak.rid":"4d011677","ak.r":29366,"ak.a2":n,"ak.m":"dscf","ak.n":"essl","ak.bpcip":"2603:3024:1808:6600::","ak.cport":55488,"ak.gh":"23.211.118.70","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1675709575","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==mirJJH0xpTYxXKWOdQbotZRfm5lXp8z1Vga3bBzYLA1XBeQk2Yzr6wD2uS0rdYsV2beof1JPFHI4+YjejYT9bmrxLHLZgN1DIGUwybTefyunU1l+4c19LdklqDgITSuFr5mqw37FnH+HMqT8OAP1vTJ5jLYY2MbetI+GuhsiiFJyx4hPn9HTuCuqMPETAP5xUsANL1Sq9eIn4anXDBd7zjhGErsMrurFQc6z/zOh1vU7v1nqhaASHi7x1faZtVT2wve07UQGr+mJTooZZBNBhXD5R85PIBVshqhx1r2K6JQotmdidPCAzamXlFpLjoMQVcoQf2sWg1fNW7Grg31kf0ny+qMCEzvoqSx8+ys5r4h/rHcz8vSB5dViBH/rpVgC+nuION0UT3Zu+ZXagaqtvrzDX/7gEMG8T96QQ3AR0uA=","ak.pv":"71","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head><body id="news" class="news tmplNewsStory  story-layout is-buildout has-transcript has-no-branding id10141683  " data-pjax-modules="util/env images/lazy-load data-consent data-management-platform header-bidding metrics nielsen nielsenDCR copyright auto-refresh navigation/global-navigation fitvids googletag dfp globalfooter persistent-audio player/more-options player/audio-module-clickable what-input metrics/doubleclickFloodlight callout/on-page-callouts global-alerts we-are-hiring piano ecommerce recommendations/end-of-story-recommendations-callout jw social/share slideshow images/enlargement contentfooter story/date-tooltip social/sharepop podcast-cards search/faceting-param local/newsletter/callout social/recaptcha">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MVD397M" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="skip-links">
+      <span>Accessibility links</span>   <ul>
+            <li><a href="#mainContent" class="skiplink">Skip to main content</a></li>
+      <li><a href="https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player" class="skiplink">Keyboard shortcuts for audio player</a></li>
+   </ul>
+</div>
+<header class="npr-header" id="globalheader" aria-label="NPR header">
+<nav class="navigation">
+    <div class="navigation__top-level-wrap" data-metrics-all data-metrics-category="global navigation" data-metrics-category-ga4="recirculation">
+        <ul class="navigation__top-level">
+            <li class="navigation__toggle-wrap">
+                <button id="navigation__toggle--open" class="navigation__toggle navigation__toggle--open" aria-haspopup="true" aria-expanded="false" data-metrics-action="open navigation menu" data-metrics-ga4='{"action":"global_navigation_click","clickName":"open navigation menu","clickType":"global navigation"}'>
+                    Open Navigation Menu
+                </button>
+            </li>
+
+            <li class="navigation__home">
+                <a href="/" data-metrics-action="click npr logo" data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr logo","clickType":"global navigation","clickUrl":"\/"}'>
+                    <img src="https://media.npr.org/chrome_svg/npr-logo.svg" alt="NPR logo"/>
+                </a>
+            </li>
+
+            <li id="navigation__station-mount"></li>
+
+            <li id="user-account-dropdown-mount" class="navigation__account"></li>
+
+            <li class="navigation__shop">
+                <a href="https://shopnpr.org" data-metrics-action="click npr shop" data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr shop","clickType":"global navigation","clickUrl":"https://shopnpr.org"}'>NPR Shop</a>
+            </li>
+
+            <li id="navigation__station-donate-mount"></li>
+        </ul>
+    </div>
+    <section id="main-menu" class="menu menu--main" data-metrics-all data-metrics-category="global navigation" data-metrics-category-ga4="recirculation">
+        <div class="menu__inner">
+            <header class="menu__header">
+                <button id="navigation__toggle--close" class="navigation__toggle navigation__toggle--close" aria-haspopup="true" aria-expanded="true" data-metrics-action="close navigation menu" data-metrics-ga4='{"action":"global_navigation_click","clickName":"close navigation menu","clickType":"global navigation"}'>>
+                    Close <span>Navigation Menu</span>
+                </button>
+            </header>
+            <ul class="menu__list">
+                <li class="menu__item menu__item--home">
+                    <div class="menu__item-inner"><a href="/" data-metrics-action="click npr logo" data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr logo","clickType":"global navigation","clickUrl":"\/"}'>Home</a></div>
+                </li>
+                <li class="menu__item menu__item--news menu__item--has-submenu">
+                    <div class="menu__item-inner">
+                        <a href="/sections/news/" data-metrics-action="click news" data-metrics-ga4='{"action":"global_navigation_click","clickName":"news","clickType":"global navigation","clickUrl":"/sections/news/"}'>News</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle news drawer" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle news drawer","clickType":"global navigation"}'>Expand/collapse submenu for News</button>
+                    </div>
+
+                    <ul class="submenu submenu--news">
+                        <li class="submenu__item"><a href="/sections/national/" data-metrics-action="click national" data-metrics-ga4='{"action":"global_navigation_click","clickName":"national","clickType":"global navigation","clickUrl":"/sections/national/"}'>National</a></li>
+                        <li class="submenu__item"><a href="/sections/world/" data-metrics-action="click world" data-metrics-ga4='{"action":"global_navigation_click","clickName":"world","clickType":"global navigation","clickUrl":"/sections/world/"}'>World</a></li>
+                        <li class="submenu__item"><a href="/sections/politics/" data-metrics-action="click politics" data-metrics-ga4='{"action":"global_navigation_click","clickName":"politics","clickType":"global navigation","clickUrl":"/sections/politics/"}'>Politics</a></li>
+                        <li class="submenu__item"><a href="/sections/business/" data-metrics-action="click business" data-metrics-ga4='{"action":"global_navigation_click","clickName":"business","clickType":"global navigation","clickUrl":"/sections/business/"}'>Business</a></li>
+                        <li class="submenu__item"><a href="/sections/health/" data-metrics-action="click health" data-metrics-ga4='{"action":"global_navigation_click","clickName":"health","clickType":"global navigation","clickUrl":"/sections/health/"}'>Health</a></li>
+                        <li class="submenu__item"><a href="/sections/science/" data-metrics-action="click science" data-metrics-ga4='{"action":"global_navigation_click","clickName":"science","clickType":"global navigation","clickUrl":"/sections/science/"}'>Science</a></li>
+                        <li class="submenu__item"><a href="/sections/climate/" data-metrics-action="click climate" data-metrics-ga4='{"action":"global_navigation_click","clickName":"climate","clickType":"global navigation","clickUrl":"/sections/climate/"}'>Climate</a></li>
+                        <li class="submenu__item"><a href="/sections/codeswitch/" data-metrics-action="click race" data-metrics-ga4='{"action":"global_navigation_click","clickName":"race","clickType":"global navigation","clickUrl":"/sections/codeswitch/"}'>Race</a></li>
+                    </ul>
+                </li>
+                <li class="menu__item menu__item--culture menu__item--has-submenu">
+                    <div class="menu__item-inner">
+                        <a href="/sections/culture/" data-metrics-action="click culture" data-metrics-ga4='{"action":"global_navigation_click","clickName":"culture","clickType":"global navigation","clickUrl":"/sections/culture/"}'>Culture</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle culture drawer" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle culture drawer","clickType":"global navigation"}'>Expand/collapse submenu for Culture</button>
+                    </div>
+
+                    <ul class="submenu submenu--culture">
+                        <li class="submenu__item"><a href="/books/" data-metrics-action="click books" data-metrics-ga4='{"action":"global_navigation_click","clickName":"books","clickType":"global navigation","clickUrl":"/books/"}'>Books</a></li>
+                        <li class="submenu__item"><a href="/sections/movies/" data-metrics-action="click movies" data-metrics-ga4='{"action":"global_navigation_click","clickName":"movies","clickType":"global navigation","clickUrl":"/sections/movies/"}'>Movies</a></li>
+                        <li class="submenu__item"><a href="/sections/television/" data-metrics-action="click television" data-metrics-ga4='{"action":"global_navigation_click","clickName":"television","clickType":"global navigation","clickUrl":"/sections/television/"}'>Television</a></li>
+                        <li class="submenu__item"><a href="/sections/pop-culture/" data-metrics-action="click pop culture" data-metrics-ga4='{"action":"global_navigation_click","clickName":"pop culture","clickType":"global navigation","clickUrl":"/sections/pop-culture/"}'>Pop Culture</a></li>
+                        <li class="submenu__item"><a href="/sections/food/" data-metrics-action="click food" data-metrics-ga4='{"action":"global_navigation_click","clickName":"food","clickType":"global navigation","clickUrl":"/sections/food/"}'>Food</a></li>
+                        <li class="submenu__item"><a href="/sections/art-design/" data-metrics-action="click art & design" data-metrics-ga4='{"action":"global_navigation_click","clickName":"art & design","clickType":"global navigation","clickUrl":"/sections/art-design/"}'>Art &amp; Design</a> </li>
+                        <li class="submenu__item"><a href="/sections/performing-arts/" data-metrics-action="click performing arts" data-metrics-ga4='{"action":"global_navigation_click","clickName":"performing arts","clickType":"global navigation","clickUrl":"/sections/performing-arts/"}'>Performing Arts</a></li>
+                        <li class="submenu__item"><a href="/lifekit/" data-metrics-action="click life kit" data-metrics-ga4='{"action":"global_navigation_click","clickName":"life kit","clickType":"global navigation","clickUrl":"/lifekit/"}'>Life Kit</a></li>
+                    </ul>
+                </li>
+                <li class="menu__item menu__item--music menu__item--has-submenu">
+                    <div class="menu__item-inner">
+                        <a href="/music/" data-metrics-action="click music" data-metrics-ga4='{"action":"global_navigation_click","clickName":"music","clickType":"global navigation","clickUrl":"/music/"}'>Music</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle music drawer" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle music drawer","clickType":"global navigation"}'>Expand/collapse submenu for Music</button>
+                    </div>
+
+                    <ul class="submenu submenu--music"><li class="submenu__item">
+    <a href="https://www.npr.org/series/tiny-desk-concerts/" data-metrics-action="click tiny desk"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"tiny desk","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/tiny-desk-concerts\/"}' >
+        Tiny Desk
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/series/1002643619/now-playing" data-metrics-action="click #nowplaying"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"#nowplaying","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/1002643619\/now-playing"}' >
+        #NowPlaying
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/allsongs/" data-metrics-action="click all songs considered"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"all songs considered","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/allsongs\/"}' >
+        All Songs Considered
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/music-features" data-metrics-action="click music features"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"music features","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/music-features"}' >
+        Music Features
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/series/770565791/npr-music-live-sessions" data-metrics-action="click live sessions"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"live sessions","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/770565791\/npr-music-live-sessions"}' >
+        Live Sessions
+    </a>
+</li></ul>
+
+                </li>
+                <li class="menu__item menu__item--shows-podcasts menu__item--has-submenu">
+                    <div class="menu__item-inner">
+                        <a href="/podcasts-and-shows/" data-metrics-action="click podcasts & shows" data-metrics-ga4='{"action":"global_navigation_click","clickName":"podcasts & shows","clickType":"global navigation","clickUrl":"/podcasts-and-shows/"}'>Podcasts &amp; Shows</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle podcasts &amp; shows drawer" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle podcasts &amp; shows drawer","clickType":"global navigation"}'>Expand/collapse submenu for Podcasts &amp; Shows</button>
+                    </div>
+
+                    <div class="submenu submenu--shows-podcasts">
+                        <span class="submenu__category submenu__category--daily">Daily</span>
+                        <ul class="submenu__list submenu__list--daily">
+                            <li class="submenu__item submenu__item--timed submenu__item--weekday hidden">
+                                <a href="/programs/morning-edition/" data-metrics-action="click morning edition" data-metrics-ga4='{"action":"global_navigation_click","clickName":"morning edition","clickType":"global navigation","clickUrl":"/programs/morning-edition/"}'>
+                                    <img src="https://media.npr.org/chrome/programs/logos/morning-edition.jpg" loading="lazy" alt="" />
+                                    Morning Edition
+                                </a>
+                            </li>
+                            <li class="submenu__item submenu__item--timed submenu__item--saturday hidden" >
+                                <a href="/programs/weekend-edition-saturday/" data-metrics-action="click weekend edition saturday" data-metrics-ga4='{"action":"global_navigation_click","clickName":"weekend edition saturday","clickType":"global navigation","clickUrl":"/programs/weekend-edition-saturday/"}'>
+                                    <img src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesat_sq-cbde87a2fa31b01047441e6f34d2769b0287bcd4-s100-c85.png" loading="lazy" alt="" />
+                                    Weekend Edition Saturday
+                                </a>
+                            </li>
+                            <li class="submenu__item submenu__item--timed submenu__item--sunday hidden">
+                                <a href="/programs/weekend-edition-sunday/" data-metrics-action="click weekend edition sunday" data-metrics-ga4='{"action":"global_navigation_click","clickName":"weekend edition sunday","clickType":"global navigation","clickUrl":"/programs/weekend-edition-sunday/"}'>
+                                    <img src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesun_sq-4a03b35e7e5adfa446aec374523a578d54dc9bf5-s100-c85.png" loading="lazy" alt="" />
+                                    Weekend Edition Sunday
+                                </a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="/programs/all-things-considered/" data-metrics-action="click all things considered" data-metrics-ga4='{"action":"global_navigation_click","clickName":"all things considered","clickType":"global navigation","clickUrl":"/programs/all-things-considered/"}'>
+                                    <img src="https://media.npr.org/chrome/programs/logos/all-things-considered.png" loading="lazy" alt="" />
+                                    All Things Considered
+                                </a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="/programs/fresh-air/" data-metrics-action="click fresh air" data-metrics-ga4='{"action":"global_navigation_click","clickName":"fresh air","clickType":"global navigation","clickUrl":"/programs/fresh-air/"}'>
+                                    <img src="https://media.npr.org/chrome/programs/logos/fresh-air.png" loading="lazy" alt="" />
+                                    Fresh Air
+                                </a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="/podcasts/510318/up-first/" data-metrics-action="click up first" data-metrics-ga4='{"action":"global_navigation_click","clickName":"up first","clickType":"global navigation","clickUrl":"/podcasts/510318/up-first/"}'>
+                                    <img src="https://media.npr.org/chrome/programs/logos/up-first.jpg?version=2" loading="lazy" alt="" />
+                                    Up First
+                                </a>
+                            </li>
+                        </ul>
+                        <span class="submenu__category submenu__category--featured">Featured</span>
+
+                        <ul class="submenu__list submenu__list--featured"><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510311/embedded" data-metrics-action="click embedded"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"embedded","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/podcasts\/510311\/embedded"}' >
+        <img src="https://media.npr.org/assets/img/2023/01/24/embedded-tile-whitelies_sq-4a138ffc2afa3f28d6e9ae0a0210c5984351d7da-s100-c100.jpg" data-original="https://media.npr.org/assets/img/2023/01/24/embedded-tile-whitelies_sq-4a138ffc2afa3f28d6e9ae0a0210c5984351d7da-s100.jpg"   class=" lazy" alt="" loading="lazy" />
+        Embedded
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510289/planet-money" data-metrics-action="click planet money"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"planet money","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/podcasts\/510289\/planet-money"}' >
+        <img src="https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-964c68fcadc536cc93e3d66947982f58efece5f9-s100-c100.jpg" data-original="https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-964c68fcadc536cc93e3d66947982f58efece5f9-s100.jpg"   class=" lazy" alt="" loading="lazy" />
+        Planet Money
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510338/all-guides" data-metrics-action="click life kit"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"life kit","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/podcasts\/510338\/all-guides"}' >
+        <img src="https://media.npr.org/assets/img/2022/09/23/life-kit_tile_npr-network-01_sq-200388bae100cab944ffa3655e7f3119e026d305-s100-c100.jpg" data-original="https://media.npr.org/assets/img/2022/09/23/life-kit_tile_npr-network-01_sq-200388bae100cab944ffa3655e7f3119e026d305-s100.jpg"   class=" lazy" alt="" loading="lazy" />
+        Life Kit
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510364/daily-books" data-metrics-action="click npr's book of the day"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"npr&#39;s book of the day","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/podcasts\/510364\/daily-books"}' >
+        <img src="https://media.npr.org/assets/img/2022/09/22/book-of-the-day_tile_npr-network-01_sq-624a7585e5bbea1a1294f5da2f5a96927829ad1c-s100-c100.jpg" data-original="https://media.npr.org/assets/img/2022/09/22/book-of-the-day_tile_npr-network-01_sq-624a7585e5bbea1a1294f5da2f5a96927829ad1c-s100.jpg"   class=" lazy" alt="" loading="lazy" />
+        NPR's Book of the Day
+    </a>
+</li></ul>
+
+                        <ul class="submenu__list submenu__list--directories">
+                            <li class="submenu__item"><a href="/podcasts-and-shows/" data-metrics-action="click podcasts & shows" data-metrics-ga4='{"action":"global_navigation_click","clickName":"podcasts & shows","clickType":"global navigation","clickUrl":"/podcasts-and-shows/"}'>More Podcasts &amp; Shows</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="menu__item menu__item--search">
+                    <div class="menu__item-inner">
+                        <a href="/search/" id="navigation_dropdown-search" data-metrics-action="click search" data-metrics-ga4='{"action":"global_navigation_click","clickName":"search","clickType":"global navigation","clickUrl":"/search/"}'>Search</a>
+                    </div>
+                </li>
+                <li id="user-account-dropdown-mount-two" class="menu__item menu__item--account"></li>
+                <li class="menu__item menu__item--shop">
+                    <div class="menu__item-inner">
+                        <a href="https://shopnpr.org" data-metrics-action="click npr shop" data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr shop","clickType":"global navigation","clickUrl":"https://shopnpr.org"}'>NPR Shop</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </section>
+    <section class="menu menu--music" data-metrics-all data-metrics-category="music ecosystem navigation" data-metrics-category-ga4="recirculation">
+        <div class="menu__list-wrap">
+            <ul class="menu__list menu__list--ecosystem menu__list--music">
+                <li class="menu__item menu__item--music-home">
+                    <a href="/music/" data-metrics-action="click npr music logo" data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr music logo","clickType":"global navigation","clickUrl":"/music/"}'>
+                        <img src="https://media.npr.org/chrome_svg/music-logo-dark.svg" class="music-logo" alt="NPR Music" />
+                        <img src="https://media.npr.org/chrome_svg/music-logo-light.svg" class="music-logo-alt" alt="NPR Music" />
+                    </a>
+                </li>
+
+                <li class="menu__item">
+    <a href="https://www.npr.org/series/tiny-desk-concerts/" data-metrics-action="click tiny desk"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"tiny desk","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/tiny-desk-concerts\/"}' >
+        Tiny Desk
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/series/1002643619/now-playing" data-metrics-action="click #nowplaying"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"#nowplaying","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/1002643619\/now-playing"}' >
+        #NowPlaying
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/allsongs/" data-metrics-action="click all songs considered"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"all songs considered","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/allsongs\/"}' >
+        All Songs Considered
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/music-features" data-metrics-action="click music features"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"music features","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/music-features"}' >
+        Music Features
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/series/770565791/npr-music-live-sessions" data-metrics-action="click live sessions"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"live sessions","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/770565791\/npr-music-live-sessions"}' >
+        Live Sessions
+    </a>
+</li>
+            </ul>
+        </div>
+    </section>
+    <section class="menu menu--about" data-metrics-all data-metrics-category="about ecosystem navigation" data-metrics-category-ga4="recirculation">
+        <div class="menu__list-wrap">
+            <ul class="menu__list menu__list--ecosystem menu__list--about">
+                <li class="menu__item menu__item--about-home"><a href="/about/" data-metrics-action="click about npr" data-metrics-ga4='{"action":"global_navigation_click","clickName":"about npr","clickType":"about ecosystem navigation","clickUrl":"/about/"}'>About NPR</a></li>
+                <li class="menu__item menu__item--about-diversity"><a href="/diversity/" data-metrics-action="click diversity" data-metrics-ga4='{"action":"global_navigation_click","clickName":"diversity","clickType":"about ecosystem navigation","clickUrl":"/diversity/"}'>Diversity</a></li>
+                <li class="menu__item menu__item--about-organization"><a href="/organization/" data-metrics-action="click organization" data-metrics-ga4='{"action":"global_navigation_click","clickName":"organization","clickType":"about ecosystem navigation","clickUrl":"/organization/"}'>Organization</a></li>
+                <li class="menu__item menu__item--about-support"><a href="/support/" data-metrics-action="click support" data-metrics-ga4='{"action":"global_navigation_click","clickName":"support","clickType":"about ecosystem navigation","clickUrl":"/support/"}'>Support</a></li>
+                <li class="menu__item menu__item--about-careers"><a href="/careers/" data-metrics-action="click careers" data-metrics-ga4='{"action":"global_navigation_click","clickName":"careers","clickType":"about ecosystem navigation","clickUrl":"/careers/"}'>Careers</a></li>
+                <li class="menu__item menu__item--about-connect"><a href="/connect/" data-metrics-action="click connect" data-metrics-ga4='{"action":"global_navigation_click","clickName":"connect","clickType":"about ecosystem navigation","clickUrl":"/connect/"}'>Connect</a></li>
+                <li class="menu__item menu__item--about-press"><a href="/press/" data-metrics-action="click press" data-metrics-ga4='{"action":"global_navigation_click","clickName":"press","clickType":"about ecosystem navigation","clickUrl":"/press/"}'>Press</a></li>
+                <li class="menu__item menu__item--about-ethics"><a href="/ethics/" data-metrics-action="click ethics" data-metrics-ga4='{"action":"global_navigation_click","clickName":"ethics","clickType":"about ecosystem navigation","clickUrl":"/ethics/"}'>Ethics</a></li>
+            </ul>
+        </div>
+    </section>
+</nav>
+</header><main aria-label="main content"><div class="speakable">
+      <b data-is-speakable>Catalina Fire Forces Evacuations, Fears for Wildlife</b>   <b data-is-speakable>A massive wildfire on Catalina Island, off the coast of Los Angeles, has forced hundreds of people to evacuate. It now threatens the resort town of Avalon, as well as several threatened or endangered species, including a rare island fox that only recently has been making a comeback.</b>
+</div>
+<div id="wrapper">
+      <header class="contentheader contentheader--one" data-metrics='{"category":"National"}' ></header>   <section id="main-section"><article class="story"><a id="mainContent"></a><div class="slug-wrap">
+
+    <h3 class="slug">
+        <a href="https://www.npr.org/sections/national/">National</a>
+    </h3>
+</div>
+<div class="storytitle">
+      <h1>Catalina Fire Forces Evacuations, Fears for Wildlife</h1>
+   <input type="hidden" id="title10141683" value="Catalina Fire Forces Evacuations, Fears for Wildlife" />
+   <input type="hidden" id="shortTitle10141683" value="Catalina Fire Forces Evacuations, Fears for Wildlife" />
+   <input type="hidden" id="modelFullUrl10141683" value="https://www.npr.org/2007/05/11/10141683/catalina-fire-forces-evacuations-fears-for-wildlife" />
+</div>
+
+<!-- END CLASS="STORYTITLE" -->
+<div class="story-tools">
+      <div class="share-tools share-tools--primary" aria-label="Share tools">
+            <ul>
+                  <li class="share-tools__service share-tools__service--facebook"><button class="fbStory10141683" data-share-facebook='{"storyId": 10141683 }'  data-metrics='{"action":"Click Facebook","category":"Share Tools","label":"https:\/\/www.npr.org\/2007\/05\/11\/10141683\/catalina-fire-forces-evacuations-fears-for-wildlife"}'   data-metrics-ga4='{"category":"share","action":"share","clickName":"facebook"}' ><b class="share-tools__service-name">Facebook</b></button></li>
+         <li class="share-tools__service share-tools__service--twitter"><button class="story10141683" data-share-twitter='{"storyId": 10141683 }'  data-metrics='{"action":"Click Twitter","category":"Share Tools","label":"https:\/\/www.npr.org\/2007\/05\/11\/10141683\/catalina-fire-forces-evacuations-fears-for-wildlife"}'   data-metrics-ga4='{"category":"share","action":"share","clickName":"twitter"}' ><b class="share-tools__service-name">Twitter</b></button></li>
+         <li class="share-tools__service share-tools__service--flipboard"><button class="story10141683" data-share-flipboard='{"storyId": 10141683 }'  data-metrics='{"action":"Click Flipboard","category":"Share Tools","label":"https:\/\/www.npr.org\/2007\/05\/11\/10141683\/catalina-fire-forces-evacuations-fears-for-wildlife"}'   data-metrics-ga4='{"category":"share","action":"share","clickName":"flipboard"}' ><b class="share-tools__service-name">Flipboard</b></button></li>
+         <li class="share-tools__service share-tools__service--email"><button class='share-tools__email-link' data-story-id='10141683'  data-metrics='{"action":"Click Email a Friend","category":"Share Tools","label":"https:\/\/www.npr.org\/2007\/05\/11\/10141683\/catalina-fire-forces-evacuations-fears-for-wildlife"}'   data-metrics-ga4='{"category":"share","action":"share","clickName":"email"}' ><b class="share-tools__service-name">Email</b></button></li>
+      </ul>
+   </div>
+   
+<!-- END CLASS="SHARE-TOOLS SHARE-TOOLS--PRIMARY" ARIA-LABEL="SHARE TOOLS" -->
+</div>
+
+<!-- END CLASS="STORY-TOOLS" -->
+<div id="story-meta" class="story-meta has-byline">
+      <div class="story-meta__one">
+            <div class="dateblock">
+    <time datetime="2007-05-11T16:00:00-04:00">
+            <span class="date">May 11, 2007</span><span class="time">4:00 PM ET</span>
+    </time>
+</div>      <div class="program-block">
+                  Heard on          <a href="https://www.npr.org/programs/all-things-considered/2007/05/11/13125750/">All Things Considered</a>
+      </div>
+      
+<!-- END CLASS="PROGRAM-BLOCK" -->
+   </div>
+   
+<!-- END CLASS="STORY-META__ONE" -->
+   <div class="story-meta__two">
+            <div id="storybyline" class="storybyline-wrap linkLocation">
+                  <div class="bucketwrap byline">
+                        <div class="byline-container--block">
+                              <div class="byline byline--block byline--has-link" aria-label="Byline">
+    <div class="byline__photo">
+      <a href="https://www.npr.org/people/2100701/carrie-kahn" rel="author"  data-metrics='{"action":"Click Byline","category":"Story Metadata"}' >
+        <picture><source srcset="https://media.npr.org/assets/img/2022/09/16/carriekahn_sq-665e9427d7abb7886fc96c5f6d2250fe0284adc4-s100-c85.webp" class="img" type="image/webp"  data-format="webp" /><source srcset="https://media.npr.org/assets/img/2022/09/16/carriekahn_sq-665e9427d7abb7886fc96c5f6d2250fe0284adc4-s100-c85.jpg" class="img" type="image/jpeg"  data-format="jpg" /><img src="https://media.npr.org/assets/img/2022/09/16/carriekahn_sq-665e9427d7abb7886fc96c5f6d2250fe0284adc4-s100-c85.jpg" class="img" alt="Carrie Kahn headshot"  data-format="jpg" /></picture>
+      </a>
+    </div>
+
+  <p class="byline__name byline__name--block">
+    <a href="https://www.npr.org/people/2100701/carrie-kahn" rel="author"  data-metrics='{"action":"Click Byline","category":"Story Metadata"}' >
+      Carrie Kahn
+    </a>
+  </p>
+
+    <a class="byline__social-handle byline__social-handle--1" href="https://www.facebook.com/carrie.kahn.94"  data-metrics='{"action":"Click Social Handle","category":"Story Metadata"}' >
+      Facebook
+    </a>
+    <a class="byline__social-handle byline__social-handle--5" href="https://www.twitter.com/ckahn"  data-metrics='{"action":"Click Social Handle","category":"Story Metadata"}' >
+      Twitter
+    </a>
+    <a class="byline__social-handle byline__social-handle--4" href="https://Carriekahn.tumblr.com/"  data-metrics='{"action":"Click Social Handle","category":"Story Metadata"}' >
+      Tumblr
+    </a>
+</div>
+            </div>
+         </div>
+         
+<!-- END CLASS="BUCKETWRAP BYLINE" -->
+      </div>
+   </div>
+   
+<!-- END CLASS="STORY-META__TWO" -->
+</div>
+
+<!-- END ID="STORY-META" CLASS="STORY-META HAS-BYLINE" -->
+<div id="primaryaudio" class="storylocation linkLocation">
+      <article id="res10141684" class="bucketwrap resaudio primaryaudio" aria-label="audio-module"><div class="audio-module">
+      <h4 class="audio-module-title">Catalina Fire Forces Evacuations, Fears for Wildlife</h4>
+   <div class="audio-module-controls-wrap" data-audio='{"uid":"10141683:10141684","available":true,"duration":0,"title":"Catalina Fire Forces Evacuations, Fears for Wildlife","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/atc\/2007\/05\/20070511_atc_14.mp3?orgId=1&topicId=1003&p=2&story=10141683&dl=1&sc=siteplayer","storyUrl":"https:\/\/www.npr.org\/2007\/05\/11\/10141683\/catalina-fire-forces-evacuations-fears-for-wildlife","slug":"National","program":"All Things Considered","affiliation":"","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other","skipSponsorship":false,"hasAdsWizz":false}' data-audio-metrics='[]'>
+        <div class="audio-module-controls">
+            <a class="audio-module-listen" href="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2007/05/20070511_atc_14.mp3?orgId=1&amp;topicId=1003&amp;p=2&amp;story=10141683&amp;dl=1&amp;sc=siteplayer&amp;dl=1&amp;aw_0_1st.playerid=siteplayer">
+                <b class="audio-module-listen-inner">
+                    <b class="audio-module-listen-icon icn-play"></b>
+                    <b class="audio-module-listen-text">
+                        <b class="audio-module-cta">
+                            
+                            Listen
+                        </b>
+                    </b>
+                </b>
+            </a>
+
+        </div>
+
+
+</div>
+
+   
+    <div class="audio-module-tools">
+        <button class="audio-module-tools-toggle"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;open more options&quot;,&quot;label&quot;:null,&quot;noninteraction&quot;:true}'   data-metrics-ga4='{&quot;category&quot;:&quot;audio&quot;,&quot;action&quot;:&quot;audio_open_more_options&quot;,&quot;storyId&quot;:&quot;10141683&quot;,&quot;mediaId&quot;:&quot;10141684&quot;,&quot;title&quot;:&quot;Catalina Fire Forces Evacuations, Fears for Wildlife&quot;,&quot;type&quot;:&quot;ondemand&quot;}' >
+            <b class="icn-toggle"></b>
+            <b class="label">Toggle more options</b>
+        </button>
+        <ul class="audio-module-more-tools">
+                <li class="audio-tool audio-tool-download"><a href="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2007/05/20070511_atc_14.mp3?orgId=1&amp;topicId=1003&amp;p=2&amp;story=10141683&amp;dl=1&amp;sc=siteplayer&amp;dl=1&amp;aw_0_1st.playerid=siteplayer"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;download audio&quot;,&quot;label&quot;:&quot;10141683&quot;,&quot;noninteraction&quot;:true}'   data-metrics-ga4='{&quot;category&quot;:&quot;audio&quot;,&quot;action&quot;:&quot;audio_download&quot;,&quot;storyId&quot;:&quot;10141683&quot;,&quot;mediaId&quot;:&quot;10141684&quot;,&quot;title&quot;:&quot;Catalina Fire Forces Evacuations, Fears for Wildlife&quot;,&quot;type&quot;:&quot;ondemand&quot;}' ><b class="icn-download"></b><b class="audio-tool-label">Download</b></a>
+                </li>
+
+                <li class="audio-tool audio-tool-embed" >
+                    <button data-embed-url="https://www.npr.org/player/embed/10141683/10141684"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;embed audio&quot;,&quot;label&quot;:&quot;10141683&quot;,&quot;noninteraction&quot;:true}'   data-metrics-ga4='{&quot;category&quot;:&quot;audio&quot;,&quot;action&quot;:&quot;audio_embed&quot;,&quot;storyId&quot;:&quot;10141683&quot;,&quot;mediaId&quot;:&quot;10141684&quot;,&quot;title&quot;:&quot;Catalina Fire Forces Evacuations, Fears for Wildlife&quot;,&quot;type&quot;:&quot;ondemand&quot;}' ><b class="button-inner"><b class="icn-embed"></b><b
+                            class="audio-tool-label">Embed</b></b></button>
+
+                    <div class="audio-embed-overlay">
+                        <button class="btn-close"></button>
+                        <label class="embed-label">
+                            <b class="audio-embed-overlay__icon"></b>
+                            <b class="label">Embed</b>
+                            <input class="embed-url embed-url-no-touch" readonly
+                                   value="<iframe src=&quot;https://www.npr.org/player/embed/10141683/10141684&quot; width=&quot;100%&quot; height=&quot;290&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; title=&quot;NPR embedded audio player&quot;></iframe>">
+                        </label>
+
+                        <b class="embed-url embed-url-touch">
+                            <code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/10141683/10141684" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+                        </b>
+
+                    </div>
+                </li>
+
+                <li class="audio-tool audio-tool-transcript">
+                  <a href="https://www.npr.org/transcripts/10141683"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;click transcript&quot;,&quot;label&quot;:&quot;10141683&quot;,&quot;noninteraction&quot;:true}'   data-metrics-ga4='{&quot;category&quot;:&quot;audio&quot;,&quot;action&quot;:&quot;audio_click_transcript&quot;,&quot;storyId&quot;:&quot;10141683&quot;,&quot;mediaId&quot;:&quot;10141684&quot;,&quot;title&quot;:&quot;Catalina Fire Forces Evacuations, Fears for Wildlife&quot;,&quot;type&quot;:&quot;ondemand&quot;}' >
+                    <b class="icn-transcript"></b>
+                    <b class="audio-tool-label">Transcript</b>
+                  </a>
+                </li>
+        </ul>
+    </div>
+</div>
+</article>
+</div>
+<div id="storytext" class="storytext storylocation linkLocation">
+      <p>A massive wildfire on Catalina Island, off the coast of Los Angeles, has forced hundreds of people to evacuate. It now threatens the resort town of Avalon, as well as several threatened or endangered species, including a rare island fox that only recently has been making a comeback.</p>   <div class="container small" id="con10147961">
+            <h3 class="conheader">In Focus</h3>
+      <div id="res10147956" class="bucketwrap internallink simple">
+                  <div class="bucket simple">
+                        <a href="https://www.npr.org/2007/05/11/10140375/flames-latest-threat-to-catalinas-wild-inhabitants"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2007\/05\/11\/10140375\/flames-latest-threat-to-catalinas-wild-inhabitants"}'   data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2007\/05\/11\/10140375\/flames-latest-threat-to-catalinas-wild-inhabitants"}' >Flames Latest Threat to Catalina's Wild Inhabitants</a>                         <span class="date">May 11, 2007</span>
+         </div>
+         
+<!-- END CLASS="BUCKET SIMPLE" -->
+      </div>
+      
+<!-- END ID="RES10147956" CLASS="BUCKETWRAP INTERNALLINK SIMPLE" -->
+   </div>
+   
+<!-- END CLASS="CONTAINER SMALL" ID="CON10147961" -->
+   <div class="container small" id="con10147955">
+            <h3 class="conheader">Related NPR Stories</h3>
+      <div id="res10147958" class="bucketwrap internallink simple">
+                  <div class="bucket simple">
+                        <a href="https://www.npr.org/2007/05/11/10136430/wildfires-strike-georgia-florida"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2007\/05\/11\/10136430\/wildfires-strike-georgia-florida"}'   data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2007\/05\/11\/10136430\/wildfires-strike-georgia-florida"}' >Wildfires Strike Georgia, Florida</a>                         <span class="date">May 11, 2007</span>
+         </div>
+         
+<!-- END CLASS="BUCKET SIMPLE" -->
+      </div>
+      
+<!-- END ID="RES10147958" CLASS="BUCKETWRAP INTERNALLINK SIMPLE" -->
+   </div>
+   
+<!-- END CLASS="CONTAINER SMALL" ID="CON10147955" -->
+</div>
+<div class="transcript storytext" aria-label="Transcript">
+    <b class="icn-story-transcript-wrap">
+        <b class="icn-story-transcript"></b>
+    </b>
+
+    <p><p>ROBERT SIEGEL, host: </p><p>From NPR News, this is ALL THINGS CONSIDERED. I'm Robert Siegel. </p><p>MICHELE NORRIS, host: </p><p>And I'm Michele Norris. </p><p>The massive wildfire sweeping across Catalina Island, off the coast of Southern California, is still burning. But cool weather has given firefighters the upper hand, and some of the nearly 4,000 people who evacuated are about to head home. </p><p>NPR's Carrie Kahn reports. </p><p>CARRIE KAHN: The residents of Catalina Island, especially those in the tourist town of Avalon, feel like they've dodged a bullet. The weather is cooperating and some 500 firefighters and tons of equipment from the mainland have arrived to beat back the flames. Los Angeles County fire captain Andrew Olvera is feeling optimistic. </p><p>Mr. ANDREW OLVERA (Fire Captain, Los Angeles County Fire Department): We definitely don't want to let our guard down because of the weather but we do want to get in there and be effective while we have this chance. </p><p>KAHN: Last night, it was a much more dire situation. The flames were surrounding the western side of Avalon - hundreds of the tiny towns year-round residents scrambled down to the dock to board one of many ferries waiting to take evacuees on the 23-mile ride over to Los Angeles. </p><p>Residents Sergio(ph) and Claudia Barrejo(ph) didn't have a lot of time to choose what to take, however, Barrejo managed to pull his wife's treasured picture of the pope off the wall and cover it in bubblewrap. </p><p>Mr. SERGIO BARREJO (Resident, Catalina Island): It is a picture of the pope. </p><p>KAHN: Which pope? </p><p>Mr. BARREJO: The second one. </p><p>KAHN: John Paul? </p><p>Mr. BARREJO: The last that died. Yeah, John Paul. Yeah. </p><p>KAHN: And you wrapped it up while you're evacuating? </p><p>Mr. BARREJO: Yeah. Yeah. It's a gift, you know, it's more important for my wife. </p><p>KAHN: Most residents filled suitcases and plastic bags. Wendy Hernandez(ph) was upset that there weren't more firefighters on the scene last night. </p><p>Ms. WENDY HERNANDEZ (Resident, Catalina Island): It's taking so long for people to get over here to help, to clear out the fire, that it's getting so out of control. We don't have a good enough plan in place for an emergency like this. I mean, you know, they're having to bring trucks over from the mainland and they just came over a couple of hours ago, and it's been on fire for all day. </p><p>KAHN: Fire Captain Olvera says officials did have a plan. They helicoptered in fire crews as soon as the first flames were seen around noon yesterday. But many residents still weren't satisfied. </p><p>Mr. OLVERA: They may have been frustrated that they didn't see the firefighters but we had many firefighters coming over in helicopters, not coming through the actual harbor. Firefighters were coming from all over. </p><p>KAHN: Most significant to the battle were the firefighters who came over on the Navy's hovercraft. </p><p>(Soundbite of hovercraft) </p><p>KAHN: All through the day, the hovercraft made runs from Camp Pendleton outside San Diego to the island. Once on the beach, the craft's big black rubber tubing deflated. Five fresh fire engines filled with crews headed down a metal ramp onto the sand and out to the fire. </p><p>Corporal Stephen Holt from Camp Pendleton says now it's time to inflate the bottom tubing and head back across the ocean. </p><p>Corporal STEPHEN HOLT (Marine Combat Engineer, Camp Pendleton): There are pumps that are married to that thing and away it's going to go. </p><p>KAHN: Just like riding a giant innertube across the ocean. </p><p>Cpl. HOLT: It is. In fact, actually being on the craft it feels like your more on an airplane than an actual boat. Just be at the dynamics of the ship and everything, the sounds, the way it rides and everything that is - it's once a lifetime experience that's for sure. </p><p>KAHN: Resident Susie Griffin who runs the historic Inn on Mount Ada says she hopes she never has to experience this again. </p><p>Ms. SUSIE GRIFFIN (Innkeeper, Inn on Mount Ada; Resident, Catalina Island): It's amazing when you look at the blackened hills how close the fire came down to our school and our hospital. And some of my friends' backyards almost but those buildings were spared, and then again you always hear about fires in the hotspots afterwards, and I can sure see it today because you think you're okay and all of a sudden a flame - smoke goes up and now I can see live fire again. </p><p>KAHN: Resident Janet Demarest(ph) trying to keep positive. </p><p>Ms. JANET DEMAREST (Resident, Catalina Island): I'm much better now, now that we have daylight, and if you look down at the city it just looks like a beautiful day. </p><p>(Soundbite of motorboat) </p><p>KAHN: With scorched mountains behind it. </p><p>Ms. DEMAREST: Yeah. Scorched mountains. </p><p>KAHN: With just a fraction of the fire contained, residents and firefighters aren't taking any chances. Water-dropping aircraft and hand crews will work through the day and hope the weather stays cool and the wind still. </p><p>Carrie Kahn, NPR News, Catalina Island. </p><p>NORRIS: There's information about Catalina Island's plant and animal species at our Web site, npr.org. </p></p>
+
+    <p class="disclaimer">Copyright &copy; 2007 NPR.  All rights reserved.  Visit our website <a href="https://www.npr.org/about-npr/179876898/terms-of-use">terms of use</a> and <a href="https://www.npr.org/about-npr/179881519/rights-and-permissions-information">permissions</a> pages at <a href="https://www.npr.org">www.npr.org</a> for further information.</p>
+
+    <p class="disclaimer">NPR transcripts are created on a rush deadline by an NPR contractor. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR&rsquo;s programming is the audio record.</p>
+</div>
+<div class="childstory">
+      <a name="10131851"></a>   <div class="storytitle">
+            <h2>Catalina Island Fire Forces Evacuations</h2>
+      <input type="hidden" id="title10131851" value="Catalina Island Fire Forces Evacuations" />
+      <input type="hidden" id="shortTitle10131851" value="Catalina Island Fire Forces Evacuations" />
+      <input type="hidden" id="modelFullUrl10131851" value="https://www.npr.org/2007/05/11/10131851/catalina-island-fire-forces-evacuations" />
+   </div>
+   
+<!-- END CLASS="STORYTITLE" -->
+   <div class="story-tools">
+            <div class="share-tools share-tools--primary" aria-label="Share tools">
+                  <ul>
+                        <li class="share-tools__service share-tools__service--facebook"><button class="fbStory10131851" data-share-facebook='{"storyId": 10131851 }'  data-metrics='{"action":"Click Facebook","category":"Share Tools","label":"https:\/\/www.npr.org\/2007\/05\/11\/10131851\/catalina-island-fire-forces-evacuations"}'   data-metrics-ga4='{"category":"share","action":"share","clickName":"facebook"}' ><b class="share-tools__service-name">Facebook</b></button></li>
+            <li class="share-tools__service share-tools__service--twitter"><button class="story10131851" data-share-twitter='{"storyId": 10131851 }'  data-metrics='{"action":"Click Twitter","category":"Share Tools","label":"https:\/\/www.npr.org\/2007\/05\/11\/10131851\/catalina-island-fire-forces-evacuations"}'   data-metrics-ga4='{"category":"share","action":"share","clickName":"twitter"}' ><b class="share-tools__service-name">Twitter</b></button></li>
+            <li class="share-tools__service share-tools__service--flipboard"><button class="story10131851" data-share-flipboard='{"storyId": 10131851 }'  data-metrics='{"action":"Click Flipboard","category":"Share Tools","label":"https:\/\/www.npr.org\/2007\/05\/11\/10131851\/catalina-island-fire-forces-evacuations"}'   data-metrics-ga4='{"category":"share","action":"share","clickName":"flipboard"}' ><b class="share-tools__service-name">Flipboard</b></button></li>
+            <li class="share-tools__service share-tools__service--email"><button class='share-tools__email-link' data-story-id='10131851'  data-metrics='{"action":"Click Email a Friend","category":"Share Tools","label":"https:\/\/www.npr.org\/2007\/05\/11\/10131851\/catalina-island-fire-forces-evacuations"}'   data-metrics-ga4='{"category":"share","action":"share","clickName":"email"}' ><b class="share-tools__service-name">Email</b></button></li>
+         </ul>
+      </div>
+      
+<!-- END CLASS="SHARE-TOOLS SHARE-TOOLS--PRIMARY" ARIA-LABEL="SHARE TOOLS" -->
+   </div>
+   
+<!-- END CLASS="STORY-TOOLS" -->
+   <div id="story-meta" class="story-meta has-byline">
+            <div class="story-meta__one">
+                  <div class="dateblock">
+    <time datetime="2007-05-11T06:00:00-04:00">
+            <span class="date">May 11, 2007</span><span class="time">6:00 AM ET</span>
+    </time>
+</div>         <div class="program-block">
+                        Heard on             <a href="https://www.npr.org/programs/morning-edition/2007/05/11/13125592/">Morning Edition</a>
+         </div>
+         
+<!-- END CLASS="PROGRAM-BLOCK" -->
+      </div>
+      
+<!-- END CLASS="STORY-META__ONE" -->
+      <div class="story-meta__two">
+                  <div id="storybyline" class="storybyline-wrap linkLocation">
+                        <div class="bucketwrap byline">
+                              <div class="byline-container--block">
+                                    <div class="byline byline--block" aria-label="Byline">
+
+  <p class="byline__name byline__name--block">
+    
+      Rebecca Roberts
+    
+  </p>
+
+</div>                  <div class="byline byline--block byline--has-link" aria-label="Byline">
+    <div class="byline__photo">
+      <a href="https://www.npr.org/people/2100701/carrie-kahn" rel="author"  data-metrics='{"action":"Click Byline","category":"Story Metadata"}' >
+        <picture><source srcset="https://media.npr.org/assets/img/2022/09/16/carriekahn_sq-665e9427d7abb7886fc96c5f6d2250fe0284adc4-s100-c85.webp" class="img" type="image/webp"  data-format="webp" /><source srcset="https://media.npr.org/assets/img/2022/09/16/carriekahn_sq-665e9427d7abb7886fc96c5f6d2250fe0284adc4-s100-c85.jpg" class="img" type="image/jpeg"  data-format="jpg" /><img src="https://media.npr.org/assets/img/2022/09/16/carriekahn_sq-665e9427d7abb7886fc96c5f6d2250fe0284adc4-s100-c85.jpg" class="img" alt="Carrie Kahn headshot"  data-format="jpg" /></picture>
+      </a>
+    </div>
+
+  <p class="byline__name byline__name--block">
+    <a href="https://www.npr.org/people/2100701/carrie-kahn" rel="author"  data-metrics='{"action":"Click Byline","category":"Story Metadata"}' >
+      Carrie Kahn
+    </a>
+  </p>
+
+    <a class="byline__social-handle byline__social-handle--1" href="https://www.facebook.com/carrie.kahn.94"  data-metrics='{"action":"Click Social Handle","category":"Story Metadata"}' >
+      Facebook
+    </a>
+    <a class="byline__social-handle byline__social-handle--5" href="https://www.twitter.com/ckahn"  data-metrics='{"action":"Click Social Handle","category":"Story Metadata"}' >
+      Twitter
+    </a>
+    <a class="byline__social-handle byline__social-handle--4" href="https://Carriekahn.tumblr.com/"  data-metrics='{"action":"Click Social Handle","category":"Story Metadata"}' >
+      Tumblr
+    </a>
+</div>
+               </div>
+            </div>
+            
+<!-- END CLASS="BUCKETWRAP BYLINE" -->
+         </div>
+      </div>
+      
+<!-- END CLASS="STORY-META__TWO" -->
+   </div>
+   
+<!-- END ID="STORY-META" CLASS="STORY-META HAS-BYLINE" -->
+   <div id="primaryaudio" class="storylocation linkLocation">
+            <article id="res10131852" class="bucketwrap resaudio primaryaudio" aria-label="audio-module"><div class="audio-module">
+      <h4 class="audio-module-title">Catalina Island Fire Forces Evacuations</h4>
+   <div class="audio-module-controls-wrap" data-audio='{"uid":"10131851:10131852","available":true,"duration":0,"title":"Catalina Island Fire Forces Evacuations","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/me\/2007\/05\/20070511_me_16.mp3?orgId=1&topicId=1003&p=3&story=10131851&dl=1&sc=siteplayer","storyUrl":"https:\/\/www.npr.org\/2007\/05\/11\/10131851\/catalina-island-fire-forces-evacuations","slug":"National","program":"Morning Edition","affiliation":"","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other","skipSponsorship":false,"hasAdsWizz":false}' data-audio-metrics='[]'>
+        <div class="audio-module-controls">
+            <a class="audio-module-listen" href="https://ondemand.npr.org/anon.npr-mp3/npr/me/2007/05/20070511_me_16.mp3?orgId=1&amp;topicId=1003&amp;p=3&amp;story=10131851&amp;dl=1&amp;sc=siteplayer&amp;dl=1&amp;aw_0_1st.playerid=siteplayer">
+                <b class="audio-module-listen-inner">
+                    <b class="audio-module-listen-icon icn-play"></b>
+                    <b class="audio-module-listen-text">
+                        <b class="audio-module-cta">
+                            
+                            Listen
+                        </b>
+                    </b>
+                </b>
+            </a>
+
+        </div>
+
+
+</div>
+
+   
+    <div class="audio-module-tools">
+        <button class="audio-module-tools-toggle"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;open more options&quot;,&quot;label&quot;:null,&quot;noninteraction&quot;:true}'   data-metrics-ga4='{&quot;category&quot;:&quot;audio&quot;,&quot;action&quot;:&quot;audio_open_more_options&quot;,&quot;storyId&quot;:&quot;10131851&quot;,&quot;mediaId&quot;:&quot;10131852&quot;,&quot;title&quot;:&quot;Catalina Island Fire Forces Evacuations&quot;,&quot;type&quot;:&quot;ondemand&quot;}' >
+            <b class="icn-toggle"></b>
+            <b class="label">Toggle more options</b>
+        </button>
+        <ul class="audio-module-more-tools">
+                <li class="audio-tool audio-tool-download"><a href="https://ondemand.npr.org/anon.npr-mp3/npr/me/2007/05/20070511_me_16.mp3?orgId=1&amp;topicId=1003&amp;p=3&amp;story=10131851&amp;dl=1&amp;sc=siteplayer&amp;dl=1&amp;aw_0_1st.playerid=siteplayer"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;download audio&quot;,&quot;label&quot;:&quot;10131851&quot;,&quot;noninteraction&quot;:true}'   data-metrics-ga4='{&quot;category&quot;:&quot;audio&quot;,&quot;action&quot;:&quot;audio_download&quot;,&quot;storyId&quot;:&quot;10131851&quot;,&quot;mediaId&quot;:&quot;10131852&quot;,&quot;title&quot;:&quot;Catalina Island Fire Forces Evacuations&quot;,&quot;type&quot;:&quot;ondemand&quot;}' ><b class="icn-download"></b><b class="audio-tool-label">Download</b></a>
+                </li>
+
+                <li class="audio-tool audio-tool-embed" >
+                    <button data-embed-url="https://www.npr.org/player/embed/10131851/10131852"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;embed audio&quot;,&quot;label&quot;:&quot;10131851&quot;,&quot;noninteraction&quot;:true}'   data-metrics-ga4='{&quot;category&quot;:&quot;audio&quot;,&quot;action&quot;:&quot;audio_embed&quot;,&quot;storyId&quot;:&quot;10131851&quot;,&quot;mediaId&quot;:&quot;10131852&quot;,&quot;title&quot;:&quot;Catalina Island Fire Forces Evacuations&quot;,&quot;type&quot;:&quot;ondemand&quot;}' ><b class="button-inner"><b class="icn-embed"></b><b
+                            class="audio-tool-label">Embed</b></b></button>
+
+                    <div class="audio-embed-overlay">
+                        <button class="btn-close"></button>
+                        <label class="embed-label">
+                            <b class="audio-embed-overlay__icon"></b>
+                            <b class="label">Embed</b>
+                            <input class="embed-url embed-url-no-touch" readonly
+                                   value="<iframe src=&quot;https://www.npr.org/player/embed/10131851/10131852&quot; width=&quot;100%&quot; height=&quot;290&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; title=&quot;NPR embedded audio player&quot;></iframe>">
+                        </label>
+
+                        <b class="embed-url embed-url-touch">
+                            <code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/10131851/10131852" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+                        </b>
+
+                    </div>
+                </li>
+
+                <li class="audio-tool audio-tool-transcript">
+                  <a href="https://www.npr.org/transcripts/10131851"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;click transcript&quot;,&quot;label&quot;:&quot;10131851&quot;,&quot;noninteraction&quot;:true}'   data-metrics-ga4='{&quot;category&quot;:&quot;audio&quot;,&quot;action&quot;:&quot;audio_click_transcript&quot;,&quot;storyId&quot;:&quot;10131851&quot;,&quot;mediaId&quot;:&quot;10131852&quot;,&quot;title&quot;:&quot;Catalina Island Fire Forces Evacuations&quot;,&quot;type&quot;:&quot;ondemand&quot;}' >
+                    <b class="icn-transcript"></b>
+                    <b class="audio-tool-label">Transcript</b>
+                  </a>
+                </li>
+        </ul>
+    </div>
+</div>
+</article>
+   </div>
+   <div id="storytext" class="storytext storylocation linkLocation">
+            <div id="res10136313" class="bucketwrap image medium">
+                  <div
+    class="imagewrap has-source-dimensions"
+    data-crop-type=""
+    style="
+        --source-width: 200;
+        --source-height: 200;
+    "
+>
+    <a href="http://npr.org/news/images/2007/may/11/catalina_map200.jpg">
+            <picture>
+                <source srcset="https://media.npr.org/news/images/2007/may/11/catalina_map200-6324c90f0ffcba2745d269a1c00ca65e45b18a2d-s200-c85.webp 200w,
+https://media.npr.org/news/images/2007/may/11/catalina_map200-6324c90f0ffcba2745d269a1c00ca65e45b18a2d-s300-c85.webp 300w,
+https://media.npr.org/news/images/2007/may/11/catalina_map200-6324c90f0ffcba2745d269a1c00ca65e45b18a2d-s400-c85.webp 400w,
+https://media.npr.org/news/images/2007/may/11/catalina_map200-6324c90f0ffcba2745d269a1c00ca65e45b18a2d-s600-c85.webp 600w,
+https://media.npr.org/news/images/2007/may/11/catalina_map200-6324c90f0ffcba2745d269a1c00ca65e45b18a2d-s800-c85.webp 800w,
+https://media.npr.org/news/images/2007/may/11/catalina_map200-6324c90f0ffcba2745d269a1c00ca65e45b18a2d-s1600-c85.webp 1600w"  sizes="(min-width: 1300px) 300px, (min-width: 1025px) 300px, (min-width: 768px) 252px, calc(100vw - 30px)" class="img" type="image/webp" />
+                <source srcset="https://media.npr.org/news/images/2007/may/11/catalina_map200-6324c90f0ffcba2745d269a1c00ca65e45b18a2d-s200-c85.jpg 200w,
+https://media.npr.org/news/images/2007/may/11/catalina_map200-6324c90f0ffcba2745d269a1c00ca65e45b18a2d-s300-c85.jpg 300w,
+https://media.npr.org/news/images/2007/may/11/catalina_map200-6324c90f0ffcba2745d269a1c00ca65e45b18a2d-s400-c85.jpg 400w,
+https://media.npr.org/news/images/2007/may/11/catalina_map200-6324c90f0ffcba2745d269a1c00ca65e45b18a2d-s600-c85.jpg 600w,
+https://media.npr.org/news/images/2007/may/11/catalina_map200-6324c90f0ffcba2745d269a1c00ca65e45b18a2d-s800-c85.jpg 800w,
+https://media.npr.org/news/images/2007/may/11/catalina_map200-6324c90f0ffcba2745d269a1c00ca65e45b18a2d-s1600-c85.jpg 1600w"  sizes="(min-width: 1300px) 300px, (min-width: 1025px) 300px, (min-width: 768px) 252px, calc(100vw - 30px)" class="img" type="image/jpeg" />
+                <img src="https://media.npr.org/news/images/2007/may/11/catalina_map200-6324c90f0ffcba2745d269a1c00ca65e45b18a2d-s1100-c50.jpg"  class="img" alt="" loading="lazy" />
+            </picture>
+    </a>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                Friday's fire threatened Avalon, the main city on Catalina Island. Avalon has a population of about 3,200. Most of the island, which is home to various wildlife, is operated by the Santa Catalina Island Conservancy.
+                <b class="credit" aria-label="Image credit">
+                    
+                    Lindsay Mangum, NPR
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+            <a href="http://npr.org/news/images/2007/may/11/catalina_map200.jpg" class="secondary">Click Enlarge for Detail</a>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Lindsay Mangum, NPR
+        
+    </span>
+</div>
+      </div>
+      <div id="res10142991" class="bucketwrap listtext">
+                  <div class="bucket">
+                        <h3 class="edTag">Catalina Island: Where the Wild Things Are</h3>            <p>Catalina Island is known as a weekend getaway for Southern California mainlanders. But it's also home to a wilder crowd — a rich array of fauna and flora that makes it a bio-diversity hot spot. <a href="https://www.npr.org/templates/story/story.php?storyId=10140375"><strong>Read more</strong></a>.</p>
+         </div>
+         
+<!-- END CLASS="BUCKET" -->
+      </div>
+      
+<!-- END ID="RES10142991" CLASS="BUCKETWRAP LISTTEXT" -->
+      <p>A bright wall of orange flame threatened the town of Avalon on the California resort island of Santa Catalina early Friday morning, forcing people to flee the island and authorities to scramble for resources to fight the wildfire.</p>      <p>Several structures were destroyed during the night and firefighters were trying to make their stand against the fire at Avalon. But the island's location, 26 miles off the coast of Los Angeles, makes it difficult for officials to marshal the forces needed to battle the blaze. It was reportedly 10 percent contained Friday afternoon. </p>      <p>"The biggest challenge for fighting the fires on Catalina Island is getting the firefighters here," said Capt. Andrew Olvera of the Los Angeles County Fire Department. "And ... once we get here, it's [difficult] getting everybody in place, and dealing with the steep terrain, and the rocky terrain; that's also a big challenge for us."</p>      <p>The wildfires have burned more than 4,000 acres since starting Thursday afternoon.</p>      <p>Officials said they were waiting for daylight to break before resuming flights of helicopters that can drop fire retarding materials on the blaze. They also hoped that weather conditions would turn in their favor, bringing cool temperatures and calm air.</p>      <p>In the dark of Friday morning, flames crept over the west side of  the sweeping hills surrounding the horseshoe-shaped town of Avalon. The 76-square-mile island is home to about 3,200 people, although that swells to as many as 10,000 people during the summer vacation season. </p>      <p>People evacuated the island by ferry as ash from the fire rained down on the island. Some 1,200 homes are under voluntary or mandatory evacuation orders. About 3,800 people had been evacuated Friday.</p>      <p>The Santa Catalina Island fire is the second major blaze to force evacuations in Southern California this week. An earlier fire in the heart of Los Angeles burned hundreds of acres in the city's sprawling Griffith Park.</p>      <p>Fire season for the region doesn't officially start until next month. But a lack of rain, hot weather and strong winds have created perfect conditions for wildfires. Santa Catalina, which normally receives 13 inches of rain annually, has recorded 2 inches of rain so far this year.</p>      <p><em>Written by Wright Bryan with reporting from Carrie Kahn and the Associated Press</em></p>      <div class="container small" id="con10132526">
+                  <h3 class="conheader">Related NPR Stories</h3>
+         <div id="res10132527" class="bucketwrap internallink simple">
+                        <div class="bucket simple">
+                              <a href="https://www.npr.org/2007/05/10/10110923/firefighters-get-los-angeles-blaze-under-control"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2007\/05\/10\/10110923\/firefighters-get-los-angeles-blaze-under-control"}'   data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2007\/05\/10\/10110923\/firefighters-get-los-angeles-blaze-under-control"}' >Firefighters Get  Los Angeles Blaze Under Control</a>                               <span class="date">May 10, 2007</span>
+            </div>
+            
+<!-- END CLASS="BUCKET SIMPLE" -->
+         </div>
+         
+<!-- END ID="RES10132527" CLASS="BUCKETWRAP INTERNALLINK SIMPLE" -->
+         <div id="res10132529" class="bucketwrap internallink simple">
+                        <div class="bucket simple">
+                              <a href="https://www.npr.org/templates/story/story.php?storyId=10098249"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/templates\/story\/story.php?storyId=10098249"}'   data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/templates\/story\/story.php?storyId=10098249"}' >Evacuated Griffith Park Residents Return to Homes</a>                               <span class="date">May 9, 2007</span>
+            </div>
+            
+<!-- END CLASS="BUCKET SIMPLE" -->
+         </div>
+         
+<!-- END ID="RES10132529" CLASS="BUCKETWRAP INTERNALLINK SIMPLE" -->
+         <div id="res10132531" class="bucketwrap internallink simple">
+                        <div class="bucket simple">
+                              <a href="https://www.npr.org/2007/05/09/10096350/griffith-park-fire-stirs-visions-of-1933-destruction"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2007\/05\/09\/10096350\/griffith-park-fire-stirs-visions-of-1933-destruction"}'   data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2007\/05\/09\/10096350\/griffith-park-fire-stirs-visions-of-1933-destruction"}' >Griffith Park Fire Stirs Visions of 1933 Destruction</a>                               <span class="date">May 9, 2007</span>
+            </div>
+            
+<!-- END CLASS="BUCKET SIMPLE" -->
+         </div>
+         
+<!-- END ID="RES10132531" CLASS="BUCKETWRAP INTERNALLINK SIMPLE" -->
+      </div>
+      
+<!-- END CLASS="CONTAINER SMALL" ID="CON10132526" -->
+   </div>
+</div>
+
+<!-- END CLASS="CHILDSTORY" -->
+<div class="share-tools share-tools--secondary" aria-label="Share tools">
+      <ul>
+            <li class="share-tools__service share-tools__service--facebook"><button class="fbStory10141683" data-share-facebook='{"storyId": 10141683 }'  data-metrics='{"action":"Click Facebook","category":"Share Tools","label":"https:\/\/www.npr.org\/2007\/05\/11\/10141683\/catalina-fire-forces-evacuations-fears-for-wildlife"}'   data-metrics-ga4='{"category":"share","action":"share","clickName":"facebook"}' ><b class="share-tools__service-name">Facebook</b></button></li>
+      <li class="share-tools__service share-tools__service--twitter"><button class="story10141683" data-share-twitter='{"storyId": 10141683 }'  data-metrics='{"action":"Click Twitter","category":"Share Tools","label":"https:\/\/www.npr.org\/2007\/05\/11\/10141683\/catalina-fire-forces-evacuations-fears-for-wildlife"}'   data-metrics-ga4='{"category":"share","action":"share","clickName":"twitter"}' ><b class="share-tools__service-name">Twitter</b></button></li>
+      <li class="share-tools__service share-tools__service--flipboard"><button class="story10141683" data-share-flipboard='{"storyId": 10141683 }'  data-metrics='{"action":"Click Flipboard","category":"Share Tools","label":"https:\/\/www.npr.org\/2007\/05\/11\/10141683\/catalina-fire-forces-evacuations-fears-for-wildlife"}'   data-metrics-ga4='{"category":"share","action":"share","clickName":"flipboard"}' ><b class="share-tools__service-name">Flipboard</b></button></li>
+      <li class="share-tools__service share-tools__service--email"><button class='share-tools__email-link' data-story-id='10141683'  data-metrics='{"action":"Click Email a Friend","category":"Share Tools","label":"https:\/\/www.npr.org\/2007\/05\/11\/10141683\/catalina-fire-forces-evacuations-fears-for-wildlife"}'   data-metrics-ga4='{"category":"share","action":"share","clickName":"email"}' ><b class="share-tools__service-name">Email</b></button></li>
+   </ul>
+</div>
+
+<!-- END CLASS="SHARE-TOOLS SHARE-TOOLS--SECONDARY" ARIA-LABEL="SHARE TOOLS" -->
+<div id="newsletter-acquisition-callout-data" data-newsletter="{&quot;newsletterId&quot;:&quot;news&quot;,&quot;title&quot;:&quot;Daily News&quot;,&quot;marketingHeader&quot;:&quot;Sign Up For the NPR Daily Newsletter&quot;,&quot;frequency&quot;:&quot;each weekday&quot;,&quot;shortDescription&quot;:&quot;Catch up on the latest headlines and unique NPR stories, sent every weekday.&quot;,&quot;stickyDescription&quot;:&quot;Sign up for the NPR Daily newsletter for the latest headlines and unique NPR stories.&quot;,&quot;contentImage&quot;:&quot;https:\/\/media.npr.org\/assets\/img\/2021\/02\/09\/npr-daily.png&quot;,&quot;staticMarkupDir&quot;:&quot;\/buckets\/topics\/header1001.html&quot;,&quot;brandingDir&quot;:&quot;\/branding\/sections\/news\/&quot;,&quot;brandingLink&quot;:&quot;https:\/\/www.npr.org\/sections\/news\/&quot;,&quot;organizationId&quot;:1,&quot;recaptchaSiteKey&quot;:&quot;6LfD6CYUAAAAAIBeUekwZ9KCjF4UyLFtu7NWNaEK&quot;}">
+   </div>
+
+<!-- END ID="NEWSLETTER-ACQUISITION-CALLOUT-DATA" DATA-NEWSLETTER="{&QUOT;NEWSLETTERID&QUOT;:&QUOT;NEWS&QUOT;,&QUOT;TITLE&QUOT;:&QUOT;DAILY NEWS&QUOT;,&QUOT;MARKETINGHEADER&QUOT;:&QUOT;SIGN UP FOR THE NPR DAILY NEWSLETTER&QUOT;,&QUOT;FREQUENCY&QUOT;:&QUOT;EACH WEEKDAY&QUOT;,&QUOT;SHORTDESCRIPTION&QUOT;:&QUOT;CATCH UP ON THE LATEST HEADLINES AND UNIQUE NPR STORIES, SENT EVERY WEEKDAY.&QUOT;,&QUOT;STICKYDESCRIPTION&QUOT;:&QUOT;SIGN UP FOR THE NPR DAILY NEWSLETTER FOR THE LATEST HEADLINES AND UNIQUE NPR STORIES.&QUOT;,&QUOT;CONTENTIMAGE&QUOT;:&QUOT;HTTPS:\/\/MEDIA.NPR.ORG\/ASSETS\/IMG\/2021\/02\/09\/NPR-DAILY.PNG&QUOT;,&QUOT;STATICMARKUPDIR&QUOT;:&QUOT;\/BUCKETS\/TOPICS\/HEADER1001.HTML&QUOT;,&QUOT;BRANDINGDIR&QUOT;:&QUOT;\/BRANDING\/SECTIONS\/NEWS\/&QUOT;,&QUOT;BRANDINGLINK&QUOT;:&QUOT;HTTPS:\/\/WWW.NPR.ORG\/SECTIONS\/NEWS\/&QUOT;,&QUOT;ORGANIZATIONID&QUOT;:1,&QUOT;RECAPTCHASITEKEY&QUOT;:&QUOT;6LFD6CYUAAAAAIBEUEKWZ9KCJF4UYLFTU7NWNAEK&QUOT;}" -->
+<div id="callout-end-of-story-mount">
+   </div>
+
+<!-- END ID="CALLOUT-END-OF-STORY-MOUNT" -->
+<aside id="end-of-story-recommendations-mount" class="recommended-stories" aria-label="recommended stories"></aside>
+<!-- END ID="END-OF-STORY-RECOMMENDATIONS-MOUNT" CLASS="RECOMMENDED-STORIES" ARIA-LABEL="RECOMMENDED STORIES" -->
+</article><header class="contentheader contentheader--two" data-metrics='{"category":"National"}' ></header><footer id="npr-footer" class="npr-footer" role="contentinfo" aria-label="NPR footer"><div class="npr-footer__content" data-metrics-category="Global Footer" data-metrics-label="Footer">
+    <div class="npr-footer__module-group">
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Read &amp; Listen</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/" data-metrics-action="Click Homepage">Home</a></li>
+                <li class="npr-footer__item"><a href="/sections/news/" data-metrics-action="Click News">News</a></li>
+                <li class="npr-footer__item"><a href="/sections/culture/" data-metrics-action="Click Culture">Culture</a></li>
+                <li class="npr-footer__item"><a href="/music/" data-metrics-action="Click Music">Music</a></li>
+                <li class="npr-footer__item"><a href="/podcasts-and-shows" data-metrics-action="click podcasts & shows">Podcasts &amp; Shows</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Connect</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/newsletters/" data-metrics-action="Click Newsletters">Newsletters</a></li>
+                <li class="npr-footer__item"><a href="https://www.facebook.com/NPR/" data-metrics-action="Click Facebook">Facebook</a></li>
+                <li class="npr-footer__item"><a href="https://twitter.com/NPR" data-metrics-action="Click Twitter">Twitter</a></li>
+                <li class="npr-footer__item"><a href="https://www.instagram.com/npr/" data-metrics-action="Click Instagram">Instagram</a></li>
+                <li class="npr-footer__item"><a href="/press/" data-metrics-action="Click Press">Press</a></li>
+                <li class="npr-footer__item"><a href="https://help.npr.org/contact/s/" data-metrics-action="Click Contact & Help">Contact & Help</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">About NPR</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/about/" data-metrics-action="Click Overview">Overview</a></li>
+                <li class="npr-footer__item"><a href="/diversity/" data-metrics-action="Click Diversity">Diversity</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/1136563345/accessibility" data-metrics-action="Click Accessibility">Accessibility</a></li>
+                <li class="npr-footer__item"><a href="/ethics/" data-metrics-action="Click Ethics">Ethics</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/178660742/public-radio-finances" data-metrics-action="Click Finances">Finances</a></li>
+                <li class="npr-footer__item"><a href="/sections/publiceditor/" data-metrics-action="Click Public Editor">Public Editor</a></li>
+                <li class="npr-footer__item"><a href="/corrections/" data-metrics-action="Click Corrections">Corrections</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Get Involved</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/support/" data-metrics-action="Click Support Public Radio">Support Public Radio</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/186948703/corporate-sponsorship" data-metrics-action="Click Sponsor NPR">Sponsor NPR</a></li>
+                <li class="npr-footer__item"><a href="/careers/" data-metrics-action="Click NPR Careers">NPR Careers</a></li>
+                <li class="npr-footer__item"><a href="https://shopnpr.org/" data-metrics-action="Click NPR Shop">NPR Shop</a></li>
+                <li class="npr-footer__item"><a href="https://www.nprpresents.org" data-metrics-action="Click NPR Events">NPR Events</a></li>
+                <li class="npr-footer__item"><a href="/sections/npr-extra/" data-metrics-action="Click NPR Extra">NPR Extra</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="npr-footer__module npr-footer__module--secondary">
+        <ul>
+            <li class="npr-footer__item"><a href="/about-npr/179876898/terms-of-use" data-metrics-action="Click Terms of Use">Terms of Use</a></li>
+            <li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy" data-metrics-action="Click Privacy">Privacy</a></li>
+            <li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy#yourchoices" data-metrics-action="Click Your Privacy Choices">Your Privacy Choices</a></li>
+            <li class="npr-footer__item"><a href="https://text.npr.org/" data-metrics-action="Click Text Only">Text Only</a></li>
+            <li class="npr-footer__item"><span class="copy-year"></span></li>
+        </ul>
+    </div>
+</div>
+</footer><div id="global-stickybar-mount" class="global-stickybar-mount">
+   </div>
+</section>   <div id="main-sidebar">
+            <aside id="ad-standard-wrap" aria-label="advertisement">
+    
+
+    <div id="ad-standard-News_National" class="ad-standard ad-config" data-ad-config='{"network":"\/6735\/","site":{"desktop":"n6735.NPR","mobile":"n6735.NPRMOBILE"},"zone":"News_National","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"10141683","program":"All_Things_Considered"},"location":"standard","deferred":false,"isBetweenContent":false,"borderClass":"","overflowCount":null}'></div>
+    <p class="left">Sponsor Message</p><p class="right"><a href="/about-npr/186948703/corporate-sponsorship">Become an NPR sponsor</a></p>
+
+</aside>
+   </div>
+   
+<!-- END ID="MAIN-SIDEBAR" -->
+</div>
+
+<!-- END ID="WRAPPER" -->
+<section id="global-modal-mount"></section>
+<!-- END ID="GLOBAL-MODAL-MOUNT" -->
+<script type="text/javascript">
+   (function () {
+    var loadPageJs = function () { (window.webpackJsonp=window.webpackJsonp||[]).push([[19],{1097:function(e,n,c){e.exports=c(303)},303:function(e,n,c){"use strict";c.p=NPR.serverVars.webpackPublicPath,Promise.all([c.e(1),c.e(2),c.e(3),c.e(95),c.e(73)]).then(function(e){c(3),c(1071),c(43),c(105),c(29),c(169),c(125),c(63),c(65),c(1072),c(86),c(1073),c(296),c(1074),c(77)}.bind(null,c)).catch(c.oe)}},[[1097,0]]]); };
+    if (document.readyState === 'complete') {
+        loadPageJs();
+    } else {
+        window.addEventListener('load', function load() {
+            window.removeEventListener('load', load, false);
+            loadPageJs();
+        });
+    }
+})();
+</script>
+</main></body></html>

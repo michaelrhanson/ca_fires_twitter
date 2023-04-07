@@ -1,0 +1,226 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+
+<meta name="viewport" content="initial-scale=1.0001, minimum-scale=1.0001, maximum-scale=1.0001, user-scalable=no" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<title>Butte Creek - Chico - LocalWiki</title>
+<meta name="robots" content="index,follow">
+<link rel="icon" type="image/png" href="/static/theme/img/favicons/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="/static/theme/img/favicons/favicon-128.png" sizes="128x128" />
+<link rel="icon" type="image/png" href="/static/theme/img/favicons/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="/static/theme/img/favicons/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/static/theme/img/favicons/favicon-16x16.png" sizes="16x16" />
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/static/theme/img/favicons/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/static/theme/img/favicons/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/static/theme/img/favicons/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/static/theme/img/favicons/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/static/theme/img/favicons/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/static/theme/img/favicons/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/static/theme/img/favicons/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static/theme/img/favicons/apple-touch-icon-152x152.png" />
+<meta name="msapplication-TileColor" content="#f4f4f4" />
+<meta name="application-name" content="LocalWiki" />
+<meta name="msapplication-TileImage" content="/static/theme/img/favicons/mstile-144x144.png" />
+<meta name="msapplication-square70x70logo" content="/static/theme/img/favicons/mstile-70x70.png" />
+<meta name="msapplication-square150x150logo" content="/static/theme/img/favicons/mstile-150x150.png" />
+<meta name="msapplication-wide310x150logo" content="/static/theme/img/favicons/mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="/static/theme/img/favicons/mstile-310x310.png" />
+<script type="text/javascript">
+        
+            var region_id = 6;
+            var region_slug = 'chico';
+            var region_name = 'Chico';
+            var home_hostname = 'localwiki.org';
+            var region_viewboxlbrt = null;
+            
+              
+              var region_is_admin = false;
+              
+            
+        
+    </script>
+<script type="text/javascript" src="/static/CACHE/js/146612c56553.js"></script>
+<link rel="stylesheet" href="/static/CACHE/css/8f59b60d0966.css" type="text/css" />
+<script type="text/javascript" src="//daviswiki.org/_utils/xsession_loader"></script>
+<script type="text/javascript" src="//oaklandwiki.org/_utils/xsession_loader"></script>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-25465476-6']);
+    
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+</head>
+<body>
+<div id="header">
+<div id="common_header">
+<div id="common_title">
+<a href="/"><img src="/static/theme/img/logo.7325c8eae908.png" srcset="/static/theme/img/logo@2x.fafc62d15062.png 2x, /static/theme/img/logo@1.5x.c0d62f635278.png 1.5x" /></a>
+</div>
+<div class="site_search search">
+<form method="GET" action="/_rsearch/chico">
+<input type="text" name="q" placeholder="Search Chico" value="" id="id_q" />
+<input type="submit" value="Search or create page" class="little">
+</form>
+</div>
+<div id="login_info">
+<div>
+<span class="actions">
+<a href="/Users/login/?next=//localwiki.org/chico/Butte_Creek" rel="nofollow" class="tiny button">log in</a> or <a href="/Users/_register/?next=//localwiki.org/chico/Butte_Creek" rel="nofollow" class="tiny button">create account</a>
+</span>
+</div>
+</div>
+<div class="common_nav">
+<ul>
+<li class="hide5"><a href="/regions">Explore</a></li>
+<li class="hide3"><a href="/about/">About</a></li>
+<li class="hide2"><a href="/blog/">Blog</a></li>
+<li class="hide1"><a href="/donate/">Donate</a></li>
+<li class="hide1"><a href="/api">API</a></li>
+<li class="hide4"><a href="/main/Front%20Page">Help</a></li>
+</ul>
+</div>
+</div>
+<div id="region_header">
+<div id="region_title">
+<h1><a href="/chico/">Chico</a></h1>
+</div>
+<div id="nav" class="region_nav">
+<a href="#" id="pull"></a>
+<ul>
+<li><a href="/chico/_explore"><i class="fa fa-bus"></i> Explore</a></li>
+<li><a href="/chico/map/"><i class="fa fa-map-marker"></i> Map</a></li>
+<li><a href="/chico/_activity"><i class="fa fa-rss"></i> Activity</a></li>
+</ul>
+</div>
+<div id="new_page_area">
+<div>
+<a href="#" class="little button" id="new_page_button"><i class="fa fa-pencil"></i> Add a new page</a>
+<form method="GET" action="/chico/_create" id="new_page_form">
+<input type="text" name="pagename" id="pagename" placeholder="Name of page" />
+<input type="hidden" name="show_templates" value="0" />
+<input type="submit" value="Add a new page" class="little">
+</form>
+</div>
+</div>
+</div>
+<div id="header_bar">
+<div class="inner">
+<div id="object_actions">
+<ul>
+<li><a href="/chico/Butte_Creek/_edit" rel="nofollow" class="button">Edit</a></li>
+<li><a href="/chico/Butte_Creek/_history/" rel="nofollow" class="button">Info</a></li>
+</ul>
+</div>
+<h1 id="object_title"><a href="/chico/Butte_Creek">Butte Creek</a></h1>
+</div>
+</div>
+</div>
+<div id="main">
+<div id="main_header">
+</div>
+<div id="content_wrapper">
+<div id="content">
+<div id="page">
+<p>
+<strong>Butte Creek</strong> is a tributary of the <a href="/chico/Sacramento_River">Sacramento River</a> that runs through much of <a href="/chico/Butte_County">Butte County</a> including <a href="/chico/Chico">Chico</a>. Its name, much like that of our county, comes from the nearby <a href="/chico/Sutter_Buttes">Sutter Buttes</a>.
+</p>
+<p>
+The creek flows by <a href="/chico/Honey_Run_Road">Honey Run Road</a> through the canyon. <a href="/chico/Tubing">Tubing</a> is a popular way to float down the creek during the hot summer months. <a href="https://brt-insights.blogspot.com/2007/10/butte-creek-near-chico.html">Kayaking on Butte Creek</a> is better in spring when flows are higher. Also off Honey Run Road, is the <a href="/chico/Covered_Bridge">Covered Bridge</a>, which crosses over the creek. Although these are not official recreation areas, locals do take advantage of the easy access to the cool waters.
+</p>
+<h3>History</h3>
+<p>
+Butte Creek used to be dredged for <a href="/chico/Gold_Mining" class="missing_link">gold</a>. Gold is very dense thus it is heavy enough to deposit at the very bottom of stream channels under gravel. Therefore barges scooped up stream bottoms and separated out the gold and spat out the rest. This industrial operation is fairly destructive to river beds and also left a great deal of tailings (mounds of gravel, cobbles, etc) along the banks. You can see tailings just off 99 and they are marked as such on the <a href="http://www.usgs.gov%22">USGS</a> topographic <a href="/chico/Maps">maps</a>. If you have dates for the dredging period of Butte Creek, please note them here. These days, people <a href="/chico/Outdoor_Activities">recreationally</a> pan for gold which isn't, on-the-whole, an efficient process. Panning is useful for prospecting. If prospectors find placer deposits, sluice boxes might be in order.
+</p>
+<h3>Humboldt Fire</h3>
+<p>
+<span class="image_frame image_frame_border"><a href="/chico/Butte_Creek/_files/wow.jpg/_info/"><img style="width: 240px; height: 136px;" src="/media/cache/15/fd/15fd399e6665a7ef9a0cebe6240c7676.jpg" srcset='/media/cache/15/fd/15fd399e6665a7ef9a0cebe6240c7676@2x.jpg 2x, /media/cache/15/fd/15fd399e6665a7ef9a0cebe6240c7676@1.5x.jpg 1.5x'></a><span style="width: 240px;" class="image_caption">Honey Run Road - photo taken a few days after the Humboldt fire </span></span>
+</p>
+<p>
+In June 2008, the <a href="/chico/Humboldt_Fire" class="missing_link">Humboldt Fire</a> burned thousands of acres along the Butte Creek Canyon. The fire burned for several days (it began June 11 and was brought into full containment June 17) and in that time scorched more than 20,000 acres along the creek including areas of Centerville and Lower <a href="/chico/Paradise">Paradise</a>. When it was all said and done, 74 residences had been destroyed, 20 more damaged, and 8 outbuildings had also been destroyed. <span class="image_frame image_frame_border image_right"><a href="/chico/Butte_Creek/_files/mailbox.jpg/_info/"><img style="width: 240px; height: 179px;" src="/media/cache/dd/ab/ddabb013d0e89d0dda27d494e70c2924.jpg" srcset='/media/cache/dd/ab/ddabb013d0e89d0dda27d494e70c2924@2x.jpg 2x, /media/cache/dd/ab/ddabb013d0e89d0dda27d494e70c2924@1.5x.jpg 1.5x'></a><span style="width: 240px;" class="image_caption">Honey Run Road, one of many thank you signs in Butte Creek Canyon for the amazing work done by the fire crews during the Humboldt fire </span></span>
+</p>
+<p>
+Thousands of firefighters from various agencies all over the state and region came in to the area to help fight the flames and protect the homes along the canyon. As seen in the photo to the right, citizens were more than grateful for the brave efforts the firefighters put forth during those scary days in June. For more info about the fire itself (including a chronology of the events as they unfolded) please see the <a href="/chico/Humboldt_Fire" class="missing_link">Humboldt Fire</a> entry.
+</p>
+<div style="clear:both;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div id="object_tags">
+<div class="tags_show">
+<a class="tiny button tags_button" href="#" onclick="$(this).closest('div').hide().next().show().find('#tagedit-input').focus(); return false;">
+<span><i class="fa fa-tag fa-flip-horizontal"></i> Add tags</span>
+</a>
+</div>
+<div class="tags edit" style="display: none">
+<form id="pagetagset_form" action="/chico/Butte_Creek/_tags/" method="POST"><div style="display: none;">
+<label>leave this field blank to prove your humanity
+<input id="main_content" type="text" name="main_content" value="" />
+</label>
+<script type="text/javascript">
+        document.write('<input type="hidden" name="main_content_js" value="1" />');
+    
+    </script>
+</div>
+<tr><th><label for="id_tags">Tags:</label></th><td><input id="id_tags" name="tags" type="text" /><script>
+    $(function(){
+       $('input#id_tags').tagedit({
+           autocompleteURL: '/_api/tags/suggest/' + '?region_id=' + region_id
+       }) 
+    });
+</script>
+<input id="id_version_date" name="version_date" type="hidden" /></td></tr>
+<input type="hidden" name="next" value="/chico/Butte_Creek" />
+<br />
+<input type="submit" name="save" class="little" value="Save" />
+</form>
+<a class="edit_tags_cancel" href="/chico/Butte_Creek">Cancel</a>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<p class="contributors">
+Contributed by <span class="contributor_list"><a href="/Users/RyanMikulovsky" class="user_link" title="RyanMikulovsky"><img class="gravatar" src="https://secure.gravatar.com/avatar/bb1c1eb59ab19d5b4fd5a3e751f5a408.jpg?s=48&r=g&d=mm" width="24" height="24" /><span></span></a><a href="/Users/StaceyEllis" class="user_link" title="StaceyEllis"><img class="gravatar" src="https://secure.gravatar.com/avatar/e9e6aadd7be927a624c33764a542e409.jpg?s=48&r=g&d=mm" width="24" height="24" /><span></span></a><a href="/Users/BruceThomas" class="user_link" title="BruceThomas"><img class="gravatar" src="https://secure.gravatar.com/avatar/a0e562845b3cda882c36641e8f8cc9e8.jpg?s=48&r=g&d=mm" width="24" height="24" /><span></span></a></span> and <a href="/chico/Butte_Creek/_history/">2</a> others.
+</p>
+</div>
+<div id="global_footer">
+<div id="nearby_regions_bar">
+Nearby LocalWiki regions:
+<a class="region_link" href="//localwiki.org/oroville/">Oroville</a>
+<a class="region_link" href="//localwiki.org/or/">Orland, CA</a>
+<a class="region_link" href="//localwiki.org/yuba-sutter/">Yuba-Sutter</a>
+<a class="region_link" href="//localwiki.org/nevada-county/">Nevada County</a>
+<a class="region_link" href="//localwiki.org/anderson-california/">Anderson California</a>
+<a class="region_link" href="//localwiki.org/redding/">Redding</a>
+</div>
+<div id="about">
+<p>
+LocalWiki is a grassroots effort to collect, share and open the world’s local knowledge. We are a 501(c)3 non-profit organization.
+</p>
+<p>
+<a href="https://localwiki.org/about/" target="_blank">Learn more</a> |
+<a href="https://localwiki.org/main/Privacy_Policy" target="_blank">Privacy Policy</a> |
+<a href="https://localwiki.org/main/Terms_of_Use" target="_blank">Terms of Use</a> |
+<a href="http://www.patreon.com/localwiki" target="_blank">Donate</a>
+</p>
+</div>
+<div id="attributions">
+<p>
+<img src="/static/theme/img/cc.png" style="height: 32px; width: 32px;" />
+<img src="/static/theme/img/by.png" style="height: 32px; width: 32px;" />
+</p>
+<p>Except where otherwise noted, this content is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution License</a>. See <a href="https://localwiki.org/main/Copyrights">Copyrights</a>.</p>
+</div>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,2774 @@
+<!DOCTYPE html>
+<html class="ArtP aside" lang="en">
+    <head>
+    <meta charset="UTF-8">
+
+    
+
+    <style data-cssvarsponyfill="true">
+        :root { --siteBgColorInverse: #121212; --primaryTextColorInverse: #ffffff; --secondaryTextColorInverse: #cccccc; --tertiaryTextColorInverse: #cccccc; --headerBgColorInverse: #000000; --headerBorderColorInverse: #858585; --headerTextColorInverse: #ffffff; --secC1_Inverse: #a2a2a2; --secC4_Inverse: #282828; --headerNavBarBgColorInverse: #121212; --headerMenuBgColorInverse: #ffffff; --headerMenuTextColorInverse: #6b2b85; --headerMenuTextColorHoverInverse: #6b2b85; --liveBlogTextColorInverse: #ffffff; --applyButtonColorInverse: #4485D5; --applyButtonTextColorInverse: #4485D5; --siteBgColor: #ffffff; --primaryTextColor: #333333; --secondaryTextColor: #666666; --secC1: #767676; --secC4: #ffffff; --secC5: #ffffff; --siteBgColor: #ffffff; --siteInverseBgColor: #000000; --linkColor: #1a7fc3; --linkHoverColor: #4da3de; --headerBgColor: #ffffff; --headerBgColorInverse: #000000; --headerBorderColor: #e6e6e6; --headerBorderColorInverse: #858585; --tertiaryTextColor: #1c1c1c; --headerTextColor: #333333; --buttonTextColor: #ffffff; --headerNavBarBgColor: #ffffff; --headerNavBarTextColor: #333333; --headerMenuBgColor: #ffffff; --headerMenuTextColor: #333333; --headerMenuTextColorHover: #1a7fc3; --liveBlogTextColor: #282829; --applyButtonColor: #194173; --applyButtonTextColor: #2c4273; --primaryColor1: #4a87b0; --primaryColor2: #888888; --breakingColor: #ff6f00; --secC2: #cccccc; --secC3: #e6e6e6; --secC5: #ffffff; --linkColor: #1a7fc3; --linkHoverColor: #4da3de; --donateBGColor: #c41230; --headerIconColor: #ffffff; --hatButtonBgColor: #ffffff; --hatButtonBgHoverColor: #411c58; --hatButtonBorderColor: #411c58; --hatButtonBorderHoverColor: #ffffff; --hatButtoniconColor: #d62021; --hatButtonTextColor: #411c58; --hatButtonTextHoverColor: #ffffff; --footerTextColor: #ffffff; --footerTextBgColor: #ffffff; --footerPartnersBgColor: #196293; --listBorderColor: #030202; --gridBorderColor: #e6e6e6; --tagButtonBorderColor: #1a7fc3; --tagButtonTextColor: #1a7fc3; --breakingTextColor: #ffffff; --sectionTextColor: #ffffff; --contentWidth: 1240px; --primaryHeadlineFont: sans-serif; --secHlFont: sans-serif; --bodyFont: sans-serif; --colorWhite: #ffffff; --colorBlack: #000000;} .fonts-loaded { --primaryHeadlineFont: "Roboto Condensed"; --secHlFont: "Roboto Condensed"; --bodyFont: "Roboto"; --liveBlogBodyFont: "Roboto";}
+    </style>
+
+    
+    <meta property="fb:app_id" content="732065714793941">
+
+
+    <meta property="og:title" content="Firefighters restraining Parkfield fire at 1,816 acres">
+
+    <meta property="og:url" content="https://www.kcbx.org/fire/2017-07-09/firefighters-restraining-parkfield-fire-at-1-816-acres">
+
+    <meta property="og:image" content="https://npr.brightspotcdn.com/dims4/default/d69ce8e/2147483647/strip/true/crop/914x480+0+15/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201707%2Fscreen_shot_2017-07-09_at_12.25.35_pm.png">
+
+    
+    <meta property="og:image:url" content="https://npr.brightspotcdn.com/dims4/default/d69ce8e/2147483647/strip/true/crop/914x480+0+15/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201707%2Fscreen_shot_2017-07-09_at_12.25.35_pm.png">
+    
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:type" content="image/png">
+    
+    <meta property="og:image:alt" content="screen_shot_2017-07-09_at_12.25.35_pm.png">
+    
+
+
+    <meta property="og:description" content="On the same afternoon the Whittier Fire ignited near a summer camp in Santa Barbara County, another fire broke out east of San Miguel, on the border of…">
+
+    <meta property="og:site_name" content="KCBX ">
+
+
+
+    <meta property="og:type" content="article">
+
+    <meta property="article:published_time" content="2017-07-09T18:47:31">
+
+    <meta property="article:modified_time" content="2017-07-10T15:21:08">
+
+    <meta property="article:tag" content="Fire">
+
+    <meta property="article:tag" content="San Luis Obispo County">
+
+    <meta property="article:tag" content="San Miguel">
+
+    <meta property="article:tag" content="Monterey County">
+
+    <meta property="article:tag" content="Parkfield">
+
+    <meta property="article:tag" content="#parkfieldfire">
+
+<meta name="disqus.shortname" content="npr-kcbx">
+<meta name="disqus.url" content="https://www.kcbx.org/fire/2017-07-09/firefighters-restraining-parkfield-fire-at-1-816-acres">
+<meta name="disqus.title" content="Firefighters restraining Parkfield fire at 1,816 acres">
+<meta name="disqus.identifier" content="0000017b-5f75-d50a-a3ff-dff73e620001">
+    
+    <meta name="twitter:card" content="summary_large_image"/>
+    
+    
+    
+    
+    <meta name="twitter:description" content="On the same afternoon the Whittier Fire ignited near a summer camp in Santa Barbara County, another fire broke out east of San Miguel, on the border of…"/>
+    
+    
+    <meta name="twitter:image" content="https://npr.brightspotcdn.com/dims4/default/768c116/2147483647/strip/true/crop/905x509+5+0/resize/1200x675!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201707%2Fscreen_shot_2017-07-09_at_12.25.35_pm.png"/>
+
+
+    
+    <meta name="twitter:image:alt" content="screen_shot_2017-07-09_at_12.25.35_pm.png"/>
+    
+    
+    <meta name="twitter:site" content="@KCBXFM"/>
+    
+    
+    
+    <meta name="twitter:title" content="Firefighters restraining Parkfield fire at 1,816 acres"/>
+    
+
+
+    <link data-cssvarsponyfill="true" class="Webpack-css" rel="stylesheet" href="https://npr.brightspotcdn.com/resource/00000177-1bc0-debb-a57f-dfcf4a950000/styleguide/All.min.a10295018a668e846fa969fb24c85a4f.gz.css">
+
+    
+
+    <style>.FooterNavigation-items-item {
+    display: inline-block
+}</style>
+<style>[class*='-articleBody'] > ul,
+[class*='-articleBody'] > ul ul {
+    list-style-type: disc;
+}</style>
+<style>.PromoA-byline {display: none};
+/*.FooterNavigationItem-text {margin-top:15px; margin-bottom:5px};*/</style>
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><title>Firefighters restraining Parkfield fire at 1,816 acres</title><meta name="description" content="On the same afternoon the Whittier Fire ignited near a summer camp in Santa Barbara County, another fire broke out east of San Miguel, on the border of…"><link rel="canonical" href="https://www.kcbx.org/fire/2017-07-09/firefighters-restraining-parkfield-fire-at-1-816-acres"><meta name="brightspot.contentId" content="0000017b-5f75-d50a-a3ff-dff73e620001">
+    
+    
+    <meta name="brightspot-dataLayer" content="{
+  &quot;author&quot; : &quot;&quot;,
+  &quot;bspStoryId&quot; : &quot;0000017b-5f75-d50a-a3ff-dff73e620001&quot;,
+  &quot;category&quot; : &quot;&quot;,
+  &quot;inlineAudio&quot; : 0,
+  &quot;keywords&quot; : &quot;Fire,San Luis Obispo County,San Miguel,Monterey County,Parkfield,#parkfieldfire&quot;,
+  &quot;nprCmsSite&quot; : true,
+  &quot;nprStoryId&quot; : &quot;&quot;,
+  &quot;pageType&quot; : &quot;news-story&quot;,
+  &quot;program&quot; : &quot;&quot;,
+  &quot;publishedDate&quot; : &quot;2017-07-09T14:47:31Z&quot;,
+  &quot;siteName&quot; : &quot;KCBX &quot;,
+  &quot;station&quot; : &quot;KCBX&quot;,
+  &quot;stationOrgId&quot; : &quot;27&quot;,
+  &quot;storyOrgId&quot; : &quot;0&quot;,
+  &quot;storyTheme&quot; : &quot;news-story&quot;,
+  &quot;storyTitle&quot; : &quot;Firefighters restraining Parkfield fire at 1,816 acres&quot;,
+  &quot;timezone&quot; : &quot;America/Los_Angeles&quot;,
+  &quot;wordCount&quot; : 0,
+  &quot;series&quot; : &quot;&quot;
+}">
+    <script id="brightpot-dataLayer">
+        (function () {
+            var dataValue = document.head.querySelector('meta[name="brightspot-dataLayer"]').content;
+            if (dataValue) {
+                window.brightspotDataLayer = JSON.parse(dataValue);
+            }
+        })();
+    </script>
+
+    <link rel="amphtml" href="https://www.kcbx.org/fire/2017-07-09/firefighters-restraining-parkfield-fire-at-1-816-acres?_amp=true">
+
+    
+
+    
+    <script src="https://npr.brightspotcdn.com/resource/00000177-1bc0-debb-a57f-dfcf4a950000/styleguide/All.min.de417fdbce24179fcb37a7a0e6cb2b84.gz.js" async></script>
+
+    <script>
+
+  window.fbAsyncInit = function() {
+      FB.init({
+          
+              appId : '732065714793941',
+          
+          xfbml : true,
+          version : 'v2.9'
+      });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+    // GeoEdge is a vendor that lets us control which programmatic ads show up on our website based on our guidelines
+    window.grumi = window.grumi || {
+        cfg: {
+            advs: {
+                '19566752': true, // Google Inc
+                '4952276315': true, // IntowowBillable
+                '88382072': true, // NPR - Programmatic
+                '5056504790': true, // Pubmatic
+                '5116496584': true, // Index Exchange
+            },
+        },
+        key: '880a45f2-0015-49d2-b38f-2d26be44ae09',
+    };
+</script>
+<script async src="https://rumcdn.geoedge.be/880a45f2-0015-49d2-b38f-2d26be44ae09/grumi-ip.js"></script>
+<script type="text/javascript">
+    // Google tag setup
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+
+    googletag.cmd.push(function () {
+        // @see https://developers.google.com/publisher-tag/reference#googletag.PubAdsService_enableLazyLoad
+        googletag.pubads().enableLazyLoad({
+            fetchMarginPercent: 120, // fetch and render ads within this % of viewport
+            renderMarginPercent: 120,
+            mobileScaling: 1  // Same on mobile.
+        });
+
+        googletag.pubads().enableSingleRequest()
+        googletag.pubads().enableAsyncRendering()
+        googletag.pubads().collapseEmptyDivs()
+        googletag.pubads().disableInitialLoad()
+        googletag.enableServices()
+    })
+
+    // setup of ad slots
+    var dfpAdSlotsObject = {}
+    var dfpAdSlots = []
+    var staticAdSlots = []
+</script>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"ListenAction","name":"Firefighters restraining Parkfield fire at 1,816 acres"}</script><!-- no longer used, moved disqus script to be loaded by ps-disqus-comment-module.js to avoid errors --><meta name="gtm-dataLayer" content="{
+  &quot;gtmAuthor&quot; : &quot;&quot;,
+  &quot;gtmBspStoryId&quot; : &quot;0000017b-5f75-d50a-a3ff-dff73e620001&quot;,
+  &quot;gtmCategory&quot; : &quot;&quot;,
+  &quot;gtmInlineAudio&quot; : 0,
+  &quot;gtmKeywords&quot; : &quot;Fire,San Luis Obispo County,San Miguel,Monterey County,Parkfield,#parkfieldfire&quot;,
+  &quot;gtmNprCmsSite&quot; : true,
+  &quot;gtmNprStoryId&quot; : &quot;&quot;,
+  &quot;gtmPageType&quot; : &quot;news-story&quot;,
+  &quot;gtmProgram&quot; : &quot;&quot;,
+  &quot;gtmPublishedDate&quot; : &quot;2017-07-09T14:47:31Z&quot;,
+  &quot;gtmSiteName&quot; : &quot;KCBX &quot;,
+  &quot;gtmStation&quot; : &quot;KCBX&quot;,
+  &quot;gtmStationOrgId&quot; : &quot;27&quot;,
+  &quot;gtmStoryOrgId&quot; : &quot;0&quot;,
+  &quot;gtmStoryTheme&quot; : &quot;news-story&quot;,
+  &quot;gtmStoryTitle&quot; : &quot;Firefighters restraining Parkfield fire at 1,816 acres&quot;,
+  &quot;gtmTimezone&quot; : &quot;America/Los_Angeles&quot;,
+  &quot;gtmWordCount&quot; : 0,
+  &quot;gtmSeries&quot; : &quot;&quot;
+}"><script>
+
+    (function () {
+        var dataValue = document.head.querySelector('meta[name="gtm-dataLayer"]').content;
+        if (dataValue) {
+            window.dataLayer = window.dataLayer || [];
+            dataValue = JSON.parse(dataValue);
+            dataValue['event'] = 'gtmFirstView';
+            window.dataLayer.push(dataValue);
+        }
+    })();
+
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N39QFDR');</script><script type="application/ld+json">{"@context":"http://schema.org","@type":"NewsArticle","dateModified":"2017-07-10T11:21:08Z","datePublished":"2017-07-09T14:47:31Z","headline":"Firefighters restraining Parkfield fire at 1,816 acres","image":{"@context":"http://schema.org","@type":"ImageObject","url":"https://npr.brightspotcdn.com/legacy/sites/kcbx/files/201707/screen_shot_2017-07-09_at_12.25.35_pm.png"},"mainEntityOfPage":{"@type":"NewsArticle","@id":"https://www.kcbx.org/fire/2017-07-09/firefighters-restraining-parkfield-fire-at-1-816-acres"},"publisher":{"@type":"Organization","name":"KCBX","logo":{"@context":"http://schema.org","@type":"ImageObject","url":"https://npr.brightspotcdn.com/dims4/default/5d4caf1/2147483647/resize/x60/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201801%2FWebHeader-2018.png"}}}</script><script>window.addEventListener('DOMContentLoaded', (event) => {
+    window.nulldurationobserver = new MutationObserver(function (mutations) {
+        document.querySelectorAll('.StreamPill-duration').forEach(pill => { 
+      if (pill.innerText == "LISTENNULL") {
+         pill.innerText = "LISTEN"
+      } 
+    });
+      });
+
+      window.nulldurationobserver.observe(document.body, {
+        childList: true,
+        subtree: true
+      });
+});
+</script>
+<script>// For on-demand players to open in separate popup window
+function openWin(address)
+{
+myWindow=window.open(address,'player','top=20,left=20,width=500,height=600');
+if(myWindow) myWindow.focus();
+}</script>
+
+
+    <script>
+        var head = document.getElementsByTagName('head')
+        head = head[0]
+        var link = document.createElement('link');
+        link.setAttribute('href', 'https://fonts.googleapis.com/css?family=Roboto Condensed|Roboto|Roboto:400,500,700&display=swap');
+        var relList = link.relList;
+
+        if (relList && relList.supports('preload')) {
+            link.setAttribute('as', 'style');
+            link.setAttribute('rel', 'preload');
+            link.setAttribute('onload', 'this.rel="stylesheet"');
+            link.setAttribute('crossorigin', 'anonymous');
+        } else {
+            link.setAttribute('rel', 'stylesheet');
+        }
+
+        head.appendChild(link);
+    </script>
+</head>
+
+
+    <body class="Page-body" data-content-width="1240px">
+    <noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N39QFDR" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+        
+
+    <!-- Putting icons here, so we don't have to include in a bunch of -body hbs's -->
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none" id="iconsMap1" class="iconsMap">
+    <symbol id="play-icon" viewBox="0 0 115 115">
+        <polygon points="0,0 115,57.5 0,115" fill="currentColor" />
+    </symbol>
+    <symbol id="grid" viewBox="0 0 32 32">
+            <g>
+                <path d="M6.4,5.7 C6.4,6.166669 6.166669,6.4 5.7,6.4 L0.7,6.4 C0.233331,6.4 0,6.166669 0,5.7 L0,0.7 C0,0.233331 0.233331,0 0.7,0 L5.7,0 C6.166669,0 6.4,0.233331 6.4,0.7 L6.4,5.7 Z M19.2,5.7 C19.2,6.166669 18.966669,6.4 18.5,6.4 L13.5,6.4 C13.033331,6.4 12.8,6.166669 12.8,5.7 L12.8,0.7 C12.8,0.233331 13.033331,0 13.5,0 L18.5,0 C18.966669,0 19.2,0.233331 19.2,0.7 L19.2,5.7 Z M32,5.7 C32,6.166669 31.766669,6.4 31.3,6.4 L26.3,6.4 C25.833331,6.4 25.6,6.166669 25.6,5.7 L25.6,0.7 C25.6,0.233331 25.833331,0 26.3,0 L31.3,0 C31.766669,0 32,0.233331 32,0.7 L32,5.7 Z M6.4,18.5 C6.4,18.966669 6.166669,19.2 5.7,19.2 L0.7,19.2 C0.233331,19.2 0,18.966669 0,18.5 L0,13.5 C0,13.033331 0.233331,12.8 0.7,12.8 L5.7,12.8 C6.166669,12.8 6.4,13.033331 6.4,13.5 L6.4,18.5 Z M19.2,18.5 C19.2,18.966669 18.966669,19.2 18.5,19.2 L13.5,19.2 C13.033331,19.2 12.8,18.966669 12.8,18.5 L12.8,13.5 C12.8,13.033331 13.033331,12.8 13.5,12.8 L18.5,12.8 C18.966669,12.8 19.2,13.033331 19.2,13.5 L19.2,18.5 Z M32,18.5 C32,18.966669 31.766669,19.2 31.3,19.2 L26.3,19.2 C25.833331,19.2 25.6,18.966669 25.6,18.5 L25.6,13.5 C25.6,13.033331 25.833331,12.8 26.3,12.8 L31.3,12.8 C31.766669,12.8 32,13.033331 32,13.5 L32,18.5 Z M6.4,31.3 C6.4,31.766669 6.166669,32 5.7,32 L0.7,32 C0.233331,32 0,31.766669 0,31.3 L0,26.3 C0,25.833331 0.233331,25.6 0.7,25.6 L5.7,25.6 C6.166669,25.6 6.4,25.833331 6.4,26.3 L6.4,31.3 Z M19.2,31.3 C19.2,31.766669 18.966669,32 18.5,32 L13.5,32 C13.033331,32 12.8,31.766669 12.8,31.3 L12.8,26.3 C12.8,25.833331 13.033331,25.6 13.5,25.6 L18.5,25.6 C18.966669,25.6 19.2,25.833331 19.2,26.3 L19.2,31.3 Z M32,31.3 C32,31.766669 31.766669,32 31.3,32 L26.3,32 C25.833331,32 25.6,31.766669 25.6,31.3 L25.6,26.3 C25.6,25.833331 25.833331,25.6 26.3,25.6 L31.3,25.6 C31.766669,25.6 32,25.833331 32,26.3 L32,31.3 Z" id=""></path>
+            </g>
+    </symbol>
+    <symbol id="radio-stream" width="18" height="19" viewBox="0 0 18 19">
+        <g fill="currentColor" fill-rule="nonzero">
+            <path d="M.5 8c-.276 0-.5.253-.5.565v1.87c0 .312.224.565.5.565s.5-.253.5-.565v-1.87C1 8.253.776 8 .5 8zM2.5 8c-.276 0-.5.253-.5.565v1.87c0 .312.224.565.5.565s.5-.253.5-.565v-1.87C3 8.253 2.776 8 2.5 8zM3.5 7c-.276 0-.5.276-.5.617v3.766c0 .34.224.617.5.617s.5-.276.5-.617V7.617C4 7.277 3.776 7 3.5 7zM5.5 6c-.276 0-.5.275-.5.613v5.774c0 .338.224.613.5.613s.5-.275.5-.613V6.613C6 6.275 5.776 6 5.5 6zM6.5 4c-.276 0-.5.26-.5.58v8.84c0 .32.224.58.5.58s.5-.26.5-.58V4.58C7 4.26 6.776 4 6.5 4zM8.5 0c-.276 0-.5.273-.5.61v17.78c0 .337.224.61.5.61s.5-.273.5-.61V.61C9 .273 8.776 0 8.5 0zM9.5 2c-.276 0-.5.274-.5.612v14.776c0 .338.224.612.5.612s.5-.274.5-.612V2.612C10 2.274 9.776 2 9.5 2zM11.5 5c-.276 0-.5.276-.5.616v8.768c0 .34.224.616.5.616s.5-.276.5-.616V5.616c0-.34-.224-.616-.5-.616zM12.5 6c-.276 0-.5.262-.5.584v4.832c0 .322.224.584.5.584s.5-.262.5-.584V6.584c0-.322-.224-.584-.5-.584zM14.5 7c-.276 0-.5.29-.5.647v3.706c0 .357.224.647.5.647s.5-.29.5-.647V7.647C15 7.29 14.776 7 14.5 7zM15.5 8c-.276 0-.5.253-.5.565v1.87c0 .312.224.565.5.565s.5-.253.5-.565v-1.87c0-.312-.224-.565-.5-.565zM17.5 8c-.276 0-.5.253-.5.565v1.87c0 .312.224.565.5.565s.5-.253.5-.565v-1.87c0-.312-.224-.565-.5-.565z"/>
+        </g>
+    </symbol>
+    <symbol id="icon-magnify" viewBox="0 0 31 31">
+        <g>
+            <path fill-rule="evenodd" d="M22.604 18.89l-.323.566 8.719 8.8L28.255 31l-8.719-8.8-.565.404c-2.152 1.346-4.386 2.018-6.7 2.018-3.39 0-6.284-1.21-8.679-3.632C1.197 18.568 0 15.66 0 12.27c0-3.39 1.197-6.283 3.592-8.678C5.987 1.197 8.88 0 12.271 0c3.39 0 6.283 1.197 8.678 3.592 2.395 2.395 3.593 5.288 3.593 8.679 0 2.368-.646 4.574-1.938 6.62zM19.162 5.77C17.322 3.925 15.089 3 12.46 3c-2.628 0-4.862.924-6.702 2.77C3.92 7.619 3 9.862 3 12.5c0 2.639.92 4.882 2.76 6.73C7.598 21.075 9.832 22 12.46 22c2.629 0 4.862-.924 6.702-2.77C21.054 17.33 22 15.085 22 12.5c0-2.586-.946-4.83-2.838-6.73z"/>
+        </g>
+    </symbol>
+    <symbol id="burger-menu" viewBox="0 0 14 10">
+        <g>
+            <path fill-rule="evenodd" d="M0 5.5v-1h14v1H0zM0 1V0h14v1H0zm0 9V9h14v1H0z"></path>
+        </g>
+    </symbol>
+    <symbol id="close-x" viewBox="0 0 14 14">
+        <g>
+            <path fill-rule="nonzero" d="M6.336 7L0 .664.664 0 7 6.336 13.336 0 14 .664 7.664 7 14 13.336l-.664.664L7 7.664.664 14 0 13.336 6.336 7z"></path>
+        </g>
+    </symbol>
+    <symbol id="share-more-arrow" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;">
+        <g>
+            <g>
+                <path d="M512,241.7L273.643,3.343v156.152c-71.41,3.744-138.015,33.337-188.958,84.28C30.075,298.384,0,370.991,0,448.222v60.436
+                    l29.069-52.985c45.354-82.671,132.173-134.027,226.573-134.027c5.986,0,12.004,0.212,18.001,0.632v157.779L512,241.7z
+                    M255.642,290.666c-84.543,0-163.661,36.792-217.939,98.885c26.634-114.177,129.256-199.483,251.429-199.483h15.489V78.131
+                    l163.568,163.568L304.621,405.267V294.531l-13.585-1.683C279.347,291.401,267.439,290.666,255.642,290.666z"></path>
+            </g>
+        </g>
+    </symbol>
+    <symbol id="chevron" viewBox="0 0 100 100">
+        <g>
+            <path d="M22.4566257,37.2056786 L-21.4456527,71.9511488 C-22.9248661,72.9681457 -24.9073712,72.5311671 -25.8758148,70.9765924 L-26.9788683,69.2027424 C-27.9450684,67.6481676 -27.5292733,65.5646602 -26.0500598,64.5484493 L20.154796,28.2208967 C21.5532435,27.2597011 23.3600078,27.2597011 24.759951,28.2208967 L71.0500598,64.4659264 C72.5292733,65.4829232 72.9450684,67.5672166 71.9788683,69.1217913 L70.8750669,70.8956413 C69.9073712,72.4502161 67.9241183,72.8848368 66.4449048,71.8694118 L22.4566257,37.2056786 Z" id="Transparent-Chevron" transform="translate(22.500000, 50.000000) rotate(90.000000) translate(-22.500000, -50.000000) "></path>
+        </g>
+    </symbol>
+</svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none" id="iconsMap2" class="iconsMap">
+    <symbol id="mono-icon-facebook" viewBox="0 0 10 19">
+        <path fill-rule="evenodd" d="M2.707 18.25V10.2H0V7h2.707V4.469c0-1.336.375-2.373 1.125-3.112C4.582.62 5.578.25 6.82.25c1.008 0 1.828.047 2.461.14v2.848H7.594c-.633 0-1.067.14-1.301.422-.188.235-.281.61-.281 1.125V7H9l-.422 3.2H6.012v8.05H2.707z"></path>
+    </symbol>
+    <symbol id="mono-icon-instagram" viewBox="0 0 17 17">
+        <g>
+            <path fill-rule="evenodd" d="M8.281 4.207c.727 0 1.4.182 2.022.545a4.055 4.055 0 0 1 1.476 1.477c.364.62.545 1.294.545 2.021 0 .727-.181 1.4-.545 2.021a4.055 4.055 0 0 1-1.476 1.477 3.934 3.934 0 0 1-2.022.545c-.726 0-1.4-.182-2.021-.545a4.055 4.055 0 0 1-1.477-1.477 3.934 3.934 0 0 1-.545-2.021c0-.727.182-1.4.545-2.021A4.055 4.055 0 0 1 6.26 4.752a3.934 3.934 0 0 1 2.021-.545zm0 6.68a2.54 2.54 0 0 0 1.864-.774 2.54 2.54 0 0 0 .773-1.863 2.54 2.54 0 0 0-.773-1.863 2.54 2.54 0 0 0-1.864-.774 2.54 2.54 0 0 0-1.863.774 2.54 2.54 0 0 0-.773 1.863c0 .727.257 1.348.773 1.863a2.54 2.54 0 0 0 1.863.774zM13.45 4.03c-.023.258-.123.48-.299.668a.856.856 0 0 1-.65.281.913.913 0 0 1-.668-.28.913.913 0 0 1-.281-.669c0-.258.094-.48.281-.668a.913.913 0 0 1 .668-.28c.258 0 .48.093.668.28.187.188.281.41.281.668zm2.672.95c.023.656.035 1.746.035 3.269 0 1.523-.017 2.62-.053 3.287-.035.668-.134 1.248-.298 1.74a4.098 4.098 0 0 1-.967 1.53 4.098 4.098 0 0 1-1.53.966c-.492.164-1.072.264-1.74.3-.668.034-1.763.052-3.287.052-1.523 0-2.619-.018-3.287-.053-.668-.035-1.248-.146-1.74-.334a3.747 3.747 0 0 1-1.53-.931 4.098 4.098 0 0 1-.966-1.53c-.164-.492-.264-1.072-.299-1.74C.424 10.87.406 9.773.406 8.25S.424 5.63.46 4.963c.035-.668.135-1.248.299-1.74.21-.586.533-1.096.967-1.53A4.098 4.098 0 0 1 3.254.727c.492-.164 1.072-.264 1.74-.3C5.662.394 6.758.376 8.281.376c1.524 0 2.62.018 3.287.053.668.035 1.248.135 1.74.299a4.098 4.098 0 0 1 2.496 2.496c.165.492.27 1.078.317 1.757zm-1.687 7.91c.14-.399.234-1.032.28-1.899.024-.515.036-1.242.036-2.18V7.689c0-.961-.012-1.688-.035-2.18-.047-.89-.14-1.524-.281-1.899a2.537 2.537 0 0 0-1.512-1.511c-.375-.14-1.008-.235-1.899-.282a51.292 51.292 0 0 0-2.18-.035H7.72c-.938 0-1.664.012-2.18.035-.867.047-1.5.141-1.898.282a2.537 2.537 0 0 0-1.512 1.511c-.14.375-.234 1.008-.281 1.899a51.292 51.292 0 0 0-.036 2.18v1.125c0 .937.012 1.664.036 2.18.047.866.14 1.5.28 1.898.306.726.81 1.23 1.513 1.511.398.141 1.03.235 1.898.282.516.023 1.242.035 2.18.035h1.125c.96 0 1.687-.012 2.18-.035.89-.047 1.523-.141 1.898-.282.726-.304 1.23-.808 1.512-1.511z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-email" viewBox="0 0 512 512">
+        <g>
+            <path d="M67,148.7c11,5.8,163.8,89.1,169.5,92.1c5.7,3,11.5,4.4,20.5,4.4c9,0,14.8-1.4,20.5-4.4c5.7-3,158.5-86.3,169.5-92.1
+                c4.1-2.1,11-5.9,12.5-10.2c2.6-7.6-0.2-10.5-11.3-10.5H257H65.8c-11.1,0-13.9,3-11.3,10.5C56,142.9,62.9,146.6,67,148.7z"></path>
+            <path d="M455.7,153.2c-8.2,4.2-81.8,56.6-130.5,88.1l82.2,92.5c2,2,2.9,4.4,1.8,5.6c-1.2,1.1-3.8,0.5-5.9-1.4l-98.6-83.2
+                c-14.9,9.6-25.4,16.2-27.2,17.2c-7.7,3.9-13.1,4.4-20.5,4.4c-7.4,0-12.8-0.5-20.5-4.4c-1.9-1-12.3-7.6-27.2-17.2l-98.6,83.2
+                c-2,2-4.7,2.6-5.9,1.4c-1.2-1.1-0.3-3.6,1.7-5.6l82.1-92.5c-48.7-31.5-123.1-83.9-131.3-88.1c-8.8-4.5-9.3,0.8-9.3,4.9
+                c0,4.1,0,205,0,205c0,9.3,13.7,20.9,23.5,20.9H257h185.5c9.8,0,21.5-11.7,21.5-20.9c0,0,0-201,0-205
+                C464,153.9,464.6,148.7,455.7,153.2z"></path>
+        </g>
+    </symbol>
+    <symbol id="default-image" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-image">
+        <rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect>
+        <circle cx="8.5" cy="8.5" r="1.5"></circle>
+        <polyline points="21 15 16 10 5 21"></polyline>
+    </symbol>
+    <symbol id="icon-email" width="18px" viewBox="0 0 20 14">
+        <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+            <g id="social-button-bar" transform="translate(-125.000000, -8.000000)" stroke="#000000">
+                <g id="Group-2" transform="translate(120.000000, 0.000000)">
+                    <g id="envelope" transform="translate(6.000000, 9.000000)">
+                        <path d="M17.5909091,10.6363636 C17.5909091,11.3138182 17.0410909,11.8636364 16.3636364,11.8636364 L1.63636364,11.8636364 C0.958909091,11.8636364 0.409090909,11.3138182 0.409090909,10.6363636 L0.409090909,1.63636364 C0.409090909,0.958090909 0.958909091,0.409090909 1.63636364,0.409090909 L16.3636364,0.409090909 C17.0410909,0.409090909 17.5909091,0.958090909 17.5909091,1.63636364 L17.5909091,10.6363636 L17.5909091,10.6363636 Z" id="Stroke-406"></path>
+                        <polyline id="Stroke-407" points="17.1818182 0.818181818 9 7.36363636 0.818181818 0.818181818"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-print" viewBox="0 0 12 12">
+        <g fill-rule="evenodd">
+            <path fill-rule="nonzero" d="M9 10V7H3v3H1a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v3.132A2.868 2.868 0 0 1 9.132 10H9zm.5-4.5a1 1 0 1 0 0-2 1 1 0 0 0 0 2zM3 0h6v2H3z"></path>
+            <path d="M4 8h4v4H4z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-copylink" viewBox="0 0 12 12">
+        <g fill-rule="evenodd">
+            <path d="M10.199 2.378c.222.205.4.548.465.897.062.332.016.614-.132.774L8.627 6.106c-.187.203-.512.232-.75-.014a.498.498 0 0 0-.706.028.499.499 0 0 0 .026.706 1.509 1.509 0 0 0 2.165-.04l1.903-2.06c.37-.398.506-.98.382-1.636-.105-.557-.392-1.097-.77-1.445L9.968.8C9.591.452 9.03.208 8.467.145 7.803.072 7.233.252 6.864.653L4.958 2.709a1.509 1.509 0 0 0 .126 2.161.5.5 0 1 0 .68-.734c-.264-.218-.26-.545-.071-.747L7.597 1.33c.147-.16.425-.228.76-.19.353.038.71.188.931.394l.91.843.001.001zM1.8 9.623c-.222-.205-.4-.549-.465-.897-.062-.332-.016-.614.132-.774l1.905-2.057c.187-.203.512-.232.75.014a.498.498 0 0 0 .706-.028.499.499 0 0 0-.026-.706 1.508 1.508 0 0 0-2.165.04L.734 7.275c-.37.399-.506.98-.382 1.637.105.557.392 1.097.77 1.445l.91.843c.376.35.937.594 1.5.656.664.073 1.234-.106 1.603-.507L7.04 9.291a1.508 1.508 0 0 0-.126-2.16.5.5 0 0 0-.68.734c.264.218.26.545.071.747l-1.904 2.057c-.147.16-.425.228-.76.191-.353-.038-.71-.188-.931-.394l-.91-.843z"></path>
+            <path d="M8.208 3.614a.5.5 0 0 0-.707.028L3.764 7.677a.5.5 0 0 0 .734.68L8.235 4.32a.5.5 0 0 0-.027-.707"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-linkedin" viewBox="0 0 16 17">
+        <g fill-rule="evenodd">
+            <path d="M3.734 16.125H.464V5.613h3.27zM2.117 4.172c-.515 0-.96-.188-1.336-.563A1.825 1.825 0 0 1 .22 2.273c0-.515.187-.96.562-1.335.375-.375.82-.563 1.336-.563.516 0 .961.188 1.336.563.375.375.563.82.563 1.335 0 .516-.188.961-.563 1.336-.375.375-.82.563-1.336.563zM15.969 16.125h-3.27v-5.133c0-.844-.07-1.453-.21-1.828-.259-.633-.762-.95-1.512-.95s-1.278.282-1.582.845c-.235.421-.352 1.043-.352 1.863v5.203H5.809V5.613h3.128v1.442h.036c.234-.469.609-.856 1.125-1.16.562-.375 1.218-.563 1.968-.563 1.524 0 2.59.48 3.2 1.441.468.774.703 1.97.703 3.586v5.766z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-pinterest" viewBox="0 0 512 512">
+        <g>
+            <path d="M256,32C132.3,32,32,132.3,32,256c0,91.7,55.2,170.5,134.1,205.2c-0.6-15.6-0.1-34.4,3.9-51.4
+                c4.3-18.2,28.8-122.1,28.8-122.1s-7.2-14.3-7.2-35.4c0-33.2,19.2-58,43.2-58c20.4,0,30.2,15.3,30.2,33.6
+                c0,20.5-13.1,51.1-19.8,79.5c-5.6,23.8,11.9,43.1,35.4,43.1c42.4,0,71-54.5,71-119.1c0-49.1-33.1-85.8-93.2-85.8
+                c-67.9,0-110.3,50.7-110.3,107.3c0,19.5,5.8,33.3,14.8,43.9c4.1,4.9,4.7,6.9,3.2,12.5c-1.1,4.1-3.5,14-4.6,18
+                c-1.5,5.7-6.1,7.7-11.2,5.6c-31.3-12.8-45.9-47-45.9-85.6c0-63.6,53.7-139.9,160.1-139.9c85.5,0,141.8,61.9,141.8,128.3
+                c0,87.9-48.9,153.5-120.9,153.5c-24.2,0-46.9-13.1-54.7-27.9c0,0-13,51.6-15.8,61.6c-4.7,17.3-14,34.5-22.5,48
+                c20.1,5.9,41.4,9.2,63.5,9.2c123.7,0,224-100.3,224-224C480,132.3,379.7,32,256,32z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-tumblr" viewBox="0 0 512 512">
+        <g>
+            <path d="M321.2,396.3c-11.8,0-22.4-2.8-31.5-8.3c-6.9-4.1-11.5-9.6-14-16.4c-2.6-6.9-3.6-22.3-3.6-46.4V224h96v-64h-96V48h-61.9
+                c-2.7,21.5-7.5,44.7-14.5,58.6c-7,13.9-14,25.8-25.6,35.7c-11.6,9.9-25.6,17.9-41.9,23.3V224h48v140.4c0,19,2,33.5,5.9,43.5
+                c4,10,11.1,19.5,21.4,28.4c10.3,8.9,22.8,15.7,37.3,20.5c14.6,4.8,31.4,7.2,50.4,7.2c16.7,0,30.3-1.7,44.7-5.1
+                c14.4-3.4,30.5-9.3,48.2-17.6v-65.6C363.2,389.4,342.3,396.3,321.2,396.3z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-twitter" viewBox="0 0 19 16">
+        <g>
+            <path fill-rule="evenodd" d="M16.48 4.594c.024.094.036.246.036.457 0 1.687-.41 3.316-1.23 4.887-.845 1.664-2.028 2.988-3.552 3.972-1.664 1.102-3.574 1.652-5.73 1.652-2.063 0-3.95-.55-5.66-1.652.258.024.55.035.879.035 1.71 0 3.246-.527 4.605-1.582-.82 0-1.54-.24-2.162-.72a3.671 3.671 0 0 1-1.283-1.811c.234.023.457.035.668.035.328 0 .656-.035.984-.105a3.72 3.72 0 0 1-2.11-1.301 3.54 3.54 0 0 1-.843-2.32v-.07a3.475 3.475 0 0 0 1.652.492A4.095 4.095 0 0 1 1.54 5.227a3.546 3.546 0 0 1-.457-1.776c0-.644.176-1.26.527-1.845a10.18 10.18 0 0 0 3.358 2.742 10.219 10.219 0 0 0 4.236 1.125 5.124 5.124 0 0 1-.07-.844c0-.656.164-1.272.492-1.846a3.613 3.613 0 0 1 1.336-1.353 3.565 3.565 0 0 1 1.828-.492c.54 0 1.037.105 1.494.316.457.21.861.492 1.213.844a7.51 7.51 0 0 0 2.356-.88c-.282.868-.82 1.548-1.618 2.04a7.93 7.93 0 0 0 2.11-.598 8.114 8.114 0 0 1-1.864 1.934z"></path>
+
+        </g>
+    </symbol>
+    <symbol id="mono-icon-youtube" viewBox="0 0 512 512">
+        <g>
+            <path fill-rule="evenodd" d="M508.6,148.8c0-45-33.1-81.2-74-81.2C379.2,65,322.7,64,265,64c-3,0-6,0-9,0s-6,0-9,0c-57.6,0-114.2,1-169.6,3.6
+                c-40.8,0-73.9,36.4-73.9,81.4C1,184.6-0.1,220.2,0,255.8C-0.1,291.4,1,327,3.4,362.7c0,45,33.1,81.5,73.9,81.5
+                c58.2,2.7,117.9,3.9,178.6,3.8c60.8,0.2,120.3-1,178.6-3.8c40.9,0,74-36.5,74-81.5c2.4-35.7,3.5-71.3,3.4-107
+                C512.1,220.1,511,184.5,508.6,148.8z M207,353.9V157.4l145,98.2L207,353.9z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-flipboard" viewBox="0 0 500 500">
+        <g>
+            <path d="M0,0V500H500V0ZM400,200H300V300H200V400H100V100H400Z"></path>
+        </g>
+    </symbol>
+ </svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none" id="iconsMap3" class="iconsMap">
+    <symbol id="volume-mute" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;">
+        <polygon fill="currentColor" points="11,5 6,9 2,9 2,15 6,15 11,19 "/>
+        <line style="fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;" x1="23" y1="9" x2="17" y2="15"/>
+        <line style="fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;" x1="17" y1="9" x2="23" y2="15"/>
+    </symbol>
+    <symbol id="volume-low" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+        <polygon fill="currentColor" points="11,5 6,9 2,9 2,15 6,15 11,19 "/>
+    </symbol>
+    <symbol id="volume-mid" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;">
+        <polygon fill="currentColor" points="11,5 6,9 2,9 2,15 6,15 11,19 "/>
+        <path style="fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;" d="M15.5,8.5c2,2,2,5.1,0,7.1"/>
+    </symbol>
+    <symbol id="volume-high" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;">
+        <polygon fill="currentColor" points="11,5 6,9 2,9 2,15 6,15 11,19 "/>
+        <path style="fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;" d="M19.1,4.9c3.9,3.9,3.9,10.2,0,14.1 M15.5,8.5c2,2,2,5.1,0,7.1"/>
+    </symbol>
+    <symbol id="pause-icon" width="12" height="16" viewBox="0 0 12 16">
+        <rect x="0" y="0" width="4" height="16" fill="currentColor"></rect>
+        <rect x="8" y="0" width="4" height="16" fill="currentColor"></rect>
+    </symbol>
+    <symbol id="heart" viewBox="0 0 24 24">
+        <g>
+            <path d="M12 4.435c-1.989-5.399-12-4.597-12 3.568 0 4.068 3.06 9.481 12 14.997 8.94-5.516 12-10.929 12-14.997 0-8.118-10-8.999-12-3.568z"/>
+        </g>
+    </symbol>
+    <symbol id="icon-location" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-map-pin">
+        <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" fill="currentColor" fill-opacity="1"></path>
+        <circle cx="12" cy="10" r="5" fill="#ffffff"></circle>
+    </symbol>
+    <symbol id="icon-ticket" width="23px" height="15px" viewBox="0 0 23 15">
+        <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <g transform="translate(-625.000000, -1024.000000)">
+                <g transform="translate(625.000000, 1024.000000)">
+                    <path d="M0,12.057377 L0,3.94262296 C0.322189879,4.12588308 0.696256938,4.23076923 1.0952381,4.23076923 C2.30500469,4.23076923 3.28571429,3.26645946 3.28571429,2.07692308 C3.28571429,1.68461385 3.17904435,1.31680209 2.99266757,1 L20.0073324,1 C19.8209556,1.31680209 19.7142857,1.68461385 19.7142857,2.07692308 C19.7142857,3.26645946 20.6949953,4.23076923 21.9047619,4.23076923 C22.3037431,4.23076923 22.6778101,4.12588308 23,3.94262296 L23,12.057377 C22.6778101,11.8741169 22.3037431,11.7692308 21.9047619,11.7692308 C20.6949953,11.7692308 19.7142857,12.7335405 19.7142857,13.9230769 C19.7142857,14.3153862 19.8209556,14.6831979 20.0073324,15 L2.99266757,15 C3.17904435,14.6831979 3.28571429,14.3153862 3.28571429,13.9230769 C3.28571429,12.7335405 2.30500469,11.7692308 1.0952381,11.7692308 C0.696256938,11.7692308 0.322189879,11.8741169 -2.13162821e-14,12.057377 Z" fill="currentColor"></path>
+                    <path d="M14.5,0.533333333 L14.5,15.4666667" stroke="#FFFFFF" stroke-linecap="square" stroke-dasharray="2"></path>
+                </g>
+            </g>
+        </g>
+    </symbol>
+    <symbol id="icon-refresh" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-refresh-cw">
+        <polyline points="23 4 23 10 17 10"></polyline>
+        <polyline points="1 20 1 14 7 14"></polyline>
+        <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"></path>
+    </symbol>
+
+    <symbol>
+    <g id="mono-icon-link-post" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-313.000000, -10148.000000)" fill="#000000" fill-rule="nonzero">
+            <g transform="translate(306.000000, 10142.000000)">
+                <path d="M14.0614027,11.2506973 L14.3070318,11.2618997 C15.6181751,11.3582102 16.8219637,12.0327684 17.6059678,13.1077805 C17.8500396,13.4424472 17.7765978,13.9116075 17.441931,14.1556793 C17.1072643,14.3997511 16.638104,14.3263093 16.3940322,13.9916425 C15.8684436,13.270965 15.0667922,12.8217495 14.1971448,12.7578692 C13.3952042,12.6989624 12.605753,12.9728728 12.0021966,13.5148801 L11.8552806,13.6559298 L9.60365896,15.9651545 C8.45118119,17.1890154 8.4677248,19.1416686 9.64054436,20.3445766 C10.7566428,21.4893084 12.5263723,21.5504727 13.7041492,20.5254372 L13.8481981,20.3916503 L15.1367586,19.070032 C15.4259192,18.7734531 15.9007548,18.7674393 16.1973338,19.0565998 C16.466951,19.3194731 16.4964317,19.7357968 16.282313,20.0321436 L16.2107659,20.117175 L14.9130245,21.4480474 C13.1386707,23.205741 10.3106091,23.1805355 8.5665371,21.3917196 C6.88861294,19.6707486 6.81173139,16.9294487 8.36035888,15.1065701 L8.5206409,14.9274155 L10.7811785,12.6088842 C11.6500838,11.7173642 12.8355419,11.2288664 14.0614027,11.2506973 Z M22.4334629,7.60828039 C24.1113871,9.32925141 24.1882686,12.0705513 22.6396411,13.8934299 L22.4793591,14.0725845 L20.2188215,16.3911158 C19.2919892,17.3420705 18.0049901,17.8344754 16.6929682,17.7381003 C15.3818249,17.6417898 14.1780363,16.9672316 13.3940322,15.8922195 C13.1499604,15.5575528 13.2234022,15.0883925 13.558069,14.8443207 C13.8927357,14.6002489 14.361896,14.6736907 14.6059678,15.0083575 C15.1315564,15.729035 15.9332078,16.1782505 16.8028552,16.2421308 C17.6047958,16.3010376 18.394247,16.0271272 18.9978034,15.4851199 L19.1447194,15.3440702 L21.396341,13.0348455 C22.5488188,11.8109846 22.5322752,9.85833141 21.3594556,8.65542337 C20.2433572,7.51069163 18.4736277,7.44952726 17.2944986,8.47594561 L17.1502735,8.60991269 L15.8541776,9.93153101 C15.5641538,10.2272658 15.0893026,10.2318956 14.7935678,9.94187181 C14.524718,9.67821384 14.4964508,9.26180596 14.7114324,8.96608447 L14.783227,8.88126205 L16.0869755,7.55195256 C17.8613293,5.79425896 20.6893909,5.81946452 22.4334629,7.60828039 Z" id="Icon-Link"></path>
+            </g>
+        </g>
+    </g>
+    </symbol>
+    <symbol id="icon-passport-badge" viewBox="0 0 80 80">
+        <g fill="none" fill-rule="evenodd">
+            <path fill="#5680FF" d="M0 0L80 0 0 80z" transform="translate(-464.000000, -281.000000) translate(100.000000, 180.000000) translate(364.000000, 101.000000)"/>
+            <g fill="#FFF" fill-rule="nonzero">
+                <path d="M17.067 31.676l-3.488-11.143-11.144-3.488 11.144-3.488 3.488-11.144 3.488 11.166 11.143 3.488-11.143 3.466-3.488 11.143zm4.935-19.567l1.207.373 2.896-4.475-4.497 2.895.394 1.207zm-9.871 0l.373-1.207-4.497-2.895 2.895 4.475 1.229-.373zm9.871 9.893l-.373 1.207 4.497 2.896-2.895-4.497-1.229.394zm-9.871 0l-1.207-.373-2.895 4.497 4.475-2.895-.373-1.229zm22.002-4.935c0 9.41-7.634 17.066-17.066 17.066C7.656 34.133 0 26.5 0 17.067 0 7.634 7.634 0 17.067 0c9.41 0 17.066 7.634 17.066 17.067zm-2.435 0c0-8.073-6.559-14.632-14.631-14.632-8.073 0-14.632 6.559-14.632 14.632 0 8.072 6.559 14.631 14.632 14.631 8.072-.022 14.631-6.58 14.631-14.631z" transform="translate(-464.000000, -281.000000) translate(100.000000, 180.000000) translate(364.000000, 101.000000) translate(6.400000, 6.400000)"/>
+            </g>
+        </g>
+    </symbol>
+    <symbol id="icon-passport-badge-circle" viewBox="0 0 45 45">
+        <g fill="none" fill-rule="evenodd">
+            <circle cx="23.5" cy="23" r="20.5" fill="#5680FF"/>
+            <g fill="#FFF" fill-rule="nonzero">
+                <path d="M17.067 31.676l-3.488-11.143-11.144-3.488 11.144-3.488 3.488-11.144 3.488 11.166 11.143 3.488-11.143 3.466-3.488 11.143zm4.935-19.567l1.207.373 2.896-4.475-4.497 2.895.394 1.207zm-9.871 0l.373-1.207-4.497-2.895 2.895 4.475 1.229-.373zm9.871 9.893l-.373 1.207 4.497 2.896-2.895-4.497-1.229.394zm-9.871 0l-1.207-.373-2.895 4.497 4.475-2.895-.373-1.229zm22.002-4.935c0 9.41-7.634 17.066-17.066 17.066C7.656 34.133 0 26.5 0 17.067 0 7.634 7.634 0 17.067 0c9.41 0 17.066 7.634 17.066 17.067zm-2.435 0c0-8.073-6.559-14.632-14.631-14.632-8.073 0-14.632 6.559-14.632 14.632 0 8.072 6.559 14.631 14.632 14.631 8.072-.022 14.631-6.58 14.631-14.631z" transform="translate(-464.000000, -281.000000) translate(100.000000, 180.000000) translate(364.000000, 101.000000) translate(6.400000, 6.400000)"/>
+            </g>
+        </g>
+    </symbol>
+    <symbol id="icon-pbs-charlotte-passport-navy" viewBox="0 0 401 42">
+        <g fill="none" fill-rule="evenodd">
+            <g transform="translate(-91.000000, -1361.000000) translate(89.000000, 1275.000000) translate(2.828125, 86.600000) translate(217.623043, -0.000000)">
+                <circle cx="20.435" cy="20.435" r="20.435" fill="#5680FF"/>
+                <path fill="#FFF" fill-rule="nonzero" d="M20.435 36.115l-3.743-11.96-11.96-3.743 11.96-3.744 3.743-11.96 3.744 11.984 11.96 3.743-11.96 3.72-3.744 11.96zm5.297-21l1.295.4 3.108-4.803-4.826 3.108.423 1.295zm-10.594 0l.4-1.295-4.826-3.108 3.108 4.803 1.318-.4zm10.594 10.617l-.4 1.295 4.826 3.108-3.107-4.826-1.319.423zm-10.594 0l-1.295-.4-3.107 4.826 4.802-3.107-.4-1.319zm23.614-5.297c0 10.1-8.193 18.317-18.317 18.317-10.1 0-18.316-8.193-18.316-18.317 0-10.123 8.193-18.316 18.316-18.316 10.1 0 18.317 8.193 18.317 18.316zm-2.614 0c0-8.664-7.039-15.703-15.703-15.703S4.732 11.772 4.732 20.435c0 8.664 7.04 15.703 15.703 15.703 8.664-.023 15.703-7.063 15.703-15.703z"/>
+            </g>
+            <path fill="currentColor" fill-rule="nonzero" d="M4.898 31.675v-8.216h2.1c2.866 0 5.075-.658 6.628-1.975 1.554-1.316 2.33-3.217 2.33-5.703 0-2.39-.729-4.19-2.187-5.395-1.46-1.206-3.59-1.81-6.391-1.81H0v23.099h4.898zm1.611-12.229H4.898V12.59h2.227c1.338 0 2.32.274 2.947.821.626.548.94 1.396.94 2.544 0 1.137-.374 2.004-1.122 2.599-.748.595-1.875.892-3.38.892zm22.024 12.229c2.612 0 4.68-.59 6.201-1.77 1.522-1.18 2.283-2.823 2.283-4.93 0-1.484-.324-2.674-.971-3.57-.648-.895-1.704-1.506-3.168-1.832v-.158c1.074-.18 1.935-.711 2.583-1.596.648-.885.972-2.017.972-3.397 0-2.032-.74-3.515-2.22-4.447-1.48-.932-3.858-1.398-7.133-1.398H19.89v23.098h8.642zm-.9-13.95h-2.844V12.59h2.575c1.401 0 2.425.192 3.073.576.648.385.972 1.02.972 1.904 0 .948-.298 1.627-.893 2.038-.595.41-1.556.616-2.883.616zm.347 9.905H24.79v-6.02h3.033c2.739 0 4.108.96 4.108 2.876 0 1.064-.321 1.854-.964 2.37-.642.516-1.638.774-2.986.774zm18.343 4.36c2.676 0 4.764-.6 6.265-1.8 1.5-1.201 2.251-2.844 2.251-4.93 0-1.506-.4-2.778-1.2-3.815-.801-1.038-2.281-2.072-4.44-3.105-1.633-.779-2.668-1.319-3.105-1.619-.437-.3-.755-.61-.955-.932-.2-.321-.3-.698-.3-1.13 0-.695.247-1.258.742-1.69.495-.432 1.206-.648 2.133-.648.78 0 1.572.1 2.377.3.806.2 1.825.553 3.058 1.059l1.58-3.808c-1.19-.516-2.33-.916-3.421-1.2-1.09-.285-2.236-.427-3.436-.427-2.444 0-4.358.585-5.743 1.754-1.385 1.169-2.078 2.775-2.078 4.818 0 1.085.211 2.033.632 2.844.422.811.985 1.522 1.69 2.133.706.61 1.765 1.248 3.176 1.912 1.506.716 2.504 1.237 2.994 1.564.49.326.861.666 1.114 1.019.253.353.38.755.38 1.208 0 .811-.288 1.422-.862 1.833-.574.41-1.398.616-2.472.616-.896 0-1.883-.142-2.963-.426-1.08-.285-2.398-.775-3.957-1.47v4.55c1.896.927 4.076 1.39 6.54 1.39zm29.609 0c2.338 0 4.455-.394 6.351-1.184v-4.108c-2.307.811-4.27 1.216-5.893 1.216-3.865 0-5.798-2.575-5.798-7.725 0-2.475.506-4.405 1.517-5.79 1.01-1.385 2.438-2.078 4.281-2.078.843 0 1.701.153 2.575.458.874.306 1.743.664 2.607 1.075l1.58-3.982c-2.265-1.084-4.519-1.627-6.762-1.627-2.201 0-4.12.482-5.759 1.446-1.637.963-2.893 2.348-3.768 4.155-.874 1.806-1.31 3.91-1.31 6.311 0 3.813.89 6.738 2.67 8.777 1.78 2.038 4.35 3.057 7.709 3.057zm15.278-.315v-8.31c0-2.054.3-3.54.9-4.456.601-.916 1.575-1.374 2.923-1.374 1.896 0 2.844 1.274 2.844 3.823v10.317h4.819V20.157c0-2.085-.537-3.686-1.612-4.802-1.074-1.117-2.649-1.675-4.724-1.675-2.338 0-4.044.864-5.118 2.59h-.253l.11-1.421c.074-1.443.111-2.36.111-2.749V7.092h-4.819v24.583h4.82zm20.318.316c1.38 0 2.499-.198 3.357-.593.859-.395 1.693-1.103 2.504-2.125h.127l.932 2.402h3.365v-11.77c0-2.107-.632-3.676-1.896-4.708-1.264-1.033-3.08-1.549-5.45-1.549-2.476 0-4.73.532-6.762 1.596l1.595 3.254c1.907-.853 3.566-1.28 4.977-1.28 1.833 0 2.749.896 2.749 2.687v.774l-3.065.094c-2.644.095-4.621.588-5.932 1.478-1.312.89-1.967 2.272-1.967 4.147 0 1.79.487 3.17 1.461 4.14.974.968 2.31 1.453 4.005 1.453zm1.817-3.524c-1.559 0-2.338-.679-2.338-2.038 0-.948.342-1.653 1.027-2.117.684-.463 1.727-.716 3.128-.758l1.864-.063v1.453c0 1.064-.334 1.917-1.003 2.56-.669.642-1.562.963-2.678.963zm17.822 3.208v-8.99c0-1.422.429-2.528 1.287-3.318.859-.79 2.057-1.185 3.594-1.185.559 0 1.033.053 1.422.158l.364-4.518c-.432-.095-.975-.142-1.628-.142-1.095 0-2.109.303-3.04.908-.933.606-1.673 1.404-2.22 2.394h-.237l-.711-2.97h-3.65v17.663h4.819zm14.267 0V7.092h-4.819v24.583h4.819zm12.07.316c2.708 0 4.82-.811 6.336-2.433 1.517-1.622 2.275-3.871 2.275-6.746 0-1.854-.347-3.47-1.043-4.85-.695-1.38-1.69-2.439-2.986-3.176-1.295-.738-2.79-1.106-4.486-1.106-2.728 0-4.845.8-6.351 2.401-1.507 1.601-2.26 3.845-2.26 6.73 0 1.854.348 3.476 1.043 4.867.695 1.39 1.69 2.456 2.986 3.199 1.295.742 2.791 1.114 4.487 1.114zm.064-3.871c-1.295 0-2.23-.448-2.804-1.343-.574-.895-.861-2.217-.861-3.965 0-1.76.284-3.073.853-3.942.569-.87 1.495-1.304 2.78-1.304 1.296 0 2.228.437 2.797 1.312.569.874.853 2.185.853 3.934 0 1.758-.282 3.083-.845 3.973-.564.89-1.488 1.335-2.773 1.335zm18.154 3.87c1.748 0 3.222-.268 4.423-.805v-3.586c-1.18.368-2.19.552-3.033.552-.632 0-1.14-.163-1.525-.49-.384-.326-.576-.831-.576-1.516V17.63h4.945v-3.618h-4.945v-3.76h-3.081l-1.39 3.728-2.655 1.611v2.039h2.307v8.515c0 1.949.44 3.41 1.32 4.384.879.974 2.282 1.462 4.21 1.462zm13.619 0c1.748 0 3.223-.268 4.423-.805v-3.586c-1.18.368-2.19.552-3.033.552-.632 0-1.14-.163-1.524-.49-.385-.326-.577-.831-.577-1.516V17.63h4.945v-3.618h-4.945v-3.76h-3.08l-1.391 3.728-2.654 1.611v2.039h2.306v8.515c0 1.949.44 3.41 1.32 4.384.879.974 2.282 1.462 4.21 1.462zm15.562 0c1.38 0 2.55-.102 3.508-.308.958-.205 1.859-.518 2.701-.94v-3.728c-1.032.484-2.022.837-2.97 1.058-.948.222-1.954.332-3.017.332-1.37 0-2.433-.384-3.192-1.153-.758-.769-1.164-1.838-1.216-3.207h11.39v-2.338c0-2.507-.695-4.471-2.085-5.893-1.39-1.422-3.333-2.133-5.83-2.133-2.612 0-4.658.808-6.137 2.425-1.48 1.617-2.22 3.905-2.22 6.864 0 2.876.8 5.098 2.401 6.668 1.601 1.569 3.824 2.354 6.667 2.354zm2.686-11.153h-6.762c.085-1.19.416-2.11.996-2.757.579-.648 1.38-.972 2.401-.972 1.022 0 1.833.324 2.433.972.6.648.911 1.566.932 2.757zM270.555 31.675v-8.216h2.102c2.864 0 5.074-.658 6.627-1.975 1.554-1.316 2.33-3.217 2.33-5.703 0-2.39-.729-4.19-2.188-5.395-1.458-1.206-3.589-1.81-6.39-1.81h-7.378v23.099h4.897zm1.612-12.229h-1.612V12.59h2.228c1.338 0 2.32.274 2.946.821.627.548.94 1.396.94 2.544 0 1.137-.373 2.004-1.121 2.599-.748.595-1.875.892-3.381.892zm17.3 12.545c1.38 0 2.5-.198 3.357-.593.859-.395 1.694-1.103 2.505-2.125h.126l.932 2.402h3.365v-11.77c0-2.107-.632-3.676-1.896-4.708-1.264-1.033-3.08-1.549-5.45-1.549-2.475 0-4.73.532-6.762 1.596l1.596 3.254c1.906-.853 3.565-1.28 4.976-1.28 1.833 0 2.75.896 2.75 2.687v.774l-3.066.094c-2.643.095-4.62.588-5.932 1.478-1.311.89-1.967 2.272-1.967 4.147 0 1.79.487 3.17 1.461 4.14.975.968 2.31 1.453 4.005 1.453zm1.817-3.524c-1.559 0-2.338-.679-2.338-2.038 0-.948.342-1.653 1.027-2.117.684-.463 1.727-.716 3.128-.758l1.864-.063v1.453c0 1.064-.334 1.917-1.003 2.56-.669.642-1.561.963-2.678.963zm17.79 3.524c2.507 0 4.39-.474 5.648-1.422 1.259-.948 1.888-2.328 1.888-4.14 0-.874-.152-1.627-.458-2.259-.305-.632-.78-1.19-1.422-1.674-.642-.485-1.653-1.006-3.033-1.565-1.548-.621-2.552-1.09-3.01-1.406-.458-.316-.687-.69-.687-1.121 0-.77.71-1.154 2.133-1.154.8 0 1.585.121 2.354.364.769.242 1.595.553 2.48.932l1.454-3.476c-2.012-.927-4.082-1.39-6.21-1.39-2.232 0-3.957.429-5.173 1.287-1.217.859-1.825 2.073-1.825 3.642 0 .916.145 1.688.434 2.315.29.626.753 1.182 1.39 1.666.638.485 1.636 1.011 2.995 1.58.947.4 1.706.75 2.275 1.05.568.301.969.57 1.2.807.232.237.348.545.348.924 0 1.01-.874 1.516-2.623 1.516-.853 0-1.84-.142-2.962-.426-1.122-.284-2.13-.637-3.025-1.059v3.982c.79.337 1.637.592 2.543.766.906.174 2.001.26 3.286.26zm15.658 0c2.506 0 4.389-.474 5.648-1.422 1.258-.948 1.888-2.328 1.888-4.14 0-.874-.153-1.627-.459-2.259-.305-.632-.779-1.19-1.421-1.674-.643-.485-1.654-1.006-3.034-1.565-1.548-.621-2.551-1.09-3.01-1.406-.458-.316-.687-.69-.687-1.121 0-.77.711-1.154 2.133-1.154.8 0 1.585.121 2.354.364.769.242 1.596.553 2.48.932l1.454-3.476c-2.012-.927-4.081-1.39-6.209-1.39-2.233 0-3.957.429-5.174 1.287-1.216.859-1.825 2.073-1.825 3.642 0 .916.145 1.688.435 2.315.29.626.753 1.182 1.39 1.666.637.485 1.635 1.011 2.994 1.58.948.4 1.706.75 2.275 1.05.569.301.969.57 1.2.807.232.237.348.545.348.924 0 1.01-.874 1.516-2.622 1.516-.854 0-1.84-.142-2.963-.426-1.121-.284-2.13-.637-3.025-1.059v3.982c.79.337 1.638.592 2.543.766.906.174 2.002.26 3.287.26zm15.689 7.457V32.29c0-.232-.085-1.085-.253-2.56h.253c1.18 1.506 2.806 2.26 4.881 2.26 1.38 0 2.58-.364 3.602-1.09 1.022-.727 1.81-1.786 2.362-3.176.553-1.39.83-3.028.83-4.913 0-2.865-.59-5.103-1.77-6.715-1.18-1.611-2.812-2.417-4.897-2.417-2.212 0-3.881.874-5.008 2.622h-.222l-.679-2.29h-3.918v25.436h4.819zm3.523-11.36c-1.222 0-2.115-.41-2.678-1.232-.564-.822-.845-2.18-.845-4.076v-.521c.02-1.686.305-2.894.853-3.626.547-.732 1.416-1.098 2.606-1.098 1.138 0 1.973.434 2.505 1.303.531.87.797 2.172.797 3.91 0 3.56-1.08 5.34-3.238 5.34zm19.149 3.903c2.706 0 4.818-.811 6.335-2.433 1.517-1.622 2.275-3.871 2.275-6.746 0-1.854-.348-3.47-1.043-4.85-.695-1.38-1.69-2.439-2.986-3.176-1.295-.738-2.79-1.106-4.487-1.106-2.728 0-4.845.8-6.35 2.401-1.507 1.601-2.26 3.845-2.26 6.73 0 1.854.348 3.476 1.043 4.867.695 1.39 1.69 2.456 2.986 3.199 1.295.742 2.79 1.114 4.487 1.114zm.063-3.871c-1.296 0-2.23-.448-2.805-1.343-.574-.895-.86-2.217-.86-3.965 0-1.76.284-3.073.853-3.942.568-.87 1.495-1.304 2.78-1.304 1.296 0 2.228.437 2.797 1.312.568.874.853 2.185.853 3.934 0 1.758-.282 3.083-.846 3.973-.563.89-1.487 1.335-2.772 1.335zm16.921 3.555v-8.99c0-1.422.43-2.528 1.288-3.318.858-.79 2.056-1.185 3.594-1.185.558 0 1.032.053 1.422.158l.363-4.518c-.432-.095-.974-.142-1.627-.142-1.096 0-2.11.303-3.041.908-.933.606-1.672 1.404-2.22 2.394h-.237l-.711-2.97h-3.65v17.663h4.819zm15.5.316c1.748 0 3.222-.269 4.423-.806v-3.586c-1.18.368-2.19.552-3.033.552-.632 0-1.14-.163-1.525-.49-.384-.326-.577-.831-.577-1.516V17.63h4.945v-3.618h-4.945v-3.76h-3.08l-1.39 3.728-2.655 1.611v2.039h2.307v8.515c0 1.949.44 3.41 1.319 4.384.88.974 2.283 1.462 4.21 1.462z" transform="translate(-91.000000, -1361.000000) translate(89.000000, 1275.000000) translate(2.828125, 86.600000)"/>
+        </g>
+    </symbol>
+    <symbol id="icon-closed-captioning" viewBox="0 0 512 512">
+        <g>
+            <path fill="currentColor" d="M464 64H48C21.5 64 0 85.5 0 112v288c0 26.5 21.5 48 48 48h416c26.5 0 48-21.5 48-48V112c0-26.5-21.5-48-48-48zm-6 336H54c-3.3 0-6-2.7-6-6V118c0-3.3 2.7-6 6-6h404c3.3 0 6 2.7 6 6v276c0 3.3-2.7 6-6 6zm-211.1-85.7c1.7 2.4 1.5 5.6-.5 7.7-53.6 56.8-172.8 32.1-172.8-67.9 0-97.3 121.7-119.5 172.5-70.1 2.1 2 2.5 3.2 1 5.7l-17.5 30.5c-1.9 3.1-6.2 4-9.1 1.7-40.8-32-94.6-14.9-94.6 31.2 0 48 51 70.5 92.2 32.6 2.8-2.5 7.1-2.1 9.2.9l19.6 27.7zm190.4 0c1.7 2.4 1.5 5.6-.5 7.7-53.6 56.9-172.8 32.1-172.8-67.9 0-97.3 121.7-119.5 172.5-70.1 2.1 2 2.5 3.2 1 5.7L420 220.2c-1.9 3.1-6.2 4-9.1 1.7-40.8-32-94.6-14.9-94.6 31.2 0 48 51 70.5 92.2 32.6 2.8-2.5 7.1-2.1 9.2.9l19.6 27.7z"></path>
+        </g>
+    </symbol>
+    <symbol id="circle" viewBox="0 0 24 24">
+        <circle cx="50%" cy="50%" r="50%"></circle>
+    </symbol>
+    <symbol id="spinner" role="img" viewBox="0 0 512 512">
+        <g class="fa-group">
+            <path class="fa-secondary" fill="currentColor" d="M478.71 364.58zm-22 6.11l-27.83-15.9a15.92 15.92 0 0 1-6.94-19.2A184 184 0 1 1 256 72c5.89 0 11.71.29 17.46.83-.74-.07-1.48-.15-2.23-.21-8.49-.69-15.23-7.31-15.23-15.83v-32a16 16 0 0 1 15.34-16C266.24 8.46 261.18 8 256 8 119 8 8 119 8 256s111 248 248 248c98 0 182.42-56.95 222.71-139.42-4.13 7.86-14.23 10.55-22 6.11z" opacity="0.4"/><path class="fa-primary" fill="currentColor" d="M271.23 72.62c-8.49-.69-15.23-7.31-15.23-15.83V24.73c0-9.11 7.67-16.78 16.77-16.17C401.92 17.18 504 124.67 504 256a246 246 0 0 1-25 108.24c-4 8.17-14.37 11-22.26 6.45l-27.84-15.9c-7.41-4.23-9.83-13.35-6.2-21.07A182.53 182.53 0 0 0 440 256c0-96.49-74.27-175.63-168.77-183.38z"/>
+        </g>
+    </symbol>
+    <symbol id="icon-calendar" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+        <line x1="16" y1="2" x2="16" y2="6"/>
+        <line x1="8" y1="2" x2="8" y2="6"/>
+        <line x1="3" y1="10" x2="21" y2="10"/>
+    </symbol>
+    <symbol id="icon-arrow-rotate" viewBox="0 0 512 512">
+        <path d="M454.7 288.1c-12.78-3.75-26.06 3.594-29.75 16.31C403.3 379.9 333.8 432 255.1 432c-66.53 0-126.8-38.28-156.5-96h100.4c13.25 0 24-10.75 24-24S213.2 288 199.9 288h-160c-13.25 0-24 10.75-24 24v160c0 13.25 10.75 24 24 24s24-10.75 24-24v-102.1C103.7 436.4 176.1 480 255.1 480c99 0 187.4-66.31 215.1-161.3C474.8 305.1 467.4 292.7 454.7 288.1zM472 16C458.8 16 448 26.75 448 40v102.1C408.3 75.55 335.8 32 256 32C157 32 68.53 98.31 40.91 193.3C37.19 206 44.5 219.3 57.22 223c12.84 3.781 26.09-3.625 29.75-16.31C108.7 132.1 178.2 80 256 80c66.53 0 126.8 38.28 156.5 96H312C298.8 176 288 186.8 288 200S298.8 224 312 224h160c13.25 0 24-10.75 24-24v-160C496 26.75 485.3 16 472 16z"/>
+    </symbol>
+</svg>
+
+
+<ps-header class="PH">
+    <div class="PH-ham-m">
+        <div class="PH-ham-m-wrapper">
+            <div class="PH-ham-m-top">
+                
+                    <div class="PH-logo">
+                        <a aria-label="home page" href="/"  >
+    
+        
+            <picture>
+    
+    
+        
+            
+        
+    
+
+    
+    
+        
+            
+        
+    
+
+    
+    
+        
+            
+        
+    
+
+    
+    
+        
+            
+    
+            <source type="image/webp"  width="222"
+     height="60"
+        data-srcset="https://npr.brightspotcdn.com/dims4/default/861acf2/2147483647/strip/true/crop/222x60+0+0/resize/444x120!/format/webp/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims4%2Fdefault%2F5d4caf1%2F2147483647%2Fresize%2Fx60%2Fquality%2F90%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201801%2FWebHeader-2018.png 2x"
+        loading="lazy"
+        srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSI2MHB4IiB3aWR0aD0iMjIycHgiPjwvc3ZnPg=="
+    data-size="siteLogo"
+/>
+    
+
+    
+        <source width="222"
+     height="60"
+        data-srcset="https://npr.brightspotcdn.com/dims4/default/2b7b79a/2147483647/strip/true/crop/222x60+0+0/resize/222x60!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims4%2Fdefault%2F5d4caf1%2F2147483647%2Fresize%2Fx60%2Fquality%2F90%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201801%2FWebHeader-2018.png"
+        loading="lazy"
+        srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSI2MHB4IiB3aWR0aD0iMjIycHgiPjwvc3ZnPg=="
+    data-size="siteLogo"
+/>
+    
+
+        
+    
+
+    
+    <img class="Image" alt="" srcset="https://npr.brightspotcdn.com/dims4/default/0590d96/2147483647/strip/true/crop/222x60+0+0/resize/444x120!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims4%2Fdefault%2F5d4caf1%2F2147483647%2Fresize%2Fx60%2Fquality%2F90%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201801%2FWebHeader-2018.png 2x" width="222" height="60"
+            data-src="https://npr.brightspotcdn.com/dims4/default/2b7b79a/2147483647/strip/true/crop/222x60+0+0/resize/222x60!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims4%2Fdefault%2F5d4caf1%2F2147483647%2Fresize%2Fx60%2Fquality%2F90%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201801%2FWebHeader-2018.png"
+            loading="lazy"
+            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSI2MHB4IiB3aWR0aD0iMjIycHgiPjwvc3ZnPg=="
+        >
+
+
+</picture>
+        
+    
+    </a>
+
+                    </div>
+                
+                <button class="PH-ham-m-close" aria-label="hamburger-menu-close" aria-expanded="false"><svg class="close-x"><use xlink:href="#close-x"></use></svg></button>
+            </div>
+            
+                <div class="PH-search-overlay-mobile">
+                    <form class="PH-search-form" action="https://www.kcbx.org/search#nt=navsearch" novalidate="" autocomplete="off">
+                        <label><input placeholder="Search" type="text" class="PH-search-input-mobile" name="q" required="true"><span class="sr-only">Search Query</span></label>
+                        <button class="PH-search-button-mobile" aria-label="header-search-icon"><svg class="icon-magnify"><use xlink:href="#icon-magnify"></use></svg><span class="sr-only">Show Search</span></button>
+                     </form>
+                </div>
+            
+
+            <div class="PH-ham-m-content">
+                
+                
+                    <nav class="Navigation gtm_nav">
+    
+    
+        <ul class="Navigation-items">
+            
+                <li class="Navigation-items-item" ><div class="NavI"  data-group-navigation>
+    <div class="NavI-text gtm_nav_cat">
+        
+            <a class="NavI-text-link" href="https://www.kcbx.org/">Home</a>
+        
+    </div>
+    
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item" ><div class="NavI" >
+    <div class="NavI-text gtm_nav_cat">
+        
+            <a class="NavI-text-link" href="https://www.kcbx.org/kcbx-radio-schedule">Schedules &amp; Playlists </a>
+        
+    </div>
+    
+        <div class="NavI-more">
+            <button aria-label="Open Sub Navigation"><svg class="chevron"><use xlink:href="#chevron"></use></svg></button>
+        </div>
+    
+
+    
+        <ul class="NavI-items">
+            
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/kcbx-radio-schedule">Schedule and Playlists </a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/hd2-radio-schedule">KCBX HD2 Schedule</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/weekly-program-highlights">Weekly Program Highlights</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/printable-schedules">Printable Schedules</a>
+</li>
+                
+            
+        </ul>
+        <ul class="NavI-items-placeholder">
+            
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/kcbx-radio-schedule">Schedule and Playlists </a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/hd2-radio-schedule">KCBX HD2 Schedule</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/weekly-program-highlights">Weekly Program Highlights</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/printable-schedules">Printable Schedules</a>
+</li>
+                
+            
+        </ul>
+    
+</div></li>
+            
+                <li class="Navigation-items-item" ><div class="NavI" >
+    <div class="NavI-text gtm_nav_cat">
+        
+            <a class="NavI-text-link" href="https://www.kcbx.org/all-shows">Programs </a>
+        
+    </div>
+    
+        <div class="NavI-more">
+            <button aria-label="Open Sub Navigation"><svg class="chevron"><use xlink:href="#chevron"></use></svg></button>
+        </div>
+    
+
+    
+        <ul class="NavI-items two-columns">
+            
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/all-shows">All Programs</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/news-and-talk-programs">News and Talk Programs</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/music-programs">Music Programs</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/entertainment-programs">Entertainment Programs</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/podcasts">Podcasts</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/on-demand-audio">On Demand</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/streaming-kcbx">Streaming Help</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/podcasts-and-rss-links">Subscribe to Podcasts &amp; RSS Feeds</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/weekly-program-highlights">Weekly Program Highlights</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://78c3f231.sibforms.com/serve/MUIEAAraMCN4ujbqE1qCzJ55VCqcNOdX2zSKCt0G6wiAC5X3rerQy1_s8w8tZrOggoOharBcOgDZaXgd4H2r00jwF9xocgR3gtCiprUsvsgApVR9N1WQS_tUIx16vY7LrLilESsvmbwNXyp-2AP3IcyhztVAsEuGt4Mx9Dp5KtDMgXiPL4RX-MU9UENNuNszmYoMdFUTt2H5q63L" target="_blank">KCBX Newsletters</a>
+</li>
+                
+            
+        </ul>
+        <ul class="NavI-items-placeholder">
+            
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/all-shows">All Programs</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/news-and-talk-programs">News and Talk Programs</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/music-programs">Music Programs</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/entertainment-programs">Entertainment Programs</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/podcasts">Podcasts</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/on-demand-audio">On Demand</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/streaming-kcbx">Streaming Help</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/podcasts-and-rss-links">Subscribe to Podcasts &amp; RSS Feeds</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/weekly-program-highlights">Weekly Program Highlights</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://78c3f231.sibforms.com/serve/MUIEAAraMCN4ujbqE1qCzJ55VCqcNOdX2zSKCt0G6wiAC5X3rerQy1_s8w8tZrOggoOharBcOgDZaXgd4H2r00jwF9xocgR3gtCiprUsvsgApVR9N1WQS_tUIx16vY7LrLilESsvmbwNXyp-2AP3IcyhztVAsEuGt4Mx9Dp5KtDMgXiPL4RX-MU9UENNuNszmYoMdFUTt2H5q63L" target="_blank">KCBX Newsletters</a>
+</li>
+                
+            
+        </ul>
+    
+</div></li>
+            
+                <li class="Navigation-items-item" ><div class="NavI" >
+    <div class="NavI-text gtm_nav_cat">
+        
+            <a class="NavI-text-link" href="https://www.kcbx.org/pledge-your-support">Support KCBX</a>
+        
+    </div>
+    
+        <div class="NavI-more">
+            <button aria-label="Open Sub Navigation"><svg class="chevron"><use xlink:href="#chevron"></use></svg></button>
+        </div>
+    
+
+    
+        <ul class="NavI-items two-columns">
+            
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/vehicle-donations">Vehicle Donation </a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://afg.secureallegiance.com/kcbx/WebModule/Donate.aspx?P=SUSTUPDATE&amp;PAGETYPE=PLG&amp;CHECK=VDBfMHiGnW44k2hH3sJuGL1YhDw50SikSh2nq0qouhg%3D" target="_blank">Increase or Change Your Sustaining Payment</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/other-ways-to-give">Other Ways to Give</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/volunteer">Volunteer</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/capacitors-club">Capacitors Club</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/endowment-fund">Endowment Fund</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/business-sponsors">Business Sponsors</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/business-sponsors-and-foundation-support">Sponsors &amp; Foundation Support</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/kcbx-partners-in-the-arts">Partners in the Arts </a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://docs.google.com/forms/d/e/1FAIpQLSe8Gx9OW-pF4jW82cNsz1SIlbw2t5JGqLqHx9YXM0kaWGowEA/viewform" target="_blank">Listener Survey</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/inspire-others-with-a-testimonial">Leave a testimonial </a>
+</li>
+                
+            
+        </ul>
+        <ul class="NavI-items-placeholder">
+            
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/vehicle-donations">Vehicle Donation </a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://afg.secureallegiance.com/kcbx/WebModule/Donate.aspx?P=SUSTUPDATE&amp;PAGETYPE=PLG&amp;CHECK=VDBfMHiGnW44k2hH3sJuGL1YhDw50SikSh2nq0qouhg%3D" target="_blank">Increase or Change Your Sustaining Payment</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/other-ways-to-give">Other Ways to Give</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/volunteer">Volunteer</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/capacitors-club">Capacitors Club</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/endowment-fund">Endowment Fund</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/business-sponsors">Business Sponsors</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/business-sponsors-and-foundation-support">Sponsors &amp; Foundation Support</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/kcbx-partners-in-the-arts">Partners in the Arts </a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://docs.google.com/forms/d/e/1FAIpQLSe8Gx9OW-pF4jW82cNsz1SIlbw2t5JGqLqHx9YXM0kaWGowEA/viewform" target="_blank">Listener Survey</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/inspire-others-with-a-testimonial">Leave a testimonial </a>
+</li>
+                
+            
+        </ul>
+    
+</div></li>
+            
+                <li class="Navigation-items-item" ><div class="NavI"  data-group-navigation>
+    <div class="NavI-text gtm_nav_cat">
+        
+            <a class="NavI-text-link" href="https://www.kcbx.org/community-calendar">Community Calendar</a>
+        
+    </div>
+    
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item" ><div class="NavI" >
+    <div class="NavI-text gtm_nav_cat">
+        
+            <a class="NavI-text-link" href="https://www.kcbx.org/about-us">About </a>
+        
+    </div>
+    
+        <div class="NavI-more">
+            <button aria-label="Open Sub Navigation"><svg class="chevron"><use xlink:href="#chevron"></use></svg></button>
+        </div>
+    
+
+    
+        <ul class="NavI-items">
+            
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/how-to-communicate-with-us">Contact Us </a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/people-at-kcbx">People at KCBX</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/governance">Governance</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.liveoakfest.org/" target="_blank">Live Oak Music Festival</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/employment-opportunities">Employment Opportunities</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.slocity.org/" target="_blank">CABLECast Partners</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.slocity.org/" target="_blank">San Luis Obispo</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="http://pismobeach.org/930/2019-Portal-Page" target="_blank">Pismo Beach</a>
+</li>
+                
+            
+        </ul>
+        <ul class="NavI-items-placeholder">
+            
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/how-to-communicate-with-us">Contact Us </a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/people-at-kcbx">People at KCBX</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/governance">Governance</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.liveoakfest.org/" target="_blank">Live Oak Music Festival</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/employment-opportunities">Employment Opportunities</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.slocity.org/" target="_blank">CABLECast Partners</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.slocity.org/" target="_blank">San Luis Obispo</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="http://pismobeach.org/930/2019-Portal-Page" target="_blank">Pismo Beach</a>
+</li>
+                
+            
+        </ul>
+    
+</div></li>
+            
+        </ul>
+    
+</nav>
+                
+                
+                    <div class="PH-disclaimer">© 2023 KCBX</div>
+                
+            </div>
+        </div>
+    </div>
+
+    
+        <div class="PH-background">
+            
+                <picture>
+    
+    
+        
+            
+        
+    
+
+    
+    
+        
+            
+        
+    
+
+    
+    
+        
+            
+        
+    
+
+    
+    
+        
+            
+    
+            <source type="image/webp"  width="1440"
+     height="105"
+        data-srcset="https://npr.brightspotcdn.com/dims4/default/e7087c2/2147483647/strip/true/crop/1864x136+0+33/resize/2880x210!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff8%2Ffb%2Fb77d259a4d2c9b5f1734cbfcd2d5%2Fsanluisobispo-copy.png 2x"
+        loading="lazy"
+        srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSIxMDVweCIgd2lkdGg9IjE0NDBweCI+PC9zdmc+"
+    data-size="headerBackground"
+/>
+    
+
+    
+        <source width="1440"
+     height="105"
+        data-srcset="https://npr.brightspotcdn.com/dims4/default/e369ce3/2147483647/strip/true/crop/1864x136+0+33/resize/1440x105!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff8%2Ffb%2Fb77d259a4d2c9b5f1734cbfcd2d5%2Fsanluisobispo-copy.png"
+        loading="lazy"
+        srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSIxMDVweCIgd2lkdGg9IjE0NDBweCI+PC9zdmc+"
+    data-size="headerBackground"
+/>
+    
+
+        
+    
+
+    
+    <img class="Image" alt="sanluisobispo---Copy.png" srcset="https://npr.brightspotcdn.com/dims4/default/6223b9c/2147483647/strip/true/crop/1864x136+0+33/resize/2880x210!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff8%2Ffb%2Fb77d259a4d2c9b5f1734cbfcd2d5%2Fsanluisobispo-copy.png 2x" width="1440" height="105"
+            data-src="https://npr.brightspotcdn.com/dims4/default/e369ce3/2147483647/strip/true/crop/1864x136+0+33/resize/1440x105!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff8%2Ffb%2Fb77d259a4d2c9b5f1734cbfcd2d5%2Fsanluisobispo-copy.png"
+            loading="lazy"
+            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSIxMDVweCIgd2lkdGg9IjE0NDBweCI+PC9zdmc+"
+        >
+
+
+</picture>
+            
+        </div>
+    
+    <div class="PH-top-bar" data-inverse-colors="true" data-header-background="true">
+            <div class="PH-top-bar-content">
+                <button class="PH-menu-trigger" aria-label="hamburger-menu-open" aria-expanded="false"><svg class="burger-menu"><use xlink:href="#burger-menu"></use></svg><svg class="close-x"><use xlink:href="#close-x"></use></svg><span class="label">Menu</span></button>
+                
+                    <div class="PH-logo"><a aria-label="home page" href="/"  >
+    
+        
+            <picture>
+    
+    
+        
+            
+        
+    
+
+    
+    
+        
+            
+        
+    
+
+    
+    
+        
+            
+        
+    
+
+    
+    
+        
+            
+    
+            <source type="image/webp"  width="222"
+     height="60"
+        data-srcset="https://npr.brightspotcdn.com/dims4/default/861acf2/2147483647/strip/true/crop/222x60+0+0/resize/444x120!/format/webp/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims4%2Fdefault%2F5d4caf1%2F2147483647%2Fresize%2Fx60%2Fquality%2F90%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201801%2FWebHeader-2018.png 2x"
+        loading="lazy"
+        srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSI2MHB4IiB3aWR0aD0iMjIycHgiPjwvc3ZnPg=="
+    data-size="siteLogo"
+/>
+    
+
+    
+        <source width="222"
+     height="60"
+        data-srcset="https://npr.brightspotcdn.com/dims4/default/2b7b79a/2147483647/strip/true/crop/222x60+0+0/resize/222x60!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims4%2Fdefault%2F5d4caf1%2F2147483647%2Fresize%2Fx60%2Fquality%2F90%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201801%2FWebHeader-2018.png"
+        loading="lazy"
+        srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSI2MHB4IiB3aWR0aD0iMjIycHgiPjwvc3ZnPg=="
+    data-size="siteLogo"
+/>
+    
+
+        
+    
+
+    
+    <img class="Image" alt="" srcset="https://npr.brightspotcdn.com/dims4/default/0590d96/2147483647/strip/true/crop/222x60+0+0/resize/444x120!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims4%2Fdefault%2F5d4caf1%2F2147483647%2Fresize%2Fx60%2Fquality%2F90%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201801%2FWebHeader-2018.png 2x" width="222" height="60"
+            data-src="https://npr.brightspotcdn.com/dims4/default/2b7b79a/2147483647/strip/true/crop/222x60+0+0/resize/222x60!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims4%2Fdefault%2F5d4caf1%2F2147483647%2Fresize%2Fx60%2Fquality%2F90%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201801%2FWebHeader-2018.png"
+            loading="lazy"
+            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSI2MHB4IiB3aWR0aD0iMjIycHgiPjwvc3ZnPg=="
+        >
+
+
+</picture>
+        
+    
+    </a>
+</div>
+                
+                
+            </div>
+            <div class="PH-end">
+                
+                    <button class="PH-search-button" aria-label="header-search-icon"><svg class="icon-magnify"><use xlink:href="#icon-magnify"></use></svg><span class="sr-only">Show Search</span><svg class="close-x"><use xlink:href="#close-x"></use></svg></button>
+
+                    <div class="PH-search-overlay">
+                        <form class="PH-search-form" action="https://www.kcbx.org/search#nt=navsearch" novalidate="" autocomplete="off">
+                            <label><input placeholder="Search" type="text" class="PH-search-input" name="q" required="true"><span class="sr-only">Search Query</span></label>
+                            <button type="button" class="PH-search-close" aria-label="header-search-close-icon"><svg class="close-x"><use xlink:href="#close-x"></use></svg></button>
+                        </form>
+                    </div>
+                
+
+                
+
+                
+                    <div class="PH-donate-button gtm_donate" aria-label="header-donate-button">
+                        <svg class="heart"><use xlink:href="#heart"></use></svg>
+                        <a   href="https://afg.secureallegiance.com/kcbx/WebModule/Donate.aspx?P=DONATE&amp;PAGETYPE=PLG&amp;CHECK=8COsTukH9pEhrOSvjvOZaxiCxtaFReuS" class="Link"  target="_blank"   >Donate</a>
+                    </div>
+                
+            </div>
+    </div>
+
+    
+        <div class="PH-persistent-player">
+            
+                
+                    
+<ps-brightspot-persistent-player
+    class="BrightspotPersistentPlayer"
+     player-id="brightspot-player"
+    text-on-air="On Air"
+    text-playing="Now Playing"
+    
+    data-control-drawer-load-state
+>
+    <div class="BrightspotPersistentPlayer-player" data-player></div>
+    <div class="BrightspotPersistentPlayer-playerControls">
+        <button class="BrightspotPersistentPlayer-playerControls-control" data-control-play aria-label="persistent-player-play-button">
+            <svg class="play-icon">
+                <use xlink:href="#play-icon"></use>
+            </svg>
+        </button>
+        <button class="BrightspotPersistentPlayer-playerControls-control" data-control-pause aria-label="persistent-player-pause-button">
+            <svg class="pause-icon">
+                <use xlink:href="#pause-icon"></use>
+            </svg>
+        </button>
+    </div>
+    <div class="BrightspotPersistentPlayer-volumeControl">
+        <button class="BrightspotPersistentPlayer-volumeControl-toggle" data-control-volume-toggle aria-label="persistent-player-volume-button">
+            <svg class="volume-mute">
+                <use xlink:href="#volume-mute"></use>
+            </svg>
+            <svg class="volume-low">
+                <use xlink:href="#volume-low"></use>
+            </svg>
+            <svg class="volume-mid">
+                <use xlink:href="#volume-mid"></use>
+            </svg>
+            <svg class="volume-high">
+                <use xlink:href="#volume-high"></use>
+            </svg>
+        </button>
+        <div class="BrightspotPersistentPlayer-volumeControl-slider">
+            <div data-control-volume></div>
+        </div>
+    </div>
+    <div class="BrightspotPersistentPlayer-streamInfo">
+        <div class="BrightspotPersistentPlayer-name" data-stream-name></div>
+        <div class="BrightspotPersistentPlayer-programName" data-stream-program-name>
+            Play Live Radio
+        </div>
+    </div>
+    <div class="BrightspotPersistentPlayer-tabletDesktopExtraInfo">
+        <div class="BrightspotPersistentPlayer-schedule">
+            <span class="BrightspotPersistentPlayer-schedule-next">Next Up:</span>
+            <span class="BrightspotPersistentPlayer-schedule-startTime" data-schedule-start-time></span>
+            <span class="BrightspotPersistentPlayer-schedule-programName" data-schedule-program-name></span>
+        </div>
+        <div class="BrightspotPersistentPlayer-songInfo">
+            <span class="BrightspotPersistentPlayer-songInfo-text">
+                <span class="BrightspotPersistentPlayer-songInfo-textAlbumArtist">
+                    <span data-songinfo-album></span>
+                    <span data-songinfo-artist></span>
+                </span>
+                <span class="BrightspotPersistentPlayer-songInfo-textSong" data-songinfo-song></span>
+            </span>
+            <span class="BrightspotPersistentPlayer-songInfo-image" data-songinfo-image></span>
+        </div>
+        <div class="BrightspotPersistentPlayer-trackSlider">
+            <div class="BrightspotPersistentPlayer-trackSlider-currentTime" data-track-current-time>0:00</div>
+            <div class="BrightspotPersistentPlayer-trackSlider-wrapper">
+                <div class="BrightspotPersistentPlayer-trackSlider-slider" data-track-slider>
+                    <div class="BrightspotPersistentPlayer-trackSlider-thumb" data-track-thumb></div>
+                </div>
+            </div>
+            <div class="BrightspotPersistentPlayer-trackSlider-duration" data-track-duration>0:00</div>
+        </div>
+    </div>
+    
+    <div class="BrightspotPersistentPlayer-drawerOverlay" data-control-drawer-overlay></div>
+    <div class="BrightspotPersistentPlayer-drawer">
+        <div class="BrightspotPersistentPlayer-drawerHeading">
+            Available On Air Stations
+        </div>
+        <ul class="BrightspotPersistentPlayer-streamsList" data-streams-list>
+            
+                <li class="BrightspotPersistentPlayer-streamsList-item" data-first-stream>
+                    <ps-stream
+    data-stream-name="KCBX"
+    data-stream-id="stream-0000017b-5f72-d50a-a3ff-dff78d0b0000"
+    data-stream-ucsId="52ab2d80e1c86c43dc1c3454"
+    data-stream-program-name="Issues And Ideas"
+    
+    
+    
+    >
+
+    
+        
+            <ps-stream-url
+        data-stream-format="audio/mp4"
+        data-stream-url="https://kcbx-ice.streamguys1.com/kcbx-hi">
+</ps-stream-url>
+        
+    
+
+    <button class="Stream">
+        <span class="Stream-iconWrapper">
+            <svg class="Stream-icon">
+                <use xlink:href="#play-icon"></use>
+            </svg>
+            <svg class="Stream-iconPause">
+                <use xlink:href="#pause-icon"></use>
+            </svg>
+        </span>
+        <span class="Stream-text">
+            
+                <span class="Stream-status">
+                    
+                        <span class="Stream-statusTextOnAir">
+                            On Air
+                        </span>
+                    
+                    <span class="Stream-statusTextNowPlaying">
+                        Now Playing
+                    </span>
+                </span>
+            
+            
+            
+                
+                    <span class="Stream-name">KCBX</span>
+                
+            
+        </span>
+    </button>
+</ps-stream>
+                </li>
+            
+                <li class="BrightspotPersistentPlayer-streamsList-item">
+                    <ps-stream
+    data-stream-name="KCBX 2"
+    data-stream-id="stream-0000017b-5f72-d50a-a3ff-dff78d0b0001"
+    data-stream-ucsId="52ab2ec1e1c8d0501055d1d1"
+    data-stream-program-name="All Things Considered"
+    
+    
+    
+    >
+
+    
+        
+            <ps-stream-url
+        data-stream-format="audio/mp4"
+        data-stream-url="https://kcbx-ice.streamguys1.com/hd2">
+</ps-stream-url>
+        
+    
+
+    <button class="Stream">
+        <span class="Stream-iconWrapper">
+            <svg class="Stream-icon">
+                <use xlink:href="#play-icon"></use>
+            </svg>
+            <svg class="Stream-iconPause">
+                <use xlink:href="#pause-icon"></use>
+            </svg>
+        </span>
+        <span class="Stream-text">
+            
+                <span class="Stream-status">
+                    
+                        <span class="Stream-statusTextOnAir">
+                            On Air
+                        </span>
+                    
+                    <span class="Stream-statusTextNowPlaying">
+                        Now Playing
+                    </span>
+                </span>
+            
+            
+            
+                
+                    <span class="Stream-name">KCBX 2</span>
+                
+            
+        </span>
+    </button>
+</ps-stream>
+                </li>
+            
+        </ul>
+        
+        <button class="BrightspotPersistentPlayer-drawer-closeButton" data-control-drawer-close aria-label="persistent-player-drawer-close">
+            <svg class="close-x">
+                <use xlink:href="#close-x"></use>
+            </svg>
+        </button>
+    </div>
+    <div class="BrightspotPersistentPlayer-drawerControls">
+        <button class="BrightspotPersistentPlayer-drawerToggle" data-control-drawer aria-label="persistent-player-drawer-toggle">
+            <svg class="radio-stream">
+                <use xlink:href="#radio-stream"></use>
+            </svg>
+            <span class="BrightspotPersistentPlayer-drawerToggle-text">All Streams</span>
+            <svg class="drawer-mobile-trigger">
+                <use xlink:href="#drawer-mobile-trigger"></use>
+            </svg>
+        </button>
+    </div>
+    
+</ps-brightspot-persistent-player>
+
+                
+            
+        </div>
+    
+    
+        <div class="PH-nav-bar">
+            
+                <nav class="DropdownNavigation gtm_nav" itemscope itemtype="http://schema.org/SiteNavigationElement"
+    
+>
+    
+    
+        <ul class="DropdownNavigation-items">
+            
+                <li class="DropdownNavigation-items-item" ><div class="NavI"  data-group-navigation>
+    <div class="NavI-text gtm_nav_cat">
+        
+            <a class="NavI-text-link" href="https://www.kcbx.org/">Home</a>
+        
+    </div>
+    
+
+    
+</div></li>
+            
+                <li class="DropdownNavigation-items-item" ><div class="NavI" >
+    <div class="NavI-text gtm_nav_cat">
+        
+            <a class="NavI-text-link" href="https://www.kcbx.org/kcbx-radio-schedule">Schedules &amp; Playlists </a>
+        
+    </div>
+    
+        <div class="NavI-more">
+            <button aria-label="Open Sub Navigation"><svg class="chevron"><use xlink:href="#chevron"></use></svg></button>
+        </div>
+    
+
+    
+        <ul class="NavI-items">
+            
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/kcbx-radio-schedule">Schedule and Playlists </a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/hd2-radio-schedule">KCBX HD2 Schedule</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/weekly-program-highlights">Weekly Program Highlights</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/printable-schedules">Printable Schedules</a>
+</li>
+                
+            
+        </ul>
+        <ul class="NavI-items-placeholder">
+            
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/kcbx-radio-schedule">Schedule and Playlists </a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/hd2-radio-schedule">KCBX HD2 Schedule</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/weekly-program-highlights">Weekly Program Highlights</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/printable-schedules">Printable Schedules</a>
+</li>
+                
+            
+        </ul>
+    
+</div></li>
+            
+                <li class="DropdownNavigation-items-item" ><div class="NavI" >
+    <div class="NavI-text gtm_nav_cat">
+        
+            <a class="NavI-text-link" href="https://www.kcbx.org/all-shows">Programs </a>
+        
+    </div>
+    
+        <div class="NavI-more">
+            <button aria-label="Open Sub Navigation"><svg class="chevron"><use xlink:href="#chevron"></use></svg></button>
+        </div>
+    
+
+    
+        <ul class="NavI-items two-columns">
+            
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/all-shows">All Programs</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/news-and-talk-programs">News and Talk Programs</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/music-programs">Music Programs</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/entertainment-programs">Entertainment Programs</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/podcasts">Podcasts</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/on-demand-audio">On Demand</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/streaming-kcbx">Streaming Help</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/podcasts-and-rss-links">Subscribe to Podcasts &amp; RSS Feeds</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/weekly-program-highlights">Weekly Program Highlights</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://78c3f231.sibforms.com/serve/MUIEAAraMCN4ujbqE1qCzJ55VCqcNOdX2zSKCt0G6wiAC5X3rerQy1_s8w8tZrOggoOharBcOgDZaXgd4H2r00jwF9xocgR3gtCiprUsvsgApVR9N1WQS_tUIx16vY7LrLilESsvmbwNXyp-2AP3IcyhztVAsEuGt4Mx9Dp5KtDMgXiPL4RX-MU9UENNuNszmYoMdFUTt2H5q63L" target="_blank">KCBX Newsletters</a>
+</li>
+                
+            
+        </ul>
+        <ul class="NavI-items-placeholder">
+            
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/all-shows">All Programs</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/news-and-talk-programs">News and Talk Programs</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/music-programs">Music Programs</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/entertainment-programs">Entertainment Programs</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/podcasts">Podcasts</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/on-demand-audio">On Demand</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/streaming-kcbx">Streaming Help</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/podcasts-and-rss-links">Subscribe to Podcasts &amp; RSS Feeds</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/weekly-program-highlights">Weekly Program Highlights</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://78c3f231.sibforms.com/serve/MUIEAAraMCN4ujbqE1qCzJ55VCqcNOdX2zSKCt0G6wiAC5X3rerQy1_s8w8tZrOggoOharBcOgDZaXgd4H2r00jwF9xocgR3gtCiprUsvsgApVR9N1WQS_tUIx16vY7LrLilESsvmbwNXyp-2AP3IcyhztVAsEuGt4Mx9Dp5KtDMgXiPL4RX-MU9UENNuNszmYoMdFUTt2H5q63L" target="_blank">KCBX Newsletters</a>
+</li>
+                
+            
+        </ul>
+    
+</div></li>
+            
+                <li class="DropdownNavigation-items-item" ><div class="NavI" >
+    <div class="NavI-text gtm_nav_cat">
+        
+            <a class="NavI-text-link" href="https://www.kcbx.org/pledge-your-support">Support KCBX</a>
+        
+    </div>
+    
+        <div class="NavI-more">
+            <button aria-label="Open Sub Navigation"><svg class="chevron"><use xlink:href="#chevron"></use></svg></button>
+        </div>
+    
+
+    
+        <ul class="NavI-items two-columns">
+            
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/vehicle-donations">Vehicle Donation </a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://afg.secureallegiance.com/kcbx/WebModule/Donate.aspx?P=SUSTUPDATE&amp;PAGETYPE=PLG&amp;CHECK=VDBfMHiGnW44k2hH3sJuGL1YhDw50SikSh2nq0qouhg%3D" target="_blank">Increase or Change Your Sustaining Payment</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/other-ways-to-give">Other Ways to Give</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/volunteer">Volunteer</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/capacitors-club">Capacitors Club</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/endowment-fund">Endowment Fund</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/business-sponsors">Business Sponsors</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/business-sponsors-and-foundation-support">Sponsors &amp; Foundation Support</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/kcbx-partners-in-the-arts">Partners in the Arts </a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://docs.google.com/forms/d/e/1FAIpQLSe8Gx9OW-pF4jW82cNsz1SIlbw2t5JGqLqHx9YXM0kaWGowEA/viewform" target="_blank">Listener Survey</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/inspire-others-with-a-testimonial">Leave a testimonial </a>
+</li>
+                
+            
+        </ul>
+        <ul class="NavI-items-placeholder">
+            
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/vehicle-donations">Vehicle Donation </a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://afg.secureallegiance.com/kcbx/WebModule/Donate.aspx?P=SUSTUPDATE&amp;PAGETYPE=PLG&amp;CHECK=VDBfMHiGnW44k2hH3sJuGL1YhDw50SikSh2nq0qouhg%3D" target="_blank">Increase or Change Your Sustaining Payment</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/other-ways-to-give">Other Ways to Give</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/volunteer">Volunteer</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/capacitors-club">Capacitors Club</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/endowment-fund">Endowment Fund</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/business-sponsors">Business Sponsors</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/business-sponsors-and-foundation-support">Sponsors &amp; Foundation Support</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/kcbx-partners-in-the-arts">Partners in the Arts </a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://docs.google.com/forms/d/e/1FAIpQLSe8Gx9OW-pF4jW82cNsz1SIlbw2t5JGqLqHx9YXM0kaWGowEA/viewform" target="_blank">Listener Survey</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/inspire-others-with-a-testimonial">Leave a testimonial </a>
+</li>
+                
+            
+        </ul>
+    
+</div></li>
+            
+                <li class="DropdownNavigation-items-item" ><div class="NavI"  data-group-navigation>
+    <div class="NavI-text gtm_nav_cat">
+        
+            <a class="NavI-text-link" href="https://www.kcbx.org/community-calendar">Community Calendar</a>
+        
+    </div>
+    
+
+    
+</div></li>
+            
+                <li class="DropdownNavigation-items-item" ><div class="NavI" >
+    <div class="NavI-text gtm_nav_cat">
+        
+            <a class="NavI-text-link" href="https://www.kcbx.org/about-us">About </a>
+        
+    </div>
+    
+        <div class="NavI-more">
+            <button aria-label="Open Sub Navigation"><svg class="chevron"><use xlink:href="#chevron"></use></svg></button>
+        </div>
+    
+
+    
+        <ul class="NavI-items">
+            
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/how-to-communicate-with-us">Contact Us </a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/people-at-kcbx">People at KCBX</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/governance">Governance</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.liveoakfest.org/" target="_blank">Live Oak Music Festival</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.kcbx.org/employment-opportunities">Employment Opportunities</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.slocity.org/" target="_blank">CABLECast Partners</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="https://www.slocity.org/" target="_blank">San Luis Obispo</a>
+</li>
+                
+                    <li class="NavI-items-item gtm_nav_subcat" ><a class="NavigationLink" href="http://pismobeach.org/930/2019-Portal-Page" target="_blank">Pismo Beach</a>
+</li>
+                
+            
+        </ul>
+        <ul class="NavI-items-placeholder">
+            
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/how-to-communicate-with-us">Contact Us </a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/people-at-kcbx">People at KCBX</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/governance">Governance</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.liveoakfest.org/" target="_blank">Live Oak Music Festival</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.kcbx.org/employment-opportunities">Employment Opportunities</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.slocity.org/" target="_blank">CABLECast Partners</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="https://www.slocity.org/" target="_blank">San Luis Obispo</a>
+</li>
+                
+                    <li class="NavI-items-item"><a class="NavigationLink" href="http://pismobeach.org/930/2019-Portal-Page" target="_blank">Pismo Beach</a>
+</li>
+                
+            
+        </ul>
+    
+</div></li>
+            
+        </ul>
+    
+</nav>
+            
+        </div>
+    
+</ps-header>
+
+
+
+
+        
+    <div class="Page-above" ><div class="AdModule" >
+    
+    <ps-google-dfp-ad data-hide-on-mobile='true'>
+    <div id="googleAd169bdba5-bd57-4608-b378-89b57b817cfd" class="GoogleDfpAd " data-hide-on-mobile='true' data-slot-name="51273415/KCBX_leaderboard_1" data-slot-sizes="[[728, 90]]" data-slot-adSizeMap="[[[728, 1], [728, 90]]]" data-targeting-data="{&quot;id&quot;:&quot;0000017b-5f75-d50a-a3ff-dff73e620001&quot;,&quot;type&quot;:&quot;news-story&quot;,&quot;tags&quot;:[&quot;Fire&quot;,&quot;San Luis Obispo County&quot;,&quot;San Miguel&quot;,&quot;Monterey County&quot;,&quot;Parkfield&quot;,&quot;#parkfieldfire&quot;],&quot;programs&quot;:[]}" >
+        <span class="GoogleDfpAd-placeholder"></span>
+    </div>
+</ps-google-dfp-ad>
+
+</div>
+<div class="AdModule" >
+    
+    <ps-google-dfp-ad data-hide-on-desktop='true'>
+    <div id="googleAdcab5d17b-42a0-447e-8842-849de89689bb" class="GoogleDfpAd " data-hide-on-desktop='true' data-slot-name="51273415/KCBX_mobile_1" data-slot-sizes="[[320, 50]]" data-slot-adSizeMap="[[[360, 1], [320, 50]]]" data-targeting-data="{&quot;id&quot;:&quot;0000017b-5f75-d50a-a3ff-dff73e620001&quot;,&quot;type&quot;:&quot;news-story&quot;,&quot;tags&quot;:[&quot;Fire&quot;,&quot;San Luis Obispo County&quot;,&quot;San Miguel&quot;,&quot;Monterey County&quot;,&quot;Parkfield&quot;,&quot;#parkfieldfire&quot;],&quot;programs&quot;:[]}" >
+        <span class="GoogleDfpAd-placeholder"></span>
+    </div>
+</ps-google-dfp-ad>
+
+</div>
+</div>
+
+
+
+        
+
+        <div class="ArtP-content">
+            
+            <div class="ArtP-wrapper">
+                <main class="ArtP-main">
+                    <div class="ArtP-main-content">
+
+                        <article class="ArtP-mainContent">
+                            
+
+                                    <div class="ArtP-breadcrumbs-wrapper">
+    
+        
+    
+</div>
+
+
+
+                                
+                                
+    <h1 class="ArtP-headline">
+        Firefighters restraining Parkfield fire at 1,816 acres
+    </h1>
+
+
+
+                                <div class="ArtP-contentInfo">
+                                    <div class="ArtP-byline">
+                                        
+                                        
+                                            <div class="ArtP-bylineText">
+                                                <span class="ArtP-authorBy">
+                                                    KCBX | 
+
+                                                    By&nbsp;</span>Greta Mart
+                                            </div>
+                                        
+                                        <div class="ArtP-timestamp"><div class="ArtP-datePublished">
+        Published&nbsp;July 9, 2017 at 11:47 AM PDT
+    </div>
+    <meta content="2017-07-09T18:47:31Z">
+
+
+                                        </div>
+                                        
+
+                                    </div>
+
+                                    
+                                        <div class="ArtP-actions">
+                                            <ps-actionbar class="ActionBar">
+    <ul class="ActionBar-items">
+        
+            
+                <li class="ActionBar-items-item"> <a class="ActionLink gtm_share" data-platform="facebook" href="https://www.facebook.com/dialog/share?app_id=732065714793941&display=popup&href=https%3A%2F%2Fwww.kcbx.org%2Ffire%2F2017-07-09%2Ffirefighters-restraining-parkfield-fire-at-1-816-acres"
+    target="_blank" data-social-service="facebook">
+    <svg><use xlink:href="#mono-icon-facebook"></use></svg><span>Facebook</span>
+</a>
+</li>
+            
+        
+            
+                <li class="ActionBar-items-item"><a class="ActionLink gtm_share" data-platform="twitter" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kcbx.org%2Ffire%2F2017-07-09%2Ffirefighters-restraining-parkfield-fire-at-1-816-acres&text=Firefighters%20restraining%20Parkfield%20fire%20at%201%2C816%20acres"
+    target="_blank" data-social-service="twitter">
+    <svg><use xlink:href="#mono-icon-twitter" /></svg><span>Twitter</span>
+</a>
+</li>
+            
+        
+            
+                <li class="ActionBar-items-item"><a class="ActionLink gtm_share" data-platform="linkedin" href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.kcbx.org%2Ffire%2F2017-07-09%2Ffirefighters-restraining-parkfield-fire-at-1-816-acres&mini=true&title=Firefighters%20restraining%20Parkfield%20fire%20at%201%2C816%20acres&summary=On%20the%20same%20afternoon%20the%20Whittier%20Fire%20ignited%20near%20a%20summer%20camp%20in%20Santa%20Barbara%20County%2C%20another%20fire%20broke%20out%20east%20of%20San%20Miguel%2C%20on%20the%20border%20of%E2%80%A6&source=KCBX"
+    target="_blank" data-social-service="linkedin">
+    <svg><use xlink:href="#mono-icon-linkedin"></use></svg><span>LinkedIn</span>
+</a>
+</li>
+            
+        
+            
+                <li class="ActionBar-items-item"><a class="ActionLink gtm_share" data-platform="mailto" href="mailto:?body=Firefighters%20restraining%20Parkfield%20fire%20at%201%2C816%20acres%0A%0Ahttps%3A%2F%2Fwww.kcbx.org%2Ffire%2F2017-07-09%2Ffirefighters-restraining-parkfield-fire-at-1-816-acres%0A%0AOn%20the%20same%20afternoon%20the%20Whittier%20Fire%20ignited%20near%20a%20summer%20camp%20in%20Santa%20Barbara%20County%2C%20another%20fire%20broke%20out%20east%20of%20San%20Miguel%2C%20on%20the%20border%20of%E2%80%A6"
+    data-social-service="mailto">
+    <svg><use xlink:href="#icon-email"></use></svg><span>Email</span>
+</a>
+</li>
+            
+        
+    </ul>
+</ps-actionbar>
+
+                                        </div>
+                                    
+
+                                    
+                                </div>
+                                
+                                    
+                                        <div class="ArtP-lead"><ps-carousel class="Carousel">
+    <div class="Carousel-slides">
+        
+            <div class="Carousel-slide">
+                <div class="CarouselSlide" >
+    <div class="CarouselSlide-media">
+        
+            
+                <img class="Image CarouselSlide-media-image" alt="screen_shot_2017-07-09_at_12.25.35_pm.png"
+                    
+                     width="880" height="542"src="https://npr.brightspotcdn.com/dims4/default/a39c884/2147483647/strip/true/crop/826x509+44+0/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201707%2Fscreen_shot_2017-07-09_at_12.25.35_pm.png"
+                    
+                >
+            
+        
+    </div>
+    <div class="CarouselSlide-info">
+        <div class="CarouselSlide-numbers">
+            <span class="CarouselSlide-currentSlide">1</span> of <span class="CarouselSlide-slidesLength">2</span>
+            
+        </div>
+        
+            <div class="CarouselSlide-infoDescription">The Parkfield Fire burning on Saturday night.</div>
+        
+        
+            <div class="CarouselSlide-infoAttribution">Sophia Mathews/@MsPhias</div>
+        
+    </div>
+</div>
+
+            </div>
+        
+            <div class="Carousel-slide">
+                <div class="CarouselSlide" >
+    <div class="CarouselSlide-media">
+        
+            
+                <img class="Image CarouselSlide-media-image" alt="image1.JPG"
+                    
+                    
+                     data-flickity-lazyload="https://npr.brightspotcdn.com/dims4/default/8fc65f4/2147483647/strip/true/crop/640x394+0+43/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201707%2Fimage1.JPG"
+                    
+                >
+            
+        
+    </div>
+    <div class="CarouselSlide-info">
+        <div class="CarouselSlide-numbers">
+            <span class="CarouselSlide-currentSlide">2</span> of <span class="CarouselSlide-slidesLength">2</span>
+            
+        </div>
+        
+            <div class="CarouselSlide-infoDescription">John Mackey sent KCBX this photo taken from Mission Lane in San Miguel on Sunday. He says there are "still lots of units on standby in town," but the "worst seems over." </div>
+        
+        
+            <div class="CarouselSlide-infoAttribution">John Mackey</div>
+        
+    </div>
+</div>
+
+            </div>
+        
+    </div>
+</ps-carousel>
+</div>
+                                    
+                                
+                                
+
+                            
+
+                            
+
+                            <div class="ArtP-articleContainer">
+                                
+                                    <div class="ArtP-articleBody">
+                                        <p>On the same afternoon the Whittier Fire ignited near a summer camp in Santa Barbara County, another fire broke out east of San Miguel, on the border of rural eastern Monterey and San Luis Obispo counties.</p><p></p><p><i><b>UPDATE 7/10/17 8:20 a.m.: The Parkfield fire is now estimated to be 80 percent contained.&nbsp;</b></i></p><p><i><b>UPDATE 7/9/17 6:40 p.m.: Firefighters expect to have full containment by Monday morning.&nbsp;</b></i></p><p><b><i>UPDATE 7/9/17 1:40 a.m.: CalFire reports the fire has burned 1,816 acres and is 60 percent contained. Firefighters have stopped forward spread.</i></b></p><p>The fire started around 6:30 p.m. on Vineyard Canyon Road, west of the small town of Parkfield.</p><p>As of Sunday morning, the fire has burned 1,500 acres and CalFire said it is 30 percent contained. Evacuation warnings and orders have been lifted.</p>
+                                    </div>
+                                
+                                
+                            </div>
+                        </article>
+
+                        
+
+<div class="ArtP-tags">
+<span class="ArtP-tags-heading">Tags</span>
+    <div class="ArtP-tags-list"><a   href="https://www.kcbx.org/tags/fire" class="Link"   >Fire</a><a   href="https://www.kcbx.org/tags/san-luis-obispo-county" class="Link"   >San Luis Obispo County</a><a   href="https://www.kcbx.org/tags/san-miguel" class="Link"   >San Miguel</a><a   href="https://www.kcbx.org/tags/monterey-county" class="Link"   >Monterey County</a><a   href="https://www.kcbx.org/tags/parkfield" class="Link"   >Parkfield</a><a   href="https://www.kcbx.org/tags/parkfieldfire" class="Link"   >#parkfieldfire</a></div>
+</div>
+
+
+                        
+                            <div class="ArtP-actions">
+                                <ps-actionbar class="ActionBar">
+    <ul class="ActionBar-items">
+        
+            
+                <li class="ActionBar-items-item"> <a class="ActionLink gtm_share" data-platform="facebook" href="https://www.facebook.com/dialog/share?app_id=732065714793941&display=popup&href=https%3A%2F%2Fwww.kcbx.org%2Ffire%2F2017-07-09%2Ffirefighters-restraining-parkfield-fire-at-1-816-acres"
+    target="_blank" data-social-service="facebook">
+    <svg><use xlink:href="#mono-icon-facebook"></use></svg><span>Facebook</span>
+</a>
+</li>
+            
+        
+            
+                <li class="ActionBar-items-item"><a class="ActionLink gtm_share" data-platform="twitter" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kcbx.org%2Ffire%2F2017-07-09%2Ffirefighters-restraining-parkfield-fire-at-1-816-acres&text=Firefighters%20restraining%20Parkfield%20fire%20at%201%2C816%20acres"
+    target="_blank" data-social-service="twitter">
+    <svg><use xlink:href="#mono-icon-twitter" /></svg><span>Twitter</span>
+</a>
+</li>
+            
+        
+            
+                <li class="ActionBar-items-item"><a class="ActionLink gtm_share" data-platform="linkedin" href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.kcbx.org%2Ffire%2F2017-07-09%2Ffirefighters-restraining-parkfield-fire-at-1-816-acres&mini=true&title=Firefighters%20restraining%20Parkfield%20fire%20at%201%2C816%20acres&summary=On%20the%20same%20afternoon%20the%20Whittier%20Fire%20ignited%20near%20a%20summer%20camp%20in%20Santa%20Barbara%20County%2C%20another%20fire%20broke%20out%20east%20of%20San%20Miguel%2C%20on%20the%20border%20of%E2%80%A6&source=KCBX"
+    target="_blank" data-social-service="linkedin">
+    <svg><use xlink:href="#mono-icon-linkedin"></use></svg><span>LinkedIn</span>
+</a>
+</li>
+            
+        
+            
+                <li class="ActionBar-items-item"><a class="ActionLink gtm_share" data-platform="mailto" href="mailto:?body=Firefighters%20restraining%20Parkfield%20fire%20at%201%2C816%20acres%0A%0Ahttps%3A%2F%2Fwww.kcbx.org%2Ffire%2F2017-07-09%2Ffirefighters-restraining-parkfield-fire-at-1-816-acres%0A%0AOn%20the%20same%20afternoon%20the%20Whittier%20Fire%20ignited%20near%20a%20summer%20camp%20in%20Santa%20Barbara%20County%2C%20another%20fire%20broke%20out%20east%20of%20San%20Miguel%2C%20on%20the%20border%20of%E2%80%A6"
+    data-social-service="mailto">
+    <svg><use xlink:href="#icon-email"></use></svg><span>Email</span>
+</a>
+</li>
+            
+        
+    </ul>
+</ps-actionbar>
+
+                            </div>
+                        
+
+                        
+                            <div class="ArtP-bottomByline">
+                                
+                                
+                            </div>
+                        
+                    </div>
+                    
+
+                </main>
+
+                
+                    <aside class="ArtP-aside">
+                        <aside class="ArtP-aside-content">
+                            <div class="AdModule" >
+    
+    <ps-google-dfp-ad data-hide-on-mobile='true'>
+    <div id="googleAd9ecd0076-cab7-4220-abb9-7ae8d66f65ed" class="GoogleDfpAd " data-hide-on-mobile='true' data-slot-name="51273415/KCBX_medium_1" data-slot-sizes="[[300, 250]]" data-slot-adSizeMap="[[[300, 1], [300, 250]]]" data-targeting-data="{&quot;id&quot;:&quot;0000017b-5f75-d50a-a3ff-dff73e620001&quot;,&quot;type&quot;:&quot;news-story&quot;,&quot;tags&quot;:[&quot;Fire&quot;,&quot;San Luis Obispo County&quot;,&quot;San Miguel&quot;,&quot;Monterey County&quot;,&quot;Parkfield&quot;,&quot;#parkfieldfire&quot;],&quot;programs&quot;:[]}" >
+        <span class="GoogleDfpAd-placeholder"></span>
+    </div>
+</ps-google-dfp-ad>
+
+</div>
+<div class="AdModule" >
+    
+    <ps-google-dfp-ad data-hide-on-mobile='true'>
+    <div id="googleAd55c8ce33-4f0c-4936-ac5a-1c6a53d7799c" class="GoogleDfpAd " data-hide-on-mobile='true' data-slot-name="51273415/KCBX_medium_2" data-slot-sizes="[[300, 250]]" data-slot-adSizeMap="[[[300, 1], [300, 250]]]" data-targeting-data="{&quot;id&quot;:&quot;0000017b-5f75-d50a-a3ff-dff73e620001&quot;,&quot;type&quot;:&quot;news-story&quot;,&quot;tags&quot;:[&quot;Fire&quot;,&quot;San Luis Obispo County&quot;,&quot;San Miguel&quot;,&quot;Monterey County&quot;,&quot;Parkfield&quot;,&quot;#parkfieldfire&quot;],&quot;programs&quot;:[]}" >
+        <span class="GoogleDfpAd-placeholder"></span>
+    </div>
+</ps-google-dfp-ad>
+
+</div>
+<div class="PromoD"  data-content-type="oneOffPage" data-image-align="top"
+  style=" --promoBgColor: #ffffff;"
+>
+    
+        
+            
+                <div class="PromoD-media">
+                    
+                        <a  aria-label="Vehicle Donations" href="https://www.kcbx.org/vehicle-donations" class="Link"   ><picture>
+    
+    
+        
+            
+    
+            <source media="(max-width: 768px)"  type="image/webp"  width="420"
+     height="350"
+        data-srcset="https://npr.brightspotcdn.com/dims4/default/c3e8f51/2147483647/strip/true/crop/300x250+0+0/resize/840x700!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F93%2F67%2Feb7acd274d36ad7d6fb148b6f012%2Fpublic-media-makes-donating-your-vehicle-easy-300x250-green.png 2x"
+        loading="lazy"
+        srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSIzNTBweCIgd2lkdGg9IjQyMHB4Ij48L3N2Zz4="
+    data-size="fallbackImageSizeMobile"
+/>
+    
+
+    
+        <source media="(max-width: 768px)"  width="420"
+     height="350"
+        data-srcset="https://npr.brightspotcdn.com/dims4/default/71df6d3/2147483647/strip/true/crop/300x250+0+0/resize/420x350!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F93%2F67%2Feb7acd274d36ad7d6fb148b6f012%2Fpublic-media-makes-donating-your-vehicle-easy-300x250-green.png"
+        loading="lazy"
+        srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSIzNTBweCIgd2lkdGg9IjQyMHB4Ij48L3N2Zz4="
+    data-size="fallbackImageSizeMobile"
+/>
+    
+
+        
+    
+
+    
+    
+        
+            
+        
+    
+
+    
+    
+        
+            
+        
+    
+
+    
+    
+        
+            
+    
+            <source type="image/webp"  width="880"
+     height="733"
+        data-srcset="https://npr.brightspotcdn.com/dims4/default/8fc96c1/2147483647/strip/true/crop/300x250+0+0/resize/1760x1466!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F93%2F67%2Feb7acd274d36ad7d6fb148b6f012%2Fpublic-media-makes-donating-your-vehicle-easy-300x250-green.png 2x"
+        loading="lazy"
+        srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSI3MzNweCIgd2lkdGg9Ijg4MHB4Ij48L3N2Zz4="
+    data-size="fallbackImageSize"
+/>
+    
+
+    
+        <source width="880"
+     height="733"
+        data-srcset="https://npr.brightspotcdn.com/dims4/default/8b85a9f/2147483647/strip/true/crop/300x250+0+0/resize/880x733!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F93%2F67%2Feb7acd274d36ad7d6fb148b6f012%2Fpublic-media-makes-donating-your-vehicle-easy-300x250-green.png"
+        loading="lazy"
+        srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSI3MzNweCIgd2lkdGg9Ijg4MHB4Ij48L3N2Zz4="
+    data-size="fallbackImageSize"
+/>
+    
+
+        
+    
+
+    
+    <img class="Image" alt="Public Media_Makes donating your vehicle easy_300x250_Green.png" srcset="https://npr.brightspotcdn.com/dims4/default/a9489b7/2147483647/strip/true/crop/300x250+0+0/resize/1760x1466!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F93%2F67%2Feb7acd274d36ad7d6fb148b6f012%2Fpublic-media-makes-donating-your-vehicle-easy-300x250-green.png 2x" width="880" height="733"
+            data-src="https://npr.brightspotcdn.com/dims4/default/8b85a9f/2147483647/strip/true/crop/300x250+0+0/resize/880x733!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F93%2F67%2Feb7acd274d36ad7d6fb148b6f012%2Fpublic-media-makes-donating-your-vehicle-easy-300x250-green.png"
+            loading="lazy"
+            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSI3MzNweCIgd2lkdGg9Ijg4MHB4Ij48L3N2Zz4="
+        >
+
+
+</picture></a>
+                    
+                </div>
+            
+        
+    
+
+   
+
+    
+</div><div class="AdModule" >
+    
+    <ps-google-dfp-ad data-hide-on-mobile='true'>
+    <div id="googleAdc6bb9dd2-691b-4348-90aa-e83bcad6e5bf" class="GoogleDfpAd " data-hide-on-mobile='true' data-slot-name="51273415/KCBX_medium_3" data-slot-sizes="[[300, 250]]" data-slot-adSizeMap="[[[300, 1], [300, 250]]]" data-targeting-data="{&quot;id&quot;:&quot;0000017b-5f75-d50a-a3ff-dff73e620001&quot;,&quot;type&quot;:&quot;news-story&quot;,&quot;tags&quot;:[&quot;Fire&quot;,&quot;San Luis Obispo County&quot;,&quot;San Miguel&quot;,&quot;Monterey County&quot;,&quot;Parkfield&quot;,&quot;#parkfieldfire&quot;],&quot;programs&quot;:[]}" >
+        <span class="GoogleDfpAd-placeholder"></span>
+    </div>
+</ps-google-dfp-ad>
+
+</div>
+
+                        </aside>
+                    </aside>
+                
+            </div>
+        </div>
+
+        
+    <div class="Page-below" ><div class="">
+    
+        <div class="OneColumnContainer">
+    <div class="OneColumnContainer-row">
+        
+            <div class="OneColumnContainer-column">
+                
+    
+        <ps-list-loadmore class="ListE" >
+            <div class="ListE-header" >
+    
+        <div class="ListE-header-title">Related Content</div>
+    
+</div>
+
+
+            
+                <ul class="ListE-items" data-list-loadmore-items>
+                    
+                    <li class="ListE-items-item">
+                        <ps-promo class="PromoA"  data-list="listE" data-content-type="news-story">
+    
+        <div class="PromoA-media">
+            
+                
+                    <a  aria-label="Update: Alamo Fire 100% contained" href="https://www.kcbx.org/fire/2017-07-20/update-alamo-fire-100-contained" class="Link"   ><picture>
+    
+    
+        
+            
+        
+    
+
+    
+    
+        
+            
+        
+    
+
+    
+    
+        
+            
+        
+    
+
+    
+    
+        
+            
+    
+            <source type="image/webp"  width="280"
+     height="156"
+        data-srcset="https://npr.brightspotcdn.com/dims4/default/a6e86fe/2147483647/strip/true/crop/1010x563+0+11/resize/560x312!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201707%2Fscreen_shot_2017-07-07_at_4.45.25_pm.png 2x"
+        loading="lazy"
+        srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSIxNTZweCIgd2lkdGg9IjI4MHB4Ij48L3N2Zz4="
+    data-size="promoSmall"
+/>
+    
+
+    
+        <source width="280"
+     height="156"
+        data-srcset="https://npr.brightspotcdn.com/dims4/default/15c0bee/2147483647/strip/true/crop/1010x563+0+11/resize/280x156!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201707%2Fscreen_shot_2017-07-07_at_4.45.25_pm.png"
+        loading="lazy"
+        srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSIxNTZweCIgd2lkdGg9IjI4MHB4Ij48L3N2Zz4="
+    data-size="promoSmall"
+/>
+    
+
+        
+    
+
+    
+    <img class="Image" alt="screen_shot_2017-07-07_at_4.45.25_pm.png" srcset="https://npr.brightspotcdn.com/dims4/default/8dd3b72/2147483647/strip/true/crop/1010x563+0+11/resize/560x312!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201707%2Fscreen_shot_2017-07-07_at_4.45.25_pm.png 2x" width="280" height="156"
+            data-src="https://npr.brightspotcdn.com/dims4/default/15c0bee/2147483647/strip/true/crop/1010x563+0+11/resize/280x156!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201707%2Fscreen_shot_2017-07-07_at_4.45.25_pm.png"
+            loading="lazy"
+            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSIxNTZweCIgd2lkdGg9IjI4MHB4Ij48L3N2Zz4="
+        >
+
+
+</picture></a>
+                
+            
+        </div>
+    
+
+    <div class="PromoA-content">
+        
+        
+    <div class="PromoA-title">
+        <a   href="https://www.kcbx.org/fire/2017-07-20/update-alamo-fire-100-contained" class="Link"   >Update: Alamo Fire 100% contained</a>
+    </div>
+
+        
+    <div class="PromoA-byline">
+        
+        
+            <div class="PromoA-date"><div class="PromoA-timestamp" data-timestamp="1500579302000"
+            data-date="July 20, 2017 at 12:35 PM PDT" data-promo-date="July 20, 2017"></div></div>
+        
+    </div>
+
+        
+            <div class="PromoA-description">The Alamo Fire burned for two weeks near the Twitchell Dam east of Santa Maria. On Thursday, CalFire reported firefighters have totally contained the…</div>
+        
+        
+    </div>
+</ps-promo>
+
+                    </li>
+                    
+                    <li class="ListE-items-item">
+                        <ps-promo class="PromoA"  data-list="listE" data-content-type="news-story">
+    
+        <div class="PromoA-media">
+            
+                
+                    <a  aria-label="Whittier Fire Update: 87 percent containment" href="https://www.kcbx.org/fire/2017-07-23/whittier-fire-update-87-percent-containment" class="Link"   ><picture>
+    
+    
+        
+            
+        
+    
+
+    
+    
+        
+            
+        
+    
+
+    
+    
+        
+            
+        
+    
+
+    
+    
+        
+            
+    
+            <source type="image/webp"  width="280"
+     height="156"
+        data-srcset="https://npr.brightspotcdn.com/dims4/default/6d8ba3e/2147483647/strip/true/crop/4928x2746+0+259/resize/560x312!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201707%2F_DSC0643.jpg 2x"
+        loading="lazy"
+        srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSIxNTZweCIgd2lkdGg9IjI4MHB4Ij48L3N2Zz4="
+    data-size="promoSmall"
+/>
+    
+
+    
+        <source width="280"
+     height="156"
+        data-srcset="https://npr.brightspotcdn.com/dims4/default/dd77503/2147483647/strip/true/crop/4928x2746+0+259/resize/280x156!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201707%2F_DSC0643.jpg"
+        loading="lazy"
+        srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSIxNTZweCIgd2lkdGg9IjI4MHB4Ij48L3N2Zz4="
+    data-size="promoSmall"
+/>
+    
+
+        
+    
+
+    
+    <img class="Image" alt="_DSC0643.jpg" srcset="https://npr.brightspotcdn.com/dims4/default/5688d22/2147483647/strip/true/crop/4928x2746+0+259/resize/560x312!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201707%2F_DSC0643.jpg 2x" width="280" height="156"
+            data-src="https://npr.brightspotcdn.com/dims4/default/dd77503/2147483647/strip/true/crop/4928x2746+0+259/resize/280x156!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201707%2F_DSC0643.jpg"
+            loading="lazy"
+            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSIxNTZweCIgd2lkdGg9IjI4MHB4Ij48L3N2Zz4="
+        >
+
+
+</picture></a>
+                
+            
+        </div>
+    
+
+    <div class="PromoA-content">
+        
+        
+    <div class="PromoA-title">
+        <a   href="https://www.kcbx.org/fire/2017-07-23/whittier-fire-update-87-percent-containment" class="Link"   >Whittier Fire Update: 87 percent containment</a>
+    </div>
+
+        
+    <div class="PromoA-byline">
+        
+        
+            <div class="PromoA-date"><div class="PromoA-timestamp" data-timestamp="1500863739000"
+            data-date="July 23, 2017 at 7:35 PM PDT" data-promo-date="July 23, 2017"></div></div>
+        
+    </div>
+
+        
+            <div class="PromoA-description">The wildfire that ignited July 8 near Lake Cachuma has burned 29 square miles as of Sunday. Fire officials report the Whittier Fire is now 87 percent…</div>
+        
+        
+    </div>
+</ps-promo>
+
+                    </li>
+                    
+                </ul>
+            
+
+            
+                <div class="ListE-nextPage" data-list-loadmore-pagination>
+                    <a class="Link" href="?00000178-f9e6-dfbe-a179-f9eea2ef0002-p=2" rel="nofollow">Load More</a>
+                </div>
+            
+        </ps-list-loadmore>
+    
+
+
+            </div>
+        
+    </div>
+</div>
+
+    
+</div>
+</div>
+
+
+
+        
+
+    <footer class="Page-footer" data-default>
+    <div class="Page-footer-content">
+        <div class="Page-footer-site-info">
+            
+                <div class="Page-footer-logo"><a aria-label="home page" href="/"  >
+    
+        
+            <picture>
+    
+    
+        
+            
+        
+    
+
+    
+    
+        
+            
+        
+    
+
+    
+    
+        
+            
+        
+    
+
+    
+    
+        
+            
+    
+            <source type="image/webp"  width="171"
+     height="55"
+        data-srcset="https://npr.brightspotcdn.com/dims4/default/35b7aea/2147483647/strip/true/crop/171x55+0+0/resize/342x110!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201505%2Fkcbx_footer.png 2x"
+        loading="lazy"
+        srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSI1NXB4IiB3aWR0aD0iMTcxcHgiPjwvc3ZnPg=="
+    data-size="siteLogo"
+/>
+    
+
+    
+        <source width="171"
+     height="55"
+        data-srcset="https://npr.brightspotcdn.com/dims4/default/9b57144/2147483647/strip/true/crop/171x55+0+0/resize/171x55!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201505%2Fkcbx_footer.png"
+        loading="lazy"
+        srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSI1NXB4IiB3aWR0aD0iMTcxcHgiPjwvc3ZnPg=="
+    data-size="siteLogo"
+/>
+    
+
+        
+    
+
+    
+    <img class="Image" alt="" srcset="https://npr.brightspotcdn.com/dims4/default/f347620/2147483647/strip/true/crop/171x55+0+0/resize/342x110!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201505%2Fkcbx_footer.png 2x" width="171" height="55"
+            data-src="https://npr.brightspotcdn.com/dims4/default/9b57144/2147483647/strip/true/crop/171x55+0+0/resize/171x55!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201505%2Fkcbx_footer.png"
+            loading="lazy"
+            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSI1NXB4IiB3aWR0aD0iMTcxcHgiPjwvc3ZnPg=="
+        >
+
+
+</picture>
+        
+    
+    </a>
+</div>
+            
+            
+                <div class="Page-footer-social"><div class="SocialBar">
+    <div class="SocialBar-heading">Stay Connected</div>
+
+    
+        <ul class="SocialBar-items">
+            
+                <li class="SocialBar-items-item"> <a class="SocialLink gtm_share" rel="noreferrer" href="https://twitter.com/KCBXFM" target="_blank" data-social-service="twitter" data-platform="twitter"><svg><use xlink:href="#mono-icon-twitter"></use></svg><span class="sr-only">twitter</span></a>
+</li>
+            
+                <li class="SocialBar-items-item"> <a class="SocialLink gtm_share" rel="noreferrer" href="https://www.instagram.com/kcbxfm/" target="_blank" data-social-service="instagram" data-platform="instagram"><svg><use xlink:href="#mono-icon-instagram"></use></svg><span class="sr-only">instagram</span></a>
+</li>
+            
+                <li class="SocialBar-items-item"> <a class="SocialLink gtm_share" rel="noreferrer" href="https://www.facebook.com/KCBXFM" target="_blank" data-social-service="facebook" data-platform="facebook"><svg><use xlink:href="#mono-icon-facebook"></use></svg><span class="sr-only">facebook</span></a>
+</li>
+            
+        </ul>
+    
+</div>
+</div>
+            
+            
+                <div class="Page-footer-disclaimer">© 2023 KCBX</div>
+            
+        </div>
+
+        
+            <div class="Page-footer-columns">
+                <nav class="FooterNavigation gtm_nav" data-num-columns="three">
+    
+        <ul class="FooterNavigation-items">
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    <div class="FooterNavigationItem-text">
+        
+            <span>PUBLIC FILES &amp; REPORTS</span>
+        
+    </div>
+
+    
+        <ul class="FooterNavigationItem-items">
+            
+                <li class="FooterNavigationItem-items-item gtm_nav_cat"><a class="NavigationLink" href="https://www.kcbx.org/equal-employment-opportunity-program">EEO Report</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item gtm_nav_cat"><a class="NavigationLink" href="https://www.kcbx.org/governance">KCBX, KNBX, KNBX Public Files</a>
+</li>
+            
+        </ul>
+    
+</div>
+                </li>
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    <div class="FooterNavigationItem-text">
+        
+            <span></span>
+        
+    </div>
+
+    
+</div>
+                </li>
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    <div class="FooterNavigationItem-text">
+        
+            <span>SUPPORT KCBX</span>
+        
+    </div>
+
+    
+        <ul class="FooterNavigationItem-items">
+            
+                <li class="FooterNavigationItem-items-item gtm_nav_cat"><a class="NavigationLink" href="https://afg.secureallegiance.com/kcbx/WebModule/Donate.aspx?P=DONATE&amp;PAGETYPE=PLG&amp;CHECK=8COsTukH9pEhrOSvjvOZaxiCxtaFReuS" target="_blank">Donate</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item gtm_nav_cat"><a class="NavigationLink" href="https://www.kcbx.org/vehicle-donations">Vehicle Donations</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item gtm_nav_cat"><a class="NavigationLink" href="https://www.kcbx.org/business-sponsors-and-foundation-support">Underwriting</a>
+</li>
+            
+        </ul>
+    
+</div>
+                </li>
+            
+        </ul>
+    
+</nav>
+            </div>
+        
+
+    </div>
+    
+        <div class="Page-footer-branding">
+            
+                <div class="ListLogos"  data-no-media>
+    
+        <ul class="ListLogos-items">
+            
+                <li class="ListLogos-items-item">
+                    <div class="PromoLogo">
+    
+        <div class="PromoLogo-media">
+        
+            
+                <a   href="https://npr.org " class="Link"  target="_blank"   ><picture>
+    
+    
+        
+            
+    
+            <source media="(max-width: 768px)"  type="image/webp"  width="80"
+     height="30"
+        data-srcset="https://npr.brightspotcdn.com/dims4/default/c3dd5d1/2147483647/strip/true/crop/2400x901+0+0/resize/160x60!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F30%2F61%2F2fc80b7a467cba1169023a26262e%2Fnprlogo-whiteoutline.png 2x"
+        loading="lazy"
+        srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSIzMHB4IiB3aWR0aD0iODBweCI+PC9zdmc+"
+    data-size="partnerLogoMobile"
+/>
+    
+
+    
+        <source media="(max-width: 768px)"  width="80"
+     height="30"
+        data-srcset="https://npr.brightspotcdn.com/dims4/default/78f4c38/2147483647/strip/true/crop/2400x901+0+0/resize/80x30!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F30%2F61%2F2fc80b7a467cba1169023a26262e%2Fnprlogo-whiteoutline.png"
+        loading="lazy"
+        srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSIzMHB4IiB3aWR0aD0iODBweCI+PC9zdmc+"
+    data-size="partnerLogoMobile"
+/>
+    
+
+        
+    
+
+    
+    
+        
+            
+        
+    
+
+    
+    
+        
+            
+        
+    
+
+    
+    
+        
+            
+    
+            <source type="image/webp"  width="133"
+     height="50"
+        data-srcset="https://npr.brightspotcdn.com/dims4/default/0e219ac/2147483647/strip/true/crop/2400x901+0+0/resize/266x100!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F30%2F61%2F2fc80b7a467cba1169023a26262e%2Fnprlogo-whiteoutline.png 2x"
+        loading="lazy"
+        srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSI1MHB4IiB3aWR0aD0iMTMzcHgiPjwvc3ZnPg=="
+    data-size="partnerLogo"
+/>
+    
+
+    
+        <source width="133"
+     height="50"
+        data-srcset="https://npr.brightspotcdn.com/dims4/default/8e8c6a9/2147483647/strip/true/crop/2400x901+0+0/resize/133x50!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F30%2F61%2F2fc80b7a467cba1169023a26262e%2Fnprlogo-whiteoutline.png"
+        loading="lazy"
+        srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSI1MHB4IiB3aWR0aD0iMTMzcHgiPjwvc3ZnPg=="
+    data-size="partnerLogo"
+/>
+    
+
+        
+    
+
+    
+    <img class="Image" alt="NPRLogo_WhiteOutline.png" srcset="https://npr.brightspotcdn.com/dims4/default/371bd62/2147483647/strip/true/crop/2400x901+0+0/resize/266x100!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F30%2F61%2F2fc80b7a467cba1169023a26262e%2Fnprlogo-whiteoutline.png 2x" width="133" height="50"
+            data-src="https://npr.brightspotcdn.com/dims4/default/8e8c6a9/2147483647/strip/true/crop/2400x901+0+0/resize/133x50!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F30%2F61%2F2fc80b7a467cba1169023a26262e%2Fnprlogo-whiteoutline.png"
+            loading="lazy"
+            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSI1MHB4IiB3aWR0aD0iMTMzcHgiPjwvc3ZnPg=="
+        >
+
+
+</picture></a>
+            
+        
+        </div>
+    
+</div>
+
+                </li>
+            
+                <li class="ListLogos-items-item">
+                    <div class="PromoLogo">
+    
+        <div class="PromoLogo-media">
+        
+            
+                <a   href="http://prx.org/" class="Link"  target="_blank"   ><picture>
+    
+    
+        
+            
+    
+            <source media="(max-width: 768px)"  type="image/webp"  width="50"
+     height="30"
+        data-srcset="https://npr.brightspotcdn.com/dims4/default/2e1cc73/2147483647/strip/true/crop/92x55+0+0/resize/100x60!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201505%2Fprx.png 2x"
+        loading="lazy"
+        srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSIzMHB4IiB3aWR0aD0iNTBweCI+PC9zdmc+"
+    data-size="partnerLogoMobile"
+/>
+    
+
+    
+        <source media="(max-width: 768px)"  width="50"
+     height="30"
+        data-srcset="https://npr.brightspotcdn.com/dims4/default/be44227/2147483647/strip/true/crop/92x55+0+0/resize/50x30!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201505%2Fprx.png"
+        loading="lazy"
+        srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSIzMHB4IiB3aWR0aD0iNTBweCI+PC9zdmc+"
+    data-size="partnerLogoMobile"
+/>
+    
+
+        
+    
+
+    
+    
+        
+            
+        
+    
+
+    
+    
+        
+            
+        
+    
+
+    
+    
+        
+            
+    
+            <source type="image/webp"  width="84"
+     height="50"
+        data-srcset="https://npr.brightspotcdn.com/dims4/default/4158000/2147483647/strip/true/crop/92x55+0+0/resize/168x100!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201505%2Fprx.png 2x"
+        loading="lazy"
+        srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSI1MHB4IiB3aWR0aD0iODRweCI+PC9zdmc+"
+    data-size="partnerLogo"
+/>
+    
+
+    
+        <source width="84"
+     height="50"
+        data-srcset="https://npr.brightspotcdn.com/dims4/default/1ffe82f/2147483647/strip/true/crop/92x55+0+0/resize/84x50!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201505%2Fprx.png"
+        loading="lazy"
+        srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSI1MHB4IiB3aWR0aD0iODRweCI+PC9zdmc+"
+    data-size="partnerLogo"
+/>
+    
+
+        
+    
+
+    
+    <img class="Image" alt="prx.png" srcset="https://npr.brightspotcdn.com/dims4/default/1aa6e52/2147483647/strip/true/crop/92x55+0+0/resize/168x100!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201505%2Fprx.png 2x" width="84" height="50"
+            data-src="https://npr.brightspotcdn.com/dims4/default/1ffe82f/2147483647/strip/true/crop/92x55+0+0/resize/84x50!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkcbx%2Ffiles%2F201505%2Fprx.png"
+            loading="lazy"
+            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSI1MHB4IiB3aWR0aD0iODRweCI+PC9zdmc+"
+        >
+
+
+</picture></a>
+            
+        
+        </div>
+    
+</div>
+
+                </li>
+            
+                <li class="ListLogos-items-item">
+                    <div class="PromoLogo">
+    
+        <div class="PromoLogo-media">
+        
+            
+                <a   href="https://www.americanpublicmedia.org/" class="Link"  target="_blank"   ><picture>
+    
+    
+        
+            
+    
+            <source media="(max-width: 768px)"  type="image/webp"  width="100"
+     height="19"
+        data-srcset="https://npr.brightspotcdn.com/dims4/default/a713406/2147483647/strip/true/crop/845x159+0+0/resize/200x38!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F23%2F6b%2Feabb7147420ca42f6de4b28f2e79%2Fapm-single-stacked-no-padding.png 2x"
+        loading="lazy"
+        srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSIxOXB4IiB3aWR0aD0iMTAwcHgiPjwvc3ZnPg=="
+    data-size="partnerLogoMobile"
+/>
+    
+
+    
+        <source media="(max-width: 768px)"  width="100"
+     height="19"
+        data-srcset="https://npr.brightspotcdn.com/dims4/default/48f3670/2147483647/strip/true/crop/845x159+0+0/resize/100x19!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F23%2F6b%2Feabb7147420ca42f6de4b28f2e79%2Fapm-single-stacked-no-padding.png"
+        loading="lazy"
+        srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSIxOXB4IiB3aWR0aD0iMTAwcHgiPjwvc3ZnPg=="
+    data-size="partnerLogoMobile"
+/>
+    
+
+        
+    
+
+    
+    
+        
+            
+        
+    
+
+    
+    
+        
+            
+        
+    
+
+    
+    
+        
+            
+    
+            <source type="image/webp"  width="200"
+     height="38"
+        data-srcset="https://npr.brightspotcdn.com/dims4/default/b0f17cf/2147483647/strip/true/crop/845x159+0+0/resize/400x76!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F23%2F6b%2Feabb7147420ca42f6de4b28f2e79%2Fapm-single-stacked-no-padding.png 2x"
+        loading="lazy"
+        srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSIzOHB4IiB3aWR0aD0iMjAwcHgiPjwvc3ZnPg=="
+    data-size="partnerLogo"
+/>
+    
+
+    
+        <source width="200"
+     height="38"
+        data-srcset="https://npr.brightspotcdn.com/dims4/default/cf6fd34/2147483647/strip/true/crop/845x159+0+0/resize/200x38!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F23%2F6b%2Feabb7147420ca42f6de4b28f2e79%2Fapm-single-stacked-no-padding.png"
+        loading="lazy"
+        srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSIzOHB4IiB3aWR0aD0iMjAwcHgiPjwvc3ZnPg=="
+    data-size="partnerLogo"
+/>
+    
+
+        
+    
+
+    
+    <img class="Image" alt="APM_single_stacked_no_padding.png" srcset="https://npr.brightspotcdn.com/dims4/default/78c35e4/2147483647/strip/true/crop/845x159+0+0/resize/400x76!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F23%2F6b%2Feabb7147420ca42f6de4b28f2e79%2Fapm-single-stacked-no-padding.png 2x" width="200" height="38"
+            data-src="https://npr.brightspotcdn.com/dims4/default/cf6fd34/2147483647/strip/true/crop/845x159+0+0/resize/200x38!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F23%2F6b%2Feabb7147420ca42f6de4b28f2e79%2Fapm-single-stacked-no-padding.png"
+            loading="lazy"
+            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgaGVpZ2h0PSIzOHB4IiB3aWR0aD0iMjAwcHgiPjwvc3ZnPg=="
+        >
+
+
+</picture></a>
+            
+        
+        </div>
+    
+</div>
+
+                </li>
+            
+        </ul>
+    
+</div>
+            
+        </div>
+    
+</footer>
+
+
+
+        
+    </body>
+</html>

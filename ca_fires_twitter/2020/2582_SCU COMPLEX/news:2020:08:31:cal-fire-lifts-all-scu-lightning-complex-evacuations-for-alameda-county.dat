@@ -1,0 +1,833 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Cal Fire lifts all SCU Lightning Complex evacuations for Alameda County | News | DanvilleSanRamon.com |</title>
+
+<script src="/cdn-cgi/apps/head/OSplxOcADAjMiQnfHTCKvP1egss.js"></script><script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+
+<meta name="description" content="Cal Fire lifted its evacuation orders in Alameda and Santa Clara counties Monday after firefighters made progress in containing the SCU Lightning Complex fires. ">
+<meta name="author" content="Bay City News Service">
+<meta property="fb:app_id" content="617912501565820" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@DanvilleSanRamo" />
+<meta property="og:url" content="https://www.danvillesanramon.com/news/2020/08/31/cal-fire-lifts-all-scu-lightning-complex-evacuations-for-alameda-county" />
+<meta property="og:title" content="Cal Fire lifts all SCU Lightning Complex evacuations for Alameda County" />
+<meta property="og:description" content="Cal Fire lifted its evacuation orders in Alameda and Santa Clara counties Monday after firefighters made progress in containing the SCU Lightning Complex fires. " />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://www.danvillesanramon.com/art/local_news_icon.jpg" />
+<meta name="robots" content="max-image-preview:large">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<link media="screen" rel="stylesheet" href="//www.embarcaderopublishing.com/colorbox/colorbox.css?v=8" />
+<script type="text/javascript" src="//www.embarcaderopublishing.com/colorbox/jquery.colorbox.js"></script>
+<script type="text/javascript" src="//www.embarcaderopublishing.com/class/ajax.js?v=8"></script>
+<script type="text/javascript" src="//www.embarcaderopublishing.com/js/hide_slide.js?v=8"></script>
+<script type="text/javascript" src="//www.embarcaderopublishing.com/js/cookie.js?v=8"></script>
+<script type="text/javascript" src="//www.embarcaderopublishing.com/js/login_scripts.js?v=8"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+dataLayer.push({'story_tags': ''});</script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WJSRV8H');</script>
+<script type="application/javascript">
+	function retry(isDone, next) {
+		var current_trial = 0, max_retry = 50, interval = 10, is_timeout = false;
+		var id = window.setInterval(
+			function() {
+				if (isDone()) {
+					window.clearInterval(id);
+					next(is_timeout);
+				}
+				if (current_trial++ > max_retry) {
+					window.clearInterval(id);
+					is_timeout = true;
+					next(is_timeout);
+				}
+			},
+			10
+		);
+	}
+
+	function isIE10OrLater(user_agent) {
+		var ua = user_agent.toLowerCase();
+		if (ua.indexOf('msie') === 0 && ua.indexOf('trident') === 0) {
+			return false;
+		}
+		var match = /(?:msie|rv:|Edge)[\s|\/]?([\d\.]+)/.exec(ua); // detect Project Spartan too
+		if (match && parseInt(match[1], 10) >= 10) {
+			return true;
+		}
+		return false;
+	}
+
+	function detectPrivateMode(callback) {
+		var is_private;
+
+		if (window.webkitRequestFileSystem) {
+			window.webkitRequestFileSystem(
+				window.TEMPORARY, 1,
+				function() {
+					is_private = false;
+				},
+				function(e) {
+					console.log(e);
+					is_private = true;
+				}
+			);
+		} else if (window.indexedDB && /Firefox/.test(window.navigator.userAgent)) {
+			var db;
+			try {
+				db = window.indexedDB.open('test');
+			} catch(e) {
+				is_private = true;
+			}
+
+			if (typeof is_private === 'undefined') {
+				retry(
+					function isDone() {
+						return db.readyState === 'done' ? true : false;
+					},
+					function next(is_timeout) {
+						if (!is_timeout) {
+							is_private = db.result ? false : true;
+						}
+					}
+				);
+			}
+		} else if (isIE10OrLater(window.navigator.userAgent)) {
+			is_private = false;
+			try {
+				if (!window.indexedDB) {
+					is_private = true;
+				}                 
+			} catch (e) {
+				is_private = true;
+			}
+		} else if (window.localStorage && /Safari/.test(window.navigator.userAgent)) {
+			try {
+				window.localStorage.setItem('test', 1);
+			} catch(e) {
+				is_private = true;
+			}
+
+			if (typeof is_private === 'undefined') {
+				is_private = false;
+				window.localStorage.removeItem('test');
+			}
+		}
+
+		retry(
+			function isDone() {
+				return typeof is_private !== 'undefined' ? true : false;
+			},
+			function next(is_timeout) {
+				callback(is_private);
+			}
+		);
+	}
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-440011-6']);
+
+  // set custom variables
+  
+  _gaq.push(['_trackPageview']);
+_gaq.push(['_setCustomVar',
+								      2,             // This custom var is set to slot #1.  Required parameter.
+								      'User Type',   // The name of the custom variable.  Required parameter.
+								      'Visitor',      // Sets the value of "User Type" to "Subscriber", "User" or "Visitor" depending on status.  Required parameter.
+								       1             // Sets the scope to session-level.  Optional parameter.
+								   ]);
+						_gaq.push(['_setCustomVar',
+								      3,             // This custom var is set to slot #1.  Required parameter.
+								      'Unlocked',   // The name of the custom variable.  Required parameter.
+								      'Viewed',      // Sets the value of "Unlocked" to "Viewed" or "Blocked" depending on status.  Required parameter.
+								       1             // Sets the scope to session-level.  Optional parameter.
+								   ]);
+						_gaq.push(['_setCustomVar',
+								      4,             // This custom var is set to slot #1.  Required parameter.
+								      'Meter Count',   // The name of the custom variable.  Required parameter.
+								      '1',      // Sets the value of "Unlocked" to "Viewed", "Blocked" or depending on status.  Required parameter.
+								       1             // Sets the scope to session-level.  Optional parameter.
+								   ]);  (function() {
+    detectPrivateMode(
+        function(is_private) {
+            typeof is_private === 'undefined' ? 
+								_gaq.push(['_setCustomVar',
+					  5,             // This custom var is set to slot #5.  Required parameter.
+					  'hiding',   // The name of the custom variable.  Required parameter.
+					  'unknown',      // Sets the value of Required parameter.
+					   1             // Sets the scope to session-level.  Optional parameter.
+				   ])
+			 : is_private ? 
+				_gaq.push(['_setCustomVar',
+					  5,             // This custom var is set to slot #5.  Required parameter.
+					  'hiding',   // The name of the custom variable.  Required parameter.
+					  'private',      // Sets the value of Required parameter.
+					   1             // Sets the scope to session-level.  Optional parameter.
+				   ])
+			 : 
+				_gaq.push(['_setCustomVar',
+					  5,             // This custom var is set to slot #5.  Required parameter.
+					  'hiding',   // The name of the custom variable.  Required parameter.
+					  'not private',      // Sets the value of Required parameter.
+					   1             // Sets the scope to session-level.  Optional parameter.
+				   ])
+		}
+    );
+  })();
+	
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    //ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+
+//Evil Robot Detection -- Added by FAB 6/6/2012
+// http://stkywll.com/2012/04/27/annoying-robots-a-solution-for-google-analytics/
+
+	var category = 'trafficQuality';
+	var dimension = 'botDetection';
+	var human_events = ['onkeydown','onmousemove'];
+
+	if ( navigator.appName == 'Microsoft Internet Explorer' && !document.referrer) {
+		for(var i = 0; i < human_events.length; i++){
+			document.attachEvent(human_events[i], ourEventPushOnce);
+		}
+	}else{
+		_gaq.push( [ '_trackEvent', category, dimension, 'botExcluded', 1, true ] );
+	}
+
+	function ourEventPushOnce(ev) {
+
+		_gaq.push( [ '_trackEvent', category, dimension, 'on' + ev.type, 1, true ] );
+
+		for(var i = 0; i < human_events.length; i++){
+			document.detachEvent(human_events[i], ourEventPushOnce);
+		}
+
+	} // end ourEventPushOnce()
+
+	//End Evil Robot Detection
+
+</script>
+
+
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1381337412046565');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1381337412046565&ev=PageView&noscript=1"
+/></noscript>
+
+<script type="text/javascript">
+        (function(d, t) {
+                var g = d.createElement(t),
+                s = d.getElementsByTagName(t)[0];
+                g.src = "https://cdn.pushalert.co/integrate_bd7270ebd998a3ddeb9aaae046c093bd.js";
+                s.parentNode.insertBefore(g, s);
+        }(document, "script"));
+</script>
+<script>
+    (pushalertbyiw = window.pushalertbyiw || []).push(['addAttributes', {"member":"no", "logged_in":"no"}]); //add attributes in form of key-value pair
+</script>
+
+<script type="text/javascript">
+	var email = document.cookie;
+    if (sessionStorage.getItem("c_messaging") == null || email.includes("embarcaderopublishing.com"))
+	{
+		//skip after setting a value
+		sessionStorage.setItem('c_messaging', 'y');
+        //alert("Hello! I am just starting!!");
+	}
+	else if (sessionStorage.getItem("c_messaging") == 'x' || email.includes("embarcaderopublishing.com"))
+	{
+		//skip
+        //alert("Hello! I am an X box!!");
+    }
+	else
+    {
+		sessionStorage.setItem('c_messaging', 'x');
+		setTimeout(c_messaging,20000);
+		
+		function c_messaging()
+		{
+			$.colorbox(
+			{
+				close:"X",
+				opacity:0.3,
+				overlayClose:false,
+				href:"/user/subscribe/c_messaging.pop.php"
+			});
+		}
+	}
+	</script>
+
+<link rel="alternate" type="application/rss+xml" title="DanvilleSanRamon.com - Top Stories [RSS]" href="//danvillesanramon.com/news/rss.php?section=1">
+<link rel="alternate" type="application/rss+xml" title="DanvilleSanRamon.com - TownSquare [RSS]" href="//danvillesanramon.com/square/rss.php">
+<link rel="alternate" type="application/rss+xml" title="DanvilleSanRamon.com - Arts &amp; Entertainment [RSS]" href="//danvillesanramon.com/news/rss.php?section=4">
+<link rel="alternate" type="application/rss+xml" title="DanvilleSanRamon.com - Movies [RSS]" href="//danvillesanramon.com/news/rss.php?section=5">
+
+<link rel="apple-touch-icon" sizes="57x57" href="/art/app-icons/apple-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="/art/app-icons/apple-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/art/app-icons/apple-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="/art/app-icons/apple-icon-144x144.png" />
+
+<link rel="apple-touch-startup-image" media="(device-width: 320px)" href="/art/app-icons/apple-touch-startup-image-320x460.png">
+
+<link rel="apple-touch-startup-image" media="(device-width: 320px) and (-webkit-device-pixel-ratio: 2)" href="/art/app-icons/apple-touch-startup-image-640x920.png">
+
+<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" href="/art/app-icons/apple-touch-startup-image-640x1096.png">
+
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (orientation: portrait)" href="/art/app-icons/apple-touch-startup-image-768x1004.png">
+
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (orientation: landscape)" href="/art/app-icons/apple-touch-startup-image-748x1024.png">
+
+<link rel="apple-touch-startup-image" media="(device-width: 1536px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)" href="/art/app-icons/apple-touch-startup-image-1536x2008.png">
+
+<link rel="apple-touch-startup-image" media="(device-width: 1536px)  and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)" href="/art/app-icons/apple-touch-startup-image-2048x1496.png">
+<link rel="shortcut icon" href="/favicon.png" type="image/png">
+<link rel="shortcut icon" type="image/png" href="//danvillesanramon.com/favicon.png" />
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+                        var gptadslots = [];
+                        var googletag = googletag || {
+                            cmd: []
+                        };
+                    </script>
+<script>
+
+                      googletag.cmd.push(function() {
+                      
+                      
+                        var mappingsizes = googletag.sizeMapping().
+                        addSize([992, 0], [[970, 250], [1, 1]]).
+                        addSize([768, 0], [[728, 90], [1, 1]]).
+                        addSize([320, 0], [[320, 50], [320, 100], [320, 150]]).
+                        addSize([0, 0], [[320, 50], [1, 1]]).
+
+                        build();
+
+
+                        //Adslot declaration
+                      
+                        googletag.defineSlot('/1006587/danville_news_responsive_1', [[320, 50], [728, 90], [970, 250]], 'div-gpt-ad-danville_news_responsive_1').defineSizeMapping(mappingsizes).addService(googletag.pubads()); 
+                        googletag.defineSlot('/1006587/danville_news_responsive_2', [[320, 50], [728, 90], [970, 250]], 'div-gpt-ad-danville_news_responsive_2').defineSizeMapping(mappingsizes).addService(googletag.pubads()); 
+                        
+                        googletag.defineSlot('/1006587/danville_news_story_300x250_1', [300, 250], 'div-gpt-ad-danville_news_story_300x250_1').addService(googletag.pubads());
+                        googletag.defineSlot('/1006587/danville_news_story_300x250_2', [300, 250], 'div-gpt-ad-danville_news_story_300x250_2').addService(googletag.pubads());
+                        googletag.defineSlot('/1006587/danville_news_story_300x250_3', [300, 250], 'div-gpt-ad-danville_news_story_300x250_3').addService(googletag.pubads());
+                        googletag.defineSlot('/1006587/danville_news_story_300x250_4', [300, 250], 'div-gpt-ad-danville_news_story_300x250_4').addService(googletag.pubads());
+
+                        
+                        googletag.pubads().enableSingleRequest();
+                        googletag.pubads().collapseEmptyDivs();
+                        googletag.enableServices();
+                      });
+                    </script>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+<link rel="stylesheet" href="/twitter_bootstrap/4.3.1/css/bootstrap.min.css">
+<script type="text/javascript" src="//www.embarcaderopublishing.com/js/jquery.js"></script>
+<link rel="stylesheet" type="text/css" href="//www.embarcaderopublishing.com/css/styles_responsive.css?v=8" />
+<link media="screen" rel="stylesheet" href="//www.embarcaderopublishing.com/colorbox/colorbox.css?v=8" />
+<script type="text/javascript" src="//www.embarcaderopublishing.com/colorbox/jquery.colorbox.js"></script>
+<script type="text/javascript" src="//www.embarcaderopublishing.com/js/login_scripts.js?v=8"></script>
+<script src="https://kit.fontawesome.com/20c4b40556.js" crossorigin="anonymous"></script>
+<script type="text/javascript">
+        $(document).ready(function(){
+
+            $(window).scroll(function(){
+                if ($(this).scrollTop() > 100) {
+                    $('.scrollup').fadeIn();
+                    $('.scrolldn').fadeIn();
+                } else {
+                    $('.scrollup').fadeOut();
+                    $('.scrolldn').fadeOut();
+                }
+            });
+
+            $('.scrollup').click(function(){
+                $("html, body").animate({ scrollTop: 0 }, 1000);
+                return false;
+            });
+
+            $('.scrolldn').click(function(){
+                $("html, body").animate({ scrollTop: $(document).height() }, 1000);
+                return false;
+            });
+        });
+    </script>
+</head>
+<body>
+<script>
+window.dataLayer = window.dataLayer || [];
+dataLayer.push({'story_tags': ''});</script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WJSRV8H');</script>
+
+<header>
+
+<nav class="navbar navbar-light fixed-top">
+<a class="navbar-brand" href="/"><img src="/art/top_logo.png"></a>
+
+<button class="navbar-toggler order-first" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div align="right" ;>
+<span class="display-desktop">
+<a href="javascript:em_login_link()" class="btn btn-secondary btn-sm">
+Login
+</a>
+</span>
+<span class="display-mobile">
+<a href="javascript:em_login_link()"><i class="fas fa-sign-in-alt fa-lg"></i></a>
+</span>
+&nbsp;
+<a href="/user/subscribe/?utm_source=internal&utm_medium=header-button-responsive&utm_campaign=join" class="btn btn-info btn-sm btn-join">
+Join
+</a>
+<span class="display-desktop">
+&nbsp; <a data-toggle="collapse" href="#Search" aria-expanded="false" aria-controls="Search"><i class="fas fa-search"></i></a>
+</span>
+</div>
+<div class="collapse navbar-collapse" id="navbarCollapse">
+<ul class="navbar-nav mr-auto">
+<li class="nav-item active">
+<a class="nav-link" href="/">Home</a>
+</li>
+<li class="nav-item">
+<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">News</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+<a class="dropdown-item" href="/news/">Top Stories</a>
+<a class="dropdown-item" href="/news/recent_headlines.php">Recent News</a>
+<a class="dropdown-item" href="/news/section/editorials/">Editorials</a>
+<a class="dropdown-item" href="/obituaries/">Obituaries</a>
+<a class="dropdown-item" href="/calmatters/">State News from CALmatters</a>
+<a class="dropdown-item" href="/print/special/">Special Publications</a>
+<a class="dropdown-item" href="/print/">Danville Weekly archives Of</a>
+</div>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/square/">Town Square</a>
+</li>
+<li class="nav-item">
+<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Blogs</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+<a class="dropdown-item" href="/blogs/">Meet our Bloggers</a>
+<a class="dropdown-item" href="/blogs/recent/">Most Recent Posts</a>
+</div>
+</li>
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+A&amp;E
+</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+<a class="dropdown-item" href="/arts/">Features and Reviews</a>
+<a class="dropdown-item" href="/calendar/">Calendar</a>
+</div>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/real_estate/">Real Estate</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="http://www.PleasantonWeekly.com/sports/">Sports</a>
+</li>
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+Join
+</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+<a class="dropdown-item" href="/user/subscribe/">Become a Member</a>
+<a class="dropdown-item" href="/express/">Free Newsletters</a>
+</div>
+</li>
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+Contact
+</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+<a class="dropdown-item" href="/about/contact/">Contact Info</a>
+<a class="dropdown-item" href="/about/contact/mailto.php?e=editor&s=newstip">Submit News Tip/Photo</a>
+<a class="dropdown-item" href="https://portal.cityspark.com/EventEntry/EventEntry/DanvilleSanRamon/" target="_blank">Submit Calendar Item</a>
+<a class="dropdown-item" href="/mediakit/">Advertising</a>
+<a class="dropdown-item" href="/mediakit/">Place a Legal Ad</a>
+<a class="dropdown-item" href="/about/contact/">Contact Info</a>
+<a class="dropdown-item" href="/promotions/">Promotions & Contests</a>
+</div>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/search/">Search</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/user/register/" target="_blank">Register</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="javascript:em_login_link()">Login</a>
+</li>
+</ul>
+</div>
+</nav>
+</header>
+<div class="mt60"></div>
+<div class="row">
+<div class="col">
+<div class="collapse multi-collapse" id="Search">
+<form action="/search" id="cse-search-box" class="container d-print-none" style="padding-top: 20px;">
+<div class="form-group">
+<div class="input-group">
+<div class="input-group-prepend">
+<div class="input-group-text">
+<i class="fa fa-search"></i>
+</div>
+</div>
+<input type="hidden" name="cx" value="partner-pub-2203864489454098:mday4jyw2h9" />
+<input type="hidden" name="cof" value="FORID:10" />
+<input type="hidden" name="ie" value="UTF-8" />
+<input id="q" name="q" placeholder="Search" type="text" class="form-control">
+</div>
+</div>
+<div class="form-group" align="right">
+<button name="submit" type="submit" class="btn btn-sm btn-success">Search</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+
+
+<div class="outline-me ad-break-top d-print-none" id="ad-block-00">
+<div id="div-gpt-ad-danville_news_responsive_1">
+<script>
+                googletag.cmd.push(function() {
+                    googletag.display("div-gpt-ad-danville_news_responsive_1");
+                });
+                </script>
+</div>
+</div>
+<div class="container d-print-none">
+<div class="row h-100">
+<div class="col-md-8 offset-md-2 outline-me content-block" id="block-01">
+<div class="text-block">
+<p class="section">News <span class="display-mobile">
+<a data-toggle="collapse" href="#Search" aria-expanded="false" aria-controls="Search" style="float: right;"><i class="fas fa-search"></i></a>
+</span>
+</p>
+<h1>Cal Fire lifts all SCU Lightning Complex evacuations for Alameda County</h1>
+<h2>Containment reaches 65% in wildfires</h2>
+<div class="share-tools">
+<div class="addthis_inline_share_toolbox"></div>
+</div>
+<p class="dateline">Uploaded: Mon, Aug 31, 2020, 12:21 pm
+<span style="float: right;">
+<i class="fas fa-comments"></i> 0
+</span>
+<br>
+Updated: Mon, Aug 31, 2020, 8:17 pm<br>
+Time to read: about 1 minutes
+</p>
+</div>
+</div>
+<div class="col-md-2 outline-me">
+</div>
+</div>
+</div>
+<div class="container d-print-none">
+<div class="row h-100">
+<div class="col-md-8 offset-md-2 outline-me content-block" id="block-01">
+<div class="text-block">
+<p>Cal Fire lifted its evacuation orders in Alameda and Santa Clara counties Monday after firefighters made progress in containing the SCU Lightning Complex fires.</p>
+<p>The fires have burned more than 387,000 acres of vegetation in multiple locations in Santa Clara, Alameda, Contra Costa, San Joaquin, Stanislaus, Merced and San Benito counties since being sparked by lightning strikes and a West Coast heat wave more than two weeks ago.</p>
+<p>The acreage burned is the second-highest amount recorded in California's history.</p>
+<p>The complex of fires was about 65% contained as of Monday evening, according to Cal Fire. The agency expects the complex to be fully contained by Thursday.</p>
+<p>There had been evacuation orders and warnings in portions of the affected counties, but Cal Fire on Monday evening lifted all orders and warnings for Alameda County, including the nearly two-week evacuation warning for parts of rural unincorporated Tri-Valley to the far south and east.</p>
+</div>
+</div>
+<div class="col-md-2 outline-me my-auto side-block d-print-none" id="side-block-01">
+<p class="side-block-headline">Help sustain the local news you depend on.</p>
+<p class="side-block-text">Your contribution matters. Become a member today.</p>
+<a href="/user/subscribe/?utm_source=internal&utm_medium=story-page&utm_campaign=join" class="btn btn-info btn-sm btn-join btn-block">Join</a>
+</div> </div>
+</div>
+<div class="container d-print-none">
+<div class="row h-100">
+<div class="col-md-8 offset-md-2 outline-me content-block" id="block-02">
+<div class="text-block">
+<p>More than 1,900 firefighters from several agencies and departments across the fire complex region have been fighting the fires.</p>
+<p>Three firefighters and two civilians have suffered injuries due to the fire and more than 100 structures have been destroyed since it first began. More than 5,000 structures are still considered to be threatened, according to Cal Fire.</p>
+<p>Residents in the affected counties are advised to remain vigilant about current fire conditions in their area. A full map of Cal Fire evacuation orders can be found <a href="https://bit.ly/2Z7I4cn">here</a>.</p>
+<p><span style="font-style:italic;">Editor's note: Story by Bay City News Foundation, with DanvilleSanRamon.com editor Jeremy Walsh contributing local information.</span></p>
+</div>
+</div>
+<div class="d-none d-md-block col-md-2 outline-me my-auto side-block d-print-none" id="side-block-02">
+<div class="d-none d-lg-block">
+<img src="/express/img/phone-330x270.jpg" class="align-self-start mr-3 img-fluid">
+<p class="side-block-headline">Stay informed</p>
+<p class="side-block-text">Get the latest local news and information sent straight to your inbox.</p>
+<a href="/express/?utm_source=internal&utm_medium=story-page&utm_campaign=express-signup-B" class="btn btn-info btn-sm btn-block btn-sign-up">Sign up for free newsletters</a>
+</div>
+</div>
+<div class="d-md-none col-md-2 outline-me my-auto side-block d-print-none" id="side-block-02">
+<div class="media d-lg-none">
+<img src="/express/img/phone-330x270.jpg" style="max-width: 115px;" class="align-self-start mr-3 img-fluid">
+<div class="media-body">
+<p class="side-block-headline">Stay informed</p>
+<p class="side-block-text">Get the latest local news and information sent straight to your inbox.</p>
+<a href="/express/?utm_source=internal&utm_medium=story-page&utm_campaign=express-signup-B" class="btn btn-info btn-sm btn-block btn-sign-up">Sign up for free newsletters</a>
+</div>
+</div>
+</div> </div>
+</div>
+<div class="container d-print-none">
+<div class="row h-100">
+<div class="col-md-8 offset-md-2 outline-me content-block" id="block-tag">
+<div class="text-block">
+<p class="tag">&mdash; Bay City News Service</p>
+</div>
+</div>
+<div class="col-md-2 outline-me my-auto side-block" id="side-block-tag">
+</div>
+</div>
+</div>
+<div class="container d-print-none">
+<div class="row h-100">
+<div class="col-md-8 offset-md-2 outline-me content-block" id="block-tag">
+<div class="text-block">
+<p class="tag">
+Follow DanvilleSanRamon.com on Twitter <a href="//twitter.com/DanvilleSanRamo" target="_blank" title="Twitter">@DanvilleSanRamo</a>, <a href="//facebook.com/danvillesanramon" target="_blank" title="Facebook">Facebook</a> and on Instagram <a href="//instagram.com/" target="_blank" title="Twitter">@</a> for breaking news, local events, photos, videos and more.
+<div data-widget-id="rel_364-1"></div>
+</p>
+</div>
+</div>
+<div class="col-md-2 outline-me my-auto side-block" id="side-block-tag">
+</div>
+</div>
+</div>
+<div class="container d-none d-print-block">
+<meta itemprop="pageType" content="article">
+<h1 itemprop="headline">Cal Fire lifts all SCU Lightning Complex evacuations for Alameda County</h1>
+<h2>Containment reaches 65% in wildfires</h2>
+<meta itemprop="datePublished" content="2020-08-31T12:21:00-07:00">
+<p class="dateline">Uploaded: Mon, Aug 31, 2020, 12:21 pm<br>
+<meta itemprop="dateModified" content="2020-08-31T20:17:00-07:00">
+Updated: Mon, Aug 31, 2020, 8:17 pm<br>
+<meta itemprop="thumbnailUrl" content="https://www.danvillesanramon.com/art/local_news_icon.jpg">
+<article itemprop="articleBody"><p>Cal Fire lifted its evacuation orders in Alameda and Santa Clara counties Monday after firefighters made progress in containing the SCU Lightning Complex fires.</p><p>The fires have burned more than 387,000 acres of vegetation in multiple locations in Santa Clara, Alameda, Contra Costa, San Joaquin, Stanislaus, Merced and San Benito counties since being sparked by lightning strikes and a West Coast heat wave more than two weeks ago.</p><p>The acreage burned is the second-highest amount recorded in California's history.</p><p>The complex of fires was about 65% contained as of Monday evening, according to Cal Fire. The agency expects the complex to be fully contained by Thursday.</p><p>There had been evacuation orders and warnings in portions of the affected counties, but Cal Fire on Monday evening lifted all orders and warnings for Alameda County, including the nearly two-week evacuation warning for parts of rural unincorporated Tri-Valley to the far south and east.</p><p>More than 1,900 firefighters from several agencies and departments across the fire complex region have been fighting the fires.</p><p>Three firefighters and two civilians have suffered injuries due to the fire and more than 100 structures have been destroyed since it first began. More than 5,000 structures are still considered to be threatened, according to Cal Fire.</p><p>Residents in the affected counties are advised to remain vigilant about current fire conditions in their area. A full map of Cal Fire evacuation orders can be found <a href="https://bit.ly/2Z7I4cn">here</a>.</p><p><span style="font-style:italic;">Editor's note: Story by Bay City News Foundation, with DanvilleSanRamon.com editor Jeremy Walsh contributing local information.</span></p></article>
+<meta itemprop="author" content="Bay City News Service">
+&mdash; Bay City News Service
+</div>
+<div class="outline-me ad-break d-print-none" id="ad-block-01">
+<div class="container">
+<div class="row">
+<div class="col-md-8 offset-md-2 ad-content" id="block-03">
+<div class="row">
+<div class="col-lg-6 ad-break-first-medium-rectangle">
+<div id="div-gpt-ad-danville_news_story_300x250_1">
+<script>
+                                            googletag.cmd.push(function() {
+                                                googletag.display("div-gpt-ad-danville_news_story_300x250_1");
+                                            });
+                                            </script>
+</div>
+</div>
+<div class="col-lg-6">
+<div id="div-gpt-ad-danville_news_story_300x250_2">
+<script>
+                                            googletag.cmd.push(function() {
+                                                googletag.display("div-gpt-ad-danville_news_story_300x250_2");
+                                            });
+                                            </script>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container d-print-none">
+<a name="comments"></a>
+<div class="row h-100">
+<div class="col-md-8 offset-md-2 outline-me comment">
+<h4>Comments</h4>
+</div>
+</div>
+</div>
+<div class="container d-print-none">
+<div class="row h-100">
+<div class="col-md-8 offset-md-2 outline-me comment">
+<div class="comment"></div>
+<a name="comment_form" id="comment_form"></a>
+<h4>Post a comment</h4>
+<div align="center">Sorry, but further commenting on this topic has been closed.</div>
+</div>
+<div class="col-md-2 outline-me">
+</div>
+</div>
+</div>
+<style>
+@media only screen and (min-width: 767px) {
+    /* don't show the mobile version on desktop */
+    ._magnetRelConrel_364-1 {
+        display: none;
+    }
+}
+@media only screen and (max-width: 767px) {
+    /* don't show the pop-up on mobile */
+    ._magnetRelConrel_364-3 {
+        display: none;
+    }
+}
+@media only print {
+    /* don't show any of these when printing  */
+    ._magnetRelConrel_364-3 {
+        display: none;
+    }
+    ._magnetRelConrel_364-1 {
+        display: none;
+    }
+}
+</style>
+<meta itemprop="url" content="https://www.danvillesanramon.com/news/2020/08/31/cal-fire-lifts-all-scu-lightning-complex-evacuations-for-alameda-county">
+<meta itemprop="inLanguage" content="en">
+<meta itemprop="identifier" content="17968">
+<script type="text/javascript">
+    (function() { 
+    var ms = document.createElement('script'); ms.type = 'text/javascript'; ms.async = true; 
+    ms.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//magnetapi.klangoo.com/w/Widgets_364.js'; 
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ms, s);
+    })();
+</script>
+<div data-widget-id="rel_364-3"></div>
+<a class="scrolldn" href="#"></a>
+<a class="scrollup" href="#"></a>
+<footer class="footer small">
+<div class="d-print-none">
+<div class="container outline-me d-none d-md-block">
+<div class="row">
+<div class="col-md-12">
+<h5>Index</h5>
+</div>
+<div class="col-md-3">
+<p><a href="/">Home</a><br>
+<a href="/news">News</a><br>
+<a href="/square">TownSquare</a><br>
+<a href="/blogs/">Blogs</a><br>
+<a href="/arts">A&amp;E</a><br />
+<a href="/calendar/">Community Calendar</a><br />
+<a href="/real_estate">Home &amp; Real Estate</a><br>
+<a href="/express">Express</a><br>
+<a href="/print/special">Special Pubs</a><br>
+<a href="/obituaries">Obituaries</a></p>
+</div>
+<div class="col-md-3">
+<p><a href="/about/contact/mailto.php?e=editor&s=newstip">Send News Tips</a><br>
+<a href="/user/subscribe/" target="_blank">Subscribe</a><br>
+<br>
+<a href="https://www.livermorevine.com">Livermore Vine</a><br>
+<a href="http://www.PleasantonWeekly.com">Pleasanton Weekly</a></p>
+</div>
+<div class="col-md-3">
+<p><a href="/about">About Us</a><br>
+<a href="/about/contact">Contact Us</a><br>
+<a href="https://mailchi.mp/embarcaderomediagroup/advertise" target="_blank">Advertising Info</a><br>
+<a href="/about/terms_of_use">Terms of Use</a><br>
+<a href="/about/privacy_policy">Privacy Policy</a></p>
+</div>
+<div class="col-md-3">
+<p>&copy; 2023 <a href="/">DanvilleSanRamon.com</a><br>
+All rights reserved.<br>
+&nbsp;<br>
+<a href="http://www.EmbarcaderoMediaGroup.com" target="_blank">Embarcadero Media</a><br>
+&nbsp;<br>
+<a href="/press_releases/" target="_blank">PR MediaRelease</a><br>
+<a href="/emdesign/" target="_blank">Sponsored content</a><br>
+<a href="/user/go_mobile.php">Mobile site</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="container outline-me d-sm-block d-md-none d-print-block" style="padding-bottom: 60px;">
+<p>&copy; 2023 <a href="/">DanvilleSanRamon.com</a>. All rights reserved.<br>
+</div>
+</footer>
+<script src="/twitter_bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-7apeS9pNVYMQo"
+});
+</script>
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-7apeS9pNVYMQo.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+
+
+
+<script type='text/javascript'>
+        var _sf_async_config = _sf_async_config || {};
+        /** CONFIGURATION START **/
+        _sf_async_config.uid = 26708;
+                _sf_async_config.domain = 'danvillesanramon.com';
+        _sf_async_config.sections = 'News';  // This changes based on section
+        _sf_async_config.authors = 'Bay City News Service';    // This changes based on author
+        _cbq = window._cbq = (window._cbq || []); // added this line and next to show user type (http://support.chartbeat.com/docs/#usertype)
+        _cbq.push(['_acct', 'anon']);
+        /** CONFIGURATION END **/
+         (function () {
+              function loadChartbeat() {
+                   window._sf_endpt = (new Date()).getTime();
+                   var e = document.createElement('script');
+                   e.setAttribute('language', 'javascript');
+                   e.setAttribute('type', 'text/javascript');
+                   e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+                   document.body.appendChild(e);
+              }
+              loadChartbeat();
+         })();
+    </script>
+
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-598898374a736221"></script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'7955df64fe07fab6',m:'QTDp3vou7XshEPix5ZZ.PMWQu2ZgrKY3_gWQe.rnSSI-1675707341-0-AZBpobL0vln3PoV57xvVV6HdX4nUynLoZ/ih9I70YCicipfXCmVRAGA88OdE5Kaj1Qv19S4JVlZ28CNV8sT1pSura3Joj4fS1geQDGN7I62y7HaqK5L7cE9dQPPbEYmrPtKST4IUC1aFk5SeVZ3Pk5kw9hd5Ri0Z+t37WBXqx3r4paHMatlkpgOKV+ZWAoA3s0Fbnlm8zKr5lJ/OjdjUUx4/JILbDawqUgOCQQmRMzE9',s:[0xadc765dc4e,0xce2b689e99],u:'/cdn-cgi/challenge-platform/h/g'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/g/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"7955df64fe07fab6","token":"762a30952f224ffa8af46cce59c51361","version":"2022.11.3","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>

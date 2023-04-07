@@ -1,0 +1,452 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "//w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="//w3.org/1999/xhtml" xmlns:og="https://opengraphprotocol.org/schema/" xmlns:fb="https://facebook.com/2008/fbml" xml:lang="en" lang="en" itemscope itemtype="https://schema.org/WebPage">
+<head>
+ <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MPMCB37');</script>   <meta http-equiv="X-UA-Compatible" content="IE=9" /> <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> <meta http-equiv="Content-Style-Type" content="text/css" /> <meta http-equiv="Content-Script-Type" content="text/javascript" /> <meta name="y_key" content="33c272341f5beade" /> <meta name="verify-v1" content="ABQIAAAA8L3JFDSZBbRKiOI0oC2hURQtzf2N5nUcl5FoJ4HJzSUUnGQdoBRCXoBzqBg3VizzahR0b1gDldhrew" /> <meta property="twitter:account_id" content="12055942" /> <title>Southern California Wildfire - Students from Los Osos High School are evacuated from the ... - </title> <link rel="shortcut icon" href="//assets.lasvegassun.com/media/assets/images/favicon.ico" /> <link rel="apple-touch-icon-precomposed" href="//assets.lasvegassun.com/media/assets/images/apple-touch-icon-precomposed.png" /> <link rel="stylesheet" href="//assets.lasvegassun.com/media/assets/css/sun-web-screen-1.0.2.min.css" type="text/css" id="mainCss" media="screen" /> <link rel="stylesheet" href="//assets.lasvegassun.com/media/assets/css/sun-print.css" type="text/css" id="printCss" media="print" /> <meta name="viewport" content="user-scalable=no, width=device-width, maximum-scale=1.0, minimum-scale=1.0" /> <meta property="og:type" content="website" /> <meta property="og:site_name" content="LasVegasSun.com" /> <meta property="og:url" content="https://lasvegassun.com//media.lasvegassun.com/media/img/photos/2014/04/30/AP574645610579_4.jpg" /> <meta property="og:title" content="Southern California Wildfire" /> <meta property="og:image" content="//media.lasvegassun.com/media/img/photos/2014/04/30/AP574645610579_4_t378.jpg?42670983c634e7c20626cc4856c543752c0d8b2f" /> <meta property="og:description" content="Students from Los Osos High School are evacuated from the school as a brush fire burning in Day Creek near the Etiwanda Preserve in Rancho Cucamonga, Calif., on Wednesday, April 30, 2014." /> <meta property="fb:app_id" content="112951308742607" /> <meta name="twitter:card" content="photo" /> <meta name="twitter:image" content="//media.lasvegassun.com/media/img/photos/2014/04/30/AP574645610579_4.jpg" /> <meta name="twitter:image:width" content="1600" /> <meta name="twitter:image:height" content="950" /> <meta name="twitter:site" content="@LasVegasSun" /> <script>
+//reload function
+function onLoginSuccess() {
+tp.offer.close();
+//location.reload();
+}
+//adblocker check
+document.cookie = "__adblocker=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
+var setNptTechAdblockerCookie = function(adblocker) {
+    var d = new Date();
+    d.setTime(d.getTime() + 60 * 60 * 24 * 2 * 1000);
+    document.cookie = "__adblocker=" + (adblocker ? "true" : "false") + "; expires=" + d.toUTCString() + "; path=/";
+};
+var script = document.createElement("script");
+script.setAttribute("async", true);
+script.setAttribute("src", "//www.npttech.com/advertising.js");
+script.setAttribute("onerror", "setNptTechAdblockerCookie(true);");
+document.getElementsByTagName("head")[0].appendChild(script);
+//now for the composer stuff
+// Get tp object
+tp = window["tp"] || [];
+// Add custom variable. The first parameter would be the name, and the second is the value
+//tp.push(['setCustomVariable', 'name', 'value']);
+// In this case we'll set the variable named "blukai_segment" to the value of "likely_subscriber"
+//tp.push(['setCustomVariable', 'bluekai', 'likely_subscriber']);
+// Also setting tags
+//tp.push(['setTags', ['News', 'US', 'Las Vegas']]);
+// Set Zone. Zone can be used to indicate the AAM platform
+tp.push(['setCloudflareWorkerUrl', 'https://auth.lasvegassun.com']);
+tp.push(['setZone', 'Web']);
+tp.push(["setAid", "SDDk6QgkeK"]);
+tp.push(["setCxenseSiteId", "1139723673863239195"])
+tp.push(["setSandbox", false]);
+tp.push(["setDebug", true]);
+tp.push(['addHandler', 'loginSuccess', onLoginSuccess]);
+(function(src){var a=document.createElement("script");a.type="text/javascript";a.async=true;a.src=src;var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})("https://experience.tinypass.com/xbuilder/experience/load?aid=SDDk6QgkeK");</script> <script type="text/javascript" src="//assets.lasvegassun.com/media/assets/js/mootools-suite-1.3.2-compressed-20111209.js"></script> <script type="text/javascript" src="//assets.lasvegassun.com/media/assets/js/sunutils.min-1507578284.js"></script> <script type="text/javascript" src="//www.google.com/jsapi?key=ABQIAAAA8L3JFDSZBbRKiOI0oC2hURQtzf2N5nUcl5FoJ4HJzSUUnGQdoBRCXoBzqBg3VizzahR0b1gDldhrew"></script> <script type="text/javascript">
+        window.addEvent('domready', function() {
+            LoadAds();
+        });
+        
+        window.addEvent('domready', function() {
+            if($('loginlink')){
+                $('loginlink').set('href', 'javascript:void(0);');
+            }
+        });
+        
+        (function() {
+          var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+          po.src = 'https://apis.google.com/js/plusone.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+        })();
+    </script>  <script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "18063311" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "//b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>  <script type="text/javascript">
+        var lvSunAdTag = '';
+    </script> <script type="text/javascript">
+        var adOrd = Math.random()*10000000000000000;
+    </script>  <script type="text/javascript">
+        var siteSectionTag = getSectionTag("Section");
+        var siteSubSectionTag = getSectionTag("SubSection");
+        var currTime = (new Date().format('%H'));
+        var timeOfDay;
+        if(currTime<=2){ timeOfDay = 'evening'; } else if(currTime<=6){ timeOfDay = 'overnight'; } else if(currTime<=12){ timeOfDay = 'morning'; } else if(currTime<=18){ timeOfDay = 'afternoon'; } else { timeOfDay = 'evening'; }
+        // Store username in a cookie if possible
+        window.addEvent('domready', function(){
+            var username = Cookie.read('username');
+            if ( username === null ){
+                var usernameElements = $$('a[title="User profile"]');
+                if ( usernameElements.length > 0 ){
+                    Cookie.write('username', usernameElements[0].get('text'), {'duration': 30});
+                }
+            }
+        });
+    </script>  <script async src="https://www.googletagmanager.com/gtag/js?id=G-04RV5RCRPZ"></script> <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-04RV5RCRPZ');
+</script>
+</head>
+<body id="photoDetail">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MPMCB37"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<div id="fb-root"></div>
+<script language="JavaScript" type="text/javascript">
+        window.fbAsyncInit = function() {
+            FB.init({
+                appId: '112951308742607',
+                status: true,
+                cookie: true,
+                xfbml: true,
+                oauth: true
+            });
+            FB.Event.subscribe('edge.create', function(targetUrl) {
+                ga('send', {
+                  hitType: 'social',
+                  socialNetwork: 'Facebook',
+                  socialAction: 'like',
+                  socialTarget: targetUrl
+                });
+            });
+            FB.Event.subscribe('edge.remove', function(targetUrl) {
+                ga('send', {
+                  hitType: 'social',
+                  socialNetwork: 'Facebook',
+                  socialAction: 'unlike',
+                  socialTarget: targetUrl
+                });
+            });
+            FB.Event.subscribe('message.send', function(targetUrl) {
+                ga('send', {
+                  hitType: 'social',
+                  socialNetwork: 'Facebook',
+                  socialAction: 'send',
+                  socialTarget: targetUrl
+                });
+            });
+        };
+        // Load the SDK Asynchronously
+        (function(d){
+            var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+            js = d.createElement('script'); js.id = id; js.async = true;
+            js.src = "//connect.facebook.net/en_US/all.js";
+            d.getElementsByTagName('head')[0].appendChild(js);
+        }(document));
+    </script>
+<div id="container">
+<h6 class="textMasthead">Las Vegas Sun</h6>
+<div id="masthead" class="condensed">
+<div id="folioDate">
+<p class="timestamp">February 6, 2023 </p>
+<p class="folioUtils" style="float:left; margin-left:120px; position: inherit;">Currently: 52&deg; &mdash; <a href="/weather/" title="Weather">Complete forecast</a></p>
+<p id="tp-login-nav" class="timestamp" style="float: right; text-align: right; margin-right: 5px;"> </p>
+<script>
+tp.push(['init', function() {
+        var login = document.getElementById('tp-login-nav'),
+            showLogin = function() {
+                tp.user.showLogin({
+                    loginSuccess: showLoggedIn
+                });
+            },
+            showLoggedIn = function() {
+                login.innerHTML = 'My Account';
+                login.removeEventListener("click", showLogin);
+                login.addEventListener("click", function() {
+                    window.location.pathname = '/myaccount/';
+                });
+            };
+        login.style.cursor = 'pointer';
+        if (tp.user.isUserValid()) {
+            showLoggedIn();
+        } else {
+            login.innerHTML = 'Login';
+            login.addEventListener("click", showLogin);
+        }
+    }]);
+</script>
+</div>
+<div id="nameplate">
+<div id="nameplate-logo">
+<a href="/" class="sun_logo">Las Vegas Sun</a>
+</div>
+<div id="ad-leaderboard">
+
+<script type="text/javascript">
+                    //<![CDATA[
+                    displayAd('Leaderboard');
+                    //]]>
+                </script>
+
+</div>
+</div>
+<div id="mastermenu">
+<div id="menu">
+<div id="menu-container">
+<ul id="SunNavMenu" class="">
+<li id="News"><a href="/news/">News</a></li>
+<li id="Business"><a href="//vegasinc.lasvegassun.com/">Business</a></li>
+<li id="Sports"><a href="/news/sports/">Sports</a></li>
+<li id="Politics"><a href="/news/politics/">Politics</a></li>
+<li id="Opinion"><a href="/news/opinion/">Opinion</a></li>
+<li id="AE"><a href="/ae/">Entertainment</a></li>
+<li id="Events"><a href="https://lasvegasweekly.com/events/">Calendar</a></li>
+<li id="Health"><a href="/news/health/">Health</a></li>
+<li id="Podcasts"><a href="/podcasts/">Podcasts</a></li>
+<li id="AEWeekly"><a href="//lasvegasweekly.com/">Las Vegas Weekly</a></li>
+<li id="Sunday"><a href="/subscribe/">Subscribe</a></li>
+</ul>
+</div> 
+<div id="submenu" class="withAd">
+<div id="search">
+<form action="/sitesearch/" method="get">
+<fieldset>
+<input type="text" name="search" title="Enter text to search for and click 'Search'" />
+<input class="button" type="submit" value="Search" />
+</fieldset>
+</form>
+</div>
+<ul id="subnavigation">
+<li><a href="/news/sports/betting/">Betting</a></li>
+<li><a href="/news/las-vegas-raiders/">Las Vegas Raiders</a></li>
+<li><a href="/news/sports/unlv/">UNLV Sports</a></li>
+<li><a href="/news/las-vegas-recreational-marijuana-laws/">Marijuana Laws</a></li>
+<li><a href="/business/gaming/">Gaming</a></li>
+<li><a href="/news/sports/nhl/vgk/">Golden Knights</a></li>
+<li><a href="/news/opinion/smiths-world/">Smith's World</a></li>
+<li><a href="/news/coronavirus-las-vegas/">Coronavirus</a></li>
+<li><a href="//visitor.r20.constantcontact.com/manage/optin?v=0012UVvq9vDWuw26NdK6-VSo2a2RLPMa-KbMDZ0cvT7-2rB6LBbBMLpB7NgqPQDR_rHUry93nXXlsbgITrtazTFQh4ZuNR9905D2fjaOXHmaLA%3D" target="_blank" rel="noopener">Newsletter</a></li>
+</ul>
+</div> 
+</div>
+</div> 
+</div>
+<div id="main-container">
+<div id="main" class="" itemprop="mainContentOfPage">
+<div id="colA">
+<h1 class="sectionHeader">Southern California Wildfire</h1>
+<ul class="paginator top">
+<li>&laquo; Previous</li>
+<li><a id="next" href="/photos/galleries/2014/apr/30/0430_fires/535227/">Next &raquo;</a></li>
+</ul>
+<div id="regularPhoto">
+<a href="/photos/galleries/2014/apr/30/0430_fires/535227/"><img src="//media.lasvegassun.com/media/img/photos/2014/04/30/AP574645610579_4_t653x653.jpg?345c8960c5484952b4411b83c62d17f0ae245bc0" alt="Students from Los Osos High School are evacuated from the ..." /></a>
+</div>
+<div id="iPadPhoto" style="display: none;"></div>
+<div id="photoInfo">
+<p class="credit">AP</p>
+<p class="caption">Students from Los Osos High School are evacuated from the school as a brush fire burning in Day Creek near the Etiwanda Preserve in Rancho Cucamonga, Calif., on Wednesday, April 30, 2014. </p>
+</div>
+</div> 
+<div id="colB">
+<div id="ad-colB-1" class="colB-module">
+
+<script type="text/javascript">
+            //<![CDATA[
+            displayAd('EveningBlock');
+            //]]>
+            </script>
+
+</div>
+<div id="socialSidebar" class="colB-module">
+<h3 class="sectionHeader">Connect with Us</h3>
+<ul class="floatRight">
+<li class="floatLeft" id="fbIcon"><a href="//facebook.com/lasvegassun/">Facebook</a></li>
+<li class="floatLeft" id="twIcon"><a href="https://twitter.com/lasvegassun">Twitter</a></li>
+<li class="floatLeft marginTop2 clear" id="igIcon"><a href="https://www.instagram.com/lasvegassun/">Instagram</a></li>
+<li class="floatLeft marginTop2" id="etIcon"><a href="https://lasvegassun.com/newsletter/">Email Edition</a></li>
+<li class="floatLeft marginTop2" id="rsIcon"><a href="/rss/">RSS</a></li>
+</ul>
+</div>
+<div class="colB-module" id="ae-sidebar" data-vr-zone="Scene in Las Vegas">
+<h2 class="sectionHeader"><a href="/ae/?utm_source=sidebar&utm_medium=banner&utm_campaign=sceneOnSunPromo">
+Scene on the Sun</a></h2>
+<ul>
+<li class="first" data-vr-contentbox="">
+<h4><a href="https://lasvegasmagazine.com/entertainment/2023/jan/27/carlos-santana-and-crew-back-onstage-in-las-vegas/?utm_source=sidebar&utm_medium=banner&utm_campaign=sceneOnSunPromo"><strong>Entertainment:</strong> Carlos Santana and crew are back onstage in Las Vegas residency</a></h4>
+<a href="https://lasvegasmagazine.com/entertainment/2023/jan/27/carlos-santana-and-crew-back-onstage-in-las-vegas/?utm_source=sidebar&utm_medium=banner&utm_campaign=sceneOnSunPromo"><img src="//media.lasvegassun.com/media/img/photos/2023/02/02/Screen_Shot_2023-02-02_at_8.50.46_AM_r322x203.jpg?0f3fb71f894cf54afe594829d5dbc18597e05821" alt="Entertainment" /></a>
+</li>
+<li data-vr-contentbox="">
+<h4><a href="https://lasvegasmagazine.com/entertainment/2023/jan/27/battlebots-destruct-a-thon-caesars-horseshoe-vegas/?utm_source=sidebar&utm_medium=banner&utm_campaign=sceneOnSunPromo"><strong>Entertainment:</strong> Blood, sweat and gears: 'BattleBots Destruct-A-Thon'</a></h4>
+<a href="https://lasvegasmagazine.com/entertainment/2023/jan/27/battlebots-destruct-a-thon-caesars-horseshoe-vegas/?utm_source=sidebar&utm_medium=banner&utm_campaign=sceneOnSunPromo"><img src="//media.lasvegassun.com/media/img/photos/2023/02/02/Screen_Shot_2023-02-02_at_8.51.05_AM_r322x100.jpg?16678fa7c68e30ac431b61891cfe250e34fcb1ac" alt="Entertainment" /></a>
+</li>
+<li data-vr-contentbox="">
+<h4><a href="https://lasvegasmagazine.com/dining/2023/jan/27/ri-ra-irish-pub-shoppes-mandalay-place-las-vegas/?utm_source=sidebar&utm_medium=banner&utm_campaign=sceneOnSunPromo"><strong>Dining:</strong> Head to Rí Rá Irish Pub for emerald style</a></h4>
+<a href="https://lasvegasmagazine.com/dining/2023/jan/27/ri-ra-irish-pub-shoppes-mandalay-place-las-vegas/?utm_source=sidebar&utm_medium=banner&utm_campaign=sceneOnSunPromo"><img src="//media.lasvegassun.com/media/img/photos/2023/01/31/Screen_Shot_2023-01-31_at_1.43.27_PM_r322x100.jpg?16678fa7c68e30ac431b61891cfe250e34fcb1ac" alt="Dining" /></a>
+</li>
+</ul>
+</div>
+<div id="sidebarGalleries" class="colB-module" data-vr-zone="Featured Galleries Sidebar">
+<h2 class="sectionHeader"><a href="/photos/">Featured Galleries</a></h2>
+<div id="leadGallery" data-vr-contentbox="">
+<a href="/photos/galleries/2023/feb/05/0205_sun_ProBowl/"><img src="//media.lasvegassun.com/media/img/photos/2023/02/05/20230205_sun_ProBowl06_r320x213.JPG?7d8b62bd5d194fbe94855e8d8f3b1514080758b8" alt="2023 Pro Bowl Games at Allegiant" class="thumb" /></a>
+<h3><a href="/photos/galleries/2023/feb/05/0205_sun_ProBowl/">2023 Pro Bowl Games at&nbsp;Allegiant</a></h3>
+</div>
+<ul class="galleryList">
+<li data-vr-contentbox="">
+<a href="/photos/galleries/2023/feb/03/0203_sun_UNLVFresnoSt/"><img src="//media.lasvegassun.com/media/img/photos/2023/02/03/0203_sun_UNLV_FresnoSt31_r156x103.JPG?7139f681eca5085755b677a98a93b2686b8d6512" alt="UNLV Falls to Fresno State, 82-79" class="thumb" /></a>
+<h3><a href="/photos/galleries/2023/feb/03/0203_sun_UNLVFresnoSt/">UNLV Falls to Fresno State,&nbsp;82-79</a></h3>
+</li>
+<li class="endRow" data-vr-contentbox="">
+<a href="/photos/galleries/2023/feb/02/0202_sun_ProBowlGames/"><img src="//media.lasvegassun.com/media/img/photos/2023/02/02/0202_sun_ProBowlGames05_r156x103.JPG?7139f681eca5085755b677a98a93b2686b8d6512" alt="2023 Pro Bowl Games" class="thumb" /></a>
+<h3><a href="/photos/galleries/2023/feb/02/0202_sun_ProBowlGames/">2023 Pro Bowl&nbsp;Games</a></h3>
+</li>
+</ul>
+<p class="gotolink floatRight"><a href="/photos/" title="More photos">More photos &raquo;</a></p>
+</div>
+<div class="colB-module">
+<div id="OpEdSidebar" class="withAd">
+<div id="module-apnews">
+<div class="blog-entries">
+<h2 class="sectionHeader"><a href="/news/apnews">AP Headlines</a></h2>
+<h4 class="entry-title"><a href="/news/2023/jan/11/all-departing-us-flights-grounded-after-faa-comput/">Air travel across U.S. thrown into chaos after computer outage</a></h4>
+<p class="metaTime">26 days, 4 hours ago</p>
+<h4 class="entry-title"><a href="/news/2022/dec/16/senate-backs-big-land-transfer-for-nevada-military/">Senate backs big land transfer for Nevada military complex</a></h4>
+<p class="metaTime">1 month, 21 days ago</p>
+<h4 class="entry-title"><a href="/news/2022/oct/03/election-officials-brace-for-confrontational-poll/">Election officials brace for confrontational poll watchers</a></h4>
+<p class="metaTime">4 months, 6 days ago</p>
+<h4 class="entry-title"><a href="/news/2022/jun/22/nevada-committee-approves-759m-for-free-public-sch/">Nevada committee approves $75.9M for free public school lunches</a></h4>
+<p class="metaTime">7 months, 19 days ago</p>
+<h4 class="entry-title"><a href="/news/2022/jun/09/nevada-justices-mulling-open-primary-ranked-choice/">Nevada justices mulling open primary, ranked-choice measure</a></h4>
+<p class="metaTime">8 months, 1 day ago</p>
+<h4 class="entry-title"><a href="/news/2022/may/19/protesting-outside-justices-homes-is-morally-quest/">Protesting outside justices&#39; homes is morally questionable, and ineffective</a></h4>
+<p class="metaTime">8 months, 23 days ago</p>
+<h4 class="entry-title"><a href="/news/2022/may/03/abortion-advocates-rally-for-rights-at-las-vegas-c/">Pro-choice advocates rally for rights at Las Vegas courthouse</a></h4>
+<p class="metaTime">9 months, 8 days ago</p>
+<h4 class="entry-title"><a href="/news/2022/apr/12/slain-nevada-womans-brother-seeks-a-positive-from/">Slain Nevada woman&#39;s brother seeks a positive from her death</a></h4>
+<p class="metaTime">9 months, 29 days ago</p>
+<h4 class="entry-title"><a href="/news/2021/dec/03/abortion-rights-advocates-at-panel-discussion-stat/">Abortion rights advocates, at local panel discussion, state their belief: ‘Roe is dead’</a></h4>
+<p class="metaTime">1 year, 2 months ago</p>
+<h4 class="entry-title"><a href="/news/2021/nov/21/bidens-political-standing-fuels-democratic-worry-a/">Biden&#39;s political standing fuels Democratic worry about 2024</a></h4>
+<p class="metaTime">1 year, 2 months ago</p>
+<p class="gotolink"><a href="/news/apnews/">More AP Headlines &raquo;</a></p>
+</div>
+</div>
+<div id="ad-blog-skyscraper">
+
+<script type="text/javascript">
+                    //<![CDATA[
+                    displayAd('Skyscraper');
+                    //]]>
+                    </script>
+
+</div>
+</div>
+</div> 
+<div id="ad-colB-2" class="colB-module-2" align="center">
+
+<script type="text/javascript">
+            //<![CDATA[
+            displayAd('BigBlockTwo');
+            //]]>
+            </script>
+
+</div>
+</div> 
+<div class="clearfix"></div>
+</div> 
+
+<div id="footercontainer" itemscope itemtype="//schema.org/WPFooter">
+<ul id="menu-footerNav" itemscope itemtype="//schema.org/SiteNavigationElement">
+<li><a href="/news/" itemprop="name url">News</a></li>
+<li><a href="/ae/" itemprop="name url">Entertainment</a></li>
+<li><a href="/news/opinion/" itemprop="name url">Opinion</a></li>
+<li><a href="/news/sports/" itemprop="name url">Sports</a></li>
+<li><a href="/news/politics/" itemprop="name url">Politics</a></li>
+<li><a href="//vegasinc.lasvegassun.com/">Vegas INC - Business</a></li>
+<li><a href="/news/us-world/" itemprop="name url">U.S. &amp; World</a></li>
+<li class="last"><a href="/todays-paper/" itemprop="name url">Today's Paper</a></li>
+</ul>
+<dl id="sun-footer-description">
+<dt><a href="/"><img src="//assets.lasvegassun.com/media/assets/images/global/sun-footer-logo.png" alt="Las Vegas Sun" title="Las Vegas Sun" /></a></dt>
+<dd>Locally owned and independent since 1950; Winner of the <a href="/news/2009/apr/21/sun-wins-pulitzer-prize/" itemprop="award">Pulitzer Prize for Public Service</a>, <a href="/awards/web/" itemprop="award">best news website in the nation</a> &amp; <a href="/news/2010/dec/22/sun-wins-national-media-award-telling-story-gambli/" itemprop="award">DuPont Award for broadcast journalism</a></dd>
+</dl>
+<div id="footerBottom">
+<ul class="GreenspunPubs" itemscope itemtype="//schema.org/SiteNavigationElement">
+<li><a href="/about/" itemprop="name url">About Us</a></li>
+<li><a href="/staff/" itemprop="name url">Contact Us</a></li>
+<li><a href="/advertising/" itemprop="name url">Advertising</a></li>
+<li><a href="/about/faq/" itemprop="name url">FAQ</a></li>
+<li><a href="/about/useragreement/" itemprop="name url">User Agreement</a></li>
+<li><a href="/privacy-policy/" itemprop="name url">Privacy Policy</a></li>
+<li><a href="/awards/" itemprop="name url">Awards</a></li>
+<li><a href="/twitter/" itemprop="name url">Twitter</a></li>
+<li><a href="//www.facebook.com/lasvegassun">Facebook</a></li>
+
+<li><a href="/rss/" itemprop="name url">RSS</a></li>
+<li class="last"><a href="//m.lasvegassun.com/" class="fullSiteLink" rel="nofollow">Mobile</a></li>
+</ul>
+<ul class="GreenspunPubs second">
+<li><a href="//gmgvegas.com/">Greenspun Media Group</a></li>
+<li><a href="//vegasinc.lasvegassun.com">Vegas Inc</a></li>
+<li><a href="//lasvegasweekly.com/">Las Vegas Weekly</a></li>
+
+<li class="last"><a href="//lasvegasmagazine.com">Las Vegas Magazine</a></li>
+</ul>
+<p class="footer">&copy; Las Vegas Sun, <span itemprop="copyrightYear">2023</span>, All Rights Reserved</p>
+</div>
+
+<div class="publisherLocation" itemscope itemtype="https://schema.org/Organization" itemprop="publisher copyrightHolder">
+<div itemscope itemtype="//schema.org/PostalAddress" itemprop="location">
+<a href="//lasvegassun.com/" itemprop="url"><span itemprop="name">Las Vegas Sun</span></a>
+<span itemprop="streetAddress">2275 Corporate Circle, Ste. 300 </span>
+<span itemprop="addressLocality">Henderson</span>, <span itemprop="addressRegion">NV</span> <span itemprop="postalCode">89074</span>
+</div>
+</div>
+<div class="oopAd"></div>
+</div> 
+<div id="bottom-bar-container">
+<div id="bottom-bar-inner">
+<script type="text/javascript">
+            //<![CDATA[
+            displayAd('BottomPencil');
+            setTimeout('showStoryAd(lvSunAdTag);', 1000);
+            if (Browser.Platform.ios){
+                if (Number.from(Browser.version) <= 5){
+
+                }
+            }
+            window.addEvent('domready', function(){
+                if (
+                    (Browser.Platform.ios && Number.from(Browser.version) <= 5) ||
+                    Browser.Platform.android){
+                    $("bottom-bar-container").setStyle('display', 'none');
+                    /*
+                    $(document.body).addEvent('touchstart', function(){
+                        $("bottom-bar-container").setStyle('display', 'none');
+                    });
+                    window.addEvent('scroll', function(){
+                        console.log('touchmove');
+                        $("bottom-bar-container").setStyles({
+                            'display': 'inline',
+                            'bottom': '',
+                            'top': (window.innerHeight + document.getScroll().y - 40) + "px"
+                        })
+                    });
+                    */
+                }
+            });
+            //]]>
+        </script>
+</div>
+</div>
+</div> 
+</div> 
+<script type="text/javascript">window.addEventListener("DOMContentLoaded",e=>{ga("send",{hitType:"timing",timingCategory:"Page",timingVar:"Loaded",timingLabel:"Number of Milliseconds to Load the Page",timingValue:window.performance.getEntriesByType("navigation")[0].duration,nonInteraction:!0})});</script>
+
+<script>!function(e,t,n,c,o,a,f){e.fbq||(o=e.fbq=function(){o.callMethod?o.callMethod.apply(o,arguments):o.queue.push(arguments)},e._fbq||(e._fbq=o),o.push=o,o.loaded=!0,o.version="2.0",o.queue=[],(a=t.createElement(n)).async=!0,a.src="https://connect.facebook.net/en_US/fbevents.js",(f=t.getElementsByTagName(n)[0]).parentNode.insertBefore(a,f))}(window,document,"script"),fbq("init","798813320263950"),fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=798813320263950&ev=PageView&noscript=1" alt=""/></noscript>
+
+
+<script>!function(s,a,e,v,n,t,z){if(s.saq)return;n=s.saq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!s._saq)s._saq=n;n.push=n;n.loaded=!0;n.version='1.0';n.queue=[];t=a.createElement(e);t.async=0;t.src=v;z=a.getElementsByTagName(e)[0];z.parentNode.insertBefore(t,z)}(window,document,'script','https://tags.srv.stackadapt.com/events.js');saq('ts', 'lxQ_Ypfz1kBB8gnX-7YBjw');</script>
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'7955efa8c949faf8',m:'Y4goZRJdCi4.UANBd6EpvvqlkXdPUMJqd3qtFxlMwnE-1675708008-0-AbKFdckNmZTQ2erbURMUFRbo7FWnheCU+JOP6yTFEn8DyO0ioXRvnJmzR33IV1DRBfsKibewwc2QtkCr1c7SCLhBQi+KEE0luL/hjFdRRYnrvBOGlXt8NwFNGhijAWbKZs1CIIdpkK73Xy87LbKIy6pQmqJxnemZs9Af3HyI6aW3z8OPUVfczZV1wy2FBhj8JQ==',s:[0xe946edf2fe,0xcca4408bdc],u:'/cdn-cgi/challenge-platform/h/g'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/g/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"7955efa8c949faf8","token":"9aea8e0fac11414e933562820418265c","version":"2022.11.3","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>

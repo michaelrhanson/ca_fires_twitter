@@ -1,0 +1,3035 @@
+<!DOCTYPE HTML>
+
+
+
+
+
+<html lang="en">
+
+
+
+<head data-chartbeat-domain="spectrumnews1.com"><title>California Wildfires: Hillside Fire Prompts Evacuations</title>
+<meta charset="utf-8"/>
+<meta http-equiv="x-ua-compatible" content="ie=edge"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+
+
+    <meta name="description" content="A fast-moving 200 acre fire is threatening neighborhoods in north San Bernardino."/>
+
+
+
+
+
+
+
+
+<meta name="tp:preferredRuntimes" content="HTML5,Flash"/>
+<meta name="tp:PreferredFormats" content="MPEG4"/>
+<meta name="x-client-id" content="spectrumnews1.com"/>
+
+
+
+
+<meta name="keywords" content="LA West, California, Spectrum News Staff, News, San Fernando Valley, Orange County, LA East, Wildfires"/>
+<meta name="news_keywords" content="LA West, California, Spectrum News Staff, News, San Fernando Valley, Orange County, LA East, Wildfires"/>
+
+
+
+<!--Preconnect and DNS-Prefetch to improve page load time.-->
+<link rel="preconnect" href="//dpm.demdex.net"/>
+<link rel="preconnect" href="//fast.roadrunner.demdex.net"/>
+<link rel="preconnect" href="//roadrunner.demdex.net"/>
+<link rel="preconnect" href="//cm.everesttech.net"/>
+<link rel="preconnect" href="//roadrunner.tt.omtrdc.net"/>
+<link rel="preconnect" href="//metrics.timewarnercable.com"/>
+<link rel="preconnect" href="//metric.timewarnercable.com"/>
+<link rel="preconnect" href="//fonts.gstatic.com"/> <!-- used by fonts.googleapis.com -->
+
+<link rel="dns-prefetch" href="//dpm.demdex.net"/>
+<link rel="dns-prefetch" href="//fast.roadrunner.demdex.net"/>
+<link rel="dns-prefetch" href="//roadrunner.demdex.net"/>
+<link rel="dns-prefetch" href="//cm.everesttech.net"/>
+<link rel="dns-prefetch" href="//roadrunner.tt.omtrdc.net"/>
+<link rel="dns-prefetch" href="//metrics.timewarnercable.com"/>
+<link rel="dns-prefetch" href="//metric.timewarnercable.com"/>
+<link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+
+<!--/Preconnect and DNS-Prefetch-->
+<!--Data Layer to enable rich data collection and targeting-->
+<script type="text/javascript">
+
+    var template = "";
+    var pageType, region, parentRegion, vodAuth = "", articleStorage = "";
+
+    switch (template) {
+        case '/apps/news/templates/article':
+            template = 'Article Template';
+            pageType = 'Article';
+            articleStorage = 'live'
+            break;
+        case '/apps/news/templates/full-width-page':
+            template = 'Standard Full Width Template';
+            pageType = 'Home';
+            break;
+        case '/apps/news/templates/event':
+            template = 'Calendar Event Template';
+            pageType = 'Event';
+        case '/apps/news/templates/archive':
+            template = 'Archive Article Template';
+            pageType = 'Archive';
+            articleStorage = 'archived';
+        default:
+            template = 'Standard Full Width Template';
+            pageType = 'Home';
+    }
+
+    window.digitalData = window.digitalData || {
+        event: {
+            eventName: "pageView"
+        },
+        user: {
+            isAuthenticated: "",
+            mvpd: "",
+            hhid: ""
+        },
+        page: {
+            adsOnPage: "",
+            appID: "AEM 6.4", // hardcoded
+            domain: window.location.hostname,
+            flow: "",
+            language: document.getElementsByTagName('html')[0].getAttribute('lang'),
+            pageID: "\/content\/news\/stories\/2019\/10\/31\/2\/200\u002Dacre\u002Dhillside\u002Dfire\u002Dprompts\u002Dmandatory\u002Devacuations",
+            pageName: "200\u002Dacre\u002Dhillside\u002Dfire\u002Dprompts\u002Dmandatory\u002Devacuations",
+            pageRegion: "LA \u002D West",
+            pageRegionParent: "CA",
+            pageTemplate: template,
+            pageTitle: "200\u002DAcre Hillside Fire Prompts Mandatory Evacuations",
+            pageFunction: pageType,
+            platformName: "web", // hardcoded
+            previousLink: "",
+            siteSection: "",
+            siteSubsection: "",
+            sourceMarketTag: "regions:ca/la-east/san-bernardino",
+            tags: "LA West, California, Spectrum News Staff, News, San Fernando Valley, Orange County, LA East, Wildfires",
+            url: window.location.href,
+            uxStyle: "empire",
+            vodAuth: "openMode"
+        },
+        content: {
+            Article: {
+                articleGUID: "",
+                articleHeadline: "Hillside Fire Prompts Mandatory Evacuations",
+                articleTitle: "200\u002Dacre\u002Dhillside\u002Dfire\u002Dprompts\u002Dmandatory\u002Devacuations",
+                author: "Spectrum News Staff",
+                publicationDate: "1572630660000",
+                articleViewedAge: "",
+                canonicalRegion: "",
+                articleSource: "",
+                articleStorage: articleStorage,
+                freeVODRemaining: "",
+                softwallViewsRemaining: ""
+            },
+            Page: {
+                pageContentNetwork: "",
+                pageContentShow: ""
+            },
+            Video: {
+                epgsDescription: "",
+                epgsTitle: "",
+                tmsProgramId: "",
+                tmsSeriesId: "",
+                videoBrand: "",
+                videoNetwork: "",
+                programType: ""
+            }
+        },
+        visit: {
+            visitId: "",
+            ab: "",
+            behindModem: "",
+            homeFlag: ""
+        },
+        errors: {
+            cmRuleName: "",
+            cmDisplayText: "",
+            errorType: "",
+            errorDescription: ""
+        },
+        search: {
+            searchNumResults: "",
+            searchResultsPages: "",
+            searchType: "",
+            searchKeyword: ""
+        },
+        siteTool: {
+            shareMethod: ""
+        }
+
+    }
+
+    window.addEventListener("userInteraction", function (event) {
+        if (event.detail.action === "loginSuccess") {
+            window.digitalData.user.hhid = event.detail.hhid;
+            window.digitalData.user.mvpd = event.detail.mvpd;
+            window.digitalData.user.isAuthenticated = event.detail.isAuthenticated;
+
+            window.analyticsDataLayer.hhid = event.detail.hhid;
+            News.App.QuantumAnalytics.firesQuantumLoginStopSuccess(event.detail.hhid, event.detail.mvpd);
+
+        }
+    });
+
+    /**
+     * workaround to get the hhid that is coming in late
+     * NEWS-1055
+     *
+     **/
+    var _interval = setInterval(fetchLateHHID, 3000);
+
+    function fetchLateHHID() {
+        try {
+            var auth = Cookies.get('authenticated')
+            if (typeof auth !== 'undefined' && auth === 'true') {
+                var retHhid = Cookies.get('player-hhid');
+                if (typeof retHhid === "undefined") {
+                    retHhid = "";
+                } else if (window.digitalData.user.hhid !== "" && window.analyticsDataLayer.hhid !== "") {
+                    clearInterval(_interval);
+                } else {
+                    $('#analyticsDataLayer').attr('data-hhid', retHhid);
+                    window.analyticsDataLayer.hhid = retHhid;
+                    window.analyticsDataLayer.mvpd = Cookies.get('player-mvpd');
+                    window.digitalData.user.hhid = retHhid;
+                    window.digitalData.user.isAuthenticated = 'Yes';
+                    window.digitalData.user.mvpd = Cookies.get('player-mvpd');
+                    // console.log( "player-hhid: " + window.digitalData.user.hhid );
+                }
+            } else {
+                clearInterval(_interval);
+            }
+        } catch (e) {
+        }
+
+    }
+
+</script>
+<!--/Data Layer-->
+<!--jQuery or other helper libraries go here-->
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<!--  Helix -->
+<script>
+    // use the following to check for the events
+    // https://cdn.pi-charter.net/SpectrumLocal/Web/1.146.json
+    // run the following in IE console to get the visit ID
+    // JSON.parse(localStorage.getItem('library-state')).model.visit.visitId;
+    var helixSetting = {
+        domain: "video",
+        appName: "SpectrumLocal",
+        //appVersion: "3.0.2",
+        //requirementsVersion: "1.737",
+        appVersion: "4.18.0",// App Version to match code Release Version
+        requirementsVersion: "2.80",
+        msgTriggeredBy: "user",
+        startSession: "SpectrumLocal_Web_startSession",
+        logLevel: "critical",
+        endpoint: "client_prod",
+        appEnvName: "prod",
+        drmEnabled: true
+    };
+
+
+    localStorage.setItem(
+        "helix-library-settings",
+        JSON.stringify(helixSetting)
+    );
+</script>
+
+<!--prehiding snippet for Adobe Target with asynchronous Launch deployment-->
+<script>(function (g, b, d, f) {
+    (function (a, c, d) {
+        if (a) {
+            var e = b.createElement("style");
+            e.id = c;
+            e.innerHTML = d;
+            a.appendChild(e)
+        }
+    })(b.getElementsByTagName("head")[0], "at-body-style", d);
+    setTimeout(function () {
+        var a = b.getElementsByTagName("head")[0];
+        if (a) {
+            var c = b.getElementById("at-body-style");
+            c && a.removeChild(c)
+        }
+    }, f)
+})(window, document, "body {opacity: 0 !important}", 3E3);
+</script>
+<!--/prehiding snippet for Adobe Target with asynchronous Launch deployment-->
+<script>
+    /**
+    * sets the  quantum visitId in the 'digitalData' 
+    * layer at: window.digitalData.visit.visitId
+    *
+    **/
+    var timeit = window.setInterval(setVisitId, 2000);
+    function setVisitId() {
+       if (window && window.Helix && window.Helix.track) {
+             window.digitalData.visit.visitId = window.Helix.get("visitId");
+             window.digitalData.visit.uuid = localStorage.getItem('deviceUUID')||"";
+             helixSetting.appIdentifier = window.digitalData.page.domain;
+             helixSetting.deviceUuid = window.digitalData.visit.uuid;
+             helixSetting.referrerAppVisitId = window.digitalData.visit.visitId ;
+       }
+       if(window.digitalData.visit.visitId && typeof window.digitalData.visit.visitId !=='undefined'){ 
+             clearInterval(timeit );
+       }
+    }
+</script>
+
+<script>
+    window.addEventListener("beforeunload", function (e) {
+        var auth = Cookies.get('authenticated')
+        if(typeof News !== 'undefined' && auth && auth === "true"){
+          	News.App.QuantumAnalytics.setQuantumLoginResumeCookie();
+        }
+    });
+ </script>
+
+
+
+
+
+
+
+
+<script src="//assets.adobedtm.com/c19d5759b404/bd5aea4c4170/launch-ccc23cfc1556.min.js" async></script>
+
+
+    
+<script type="text/javascript">CQURLInfo={"requestPath":"/content/news/stories/2019/10/31/2/200-acre-hillside-fire-prompts-mandatory-evacuations","selectorString":"news","extension":"html","selectors":["news"],"systemId":"7c5f5845-c3ae-410f-9187-39198a00cfa9","runModes":"prod,s7connect,crx3,nosamplecontent,publish,crx3tar"};</script>
+<script type="text/javascript" src="/etc/clientlibs/news/vendor/jquery-3-6-1.min.ACSHASH88b7ada45d73ce1600d55453fc301b3d.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="icon" type="image/svg+xml" href="/etc/designs/news/clientlibs/css/images/favicon.svg"/>
+<link rel="alternate icon" type="image/vnd.microsoft.icon" href="https://images.spectrumnews1.com/is/image/TWCNews/spectrum-news-favicon"/>
+ 
+ <!-- Loads Helix Library -->
+  
+      <script async="true" src='https://cdn.pi.spectrum.net/tools/video/HelixVideo3.0.11.js' charset="UTF-8" type="application/javascript"></script>
+  
+   <!--  END Helix -->
+
+
+
+
+    <meta name="robots" content="index, follow"/>
+
+
+
+    <link rel="canonical" href="https://spectrumnews1.com/ca/la-west/news/2019/10/31/200-acre-hillside-fire-prompts-mandatory-evacuations"/>
+
+
+
+    <meta property="og:title" content="Hillside Fire Prompts Mandatory Evacuations"/>
+
+
+
+    <meta name="twitter:title" content="Hillside Fire Prompts Mandatory Evacuations"/>
+
+
+<meta property="og:type" content="article"/>
+
+
+<meta property="og:url" content="https://spectrumnews1.com/ca/la-west/news/2019/10/31/200-acre-hillside-fire-prompts-mandatory-evacuations"/>
+
+
+
+    <meta property="og:description" content="The fire is at 70 percent containment."/>
+    <meta name="twitter:description" content="The fire is at 70 percent containment."/>
+
+
+
+<meta name="twitter:card" content="summary_large_image"/>
+
+<meta name="twitter:url" content="https://spectrumnews1.com/ca/la-west/news/2019/10/31/200-acre-hillside-fire-prompts-mandatory-evacuations"/>
+
+<meta name="story:headline" content="Hillside Fire Prompts Mandatory Evacuations"/>
+<meta name="story:description" content="A fast-moving 200 acre fire is threatening neighborhoods in north San Bernardino."/>
+
+
+
+
+     
+        <meta property="og:image" content="https://s7d2.scene7.com/is/image/TWCNews/2hillside-fire-sb-county-10-31-19jpg"/>
+        <meta name="twitter:image" content="https://s7d2.scene7.com/is/image/TWCNews/2hillside-fire-sb-county-10-31-19jpg"/>
+     
+    
+
+
+
+<script>
+    let dfpSiteId = "/6896/srnews";
+</script>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "legalName": "Spectrum News 1",
+  "url": "https://spectrumnews1.com",
+  "logo": {
+    "url": "https://s7d2.scene7.com/is/image/TWCNews/spectrum-news-1",
+    "@type": "ImageObject"
+  },
+  "sameAs": [
+    "https://facebook.com/SpectrumNews1SoCal",
+    "http://twitter.com/SpecNews1SoCal",
+    "http://instagram.com/SpectrumNews1SoCal"
+  ],
+  "@type": "Organization"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "name": "Spectrum News 1",
+  "url": "https://spectrumnews1.com",
+  "potentialAction": {
+    "target": "https://spectrumnews1.com/ca/la-west/search#{search_term}",
+    "query-input": "required name=search_term",
+    "@type": "SearchAction"
+  },
+  "@type": "Website"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "mainEntityOfPage": {
+    "@id": "https://spectrumnews1.com/ca/la-west/news/2019/10/31/200-acre-hillside-fire-prompts-mandatory-evacuations",
+    "@type": "WebPage"
+  },
+  "image": [
+    "https://s7d2.scene7.com/is/image/TWCNews/2hillside-fire-sb-county-10-31-19jpg"
+  ],
+  "headline": "Hillside Fire Prompts Mandatory Evacuations",
+  "datePublished": "2019-10-31T05:19:00.000-07:00",
+  "dateModified": "2019-10-31T05:19:00.000-07:00",
+  "author": [
+    {
+      "name": "Spectrum News Staff",
+      "@type": "Person"
+    }
+  ],
+  "publisher": {
+    "name": "Spectrum News 1",
+    "logo": {
+      "url": "https://s7d2.scene7.com/is/image/TWCNews/spectrum-news-1",
+      "@type": "ImageObject"
+    },
+    "@type": "Organization"
+  },
+  "@type": "NewsArticle"
+}
+</script>
+
+
+
+
+
+<link rel="preload" href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700&display=swap" as="style" onload="this.rel='stylesheet'" crossorigin/>
+
+
+
+<!-- Load empire CSS library -->
+
+    
+<script type="text/javascript">CQURLInfo={"requestPath":"/content/news/stories/2019/10/31/2/200-acre-hillside-fire-prompts-mandatory-evacuations","selectorString":"news","extension":"html","selectors":["news"],"systemId":"7c5f5845-c3ae-410f-9187-39198a00cfa9","runModes":"prod,s7connect,crx3,nosamplecontent,publish,crx3tar"};</script>
+<link rel="stylesheet" href="/etc/designs/bootstrap-css/clientlibs/news-empire.min.ACSHASHbac4bc0d8b19861f0c7e9deaf64847d4.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/news-empire/clientlibs/css.min.ACSHASH4feed4fac161e4170c0e49f68ecc95ad.css" type="text/css">
+
+
+
+
+
+<!-- Manually include shared icons dependency before SSI -->
+
+    
+<link rel="stylesheet" href="/etc/designs/news/clientlibs/icons.min.ACSHASH71607690250f35d7dae38bdc1d9467af.css" type="text/css">
+
+
+
+
+<!-- Load empire icons library -->
+
+    
+<link rel="stylesheet" href="/etc/designs/news-empire/clientlibs/icons.min.ACSHASH0c2cd436bdc22bbb3d39a04f51766a10.css" type="text/css">
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript" src="/etc/designs/news/clientlibs/js/head-scripts.min.ACSHASHc40fc1434e6b367346c7a2dbd06a6f2a.js"></script>
+<script type="text/javascript" src="/etc/designs/news/clientlibs/js/ads.min.ACSHASHdbc7677f2cf7f9f95f4c3174e266846d.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/news/vendor/simple-namespace-0-2-1.min.ACSHASH08b1131b377ac4ef8299f006dcf016bc.js"></script>
+
+
+
+
+
+
+<!-- This code handles smartlink redirect logic to navigate user based on device -->
+<script type="text/javascript">
+    var smartRedirectLocations = {};
+
+        smartRedirectLocations.desktopLocation="",
+        smartRedirectLocations.iOSOutsideAppLocation="",
+        smartRedirectLocations.androidOutsideAppLocation="",
+        smartRedirectLocations.inAppLocation=""
+
+</script>
+
+    
+<script type="text/javascript" src="/etc/designs/news/clientlibs/js/smart-redirect.min.ACSHASH56dbcd932f4b442cbf01a8f74e63f5c8.js"></script>
+
+
+
+
+<!-- Chartbeat includes, see also chartbeat-head-script.js and chartbeat-analytics.js -->
+<!-- This code should only run when Chartbeat Headline Testing is activated in the Page Properties -->
+
+
+<!-- Adding critical css used by components above the fold for optimizing the Core Web Vitals-->
+<style type="text/css">
+    .image img{width: 100%;}
+    .aspect-ratio-container::before {content: ""; width: 1px; margin-left: -1px; float: left; height: 0; padding-bottom: 56.25%;}
+    .aspect-ratio-container::after {content: "";display: table;clear: both;}/* to clear float */
+    .aspect-ratio-container img {max-width: 100%;width: 100%; /* scale with content width */height: auto; /* compute a height that preserves the aspect ratio */}
+    .gallery-slide .img-responsive{width: auto;height: auto;}
+    .site-header header:not([data-ad-enable="true"]) .article-header .articleAdWrapper, .site-header .site-header-inner:not([data-ad-enable="true"]) .article-header .articleAdWrapper{display:none;}
+    .dfp-ad-tags-wrapper[data-position="x30"]{width:100%; min-height:107px;}
+    .dfp-ad-tags-wrapper > .dfp-ad-tags{ min-height:calc(100% - 17px);}
+    .articleAdWrapper{width:340px; min-height:290px}
+    .icon-advertisement {height: 5px; margin: 2px auto 10px;}
+    @media (max-width: 767px){
+        .dfp-ad-tags-wrapper[data-position="x30"]{min-height: 70px; }
+        .dfp-ad-tags[data-hidemobilead="true"],.dfp-ad-tags[data-hidemobilead="true"] + .icon-advertisement, .dfp-ad-tags-wrapper[data-hidemobilead="true"] {display: none}
+    }
+</style>
+</head>
+<body class="has-fixed-navbar design--empire" data-stationcode="SpecNews1LA" data-timezone-offset="-28800000" data-statename="CA" data-ravenid="5b68be506a3b7b17631b8720" data-requestid="SPECTRUMNEWS" data-mediaanalyticsapi="https://twctsg.hb-api.omtrdc.net" data-softwarestatement="eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIxZjYyNmUxOS0xZDhlLTRlODgtOTAxMi02NzY2YzUyZTNiYTciLCJuYmYiOjE2NTI3MjMzNTQsImlzcyI6ImF1dGguYWRvYmUuY29tIiwiaWF0IjoxNjUyNzIzMzU0fQ.Ob_grAySSYrMM-zuiW_4pLXFB30E73IHRxqn1I3ClioDngQ--PZtT5jGlJDklizczh3H0Y4CparDhnhbKgxoUCIZ4t9qipPVvz1kiUGxOt4EBEmBikEvBJFVQjXyF_NsAQEUM_2B6Af3JqSN5CUCvGZVHLRS0rG2zjyI90wlMY93occ02buK54rwcH0eftGsbbXCxoa7QAbGUFv9EWkXr5jpZYds5aPJ5Kbpy8Cyn_VvZCDQh7tLMvFXddHvhOKARPOrvTNfnj-13akz6ZS2UnXuYhF8SCuF4fbxDoemicKYyRvIlmcjzV-QwM8CRgTnfVr4mYleB5oqtRtKdam9Cg" data-hdcpenabler="true" data-onplantapi="https://apis.spectrum.net/id/services/v1/on-plant" data-chartbeat-domain="spectrumnews1.com" data-chartbeat-section="News" data-chartbeat-author="Spectrum News 1 SoCal"><span id="analyticsDataLayer" data-author="Spectrum News Staff" data-content-type="article" data-headline="Hillside Fire Prompts Mandatory Evacuations" data-hhid="" data-is-internal="false" data-is-authenticated="false" data-language="English" data-page-category="31" data-publication-date="1572630660000" data-region="LA - West" data-tags="CA LA West^CA LA East^CA San Fernando Valley^CA Orange County^CA California^News^News Wildfires^Spectrum News Staff"></span>
+
+<div class="article-app-prompt">
+    <div class="title-bar">
+        <div class="title-bar-col">
+            <strong class="title">Open in Our App</strong>
+        </div>
+        <div class="title-bar-col">
+            <a href="#" class="continue-link">
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAGKADAAQAAAABAAAAGAAAAADiNXWtAAAA0klEQVRIDe1U2w2DMAxEXaDsUTaDwdsuEc5VkMA6nZ0IvmgkK4p9j8SEDMN/9HSglDK28tIcABfEG/HKmhi2chbJAWisQEzlgwhNDFOxmH4be0Yme4I0ceISezDNEDOYg6hfKAFV8zpyzYRYTopERSJovbaR73mjSZP4IxK/vI7t+mt7XouIuJl5w/BnpF1QQqpGxXyyCnwx26C3Bfn9SQybOwmAE0KKbxsiJtNWozMI9tg1fURnYlz91AMwI3qf65nu3CdhoJ9cT8C6h0Nk7phaAVML8WWIJGM8AAAAAElFTkSuQmCC"/>
+            </a>
+        </div>
+    </div>
+
+    <p><p>Get the best experience and stay connected to your community with our Spectrum News app. <a href="https://spectrumlocalnews.com/app">Learn More</a></p>
+</p>
+    <hr/>
+    <div class="buttons">
+        <a class="btn btn-primary app-button" href="https://spectrumnews.smart.link/186a99z7m?cid=article_prompt&article=/la-west/news/2019/10/31/200-acre-hillside-fire-prompts-mandatory-evacuations">
+            Open in Spectrum News App
+        </a>
+        <p>
+            <a class="continue-link" href="#">Continue in Browser</a>
+        </p>
+    </div>
+</div>
+
+
+
+
+
+
+
+    
+        
+        
+        <div class="par iparys_inherited"></div>
+
+    
+        
+        
+        <div class="site-header">
+
+
+<header data-ad-preroll-disable="true">
+    <div class="header_logo">
+        <a href="/ca/la-west" class="header_logo__icon icon-SpectrumNews1Logo"></a>
+    </div>
+    <div class="navbar-default">
+        <div class="header_weather">
+            <a class="wx-icon" href="/ca/la-west/weather"></a>
+            <a class="tempF" href="/ca/la-west/weather"></a>
+        </div>
+        <button type="button" class="navbar-toggle collapsed open-menu" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="close"></span>
+        </button>
+    </div>
+    <div class="header_region-time-weather">
+        
+<span class="header_region">
+    <a href="//spectrumnews1.com/splash.html#ca">LA - West</a>
+</span>
+        <span class="header_date"></span>
+<span class="header_time"></span>
+        <div>
+            <div class="header_weather">
+                <a class="wx-icon" href="/ca/la-west/weather"></a>
+                <a class="tempF" href="/ca/la-west/weather"></a>
+                <a class="city" href="/ca/la-west/weather"></a>
+                <a class="edit" href="javascript:void(0)">EDIT</a>
+            </div>
+        </div>
+
+    </div>
+    <div class="header_social-media-login__wrapper">
+        <div class="header_social-media">
+            
+                
+                    <a href="http://facebook.com/SpectrumNews1SoCal" class="icon--facebook-gray" target="_blank"></a>
+                
+                    <a href="http://twitter.com/SpecNews1SoCal" class="icon--twitter-gray" target="_blank"></a>
+                
+                    <a href="https://www.instagram.com/SpectrumNews1SoCal/" class="icon--instagram-gray" target="_blank"></a>
+                
+            
+        </div>
+        <div class="header_login-watch">
+            <a id="login-button" data-login-text="Log In" data-logout-text="Log Out" href="/ca/la-west/live-video/login" class="btn  header_login">Log In</a>
+            <a class="btn header_watch hidden-xs" href="/ca/la-west/live-video/watch_spectrum_news_live">WATCH LIVE</a>
+            <span class="separator"></span>
+        </div>
+    </div>
+    <div class="searchNav">
+        
+            <input name="search" placeholder="Search" type="text" class="empire-header-search icon-search-gray empire-header-search-field" data-url="/ca/la-west/search"/>
+        
+        <nav class="empire-nav-wrapper">
+            
+    
+    <ul class="empire-nav-item-list">
+        <li>
+           
+    
+        <a data-root=".empire-nav" data-target="#site-header-megamenu-2b131493-8c88-4de5-e34d-e0a45121b8fd" href="#">
+            News
+        </a>
+    
+
+            
+                <div id="site-header-megamenu-2b131493-8c88-4de5-e34d-e0a45121b8fd">
+                        
+
+
+
+
+    
+    
+    <div class="empire-link-list list parbase">
+
+<ul>
+    <li>
+        
+    
+        <a href="https://spectrumnews1.com/ca/la-east/black-history-month">
+            Black History Month
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/news">
+            Headlines
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/news/health">
+            Health and Coronavirus
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/news/business">
+            Business
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/news/environment/climate-change">
+            Climate Change
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/news/environment">
+            Environment
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/news/education">
+            Education
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/news/homelessness">
+            Homelessness
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/community/human-interest">
+            Human Interest
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/news/public-safety">
+            Public Safety
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/news/sports">
+            Sports
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/earthquake-map">
+            Earthquakes
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/wildfire-map">
+            Wildfires
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-east/driving-the-border">
+            Driving the Border
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+</ul>
+
+
+</div>
+
+
+
+                </div>
+            
+        </li>
+    
+        <li>
+           
+    
+        <a data-root=".empire-nav" data-target="#site-header-megamenu-c666160c-d606-7792-4619-269353871b8d" href="#">
+            Transportation
+        </a>
+    
+
+            
+                <div id="site-header-megamenu-c666160c-d606-7792-4619-269353871b8d">
+                        
+
+
+
+
+    
+    
+    <div class="empire-link-list list parbase">
+
+<ul>
+    <li>
+        
+    
+        <a href="/ca/la-west/transportation">
+            Transportation News
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/traffic">
+            Interactive Traffic Map
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+</ul>
+
+
+</div>
+
+
+
+                </div>
+            
+        </li>
+    
+        <li>
+           
+    
+        <a data-root=".empire-nav" data-target="#site-header-megamenu-1ace288a-246f-d252-206e-a21c8f27329f" href="#">
+            Politics
+        </a>
+    
+
+            
+                <div id="site-header-megamenu-1ace288a-246f-d252-206e-a21c8f27329f">
+                        
+
+
+
+
+    
+    
+    <div class="empire-link-list list parbase">
+
+<ul>
+    <li>
+        
+    
+        <a href="/ca/la-west/politics">
+            Political News
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/politics/state-government">
+            State Government Guide
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/politics/untangled">
+            Untangled with Josh Robin
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/politics/washington-dc-bureau">
+            Washington DC Bureau
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+</ul>
+
+
+</div>
+
+
+
+                </div>
+            
+        </li>
+    
+        <li>
+           
+    
+        <a data-root=".empire-nav" data-target="#site-header-megamenu-578cfa28-b941-314d-85d2-eb0aaf65068b" href="#">
+            Arts+Culture
+        </a>
+    
+
+            
+                <div id="site-header-megamenu-578cfa28-b941-314d-85d2-eb0aaf65068b">
+                        
+
+
+
+
+    
+    
+    <div class="empire-link-list list parbase">
+
+<ul>
+    <li>
+        
+    
+        <a href="/ca/la-west/arts-culture/arts">
+            Arts
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/arts-culture/food">
+            Food &amp; Drink
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/arts-culture/show-business">
+            Show Business
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+</ul>
+
+
+</div>
+
+
+
+                </div>
+            
+        </li>
+    
+        <li>
+           
+    
+        <a data-root=".empire-nav" data-target="#site-header-megamenu-cc04c05c-f917-51e7-9c56-405234d03b1f" href="#">
+            Community
+        </a>
+    
+
+            
+                <div id="site-header-megamenu-cc04c05c-f917-51e7-9c56-405234d03b1f">
+                        
+
+
+
+
+    
+    
+    <div class="empire-link-list list parbase">
+
+<ul>
+    <li>
+        
+    
+        <a href="/ca/la-west">
+            LA - West
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-east">
+            LA - East/Inland Empire
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/san-fernando-valley-ventura">
+            San Fernando Valley/Ventura
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/orange-county">
+            Orange County
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/community/calendar">
+            Community Calendar
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/sports/high-school-sports">
+            High School Sports
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/community/scholar-athlete">
+            Scholar Athlete
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+</ul>
+
+
+</div>
+
+
+
+                </div>
+            
+        </li>
+    
+        <li>
+           
+    
+        <a data-root=".empire-nav" data-target="#site-header-megamenu-27e3e2f7-2596-0368-1e81-5c3fbc3ea8ab" href="#">
+            Weather
+        </a>
+    
+
+            
+                <div id="site-header-megamenu-27e3e2f7-2596-0368-1e81-5c3fbc3ea8ab">
+                        
+
+
+
+
+    
+    
+    <div class="empire-link-list list parbase">
+
+<ul>
+    <li>
+        
+    
+        <a href="/ca/la-west/weather">
+            Local Weather
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/weather/weather-blogs">
+            Weather News
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/weather/forecast">
+            7-Day Forecast
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/weather/radar">
+            Interactive Radar
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+</ul>
+
+
+</div>
+
+
+
+                </div>
+            
+        </li>
+    
+        <li>
+           
+    
+        <a data-root=".empire-nav" data-target="#site-header-megamenu-dc4d9590-74ef-8463-87c8-07a1fad4008d" href="#">
+            Shows
+        </a>
+    
+
+            
+                <div id="site-header-megamenu-dc4d9590-74ef-8463-87c8-07a1fad4008d">
+                        
+
+
+
+
+    
+    
+    <div class="empire-link-list list parbase">
+
+<ul>
+    <li>
+        
+    
+        <a href="/ca/la-west/shows/beyond-the-sport">
+            Beyond the Sport
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/shows/exploring-your-health">
+            Exploring Your Health
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/section/in-focus/in-focus-california" target="_blank">
+            In Focus SoCal
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/shows/inside-the-issues">
+            Inside the Issues
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/shows/la-stories">
+            LA Stories
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/shows/la-times-today">
+            LA Times Today
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/shows/music-diaries">
+            Music Diaries
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/shows/socal-scene">
+            The SoCal Scene
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/shows/this-month-with-the-mayor">
+            This Month With the Mayor
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="https://spectrumnews1.com/ca/la-west/shows/spectrum-news-challenge">
+            Spectrum News Challenge
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+</ul>
+
+
+</div>
+
+
+
+                </div>
+            
+        </li>
+    
+        <li>
+           
+    
+        <a data-root=".empire-nav" data-target="#site-header-megamenu-14dded28-501c-cf0a-c4ce-e75d17c77147" href="#">
+            Podcasts
+        </a>
+    
+
+            
+                <div id="site-header-megamenu-14dded28-501c-cf0a-c4ce-e75d17c77147">
+                        
+
+
+
+
+    
+    
+    <div class="empire-link-list list parbase">
+
+<ul>
+    <li>
+        
+    
+        <a href="https://spectrumnews1.com/ca/la-east/socal-podcasts">
+            All Podcasts
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="https://spectrumnews1.com/ca/la-east/politics/inside-the-issues-podcast">
+            Inside the Issues
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="https://spectrumnews1.com/ca/la-west/shows/Lakeshow-Podcast">
+            Lakeshow
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+</ul>
+
+
+</div>
+
+
+
+                </div>
+            
+        </li>
+    
+        <li>
+           
+    
+        <a href="/ca/la-west/about/bios">
+            Our Journalists
+        </a>
+    
+
+            
+        </li>
+    </ul>
+<div class="empire-full-mobile-menu">
+        
+                <input name="search" placeholder="Search" type="text" class="icon-search-gray mobile-search empire-header-search-field" data-url="/ca/la-west/search"/>
+        
+        <ul class="empire-mobile-item-list">
+            <li>
+                
+    
+        <a data-root=".empire-nav" data-target="#site-header-megamenu-2b131493-8c88-4de5-e34d-e0a45121b8fd" href="#">
+            News
+        </a>
+    
+
+                    <div class="empire-mobile-divider empire-type-megamenu-bar"></div>
+                    
+                        <div id="site-header-megamenu-2b131493-8c88-4de5-e34d-e0a45121b8fd">
+                                
+
+
+
+
+    
+    
+    <div class="empire-link-list list parbase">
+
+<ul>
+    <li>
+        
+    
+        <a href="https://spectrumnews1.com/ca/la-east/black-history-month">
+            Black History Month
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/news">
+            Headlines
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/news/health">
+            Health and Coronavirus
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/news/business">
+            Business
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/news/environment/climate-change">
+            Climate Change
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/news/environment">
+            Environment
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/news/education">
+            Education
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/news/homelessness">
+            Homelessness
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/community/human-interest">
+            Human Interest
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/news/public-safety">
+            Public Safety
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/news/sports">
+            Sports
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/earthquake-map">
+            Earthquakes
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/wildfire-map">
+            Wildfires
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-east/driving-the-border">
+            Driving the Border
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+</ul>
+
+
+</div>
+
+
+
+                        </div>
+                    
+            </li>
+        
+            <li>
+                
+    
+        <a data-root=".empire-nav" data-target="#site-header-megamenu-c666160c-d606-7792-4619-269353871b8d" href="#">
+            Transportation
+        </a>
+    
+
+                    <div class="empire-mobile-divider empire-type-megamenu-bar"></div>
+                    
+                        <div id="site-header-megamenu-c666160c-d606-7792-4619-269353871b8d">
+                                
+
+
+
+
+    
+    
+    <div class="empire-link-list list parbase">
+
+<ul>
+    <li>
+        
+    
+        <a href="/ca/la-west/transportation">
+            Transportation News
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/traffic">
+            Interactive Traffic Map
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+</ul>
+
+
+</div>
+
+
+
+                        </div>
+                    
+            </li>
+        
+            <li>
+                
+    
+        <a data-root=".empire-nav" data-target="#site-header-megamenu-1ace288a-246f-d252-206e-a21c8f27329f" href="#">
+            Politics
+        </a>
+    
+
+                    <div class="empire-mobile-divider empire-type-megamenu-bar"></div>
+                    
+                        <div id="site-header-megamenu-1ace288a-246f-d252-206e-a21c8f27329f">
+                                
+
+
+
+
+    
+    
+    <div class="empire-link-list list parbase">
+
+<ul>
+    <li>
+        
+    
+        <a href="/ca/la-west/politics">
+            Political News
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/politics/state-government">
+            State Government Guide
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/politics/untangled">
+            Untangled with Josh Robin
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/politics/washington-dc-bureau">
+            Washington DC Bureau
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+</ul>
+
+
+</div>
+
+
+
+                        </div>
+                    
+            </li>
+        
+            <li>
+                
+    
+        <a data-root=".empire-nav" data-target="#site-header-megamenu-578cfa28-b941-314d-85d2-eb0aaf65068b" href="#">
+            Arts+Culture
+        </a>
+    
+
+                    <div class="empire-mobile-divider empire-type-megamenu-bar"></div>
+                    
+                        <div id="site-header-megamenu-578cfa28-b941-314d-85d2-eb0aaf65068b">
+                                
+
+
+
+
+    
+    
+    <div class="empire-link-list list parbase">
+
+<ul>
+    <li>
+        
+    
+        <a href="/ca/la-west/arts-culture/arts">
+            Arts
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/arts-culture/food">
+            Food &amp; Drink
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/arts-culture/show-business">
+            Show Business
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+</ul>
+
+
+</div>
+
+
+
+                        </div>
+                    
+            </li>
+        
+            <li>
+                
+    
+        <a data-root=".empire-nav" data-target="#site-header-megamenu-cc04c05c-f917-51e7-9c56-405234d03b1f" href="#">
+            Community
+        </a>
+    
+
+                    <div class="empire-mobile-divider empire-type-megamenu-bar"></div>
+                    
+                        <div id="site-header-megamenu-cc04c05c-f917-51e7-9c56-405234d03b1f">
+                                
+
+
+
+
+    
+    
+    <div class="empire-link-list list parbase">
+
+<ul>
+    <li>
+        
+    
+        <a href="/ca/la-west">
+            LA - West
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-east">
+            LA - East/Inland Empire
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/san-fernando-valley-ventura">
+            San Fernando Valley/Ventura
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/orange-county">
+            Orange County
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/community/calendar">
+            Community Calendar
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/sports/high-school-sports">
+            High School Sports
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/community/scholar-athlete">
+            Scholar Athlete
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+</ul>
+
+
+</div>
+
+
+
+                        </div>
+                    
+            </li>
+        
+            <li>
+                
+    
+        <a data-root=".empire-nav" data-target="#site-header-megamenu-27e3e2f7-2596-0368-1e81-5c3fbc3ea8ab" href="#">
+            Weather
+        </a>
+    
+
+                    <div class="empire-mobile-divider empire-type-megamenu-bar"></div>
+                    
+                        <div id="site-header-megamenu-27e3e2f7-2596-0368-1e81-5c3fbc3ea8ab">
+                                
+
+
+
+
+    
+    
+    <div class="empire-link-list list parbase">
+
+<ul>
+    <li>
+        
+    
+        <a href="/ca/la-west/weather">
+            Local Weather
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/weather/weather-blogs">
+            Weather News
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/weather/forecast">
+            7-Day Forecast
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/weather/radar">
+            Interactive Radar
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+</ul>
+
+
+</div>
+
+
+
+                        </div>
+                    
+            </li>
+        
+            <li>
+                
+    
+        <a data-root=".empire-nav" data-target="#site-header-megamenu-dc4d9590-74ef-8463-87c8-07a1fad4008d" href="#">
+            Shows
+        </a>
+    
+
+                    <div class="empire-mobile-divider empire-type-megamenu-bar"></div>
+                    
+                        <div id="site-header-megamenu-dc4d9590-74ef-8463-87c8-07a1fad4008d">
+                                
+
+
+
+
+    
+    
+    <div class="empire-link-list list parbase">
+
+<ul>
+    <li>
+        
+    
+        <a href="/ca/la-west/shows/beyond-the-sport">
+            Beyond the Sport
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/shows/exploring-your-health">
+            Exploring Your Health
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/section/in-focus/in-focus-california" target="_blank">
+            In Focus SoCal
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/shows/inside-the-issues">
+            Inside the Issues
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/shows/la-stories">
+            LA Stories
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/shows/la-times-today">
+            LA Times Today
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/shows/music-diaries">
+            Music Diaries
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/shows/socal-scene">
+            The SoCal Scene
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="/ca/la-west/shows/this-month-with-the-mayor">
+            This Month With the Mayor
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="https://spectrumnews1.com/ca/la-west/shows/spectrum-news-challenge">
+            Spectrum News Challenge
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+</ul>
+
+
+</div>
+
+
+
+                        </div>
+                    
+            </li>
+        
+            <li>
+                
+    
+        <a data-root=".empire-nav" data-target="#site-header-megamenu-14dded28-501c-cf0a-c4ce-e75d17c77147" href="#">
+            Podcasts
+        </a>
+    
+
+                    <div class="empire-mobile-divider empire-type-megamenu-bar"></div>
+                    
+                        <div id="site-header-megamenu-14dded28-501c-cf0a-c4ce-e75d17c77147">
+                                
+
+
+
+
+    
+    
+    <div class="empire-link-list list parbase">
+
+<ul>
+    <li>
+        
+    
+        <a href="https://spectrumnews1.com/ca/la-east/socal-podcasts">
+            All Podcasts
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="https://spectrumnews1.com/ca/la-east/politics/inside-the-issues-podcast">
+            Inside the Issues
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+
+    <li>
+        
+    
+        <a href="https://spectrumnews1.com/ca/la-west/shows/Lakeshow-Podcast">
+            Lakeshow
+        </a>
+    
+
+        <span class="menu-item-divider"></span>
+    </li>
+</ul>
+
+
+</div>
+
+
+
+                        </div>
+                    
+            </li>
+        
+            <li>
+                
+    
+        <a href="/ca/la-west/about/bios">
+            Our Journalists
+        </a>
+    
+
+                    <div class="empire-mobile-divider empire-type-clickthrough-bar"></div>
+                    
+            </li>
+        </ul>
+</div>
+        </nav>
+    </div>
+    <div id="edit-location-modal" class="location-modal">
+        <div class="modal-content">
+            <span class="edit-location-modal-close">&times;</span>
+            <span class="modal-title-text">Set Weather Location</span>
+            <p class="modal-desc-text">Get hyperlocal forecasts, radar and weather alerts.</p>
+            <input id="edit-location-zip" name="zip" type="text" maxlength="5" placeholder="Enter a 5-digit ZIP code" pattern="[0-9]+"/>
+            <p class="zip-error-message">Please enter a valid zipcode.</p>
+            <div class="edit-location-save">
+                <p class="save-button-text">Save</p>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="region-data" data-ravenid="5b68be506a3b7b17631b8720" data-organization-name="Spectrum News 1" data-outoffreeviews="Stay connected to your community. Log in for unlimited access to Spectrum News content." data-numofviews="5" data-softwallwelcome="Enjoy access to five videos from Spectrum News 1. Log in for unlimited access." data-paywallmessage="This video is available exclusively to our customers">
+</div></div>
+
+    
+        
+        
+        <div class="wxAlertBar">
+<div class="alert-bar">
+    <div class="alert-bar__displayed-alerts">
+        
+
+        
+            
+    <div class="ticker-item alert-bar__li alert-bar__li--custom" style="display: none; position: absolute">
+        <a href="https://spectrumnews.smart.link/84evq57f7?cid=id-app14_m-display_s-web_cmp-app_launch_august2020_k-alert_bar_po-organic">
+            <div>
+                <span class="alert-bar__text-box"><span class="alert-bar__title">GET OUR APP</span><span class="alert-bar__text">Our Spectrum News app is the most convenient way to get the stories that matter to you. Download it here.</span></span>
+            </div>
+        </a>
+    </div>
+
+        
+    </div>
+</div>
+
+<div>
+    <ul class="alert-bar__raven-alerts">
+        
+    
+
+        
+    
+
+    </ul>
+</div>
+
+<script>
+    ns("News.App").tickerConfig = {
+        effect : "slideUp",
+        interval : 4000,
+        duration : 600
+    }
+</script>
+
+    
+<script type="text/javascript">CQURLInfo={"requestPath":"/content/news/ca/la-west/jcr:content/main-website-header/wx_alert_bar","extension":"html","selectors":[],"systemId":"7c5f5845-c3ae-410f-9187-39198a00cfa9","runModes":"prod,s7connect,crx3,nosamplecontent,publish,crx3tar"};</script>
+<script type="text/javascript" src="/etc/designs/news/clientlibs/js/weather/alertBar.min.ACSHASH02c60d1ea9623c29226ad55ff30a5b7a.js"></script>
+
+
+</div>
+
+    
+
+
+
+
+
+<div>
+    
+        
+            <div id="x30" class="dfp-ad-tags" data-position="x30">
+            </div>
+            <div class="icon-advertisement hidden"></div>
+        
+    
+
+
+
+</div>
+<div class="header-player">
+    
+    
+        <link rel="stylesheet" href="https://cdn.bitmovin.com/player/web/8/bitmovinplayer-ui.css"/>
+
+        <div class="componentWrapper">
+
+            
+                <!-- temporary image to preallocate space -->
+                <img width="1250" height="703" class="img-responsive" data-src="https://s7d2.scene7.com/is/image/TWCNews/2hillside-fire-sb-county-10-31-19jpg"/>
+            
+
+            <div id='bitmovin-video-player' class="player-wrapper">
+                
+            </div>
+            
+                <div class="imageCaption">
+                    <span>Damage assessment from the Hillside Fire (Courtesy San Bernardino County Fire District)</span>
+                </div>
+            
+
+            
+            
+            
+            <div class="platform-video-data" data-identifier="e4339ec5-1110-4dfd-b387-7a03bcf156e2" data-videothumbnail="https://s7d2.scene7.com/is/image/TWCNews/2hillside-fire-sb-county-10-31-19jpg" data-pid="cesQv_QZSj5x" data-platformFeedURL="https://feed.theplatform.com/f/f5FWJC/twcnews-pid" data-autoplay="false" data-logobranding="spectrum_news_1" data-authtype="openMode" data-analytics-authtype="open" data-license="74746605-7c9e-4d68-9fc5-9835725b766c" data-manifesturl="https://5bec9.v.fwmrm.net/ad/g/1?nw=376521&amp;resp=vmap1&amp;prof=376521:twc_rsn_html5_live&amp;csid=twcnewsweb_preroll&amp;caid=1737128003701;;slid=slot-1&amp;tpcl=PREROLL&amp;ptgt=a&amp;slau=preroll" data-platformfeedmpxurl="https://feed.theplatform.com/f/f5FWJC/twcnews-pid-mds2" data-unsupportedBrowserMsg="Unsupported Browser">
+            </div>
+
+            
+
+
+
+
+
+
+
+            
+
+            
+                <!-- temporary image to overlay the player -->
+                <img width="1250" height="703" class="img-responsive overlay-image" data-src="https://s7d2.scene7.com/is/image/TWCNews/2hillside-fire-sb-county-10-31-19jpg"/>
+            
+
+        </div>
+    
+
+
+
+
+</div>
+
+<div class="container body-container">
+    <div class="row">
+        <div class="col-sm-12">
+            
+            
+            
+    
+
+            <article>
+    
+    <div class="article-header">
+        
+        <div class="row">
+            <div class="col-xs-12">
+                <div>
+
+
+
+
+</div>
+            </div>
+            <div class="col-xs-12 clearfix">
+                
+                <div class="flair-container story-page-flair">
+                    
+                    <div class="flair flair--news empire-visible" data-flair-text="WILDFIRES"></div>
+                </div>
+                
+                <h1 class="article-headline">Hillside Fire Prompts Mandatory Evacuations</h1>
+                <div class="article-subheader small">
+                    
+                    
+                    <div class="article-information">
+                        
+                        <div class="article-byline-information">
+                            <span>By </span>
+                            <span class="article-byline-reporter-list">
+                                
+                                
+                                   
+                                    
+                                    Spectrum News Staff
+                                
+                            </span>
+                            
+                                <span class="article-location">San Bernardino County</span>
+                            
+
+                        </div>
+                        <div class="article-date-information">
+                            <span class="article-date-publish-updated">UPDATED 10:51 AM PT Nov. 01, 2019</span>
+                            <span class="article-date-publish empire-visible empire-byline ">PUBLISHED 5:19 AM PT Oct. 31, 2019</span>
+                            <span class="classic-visible article-date-publish ">PUBLISHED 5:19 AM PDT Oct. 31, 2019</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="share-text-article pull-left">SHARE</div>
+                <div class="share-bar-container">
+    <button class="share-bar-link icon-share-facebook desktop-uri mobile-uri" title="Share with Facebook" aria-label="Share with Facebook" href="https://www.facebook.com/sharer/sharer.php?u=URL_TO_SHARE?cid=share_fb" target="_blank" data-empire-order="10"></button>
+    <button class="share-bar-link icon-share-twitter desktop-uri mobile-uri" title="Share with Twitter" aria-label="Share with Twitter" href="https://twitter.com/intent/tweet?text=HEADLINE&url=URL_TO_SHARE?cid=share_twitter" target="_blank" data-empire-order="20"></button>
+    <!-- SMS for mobile only-->
+    <button class="share-bar-link icon-share-message mobile-uri os-not-ios" title="Share with SMS" aria-label="Share with SMS" href="sms:?body=URL_TO_SHARE?cid=share_sms" data-empire-order="25"></button>
+    <!-- Dedicated iOS button b/c URI syntax varies from what's used by Desktop and Android -->
+    <button class="share-bar-link icon-share-message mobile-uri os-ios" title="Share with SMS" aria-label="Share with SMS" href="sms:&body=URL_TO_SHARE%3Fcid%3Dshare_sms" data-urlencode="true" data-empire-order="25"></button>
+    <button class="share-bar-link icon-share-reddit" title="Share with Reddit" aria-label="Share with Reddit" href="https://www.reddit.com/submit/?title=HEADLINE&url=URL_TO_SHARE?cid=share_reddit" target="_blank" data-empire-order="0"></button>
+    <!-- messenger button start -->
+    <button class="share-bar-link icon-share-messenger desktop-uri" title="Share with Facebook Messenger" aria-label="Share with Facebook Messenger" href="https://www.facebook.com/dialog/send?app_id=FB_APP_ID&link=URL_TO_SHARE?cid=share_fbmsg&redirect_uri=REDIRECT_URL?cid=share_fbmsg" target="_blank" data-empire-order="60"></button>
+    <!-- messenger button has a mobile app URI -->
+    <button class="share-bar-link icon-share-messenger mobile-uri" title="Share with Facebook Messenger" aria-label="Share with Facebook Messenger" href="fb-messenger://share?link=URL_TO_SHARE%3Fcid%3Dshare_fbmsg&app_id=FB_APP_ID" data-urlencode="true" data-empire-order="60"></button>
+    <!-- messenger button end -->
+    <!-- whatsapp button start -->
+    <!-- URL encode the share url. Note that the CID for the share url is url encoded. -->
+    <button class="share-bar-link icon-share-whatsapp desktop-uri" title="Share with Whatsapp" aria-label="Share with Whatsapp" href="https://web.whatsapp.com/send?text=URL_TO_SHARE%3Fcid%3Dshare_whatsapp" target="_blank" data-urlencode="true" data-empire-order="50"></button>
+    <!-- whatsapp button has a mobile app URI -->
+    <button class="share-bar-link icon-share-whatsapp mobile-uri" title="Share with Whatsapp" aria-label="Share with Whatsapp" href="whatsapp://send?text=URL_TO_SHARE?cid=share_whatsapp" data-empire-order="50"></button>
+    <!-- whatsapp button end -->
+    <button class="share-bar-link icon-share-linkedin desktop-uri mobile-uri" title="Share with LinkedIn" aria-label="Share with LinkedIn" href="https://www.linkedin.com/shareArticle?mini=true&url=URL_TO_SHARE?share_linkedin&title=HEADLINE&source=WEBSITE_URL&summary=DESCRIPTION" target="_blank" data-empire-order="0"></button>
+    <button class="share-bar-link icon-share-email desktop-uri mobile-uri" title="Share with Email" aria-label="Share with Email" href="mailto:?subject=HEADLINE&body=URL_TO_SHARE?cid=share_email" data-empire-order="30"></button>
+    <!-- Copy to clipboard start -->
+    <!-- success icon shows for 5 sec. Shows on opposite side for mobile. -->
+    <div class="share-bar-link icon-clipboard-copied-mobile"></div>
+    <!-- this is a button not an anchor tag because anchor tag (link) will set the window.location to the href -->
+    <button class="share-bar-link icon-share-link desktop-uri mobile-uri" title="Copy article link" aria-label="Copy article link" href="URL_TO_SHARE?cid=share_clip" data-empire-order="40"></button>
+    <div class="share-bar-link icon-clipboard-copied-desktop"></div>
+    <!-- Copy to clipboard end -->
+</div>
+            </div>
+
+            <div class="col-xs-12">
+                <div class="article-body">
+                    <div class="articleAdWrapper">
+                        <div id="x35" class="dfp-ad-tags" data-position="x35"></div>
+                        <div class="icon-advertisement hidden"></div>
+                    </div>
+                    
+
+
+
+
+    
+    
+    <div class="text parbase"><p>SAN BERNARDINO, Calif. – A fast-moving 200-acre fire is threatening neighborhoods in north San Bernardino leading to mandatory evacuations for 1,300 residents in the area on Thursday.</p>
+<p>Fire officials say that evacuations will be lifted at 6 p.m. Thursday, for residents only.</p>
+<p>The fire, which has been named the Hillside Fire, ignited around 3:31 a.m. Out of the 140 homes assessed, the fire has destroyed six homes and damaged 18 others.</p>
+<p>As of Friday, the fire is 70 percent contained.</p>
+<p>One firefighter has been transported to an area hospital for smoke inhalation.</p>
+<p><b><a href="https://spectrumnews1.com/ca/la-west/wildfire-map">FULL COVERAGE | Southern California Wildfire Watch</a></b></p>
+<p><b>Mandatory Evacuations:</b></p>
+<ul>
+<li>North of 50th Street</li>
+<li>East of Mayfield Avenue</li>
+<li>West of Highway 18</li>
+</ul>
+<p><b>Evacuation Center:</b></p>
+<ul>
+<li>Pacific High School, 1020 Pacific St., San Bernardino, CA</li>
+</ul>
+<p><b>Small and Large Animal Evacuation Center:</b></p>
+<ul>
+<li>San Bernardino City Animal Shelter, 333 Chandler Place, San Bernardino, CA</li>
+</ul>
+<p><b>Road Closures:</b></p>
+<ul>
+<li>Highway 18 between 40th Street and Highway 138 - OPEN</li>
+<li>State Route 18 from Waterman to State Route 138</li>
+</ul>
+<p>&nbsp;</p>
+<div class="data-image-wrapper img-hash-6507be26-1046-401b-9a5b-aab9bed78915 hashed-image" contenteditable="false" style="cursor: pointer; display: inline;"><img src="/content/dam/News/2019/10/31/1031_hillside_firecajpg" style="cursor: pointer;"></div>
+<p>A water-dropping helicopter will work on a flying air attack of the fire. An estimated 350 first responders are battling the blaze and defending homes.</p>
+<p>Winds gusts are up to 70 mph hindering crews trying to battle the fire. Most of Southern California is under a <a href="https://spectrumnews1.com/ca/la-west/news/2019/10/24/red-flag-warning-in-effect-as-fire-danger-ramps-up" target="_blank">Red Flag Warning</a> until 11 p.m. Thursday night.&nbsp;</p>
+<p>“The weather is going to be a challenge to us today,” said&nbsp;San Bernardino County Fire&nbsp;&nbsp;Deputy Chief Scott Howes in a Thursday morning press conference.</p>
+<p>Residents who need information about the Hillside Fire can call the San Bernardino Incident Information Center at 909-383-5688.</p>
+<div class="embedcode"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hand crews heading out near that point of origin at the <a href="https://twitter.com/hashtag/hillsidefire?src=hash&amp;ref_src=twsrc%5Etfw">#hillsidefire</a> near Hwy 18. Fire is about 200 acres. At least 8 homes burned according to firefighters on scene. <a href="https://t.co/V03CHzcPx3">pic.twitter.com/V03CHzcPx3</a></p>
+— Kate Cagle (@KateCagle) <a href="https://twitter.com/KateCagle/status/1189881268227301377?ref_src=twsrc%5Etfw">October 31, 2019</a></blockquote>
+<script src="https://platform.twitter.com/widgets.js" charset="utf-8">
+</script>
+</div>
+<p>&nbsp;</p>
+<div class="embedcode"><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/HillSideFire?src=hash&amp;ref_src=twsrc%5Etfw">#HillSideFire</a> (Update): Updated map of fire perimeter. High winds continue in the area, 20-30 mph with gusts up to 60. Firefighters continue to work on perimeter control as well as structure defense. Krn <a href="https://twitter.com/SanBernardinoPD?ref_src=twsrc%5Etfw">@SanBernardinoPD</a> <a href="https://twitter.com/SanBernardinoNF?ref_src=twsrc%5Etfw">@SanBernardinoNF</a> <a href="https://t.co/Ox5pWHMDXl">pic.twitter.com/Ox5pWHMDXl</a></p>
+— SB County Fire (@SBCOUNTYFIRE) <a href="https://twitter.com/SBCOUNTYFIRE/status/1189882481962405888?ref_src=twsrc%5Etfw">October 31, 2019</a></blockquote>
+<script src="https://platform.twitter.com/widgets.js" charset="utf-8">
+</script>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="data-image-wrapper img-hash-147a5e06-863e-415c-93dc-4d566cb6438e hashed-image" contenteditable="false" style="cursor: pointer; display: inline;"><img src="/content/dam/News/2019/10/31/1031_spec_hillsidefirejpg" style="cursor: pointer;"></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+</div>
+
+
+    
+    
+    <div class="box-wrapper">
+
+
+
+    
+</div>
+
+
+
+                    <div>
+                        <div id="x33" class="dfp-ad-tags" data-position="x33"></div>
+                        <div class="icon-advertisement hidden"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</article>
+            <div id="story-rail">
+                
+
+
+
+
+    
+        
+        
+        <div class="content-list related-stories">
+
+
+
+<div class="content-list-layout content-list-layout--4x1-single-column-mobile  ajax--true content-list__mode--tag-based-dynamic " data-limit="4" data-requiredtags="regions:ca/la-west,regions:ca/la-east,regions:ca/san-fernando-valley,regions:ca/orange-county,regions:ca/california,pageCategories:news">
+    <h1></h1>
+    <div class="articles-container content-list__preview--false content-list__hide-flair--false content-list__hide-videoIndicator--false content-list__hide-image--false content-list__hide-location--false content-list__hide-date--false">
+        
+        
+    </div>
+
+    
+</div>
+
+</div>
+
+    
+        
+        
+        <div class="newpar new section">
+
+</div>
+
+    
+        
+        
+        
+
+    
+    
+    
+    
+
+
+    
+
+
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            
+
+
+
+
+    
+    
+    <div class="content-list">
+
+
+
+<div class="content-list-layout content-list-layout--2x2  ajax--true content-list__mode--tag-based-dynamic " data-limit="4" data-requiredtags="regions:ca/la-west,regions:ca/la-east,regions:ca/san-fernando-valley,regions:ca/orange-county,regions:ca/california,pageCategories:news" data-heading="LATEST NEWS">
+    <h1>LATEST NEWS</h1>
+    <div class="articles-container content-list__preview--false content-list__hide-flair--false content-list__hide-videoIndicator--false content-list__hide-image--false content-list__hide-location--false content-list__hide-date--false">
+        
+        
+    </div>
+
+    
+</div>
+
+</div>
+
+
+
+            <div id="below-main-content-right">
+                
+
+
+
+
+    
+        
+        
+        <div class="newpar new section">
+
+</div>
+
+    
+        
+        
+        
+
+    
+    
+    
+    
+        
+        
+        <div class="google-dfp-ads">
+    
+        
+            <div id="x33" class="dfp-ad-tags" data-position="x33">
+            </div>
+            <div class="icon-advertisement hidden"></div>
+        
+    
+
+
+
+</div>
+
+    
+
+
+    
+
+
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-12">
+            
+
+
+
+
+    
+        
+        
+        <div class="newpar new section">
+
+</div>
+
+    
+        
+        
+        
+
+    
+    
+    
+    
+
+
+    
+
+
+        </div>
+    </div>
+
+    <div>
+    
+        
+            <div id="x37" class="dfp-ad-tags" data-position="x37">
+            </div>
+            <div class="icon-advertisement hidden"></div>
+        
+    
+
+
+
+</div>
+</div>
+
+
+
+
+
+
+
+    
+        
+        
+        <div class="par iparys_inherited"></div>
+
+    
+        
+        
+        <div class="site-footer">
+
+<footer class="news-empire">
+    <div class="social-gradient"></div>
+    <div id="footerLinks" class="container main-footer__body">
+        <div class="row">
+            <div class="col-xs-12">
+                
+                    <div class="footer-branding">
+                        <a href="/ca/la-west">
+                            <div class="logo icon-SpectrumNews1Logo-gray"></div>
+                        </a>
+                    </div>
+                
+                <div class="footer__links text-uppercase ">
+
+<ul class="list-inline list-unstyled">
+    <li>
+    
+        <a href="/splash">
+            Spectrum News
+        </a>
+    
+</li>
+
+    <li>
+    
+        <a href="/ca/la-west/about/contact-us">
+            CONTACT
+        </a>
+    
+</li>
+
+    <li>
+    
+        <a href="/ca/la-west/about">
+            ABOUT
+        </a>
+    
+</li>
+
+    <li>
+    
+        <a href="/ca/la-west/rss">
+            RSS
+        </a>
+    
+</li>
+
+    <li>
+    
+        <a href="/ca/la-west/about/faq">
+            FAQ
+        </a>
+    
+</li>
+
+    <li>
+    
+        <a href="/ca/la-west/sitemap">
+            SITEMAP
+        </a>
+    
+</li>
+
+    <li>
+    
+        <a href="https://jobs.spectrum.com/content-media-news" target="_blank">
+            CAREERS
+        </a>
+    
+</li>
+
+    <li>
+    
+        <a href="https://go2.spectrumreach.com/losangeles_spectrumnews_tv" target="_blank">
+            Advertise With Us
+        </a>
+    
+</li>
+
+    <li>
+    
+        <a href="https://www.spectrum.com/policies/residential-terms.html" target="_blank">
+            TERMS
+        </a>
+    
+</li>
+
+    <li>
+    
+        <a href="https://www.spectrum.com/policies/your-privacy-rights" target="_blank">
+            Your Privacy Rights
+        </a>
+    
+</li>
+
+    <li>
+    
+        <a href="https://www.spectrum.com/policies/california" target="_blank">
+            California Consumer Privacy Rights
+        </a>
+    
+</li>
+
+    <li>
+    
+        <a href="https://www.spectrum.com/policies/your-privacy-rights-opt-out" target="_blank">
+            California Consumer Limit the Use of My Sensitive Personal Information
+        </a>
+    
+</li>
+
+    <li>
+    
+        <a href="https://spectrum.com/policies/your-privacy-rights-opt-out" target="_blank">
+            California Consumer Do Not Sell or Share My Personal Information
+        </a>
+    
+</li>
+</ul>
+
+
+</div>
+                
+                    <div id="footerSocialLinks" class="social-icons">
+                        <ul class="list-inline">
+                            <li>
+                                <a href="http://facebook.com/SpectrumNews1SoCal" class="icon--facebook-gray" data-provider="Facebook"></a>
+                            </li>
+                        
+                            <li>
+                                <a href="http://twitter.com/SpecNews1SoCal" class="icon--twitter-gray" data-provider="Twitter"></a>
+                            </li>
+                        
+                            <li>
+                                <a href="https://www.instagram.com/SpectrumNews1SoCal/" class="icon--instagram-gray" data-provider="Instagram"></a>
+                            </li>
+                        </ul>
+                    </div>
+                
+            </div>
+        </div>
+    <div class="legal-copy ">© 2023, Charter Communications, all rights reserved.</div>
+    </div>
+</footer>
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Manually include shared clientlib dependencies outside of the SSI directives. -->
+
+
+    
+<script type="text/javascript" src="/etc/clientlibs/news/vendor/bowser.min.ACSHASH66fb5ded26b5d86decaa5cc59ba79320.js"></script>
+<script type="text/javascript" src="/etc/designs/news/clientlibs/js.min.ACSHASH01e74420159f28d7f1d5c39a6a2b7fe3.js"></script>
+
+
+
+
+
+    
+<script type="text/javascript" src="/etc/designs/news/clientlibs/js/article-app-prompt.min.ACSHASHff2cca2fa0b49a512b18f74e7163707d.js"></script>
+
+
+
+
+
+
+
+
+
+<!-- Import design specific JS within SSI includes -->
+
+<!-- Load empire JS library -->
+
+    
+<script type="text/javascript" src="/etc/designs/news-empire/clientlibs/js.min.ACSHASHdf7fbb08797aabb5310abc4daafd1757.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+<script src="https://entitlement.auth.adobe.com/entitlement/v4/AccessEnabler.js">
+</script>
+
+
+
+
+
+
+<!--Open in App Component -->
+
+    
+
+
+
+
+
+
+
+    
+
+        
+        
+
+        
+
+        
+        
+
+        
+        
+            
+    
+<script type="text/javascript" src="/etc/clientlibs/news/vendor/spectrum-player-2_3_20.min.ACSHASHa3b7339718f63b8f88dffb7469cb9254.js"></script>
+
+
+
+        
+
+    
+
+        
+        
+
+        
+
+        
+        
+
+        
+        
+            
+    
+<script type="text/javascript" src="/etc/designs/news/clientlibs/js/softwall.min.ACSHASH3441340c2b97fe74570c4582169e4ccb.js"></script>
+<script type="text/javascript" src="/etc/designs/news/clientlibs/js/bitmovin-video-player.min.ACSHASH2950747033e027aefcf1134305d5e7f5.js"></script>
+
+
+
+        
+
+    
+
+        
+        
+
+        
+
+        
+        
+
+        
+        
+            
+    
+<script type="text/javascript" src="/etc/designs/news/clientlibs/js/article.min.ACSHASHb019369384451cf930d24fed34d845a9.js"></script>
+
+
+
+        
+
+    
+
+        
+        
+            <script type="text/javascript">(function(a){if(!isMobile.any){a("footer .panel-collapse.collapse").addClass("in");a("footer .panel-title").removeAttr("data-toggle")}if(isMobile.any){a("footer .expand-control").removeClass("hidden");a("footer .panel-title").on("click",function(){})}})(jQuery);</script>
+        
+
+        
+
+        
+        
+
+        
+        
+
+    
+
+
+
+
+
+
+
+<script>
+    /**
+    * sets the  quantum visitId in the 'digitalData' 
+    * layer at: window.digitalData.visit.visitId
+    *
+    **/
+    var timeit = window.setInterval(setVisitId, 2000);
+    function setVisitId() {
+       if (window && window.Helix && window.Helix.track) {
+             window.digitalData.visit.visitId = window.Helix.get("visitId");
+       }
+       if(window.digitalData.visit.visitId && typeof window.digitalData.visit.visitId !=='undefined'){ 
+             clearInterval(timeit );
+       }
+    }
+</script>
+
+ 
+
+
+<script type="text/javascript">
+   window.addEventListener("load", function (e) {
+        var auth       = Cookies.get('authenticated')
+        var docClicked = Cookies.get('clicked-resumed')
+        if((auth && auth === "true") && (!docClicked) ){
+         	 News.App.QuantumAnalytics.checkQuantumLoginResume();
+        }else if((auth && auth === "true") &&  docClicked ){
+           Cookies.remove('clicked-resumed')  
+        }
+    });
+
+    $(document).ready(function(){
+       $(document).on('click',function(e){
+    	      var auth  = Cookies.get('authenticated')
+    	      if(auth && auth === "true"){
+        	     News.App.QuantumAnalytics.cookieGeneral("clicked-resumed");
+    	      }
+       });
+    });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,1371 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Use title if it's in the page YAML frontmatter -->
+    <title>Wildfire erupts in San Bernardino County on hot, windy Southern California day; closes 15, 215 freeways | 89.3 KPCC</title>
+    <script src="https://use.typekit.net/cka2qre.js"></script>
+    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+    <script>
+  dataLayer = [{
+    'storyId': '',
+    'storyShortHeadline': '',
+    'storyByline': '',
+    'storyCategory': '',
+    'segmentId': '',
+    'segmentShortHeadline': '',
+    'segmentByline': '',
+    'segmentProgram': ''
+  }];
+</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-585PL29');</script>
+
+
+<!-- Meta tags which are the same across all pages -->
+<meta charset="utf-8">
+<meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<meta name="format-detection" content="telephone=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","errorBeacon":"bam-cell.nr-data.net","licenseKey":"3a7254ec4f","applicationID":"446356","transactionName":"JV4MRkQMDVRTRUlaWwlWER1TDRVKTw==","queueTime":0,"applicationTime":9214,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwcDWFBADAcGV1RU",licenseKey:"3a7254ec4f",applicationID:"446356"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var i,o=t("ee"),a=t(22),s={};try{i=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,i.indexOf("dev")!==-1&&(s.dev=!0),i.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&o.on("internal-error",function(t){r(t.stack)}),s.dev&&o.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,s){try{p?p-=1:i(s||new UncaughtException(t,e,n),!0)}catch(f){try{o("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function i(t,e){var n=e?null:c.now();o("err",[t,n])}var o=t("handle"),a=t(23),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError";if(!c.disabled){var p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(6),t(5),"addEventListener"in window&&t(3),c.xhrWrappable&&t(7),d=!0)}s.on("fn-start",function(t,e,n){d&&(p+=1)}),s.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,i(n))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){o("ierr",[t,c.now(),!0])})}},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&i(e)}function i(t){s.inPlace(t,[u,d],"-",o)}function o(t,e){return t[1]}var a=t("ee").get("events"),s=t("wrap-function")(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(i(window),i(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=c(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?s(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=o(arguments),e={};i.emit(n+"before-start",[t],e);var a;e[m]&&e[m].dt&&(a=e[m].dt);var s=r.apply(this,t);return i.emit(n+"start",[t,a],s),s.then(function(t){return i.emit(n+"end",[null,t],s),t},function(t){throw i.emit(n+"end",[t],s),t})})}var i=t("ee").get("fetch"),o=t(23),a=t(22);e.exports=i;var s=window,c="fetch-",f=c+"body-",u=["arrayBuffer","blob","json","text","formData"],d=s.Request,l=s.Response,p=s.fetch,h="prototype",m="nr@context";d&&l&&p&&(a(u,function(t,e){r(d[h],e,f),r(l[h],e,f)}),r(s,"fetch",c),i.on(c+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),i.emit(c+"done",[null,e],n)}else i.emit(c+"done",[t],n)}))},{}],5:[function(t,e,n){var r=t("ee").get("raf"),i=t("wrap-function")(r),o="equestAnimationFrame";e.exports=r,i.inPlace(window,["r"+o,"mozR"+o,"webkitR"+o,"msR"+o],"raf-"),r.on("raf-start",function(t){t[0]=i(t[0],"fn-")})},{}],6:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function i(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var o=t("ee").get("timer"),a=t("wrap-function")(o),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=o,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),o.on(c+u,r),o.on(s+u,i)},{}],7:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function i(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function o(t){x.push(t),h&&(b?b.then(a):v?v(a):(E=-E,R.data=E))}function a(){for(var t=0;t<x.length;t++)r([],x[t]);x.length&&(x=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t("wrap-function")(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,g="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],x=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(g,i,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),o(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===g||a()})},{}],8:[function(t,e,n){function r(t){if(!s(t))return null;var e=window.NREUM;if(!e.loader_config)return null;var n=(e.loader_config.accountID||"").toString()||null,r=(e.loader_config.agentID||"").toString()||null,f=(e.loader_config.trustKey||"").toString()||null;if(!n||!r)return null;var h=p.generateSpanId(),m=p.generateTraceId(),v=Date.now(),g={spanId:h,traceId:m,timestamp:v};return(t.sameOrigin||c(t)&&l())&&(g.traceContextParentHeader=i(h,m),g.traceContextStateHeader=o(h,v,n,r,f)),(t.sameOrigin&&!u()||!t.sameOrigin&&c(t)&&d())&&(g.newrelicHeader=a(h,m,v,n,r,f)),g}function i(t,e){return"00-"+e+"-"+t+"-01"}function o(t,e,n,r,i){var o=0,a="",s=1,c="",f="";return i+"@nr="+o+"-"+s+"-"+n+"-"+r+"-"+t+"-"+a+"-"+c+"-"+f+"-"+e}function a(t,e,n,r,i,o){var a="btoa"in window&&"function"==typeof window.btoa;if(!a)return null;var s={v:[0,1],d:{ty:"Browser",ac:r,ap:i,id:t,tr:e,ti:n}};return o&&r!==o&&(s.d.tk=o),btoa(JSON.stringify(s))}function s(t){return f()&&c(t)}function c(t){var e=!1,n={};if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(n=NREUM.init.distributed_tracing),t.sameOrigin)e=!0;else if(n.allowed_origins instanceof Array)for(var r=0;r<n.allowed_origins.length;r++){var i=h(n.allowed_origins[r]);if(t.hostname===i.hostname&&t.protocol===i.protocol&&t.port===i.port){e=!0;break}}return e}function f(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.enabled}function u(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.exclude_newrelic_header}function d(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&NREUM.init.distributed_tracing.cors_use_newrelic_header!==!1}function l(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.cors_use_tracecontext_headers}var p=t(19),h=t(10);e.exports={generateTracePayload:r,shouldGenerateTrace:s}},{}],9:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<l;r++)t.removeEventListener(d[r],this.listener,!1);e.aborted||(n.duration=a.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==e.status&&(e.status=0):o(this,t),n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime]))}}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.parsedOrigin=n,t.sameOrigin=n.sameOrigin}function o(t,e){t.params.status=e.status;var n=v(e,t.lastSize);if(n&&(t.metrics.rxSize=n),t.sameOrigin){var r=e.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var a=t("loader");if(a.xhrWrappable&&!a.disabled){var s=t("handle"),c=t(10),f=t(8).generateTracePayload,u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(15),m=t(14),v=t(11),g=NREUM.o.REQ,w=window.XMLHttpRequest;a.features.xhr=!0,t(7),t(4),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,e.loadCaptureCalled=!1,e.params=this.params||{},e.metrics=this.metrics||{},t.addEventListener("load",function(n){o(e,t)},!1),h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var n=f(this.parsedOrigin);if(n){var r=!1;n.newrelicHeader&&(e.setRequestHeader("newrelic",n.newrelicHeader),r=!0),n.traceContextParentHeader&&(e.setRequestHeader("traceparent",n.traceContextParentHeader),n.traceContextStateHeader&&e.setRequestHeader("tracestate",n.traceContextStateHeader),r=!0),r&&(this.dt=n)}}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],i=this;if(n&&r){var o=m(r);o&&(n.txSize=o)}this.startTime=a.now(),this.listener=function(t){try{"abort"!==t.type||i.loadCaptureCalled||(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;s<l;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof w&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof w&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof w&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)}),u.on("fetch-before-start",function(t){function e(t,e){var n=!1;return e.newrelicHeader&&(t.set("newrelic",e.newrelicHeader),n=!0),e.traceContextParentHeader&&(t.set("traceparent",e.traceContextParentHeader),e.traceContextStateHeader&&t.set("tracestate",e.traceContextStateHeader),n=!0),n}var n,r=t[1]||{};"string"==typeof t[0]?n=t[0]:t[0]&&t[0].url?n=t[0].url:window.URL&&t[0]&&t[0]instanceof URL&&(n=t[0].href),n&&(this.parsedOrigin=c(n),this.sameOrigin=this.parsedOrigin.sameOrigin);var i=f(this.parsedOrigin);if(i&&(i.newrelicHeader||i.traceContextParentHeader))if("string"==typeof t[0]||window.URL&&t[0]&&t[0]instanceof URL){var o={};for(var a in r)o[a]=r[a];o.headers=new Headers(r.headers||{}),e(o.headers,i)&&(this.dt=i),t.length>1?t[1]=o:t.push(o)}else t[0]&&t[0].headers&&e(t[0].headers,i)&&(this.dt=i)}),u.on("fetch-start",function(t,e){this.params={},this.metrics={},this.startTime=a.now(),t.length>=1&&(this.target=t[0]),t.length>=2&&(this.opts=t[1]);var n,r=this.opts||{},o=this.target;"string"==typeof o?n=o:"object"==typeof o&&o instanceof g?n=o.url:window.URL&&"object"==typeof o&&o instanceof URL&&(n=o.href),i(this,n);var s=(""+(o&&o instanceof g&&o.method||r.method||"GET")).toUpperCase();this.params.method=s,this.txSize=m(r.body)||0}),u.on("fetch-done",function(t,e){this.params||(this.params={}),this.params.status=e?e.status:0;var n;"string"==typeof this.rxSize&&this.rxSize.length>0&&(n=+this.rxSize);var r={txSize:this.txSize,rxSize:n,duration:a.now()-this.startTime};s("xhr",[this.params,r,this.startTime])})}},{}],10:[function(t,e,n){var r={};e.exports=function(t){if(t in r)return r[t];var e=document.createElement("a"),n=window.location,i={};e.href=t,i.port=e.port;var o=e.href.split("://");!i.port&&o[1]&&(i.port=o[1].split("/")[0].split("@").pop().split(":")[1]),i.port&&"0"!==i.port||(i.port="https"===o[0]?"443":"80"),i.hostname=e.hostname||n.hostname,i.pathname=e.pathname,i.protocol=o[0],"/"!==i.pathname.charAt(0)&&(i.pathname="/"+i.pathname);var a=!e.protocol||":"===e.protocol||e.protocol===n.protocol,s=e.hostname===document.domain&&e.port===n.port;return i.sameOrigin=a&&(!e.hostname||s),"/"===i.pathname&&(r[t]=i),i}},{}],11:[function(t,e,n){function r(t,e){var n=t.responseType;return"json"===n&&null!==e?e:"arraybuffer"===n||"blob"===n||"json"===n?i(t.response):"text"===n||""===n||void 0===n?i(t.responseText):void 0}var i=t(14);e.exports=r},{}],12:[function(t,e,n){function r(){}function i(t,e,n){return function(){return o(t,[f.now()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var o=t("handle"),a=t(22),s=t(23),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=i(l+e,!0,"api")}),u.addPageAction=i(l+"addPageAction",!0),u.setCurrentRouteName=i(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(p+"tracer",[f.now(),t,n],r),function(){if(c.emit((i?"":"no-")+"fn-start",[f.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=i(p+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),o("err",[t,f.now(),!1,e])}},{}],13:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],14:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],15:[function(t,e,n){var r=0,i=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);i&&(r=+i[1]),e.exports=r},{}],16:[function(t,e,n){function r(){return s.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,s=t(24);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],17:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],18:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?d("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&d("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||d("cls",[t])})}function a(t){if(t instanceof h&&!v){var e=Math.round(t.timeStamp),n={type:t.type};e<=l.now()?n.fid=l.now()-e:e>l.offset&&e<=Date.now()?(e-=l.offset,n.fid=l.now()-e):e=l.now(),v=!0,d("timing",["fi",e,n])}}function s(t){"hidden"===t&&d("pageHide",[l.now()])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var c,f,u,d=t("handle"),l=t("loader"),p=t(21),h=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){c=new PerformanceObserver(r);try{c.observe({entryTypes:["paint"]})}catch(m){}f=new PerformanceObserver(i);try{f.observe({entryTypes:["largest-contentful-paint"]})}catch(m){}u=new PerformanceObserver(o);try{u.observe({type:"layout-shift",buffered:!0})}catch(m){}}if("addEventListener"in document){var v=!1,g=["click","keydown","mousedown","pointerdown","touchstart"];g.forEach(function(t){document.addEventListener(t,a,!1)})}p(s)}},{}],19:[function(t,e,n){function r(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(e=r.getRandomValues(new Uint8Array(31)));for(var i,o="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<o.length;s++)i=o[s],"x"===i?a+=t().toString(16):"y"===i?(i=3&t()|8,a+=i.toString(16)):a+=i;return a}function i(){return a(16)}function o(){return a(32)}function a(t){function e(){return n?15&n[r++]:16*Math.random()|0}var n=null,r=0,i=window.crypto||window.msCrypto;i&&i.getRandomValues&&Uint8Array&&(n=i.getRandomValues(new Uint8Array(31)));for(var o=[],a=0;a<t;a++)o.push(e().toString(16));return o.join("")}e.exports={generateUuid:r,generateSpanId:i,generateTraceId:o}},{}],20:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],21:[function(t,e,n){function r(t){function e(){t(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,e,!1)}e.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],22:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],23:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],24:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?f(t,c,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!p.aborted||o){t&&a&&t(n,r,i);for(var s=e(i),c=m(n),f=c.length,u=0;u<f;u++)c[u].apply(s,r);var l=d[x[n]];return l&&l.push([y,n,r,s]),s}}function o(t,e){w[t]=m(t).concat(e)}function h(t,e){var n=w[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return w[t]||[]}function v(t){return l[t]=l[t]||i(n)}function g(t,e){p.aborted||u(t,function(t,n){e=e||"feature",x[n]=e,e in d||(d[e]=[])})}var w={},x={},y={on:o,addEventListener:o,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:g,abort:s,aborted:!1};return y}function o(t){return f(t,c,a)}function a(){return new r}function s(){(d.api||d.feature)&&(p.aborted=!0,d=p.backlog={})}var c="nr@context",f=t("gos"),u=t(22),d={},l={},p=e.exports=i();e.exports.getOrSetContext=o,p.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!M++){var t=O.info=NREUM.info,e=m.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();c(E,function(e,n){t[e]||(t[e]=n)});var n=a();s("mark",["onload",n+O.offset],null,"api"),s("timing",["load",n]);var r=m.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=p+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===m.readyState&&o()}function o(){s("mark",["domContent",a()+O.offset],null,"api")}var a=t(16),s=t("handle"),c=t(22),f=t("ee"),u=t(20),d=t(17),l=t(13),p=l.getConfiguration("ssl")===!1?"http":"https",h=window,m=h.document,v="addEventListener",g="attachEvent",w=h.XMLHttpRequest,x=w&&w.prototype,y=!d(h.location);NREUM.o={ST:setTimeout,SI:h.setImmediate,CT:clearTimeout,XHR:w,REQ:h.Request,EV:h.Event,PR:h.Promise,MO:h.MutationObserver};var b=""+location,E={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1210.min.js"},R=w&&x&&x[v]&&!/CriOS/.test(navigator.userAgent),O=e.exports={offset:a.getLastTimestamp(),now:a,origin:b,features:{},xhrWrappable:R,userAgent:u,disabled:y};if(!y){t(12),t(18),m[v]?(m[v]("DOMContentLoaded",o,!1),h[v]("load",r,!1)):(m[g]("onreadystatechange",i),h[g]("onload",r)),s("mark",["firstbyte",a.getLastTimestamp()],null,"api");var M=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,c,f){function nrWrapper(){var o,a,u,l;try{a=this,o=d(arguments),u="function"==typeof r?r(o,a):r||{}}catch(p){i([p,"",[o,a,c],u],t)}s(n+"start",[o,a,c],u,f);try{return l=e.apply(a,o)}catch(h){throw s(n+"err",[o,a,h],u,f),h}finally{s(n+"end",[o,a,l],u,f)}}return a(e)?e:(n||(n=""),nrWrapper[l]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var s,c,f,u="-"===r.charAt(0);for(f=0;f<e.length;f++)c=e[f],s=t[c],a(s)||(t[c]=n(s,u?c+r:r,i,c,o))}function s(n,r,o,a){if(!h||e){var s=h;h=!0;try{t.emit(n,r,o,e,a)}catch(c){i([c,n,r,o],t)}h=s}}return t||(t=u),n.inPlace=r,n.flag=l,n}function i(t,e){e||(e=u);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)p.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[l])}function s(t,e){var n=e(t);return n[l]=t,o(t,n,u),n}function c(t,e,n){var r=t[e];t[e]=s(r,n)}function f(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var u=t("ee"),d=t(23),l="nr@original",p=Object.prototype.hasOwnProperty,h=!1;e.exports=r,e.exports.wrapFunction=s,e.exports.wrapInPlace=c,e.exports.argsToArray=f},{}]},{},["loader",2,9]);</script>
+<meta property="fb:app_id" content="129848480405753" />
+<meta property="fb:pages" content="21819923015,329876903846185,459190287458280,106721516050,172994359388346" />
+<link rel="publisher" href="https://plus.google.com/108872361044769229886/" />
+
+<meta name="keywords" content="KPCC, California, Southern California, Los Angeles, Pasadena, SCPR, Southern California Public Radio" />
+<meta name="author" content="Southern California Public Radio" />
+
+<meta property="og:site_name" content="Southern California Public Radio" />
+<meta name="twitter:site" content="@kpcc"/>
+  
+
+  <meta property="og:description" content="A wildfire erupted Monday in San Bernardino County, shutting down Interstate 15, forcing the evacuation of a community of ranch homes and burning 350 acres so far.">
+  <meta property="og:title" content="Wildfire erupts in San Bernardino County">
+  <meta property="og:type" content="article">
+  <meta name="twitter:card" value="summary_large_image">
+  <meta name="twitter:site" value="@kpcc">
+  <meta name="twitter:title" value="Wildfire erupts in San Bernardino County">
+  <meta name="twitter:description" value="A wildfire erupted Monday in San Bernardino County, shutting down Interstate 15, forcing the evacuation of a community of ranch homes and burning 350 acres so far.">
+  <meta property="article:published_time" content="2012-11-05 17:02:54 -0800" />
+  <meta property="article:modified_time" content="2012-11-05 18:20:25 -0800" />
+
+    <meta property="article:section" content="Local" />
+
+      <meta property="og:image" content="https://a.scpr.org/i/a972c79ea2b5cd9806fc192ee9a35860/50135-full.jpg" />
+      <meta property="og:image:type" content="image/jpeg" />
+      <meta property="og:image:width" content="1024" />
+      <meta property="og:image:height" content="576" />
+          <meta property="og:image" content="https://a.scpr.org/i/2e3504bac8a48774230068951114d691/50132-full.jpg" />
+      <meta property="og:image:type" content="image/jpeg" />
+      <meta property="og:image:width" content="1024" />
+      <meta property="og:image:height" content="773" />
+     
+    <link rel="image_src" href="https://a.scpr.org/i/a972c79ea2b5cd9806fc192ee9a35860/50135-full.jpg" />
+    <meta name="twitter:image" content="http://a.scpr.org/i/a972c79ea2b5cd9806fc192ee9a35860/50135-full.jpg">
+
+
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="SAF+IbFB28MvHF0nsrkeMaYIXRWjqWoxROCC0+67BfmwDDFl8c7TMAHIEvQfuCPqpTa5Gt+faySwak+N7V4cqQ==" />
+
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/feeds/all_news" />
+
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+
+<script>
+  window.fbAsyncInit = function() {
+	FB.init({
+	  appId            : '162204204509247',
+	  autoLogAppEvents : true,
+	  xfbml            : true,
+	  version          : 'v2.10'
+	});
+	FB.AppEvents.logPageView();
+  };
+
+  (function(d, s, id){
+	 var js, fjs = d.getElementsByTagName(s)[0];
+	 if (d.getElementById(id)) {return;}
+	 js = d.createElement(s); js.id = id;
+	 js.src = "//connect.facebook.net/en_US/sdk.js";
+	 fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+
+   function overrideOGMetaTags (overrideLink, overrideTitle, overrideDescription, overrideImage) {
+     FB.ui({
+       method: 'share_open_graph',
+       action_type: 'og.shares',
+       action_properties: JSON.stringify({
+         object: {
+           'og:url': overrideLink,
+           'og:title': overrideTitle,
+           'og:description': overrideDescription,
+           'og:image': overrideImage,
+           'og:image:type': 'image/jpeg',
+           'og:image:width': '1024',
+           'og:image:height:': '575'
+         }
+       })
+     },
+     function (response) {
+       console.log(response);
+       // Action after response
+     });
+   }
+ </script>
+
+    <link rel="stylesheet" media="screen" href="/assets/application-7f7821ce515de5e972962c5c644583f6.css" />
+    
+    <!-- Start: GPT Async -->
+<script type='text/javascript'>
+  var gptadslots=[];
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function(){ var gads = document.createElement('script');
+    gads.async = true; gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+
+    <script>
+
+
+    </script>
+
+
+<script type="text/javascript">
+  googletag.cmd.push(function() {
+
+    var keySuffix, key;
+
+    if (typeof DFP_KEY_SUFFIX_OVERRIDE !== "undefined") {
+      keySuffix = DFP_KEY_SUFFIX_OVERRIDE;
+    } else {
+      keySuffix = "/interior";
+    }
+
+    key = '/127204706/scpr_production' + keySuffix;
+
+    // Position A
+    gptadslots[3]= googletag.defineSlot(key, [[300,50]],'dfp-slot_a').setTargeting('scpr_position',['top']).addService(googletag.pubads());
+
+    // Position B
+    gptadslots[1]= googletag.defineSlot(key, [[300,250]],'dfp-slot_b').setTargeting('scpr_position',['middle']).addService(googletag.pubads());
+
+    // Position C
+    gptadslots[2]= googletag.defineSlot(key, [[300,250]],'dfp-slot_c').setTargeting('scpr_position',['bottom']).addService(googletag.pubads());
+
+    googletag.pubads().enableSingleRequest();
+
+    // If this page is an article and has a category, add in the category targeting tag
+    if (typeof DFP_CATEGORY !== "undefined") {
+      googletag.pubads().setTargeting('scpr_category',[DFP_CATEGORY]);
+    }
+
+    // If this page is an article and has a tag, add in a tag targeting tag
+    if (typeof DFP_TAG !== "undefined") {
+      tagArray = DFP_TAG.split(', ');
+      googletag.pubads().setTargeting('scpr_tag',tagArray);
+    }
+
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script>
+<!-- End: GPT -->
+
+<!-- chartbeat timing for load start -->
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+    <script src="/assets/application-5438c131fea4e82cd9b15c59115cba6e.js"></script>
+    <script>
+      // Function for lazy loading slideshow images
+      function imgLoaded(img) {
+        var $img = $(img);
+        $img.addClass('loaded');
+      };
+      // User agent detection to dynamically display the appropriate Apple App Banners to iPads and iPhones
+      if (navigator.userAgent.match(/iPad/i)) {
+        $('head').append('<meta name="apple-itunes-app" content="app-id=744160424"/>');
+      }
+      else if (navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPod/i)) {
+        $('head').append('<meta name="apple-itunes-app" content="app-id=293825085"/>');
+      }
+    </script>
+    <script type="text/javascript" src="https://a.scpr.org/resources/client.js?bust=20171106"></script>
+    <script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
+  </head>
+
+  <body>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-585PL29" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    <div id="global-pushdown"></div>
+    <header class="">
+      <input type="checkbox" class="state-checkbox" id="o-mast__search-toggler-checkbox" />
+<input type="checkbox" class="state-checkbox" id="o-mast__menu-toggler-checkbox" autocomplete="off" />
+<nav class="o-mast o-mast--mobile">
+  <div class="o-mast__nav-background"></div>
+  <div class="o-mast__logo">
+    <a href="/" class="o-mast__logo-link" class="track-event" data-ga-category="Menu" data-ga-action="Clickthrough" data-ga-label="Home">
+      <svg>
+        <use class="" xlink:href="/static/images/scpr-sprite.svg#logo_kpcc-black"/>
+      </svg>
+    </a>
+  </div>
+  <span class="o-mast__caption">Member-supported news for Southern California</span>
+  <ul class="o-mast__sections">
+
+    <ul class="o-mast__actions">
+      <li class="o-mast__action o-mast__menu">
+        <label class="o-mast__menu-toggler" for="o-mast__menu-toggler-checkbox">
+          <svg class="b-icon b-icon--size-sm o-mast__menu-icon--opened">
+            <use class="b-icon--line  b-icon--color-gray-dark " xlink:href="/static/images/scpr-sprite.svg#icon_line-close--with-circle"/>
+          </svg>
+          <span class="o-mast__item-caption o-mast__menu-toggler-caption o-mast__item-caption o-mast__menu-toggler-caption--opened">Close</span>
+        </label>
+      </li>
+    </ul>
+
+    <li class="o-mast__item o-mast__item--mobile-row">
+      <span class="o-mast__caption--mobile" href="/news" class="track-event" data-ga-category="Menu" data-ga-action="Clickthrough" data-ga-label="News">Member-supported news for Southern California</span>
+      <a class="o-mast__nav-link o-mast__nav-link--listen-live" href="/listen_live" class="track-event" data-ga-category="Menu" data-ga-action="Clickthrough" data-ga-label="Listen Live">Listen Live</a>
+    </li>
+
+    <li class="o-mast__item">
+      <a class="o-mast__nav-link o-mast__nav-link--with-submenu o-mast__item--news" href="/news" class="track-event" data-ga-category="Menu" data-ga-action="Clickthrough" data-ga-label="News">
+        News
+      </a>
+      <a class="o-mast__nav-link o-mast__nav-link--with-submenu" href="/programs" class="track-event" data-ga-category="Menu" data-ga-action="Clickthrough" data-ga-label="Programs">
+        Programs
+        <svg class="b-icon b-icon--size-sm b-icon--left">
+          <use class="b-icon--line" xlink:href="/static/images/scpr-sprite.svg#icon_line-right-arrow"/>
+        </svg>
+      </a>
+      <div class="o-mast__item-details">
+        <div class="o-mast__section">
+          <h6 class="o-mast__section-heading">Featured Programs</h6>
+          <ul class="o-mast__section-list">
+              <li>
+                <a href="/programs/airtalk">AirTalk</a>
+              </li>
+              <li>
+                <a href="/programs/filmweek">FilmWeek</a>
+              </li>
+          </ul>
+        </div>
+        <div class="o-mast__section">
+          <h6 class="o-mast__section-heading">All Programs</h6>
+          <ul class="o-mast__section-list">
+            <li>
+              <a href="/programs">Programs A-Z</a>
+            </li>
+            <li>
+              <a href="/schedule">Program Schedule</a>
+            </li>
+            <li>
+              <a href="/podcasts">Podcasts</a>
+            </li>
+            <li>
+              <a href="/archive/2021/08/27/?section=programs">Archive</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <a class="o-mast__nav-link o-mast__nav-link--with-submenu" href="/events/kpcc-in-person" class="track-event" data-ga-category="Menu" data-ga-action="Clickthrough" data-ga-label="Events">
+        Events
+        <svg class="b-icon b-icon--size-sm b-icon--left">
+          <use class="b-icon--line" xlink:href="/static/images/scpr-sprite.svg#icon_line-right-arrow"/>
+        </svg>
+      </a>
+      <div class="o-mast__item-details inspect">
+        <div class="o-mast__section">
+          <h6 class="o-mast__section-heading">KPCC In Person</h6>
+          <ul class="o-mast__section-list">
+            <li>
+              <a href="/events/kpcc-in-person/list">KPCC In Person</a>
+            </li>
+            <li>
+              <a href="/events/kpcc-in-person/upcoming">Upcoming Events</a>
+            </li>
+            <li>
+              <a href="/events/kpcc-in-person/archive">Past Events</a>
+            </li>
+          </ul>
+        </div>
+        <div class="o-mast__section">
+          <h6 class="o-mast__section-heading">Get connected</h6>
+          <ul class="o-mast__section-list">
+            <li>
+              <a href="http://cloud.connect.scpr.org/kpcc_sub">KPCC Events Newsletter</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </li>
+
+    <li class="o-mast__item">
+      <a class="o-mast__nav-link o-mast__nav-link--with-submenu" href="/support" class="track-event" data-ga-category="Menu" data-ga-action="Clickthrough" data-ga-label="Support Us">
+        Support Us
+        <svg class="b-icon b-icon--size-sm b-icon--left">
+          <use class="b-icon--line" xlink:href="/static/images/scpr-sprite.svg#icon_line-right-arrow"/>
+        </svg>
+      </a>
+      <div class="o-mast__item-details">
+        <div class="o-mast__section">
+          <h6 class="o-mast__section-heading">Membership</h6>
+          <ul class="o-mast__section-list text-columns--sm-2">
+            <li>
+              <a class="o-mast__membership-btn c-btn c-btn--outline-secondary" href="https://support.kpcc.org/default?amount=15&recurs=monthly&ms=sustainer_button&_ga=1.214946964.2096948162.1473892732">
+                Become a Sustainer
+              </a>
+            </li>
+            <li>
+              <a class="o-mast__membership-btn c-btn c-btn--outline-secondary" href="https://support.kpcc.org/default?amount=180&recurs=one-time&ms=one-time_button&_ga=1.214946964.2096948162.1473892732">
+                Become a Member
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="o-mast__section">
+          <ul class="o-mast__section-list o-mast__section-list--no-heading text-columns--sm-2">
+            <li>
+              <a href="/about/faq/#membership">About sustaining membership</a>
+            </li>
+            <li>
+              <a href="https://support.kpcc.org/ccupdate&_ga=1.206361616.2096948162.1473892732">Update your credit card</a>
+            </li>
+            <li>
+              <a href="/about/faq/#membership">Member benefits</a>
+            </li>
+          </ul>
+          <h6 class="o-mast__section-heading" style="margin-top: 2em;">Ways to Support</h6>
+          <ul class="o-mast__section-list text-columns--sm-2">
+            <li>
+              <a href="/gala">
+                Annual Gala
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      </div>
+      </div>
+      <a class="o-mast__nav-link o-mast__nav-link--with-submenu" href="/about" class="track-event" data-ga-category="Menu" data-ga-action="Clickthrough" data-ga-label="About Us">
+        About Us
+        <svg class="b-icon b-icon--size-sm b-icon--left">
+          <use class="b-icon--line" xlink:href="/static/images/scpr-sprite.svg#icon_line-right-arrow"/>
+        </svg>
+      </a>
+      <div class="o-mast__item-details">
+        <div class="o-mast__section">
+          <h6 class="o-mast__section-heading">Connect with KPCC</h6>
+          <ul class="o-mast__section-list">
+            <li>
+              <a href="https://www.facebook.com/kpcc/">
+                <svg class="b-icon b-icon--size-med b-icon--left">
+                  <use class="b-icon--color-secondary" xlink:href="/static/images/scpr-sprite.svg#icon_line-facebook"/>
+                </svg>
+              </a>
+              <a href="https://twitter.com/KPCC">
+                <svg class="b-icon b-icon--size-med b-icon--left">
+                  <use class="b-icon--color-secondary" xlink:href="/static/images/scpr-sprite.svg#icon_line-twitter"/>
+                </svg>
+              </a>
+            </li>
+            <li>
+              <a href="/contact">Contact us</a>
+            </li>
+            <li>
+              <a href="/network">Become a source</a>
+            </li>
+            <li>
+              <a href="/contact/#form">Share a news tip</a>
+            </li>
+          </ul>
+          <h6 class="o-mast__section-heading">Learn more about us</h6>
+          <ul class="o-mast__section-list">
+            <li>
+              <a href="/about">About KPCC</a>
+            </li>
+          </ul>
+        </div>
+        <div class="o-mast__section">
+          <h6 class="o-mast__section-heading">People</h6>
+          <ul class="o-mast__section-list">
+            <li>
+              <a href="/about/people/staff">Staff Directory</a>
+            </li>
+            <li>
+              <a href="/about/people/leadership">Executive leadership</a>
+            </li>
+            <li>
+              <a href="/about/people/board">Board of Trustees</a>
+            </li>
+            <li>
+              <a href="/about/people/council">Regional Advisory Council</a>
+            </li>
+            <li>
+              <a href="/jobs">Careers</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </li>
+
+    <li class="o-mast__item o-mast__item--mobile-row">
+      <div class="o-mast__caption--mobile">
+        <a href="https://twitter.com/KPCC" class="o-mast__nav-link--social">
+          <svg class="b-icon b-icon--size-sm b-icon--left">
+            <use class="b-icon--color-secondary" xlink:href="/static/images/scpr-sprite.svg#icon_line-twitter"/>
+          </svg>
+          @KPCC
+        </a>
+        <a href="https://www.facebook.com/kpcc/" class="o-mast__nav-link--social">
+          <svg class="b-icon b-icon--size-sm b-icon--left">
+            <use class="b-icon--color-secondary" xlink:href="/static/images/scpr-sprite.svg#icon_line-facebook"/>
+          </svg>
+          KPCC
+        </a>
+      </div>
+      <a class="o-mast__nav-link o-mast__nav-link--donate" href="https://support.kpcc.org/default?ms=kpccnav&_ga=2.210668053.1200729342.1505152066-1442186931.1489181856" class="track-event" data-ga-category="Menu" data-ga-action="Clickthrough" data-ga-label="Listen Live">
+        <svg class="b-icon b-icon--size-sm b-icon--left">
+          <use class="b-icon--color-secondary" xlink:href="/static/images/scpr-sprite.svg#icon_line-donate"/>
+        </svg>
+        Donate Now
+      </a>
+    </li>
+  </ul>
+
+
+  <div class="o-mast__action o-mast__search">
+
+    <form method="get" action="/search/">
+      <input type="text" placeholder="Enter your search here" name="q" id="q" />
+      <label for="o-mast__search-toggler-checkbox" class="o-mast__search-link" href="#">
+        <svg class="b-icon b-icon--search-open">
+          <use class="b-icon--line b-icon--color-gray" xlink:href="/static/images/scpr-sprite.svg#icon_line-search"/>
+        </svg>
+      </label>
+    </form>
+
+  </div>
+
+  <div class="o-mast__action o-mast__donate">
+    <a class="o-mast__donate-link" href="https://support.kpcc.org/default?ms=kpccnav" data-ga-category="Menu" data-ga-action="Donate" data-ga-label="/blogs/news/2012/11/05/10898/live-video-wildfire-erupts-san-bernardino-county-h">
+      <svg class="b-icon b-icon--size-med b-icon--left">
+        <use class="b-icon--line b-icon--color-link" xlink:href="/static/images/scpr-sprite.svg#icon_line-donate"/>
+      </svg>
+      <span class="o-mast__item-caption">Donate</span>
+    </a>
+  </div>
+
+  <div class="o-mast__pipe"></div>
+
+  <div class="o-mast__action o-mast__menu">
+    <label class="o-mast__menu-toggler" for="o-mast__menu-toggler-checkbox">
+      <svg class="b-icon b-icon--size-lg o-mast__menu-icon--closed o-mast__menu-icon__hamburger">
+        <use class="b-icon--line  b-icon--color-gray-dark " xlink:href="/static/images/scpr-sprite.svg#icon_line-menu"/>
+      </svg>
+      <span class="o-mast__item-caption o-mast__menu-toggler-caption o-mast__item-caption o-mast__menu-toggler-caption--closed o-mast__menu-icon__hamburger">Menu</span>
+      <svg class="b-icon b-icon--size-sm o-mast__menu-icon--opened o-mast__menu-icon__cross">
+        <use class="b-icon--line  b-icon--color-gray-dark " xlink:href="/static/images/scpr-sprite.svg#icon_line-close--with-circle"/>
+      </svg>
+      <span class="o-mast__item-caption o-mast__menu-toggler-caption o-mast__item-caption o-mast__menu-toggler-caption--opened o-mast__menu-icon__cross">Close</span>
+    </label>
+    <svg class="b-icon b-icon--size-sm o-mast__menu-icon__back">
+      <use class="b-icon--line  b-icon--color-gray-dark " xlink:href="/static/images/scpr-sprite.svg#icon_line-back"/>
+    </svg>
+    <span class="o-mast__item-caption o-mast__menu-toggler-caption o-mast__item-caption o-mast__menu-toggler-caption--closed o-mast__menu-icon__back o-mast__menu-icon__back-label">Back</span>
+  </div>
+
+
+
+</nav>
+        <div id="breaking-news">
+    <div class="live-update audio">
+      <div class="l-container inner-container">
+          <div class="l-row">
+            <div class="l-col--sm-12">
+              <strong>Listen Live</strong><a href="/listen">No matter where you are or what device you use to listen to KPCC, we've got you covered.</a>
+              <a href="http://cloud.connect.scpr.org/kpcc_sub" class="newsletter-sign-up">Sign up for alerts</a>
+            </div>
+          </div>
+      </div>
+  </div>
+</div>
+        <section class="o-prologue o-prologue--secondary o-prologue--blog">
+    <span class="o-prologue__title">The Latest</span>
+    <span class="o-prologue__pipe">|</span>
+    <span class="o-prologue__description">Southern California breaking news and trends</span>
+  </section>
+
+    </header>
+    <main class="o-article o-article--blog">
+      
+
+
+<!-- LEFT ASIDE -->
+<aside class="l-column--left l--centerize" style="order: -1;">
+  <div class="c-audio" data-ga-category="Article" data-ga-action="Load" data-ga-label="Player">
+  <div class="c-audio-widget">
+    <a href="http://media.scpr.org/audio/features/20121105_features2124.mp3?context=news&via=website" class="c-play__button c-audio__button"  title="Wildfire erupts in San Bernardino County on hot, windy Southern California day; closes 15, 215 freeways" data-duration="48" data-ga-category="Article" data-ga-action="Play" data-ga-label="Player"></a>
+  </div>
+  <div class="c-audio__text">
+    <div class="c-audio__duration">00:48</div>
+  </div>
+</div>
+
+  <aside class=""  >
+  <ul class="o-social-tools o-social-tools--vert">
+    <li class="email">
+      <a href="/content/share?obj_key=blog_entry-10898" class="social_email b-popup__link track-event email" target="_blank" data-key="blog_entry-10898" data-ga-category="Article" data-ga-action="Share" data-ga-label="Email">
+        <svg class="b-icon">
+          <use class="b-icon--color-gray-light" xlink:href="/static/images/scpr-sprite.svg#icon_line-email"/>
+        </svg>
+      </a>
+    </li>
+    <li class="facebook">
+      <a href="#" class="social_fb b-popup__link track-event facebook" data-ga-category="Article" data-ga-action="Share" data-ga-label="Facebook" data-url="/blogs/news/2012/11/05/10898/live-video-wildfire-erupts-san-bernardino-county-h/">
+        <svg class="b-icon">
+          <use class="b-icon--color-gray-light" xlink:href="/static/images/scpr-sprite.svg#icon_line-facebook-inverted"/>
+        </svg>
+      </a>
+    </li>
+    <li class="twitter">
+      <a href="#" class="social_twit b-popup__link track-event twitter" data-ga-category="Article" data-ga-action="Share" data-ga-label="Twitter" data-url="/blogs/news/2012/11/05/10898/live-video-wildfire-erupts-san-bernardino-county-h/" data-text="Wildfire%20erupts%20in%20San%20Bernardino%20County">
+        <svg class="b-icon">
+          <use class="b-icon--color-gray-light" xlink:href="/static/images/scpr-sprite.svg#icon_line-twitter"/>
+        </svg>
+      </a>
+    </li>
+  </ul>
+</aside>
+</aside>
+
+<!-- HEADLINE -->
+  <h6 class="o-article__category b-heading b-heading--h6 b-heading--uppercase u-text-color--gray b-heading--book">
+    Local
+  </h6>
+<h3 class="o-article__title">Wildfire erupts in San Bernardino County on hot, windy Southern California day; closes 15, 215 freeways</h3>
+
+<!-- RIGHT ASIDES -->
+<aside id="c-ad--a" class="c-ad l-column--right" style="order: -1;">
+  <div class="c-ad__container c-ad__container">
+    <div class="c-ad__banner">
+      <div class="dfp" id='dfp-slot_a'>
+        <script type='text/javascript'>
+          googletag.cmd.push(function() { googletag.display('dfp-slot_a'); });
+        </script>
+      </div>
+    </div>
+  </div>
+</aside><hr class="b-rule l-column--right" style="order: 5;" />
+
+<aside id="" class="c-ad l-column--right" style="order: 999;">
+  <div class="c-ad__container c-ad__container">
+    <div class="c-ad__banner">
+      <div class="dfp" id='dfp-slot_b'>
+        <script type='text/javascript'>
+          googletag.cmd.push(function() { googletag.display('dfp-slot_b'); });
+        </script>
+      </div>
+    </div>
+      <a class="c-ad__attribution" href="/support/underwriting/">Become a KPCC Sponsor</a>
+  </div>
+</aside><hr class="b-rule l-column--right" style="order: 12;" />
+
+<aside id="" class="c-ad l-column--right" style="order: 1002;">
+  <div class="c-ad__container c-ad__container">
+    <div class="c-ad__banner">
+      <div class="dfp" id='dfp-slot_c'>
+        <script type='text/javascript'>
+          googletag.cmd.push(function() { googletag.display('dfp-slot_c'); });
+        </script>
+      </div>
+    </div>
+      <a class="c-ad__attribution" href="/support/underwriting/">Become a KPCC Sponsor</a>
+  </div>
+</aside>
+
+<aside class="o-overview l-column--right" style="order: 999;" >
+  <h6 class="o-overview__heading b-heading b-heading--h6 b-heading--uppercase u-text-color--gray b-heading--bold">
+    <a class="b-link b-link--callout" href="/blogs/news">The Latest</a>
+  </h6>
+  <span class="o-overview__description">The latest breaking local news, Los Angeles county news, and tales around Southern California</span>
+</aside>
+
+<aside class="o-blog-hosts l-column--right" style="order: 999;" >
+  <h6 class="o-blog-hosts__heading b-heading b-heading--h6 b-heading--uppercase u-text-color--gray b-heading--bold">
+    Your hosts
+  </h6>
+  <ul class="c-list c-list--vert">
+      <li class="o-blog-hosts__list-item">
+          <figure class="o-blog-hosts__figure o-figure o-figure--portrait">
+            <a class="track-event" data-ga-category="Article" data-ga-action="Clickthrough" data-ga-label="Bios Hosts" href="/about/people/staff/lisa-brenner">
+            <img class="o-figure__img" src="https://a.scpr.org/i/4106f3acb50978b6d5d3b2624f1ea0e1/38876-eight.jpg" style="background-image: url(https://a.scpr.org/i/4106f3acb50978b6d5d3b2624f1ea0e1/38876-eight.jpg);">
+</a>          </figure>
+        <div class="o-blog-hosts__description">
+          <a class="o-blog-hosts__host-name" href="/about/people/staff/lisa-brenner">Lisa Brenner</a>
+          <ul>
+            <li class="twitter"><a class="o-content-cluster__share-link o-content-cluster__share-link--twitter" href="https://twitter.com/lisa_brenner"><img src="/assets/o-content-cluster/tw-2fae148a19791559d3e6d51956ab79c5.svg" alt="Tw" />Follow @Lisa_Brenner</a></li>
+            <li class="email"><a class="o-content-cluster__share-link o-content-cluster__share-link--email" href="mailto:lbrenner@scpr.org"><img src="/assets/o-content-cluster/email-b032c46846c97c9e50da171e1a5ba68c.svg" alt="Email" />Email Lisa</a></li>
+            <li class="site"><a class="o-content-cluster__share-link o-content-cluster__share-link--archive" href="/about/people/staff/lisa-brenner">All posts by Lisa</a></li>
+          </ul>
+        </div>
+      </li>
+      <li class="o-blog-hosts__list-item">
+          <figure class="o-blog-hosts__figure o-figure o-figure--portrait">
+            <a class="track-event" data-ga-category="Article" data-ga-action="Clickthrough" data-ga-label="Bios Hosts" href="/blogs/news/2012/11/05/10898/live-video-wildfire-erupts-san-bernardino-county-h">
+            <img class="o-figure__img" src="https://a.scpr.org/i/6caf840b712cdfbfc38ea912e36c2e2d/220286-eight.jpg" style="background-image: url(https://a.scpr.org/i/6caf840b712cdfbfc38ea912e36c2e2d/220286-eight.jpg);">
+</a>          </figure>
+        <div class="o-blog-hosts__description">
+          <a class="o-blog-hosts__host-name" href="/blogs/news/2012/11/05/10898/live-video-wildfire-erupts-san-bernardino-county-h">Rina Palta</a>
+          <ul>
+            <li class="twitter"><a class="o-content-cluster__share-link o-content-cluster__share-link--twitter" href="https://twitter.com/kpccrina911"><img src="/assets/o-content-cluster/tw-2fae148a19791559d3e6d51956ab79c5.svg" alt="Tw" />Follow @KPCCRina911</a></li>
+            <li class="email"><a class="o-content-cluster__share-link o-content-cluster__share-link--email" href="mailto:rpalta@scpr.org"><img src="/assets/o-content-cluster/email-b032c46846c97c9e50da171e1a5ba68c.svg" alt="Email" />Email Rina</a></li>
+            <li class="site"><a class="o-content-cluster__share-link o-content-cluster__share-link--archive" href="/blogs/news/2012/11/05/10898/live-video-wildfire-erupts-san-bernardino-county-h">All posts by Rina</a></li>
+          </ul>
+        </div>
+      </li>
+  </ul>
+</aside>
+
+
+<aside class="o-content-cluster l-column--right o-recent-content--blog-entry" style="order: 1000;" >
+  <h6 class="b-heading b-heading--h6 b-heading--uppercase u-text-color--gray b-heading--medium">Recently on <a class="u-text-color--sec" href="/blogs/education/2012/01/19/4330/uc-regents-met-angry-students">Pass / Fail</a></h6>
+  <ul class="o-content-cluster c-list c-list--horiz">
+    <li class="o-content-cluster__content">
+      <div class="o-content-cluster__thumb o-figure o-figure--four-by-three">
+        <img class="o-figure__img" src="https://a.scpr.org/i/fdbaca068b1cf98cf84340c27560e26f/225224-lsquare.jpg" style="background-image: url(https://a.scpr.org/i/fdbaca068b1cf98cf84340c27560e26f/225224-lsquare.jpg);">
+      </div>
+      <div class="o-content-cluster__content-description">
+        <h4 class="b-heading--book">
+          <a data-ga-category="Article" data-ga-action="Clickthrough" data-ga-label="More Sidebar Show Segment" href="/blogs/larry-mantle/2020/04/22/18293/an-update-from-larry-mantle/">An Update from Larry Mantle</a>
+        </h4>
+        <div class="o-content-cluster__datetime b-heading--medium">April 22, 2020</div>
+      </div>
+    </li>
+    <li class="o-content-cluster__content">
+      <div class="o-content-cluster__thumb o-figure o-figure--four-by-three">
+        <img class="o-figure__img" src="https://a.scpr.org/i/f8c983a499bec9df15f3e7d506e11fcb/222427-lsquare.jpg" style="background-image: url(https://a.scpr.org/i/f8c983a499bec9df15f3e7d506e11fcb/222427-lsquare.jpg);">
+      </div>
+      <div class="o-content-cluster__content-description">
+        <h4 class="b-heading--book">
+          <a data-ga-category="Article" data-ga-action="Clickthrough" data-ga-label="More Sidebar Show Segment" href="/blogs/inside-kpcc/2019/07/16/18292/announcing-laist-studios/">Announcing LAist Studios</a>
+        </h4>
+        <div class="o-content-cluster__datetime b-heading--medium">July 16, 2019</div>
+      </div>
+    </li>
+    <li class="o-content-cluster__content">
+      <div class="o-content-cluster__thumb o-figure o-figure--four-by-three">
+        <img class="o-figure__img" src="https://a.scpr.org/i/3ecbaf09d7c3c5f9569124032c6a3f09/212229-lsquare.jpg" style="background-image: url(https://a.scpr.org/i/3ecbaf09d7c3c5f9569124032c6a3f09/212229-lsquare.jpg);">
+      </div>
+      <div class="o-content-cluster__content-description">
+        <h4 class="b-heading--book">
+          <a data-ga-category="Article" data-ga-action="Clickthrough" data-ga-label="More Sidebar Show Segment" href="/blogs/inside-kpcc/2018/07/18/18288/southern-california-public-radio-receives-grant-aw/">Southern California Public Radio Receives Grant Award from California Humanities</a>
+        </h4>
+        <div class="o-content-cluster__datetime b-heading--medium">July 18, 2018</div>
+      </div>
+    </li>
+    <li class="o-content-cluster__content">
+      <div class="o-content-cluster__thumb o-figure o-figure--four-by-three">
+        <img class="o-figure__img" src="https://a.scpr.org/i/1c57533cb9460872ddbafa875eab447b/212221-lsquare.jpg" style="background-image: url(https://a.scpr.org/i/1c57533cb9460872ddbafa875eab447b/212221-lsquare.jpg);">
+      </div>
+      <div class="o-content-cluster__content-description">
+        <h4 class="b-heading--book">
+          <a data-ga-category="Article" data-ga-action="Clickthrough" data-ga-label="More Sidebar Show Segment" href="/blogs/inside-kpcc/2018/07/18/18286/southern-california-public-radio-awarded-californi/">Southern California Public Radio Awarded California Arts Council “Arts and Public Media” Grant</a>
+        </h4>
+        <div class="o-content-cluster__datetime b-heading--medium">July 18, 2018</div>
+      </div>
+    </li>
+</ul>
+</aside>
+
+<!-- ARTICLE BODY -->
+<script>
+  DFP_CATEGORY = "local";
+</script>
+
+
+
+<div id="asset_slideshow_10898" class="o-article__hero-figure slideview">
+
+  <div class="static-slides">
+    <figure class="slide o-figure o-figure--classic">
+      <img
+        class="o-figure__img"
+        src="https://a.scpr.org/i/a972c79ea2b5cd9806fc192ee9a35860/50135-eight.jpg"
+        alt="A wildfire burns in San Bernardino County Monday, Nov. 5, 2012."
+        title="A wildfire burns in San Bernardino County Monday, Nov. 5, 2012."
+        role="img"
+        aria-label="A wildfire burns in San Bernardino County Monday, Nov. 5, 2012."
+        data-assethost=""
+        data-ah-videoid=""
+        style="background-image:url(https://a.scpr.org/i/a972c79ea2b5cd9806fc192ee9a35860/50135-eight.jpg);"
+      />
+        <figcaption class="o-figure__caption">
+            A wildfire burns in San Bernardino County Monday, Nov. 5, 2012.
+            <address class="o-figure__attribution">NBC Los Angeles</address>
+        </figcaption>
+    </figure>
+    <figure class="slide o-figure o-figure--classic">
+      <img
+        class="o-figure__img"
+        src="https://a.scpr.org/i/2e3504bac8a48774230068951114d691/50132-eight.jpg"
+        alt="A wildfire burns in San Bernardino County Monday, Nov. 5, 2012."
+        title="A wildfire burns in San Bernardino County Monday, Nov. 5, 2012."
+        role="img"
+        aria-label="A wildfire burns in San Bernardino County Monday, Nov. 5, 2012."
+        data-assethost=""
+        data-ah-videoid=""
+        style="background-image:url(https://a.scpr.org/i/2e3504bac8a48774230068951114d691/50132-eight.jpg);"
+      />
+        <figcaption class="o-figure__caption">
+            A wildfire burns in San Bernardino County Monday, Nov. 5, 2012.
+            <address class="o-figure__attribution">NBC Los Angeles</address>
+        </figcaption>
+    </figure>
+  </div>
+
+</div>
+
+<br/>
+
+<script type="text/javascript">
+  (function() {
+    var query, keyval;
+    var params = {};
+    query = _(window.location.search.substring(1).split("&")).each(function(pair) { keyval = pair.split("="); params[keyval[0]] = keyval[1]; });
+    var slideshow;
+    slideshow = new scpr.NewSlideshow({
+          el: "#asset_slideshow_10898",
+          staticSlides: "staticSlides_10898",
+          assets: [{"id":50135,"title":null,"caption":"A wildfire burns in San Bernardino County Monday, Nov. 5, 2012.","owner":"NBC Los Angeles","size":"1200x675","image_gravity":"center","tags":{"thumb":"\u003cimg src=\"https://a.scpr.org/i/a972c79ea2b5cd9806fc192ee9a35860/50135-thumb.jpg\" width=\"88\" height=\"88\" alt=\"\" /\u003e","lsquare":"\u003cimg src=\"https://a.scpr.org/i/a972c79ea2b5cd9806fc192ee9a35860/50135-lsquare.jpg\" width=\"1024\" height=\"576\" alt=\"\" /\u003e","lead":"\u003cimg src=\"https://a.scpr.org/i/a972c79ea2b5cd9806fc192ee9a35860/50135-lead.jpg\" width=\"324\" height=\"182\" alt=\"\" /\u003e","wide":"\u003cimg src=\"https://a.scpr.org/i/a972c79ea2b5cd9806fc192ee9a35860/50135-wide.jpg\" width=\"620\" height=\"349\" alt=\"\" /\u003e","full":"\u003cimg src=\"https://a.scpr.org/i/a972c79ea2b5cd9806fc192ee9a35860/50135-full.jpg\" width=\"1024\" height=\"576\" alt=\"\" /\u003e","three":"\u003cimg src=\"https://a.scpr.org/i/a972c79ea2b5cd9806fc192ee9a35860/50135-three.jpg\" width=\"1024\" height=\"576\" alt=\"\" /\u003e","eight":"\u003cimg src=\"https://a.scpr.org/i/a972c79ea2b5cd9806fc192ee9a35860/50135-eight.jpg\" width=\"1024\" height=\"576\" alt=\"\" /\u003e","four":"\u003cimg src=\"https://a.scpr.org/i/a972c79ea2b5cd9806fc192ee9a35860/50135-four.jpg\" width=\"600\" height=\"338\" alt=\"\" /\u003e","six":"\u003cimg src=\"https://a.scpr.org/i/a972c79ea2b5cd9806fc192ee9a35860/50135-six.jpg\" width=\"255\" height=\"143\" alt=\"\" /\u003e","five":"\u003cimg src=\"https://a.scpr.org/i/a972c79ea2b5cd9806fc192ee9a35860/50135-five.jpg\" width=\"594\" height=\"334\" alt=\"\" /\u003e","small":"\u003cimg src=\"https://a.scpr.org/i/a972c79ea2b5cd9806fc192ee9a35860/50135-small.jpg\" width=\"1024\" height=\"576\" alt=\"\" /\u003e","pixel":"\u003cimg src=\"https://a.scpr.org/i/a972c79ea2b5cd9806fc192ee9a35860/50135-pixel.jpg\" width=\"1\" height=\"1\" alt=\"\" /\u003e"},"keywords":null,"notes":null,"created_at":"2012-11-05T21:37:54.000Z","taken_at":"2012-11-05T21:37:54.000Z","native":null,"image_file_size":116937,"url":"https://a.scpr.org/api/assets/50135/","sizes":{"thumb":{"width":88,"height":88},"lsquare":{"width":1024,"height":576},"lead":{"width":324,"height":182},"wide":{"width":620,"height":349},"full":{"width":1024,"height":576},"three":{"width":1024,"height":576},"eight":{"width":1024,"height":576},"four":{"width":600,"height":338},"six":{"width":255,"height":143},"five":{"width":594,"height":334},"small":{"width":1024,"height":576},"pixel":{"width":1,"height":1}},"urls":{"thumb":"https://a.scpr.org/i/a972c79ea2b5cd9806fc192ee9a35860/50135-thumb.jpg","lsquare":"https://a.scpr.org/i/a972c79ea2b5cd9806fc192ee9a35860/50135-lsquare.jpg","lead":"https://a.scpr.org/i/a972c79ea2b5cd9806fc192ee9a35860/50135-lead.jpg","wide":"https://a.scpr.org/i/a972c79ea2b5cd9806fc192ee9a35860/50135-wide.jpg","full":"https://a.scpr.org/i/a972c79ea2b5cd9806fc192ee9a35860/50135-full.jpg","three":"https://a.scpr.org/i/a972c79ea2b5cd9806fc192ee9a35860/50135-three.jpg","eight":"https://a.scpr.org/i/a972c79ea2b5cd9806fc192ee9a35860/50135-eight.jpg","four":"https://a.scpr.org/i/a972c79ea2b5cd9806fc192ee9a35860/50135-four.jpg","six":"https://a.scpr.org/i/a972c79ea2b5cd9806fc192ee9a35860/50135-six.jpg","five":"https://a.scpr.org/i/a972c79ea2b5cd9806fc192ee9a35860/50135-five.jpg","small":"https://a.scpr.org/i/a972c79ea2b5cd9806fc192ee9a35860/50135-small.jpg","pixel":"https://a.scpr.org/i/a972c79ea2b5cd9806fc192ee9a35860/50135-pixel.jpg"},"orientation":"landscape","long_edge":1200,"short_edge":675,"ratio":1.778,"post_asset_id":47302,"ORDER":1,"credit":"NBC Los Angeles","use":"standard"},{"id":50132,"title":null,"caption":"A wildfire burns in San Bernardino County Monday, Nov. 5, 2012.","owner":"NBC Los Angeles","size":"1193x900","image_gravity":"center","tags":{"thumb":"\u003cimg src=\"https://a.scpr.org/i/2e3504bac8a48774230068951114d691/50132-thumb.jpg\" width=\"88\" height=\"88\" alt=\"\" /\u003e","lsquare":"\u003cimg src=\"https://a.scpr.org/i/2e3504bac8a48774230068951114d691/50132-lsquare.jpg\" width=\"1024\" height=\"773\" alt=\"\" /\u003e","lead":"\u003cimg src=\"https://a.scpr.org/i/2e3504bac8a48774230068951114d691/50132-lead.jpg\" width=\"324\" height=\"244\" alt=\"\" /\u003e","wide":"\u003cimg src=\"https://a.scpr.org/i/2e3504bac8a48774230068951114d691/50132-wide.jpg\" width=\"549\" height=\"414\" alt=\"\" /\u003e","full":"\u003cimg src=\"https://a.scpr.org/i/2e3504bac8a48774230068951114d691/50132-full.jpg\" width=\"1024\" height=\"773\" alt=\"\" /\u003e","three":"\u003cimg src=\"https://a.scpr.org/i/2e3504bac8a48774230068951114d691/50132-three.jpg\" width=\"538\" height=\"406\" alt=\"\" /\u003e","eight":"\u003cimg src=\"https://a.scpr.org/i/2e3504bac8a48774230068951114d691/50132-eight.jpg\" width=\"1024\" height=\"773\" alt=\"\" /\u003e","four":"\u003cimg src=\"https://a.scpr.org/i/2e3504bac8a48774230068951114d691/50132-four.jpg\" width=\"464\" height=\"350\" alt=\"\" /\u003e","six":"\u003cimg src=\"https://a.scpr.org/i/2e3504bac8a48774230068951114d691/50132-six.jpg\" width=\"255\" height=\"192\" alt=\"\" /\u003e","five":"\u003cimg src=\"https://a.scpr.org/i/2e3504bac8a48774230068951114d691/50132-five.jpg\" width=\"443\" height=\"334\" alt=\"\" /\u003e","small":"\u003cimg src=\"https://a.scpr.org/i/2e3504bac8a48774230068951114d691/50132-small.jpg\" width=\"450\" height=\"339\" alt=\"\" /\u003e","pixel":"\u003cimg src=\"https://a.scpr.org/i/2e3504bac8a48774230068951114d691/50132-pixel.jpg\" width=\"1\" height=\"1\" alt=\"\" /\u003e"},"keywords":null,"notes":null,"created_at":"2012-11-05T20:28:26.000Z","taken_at":"2012-11-05T20:28:26.000Z","native":null,"image_file_size":429359,"url":"https://a.scpr.org/api/assets/50132/","sizes":{"thumb":{"width":88,"height":88},"lsquare":{"width":1024,"height":773},"lead":{"width":324,"height":244},"wide":{"width":549,"height":414},"full":{"width":1024,"height":773},"three":{"width":538,"height":406},"eight":{"width":1024,"height":773},"four":{"width":464,"height":350},"six":{"width":255,"height":192},"five":{"width":443,"height":334},"small":{"width":450,"height":339},"pixel":{"width":1,"height":1}},"urls":{"thumb":"https://a.scpr.org/i/2e3504bac8a48774230068951114d691/50132-thumb.jpg","lsquare":"https://a.scpr.org/i/2e3504bac8a48774230068951114d691/50132-lsquare.jpg","lead":"https://a.scpr.org/i/2e3504bac8a48774230068951114d691/50132-lead.jpg","wide":"https://a.scpr.org/i/2e3504bac8a48774230068951114d691/50132-wide.jpg","full":"https://a.scpr.org/i/2e3504bac8a48774230068951114d691/50132-full.jpg","three":"https://a.scpr.org/i/2e3504bac8a48774230068951114d691/50132-three.jpg","eight":"https://a.scpr.org/i/2e3504bac8a48774230068951114d691/50132-eight.jpg","four":"https://a.scpr.org/i/2e3504bac8a48774230068951114d691/50132-four.jpg","six":"https://a.scpr.org/i/2e3504bac8a48774230068951114d691/50132-six.jpg","five":"https://a.scpr.org/i/2e3504bac8a48774230068951114d691/50132-five.jpg","small":"https://a.scpr.org/i/2e3504bac8a48774230068951114d691/50132-small.jpg","pixel":"https://a.scpr.org/i/2e3504bac8a48774230068951114d691/50132-pixel.jpg"},"orientation":"landscape","long_edge":1193,"short_edge":900,"ratio":1.326,"post_asset_id":47305,"ORDER":2,"credit":"NBC Los Angeles","use":"standard"}]
+    });
+    slideshow.bind("switch", function(idx) {
+        // (1.) add slide change listener for analytics
+        if(typeof(_gaq) != 'undefined') {
+            _gaq.push(['_trackPageview',window.location.pathname + 'photos/' + (Number(idx) + 1)]);
+            dcsMultiTrack(
+                'DCS.dcsuri', window.location.pathname + 'photos/' + (Number(idx) + 1),
+                'WT.ti', 'SlideShow PageView'
+            );
+        }
+    });
+  }());
+</script>
+
+<div class="c-byline">
+  <span class="c-byline__name">AP and Steven Cuevas with Ashley Bailey</span>
+  <span class="c-byline__pipe">|</span>
+  <span class="c-byline__timestamp"><time datetime="2012-11-05T17:02:54-08:00">November 5, 2012</time></span>
+</div>
+<hr class="o-article__b-rule b-rule b-rule--padded-small" />
+
+<div class="c-audio--horiz">
+  <div class="c-audio-widget">
+    <a href="http://media.scpr.org/audio/features/20121105_features2124.mp3?context=news&via=website" class="c-play__button c-audio__button" title="Wildfire erupts in San Bernardino County on hot, windy Southern California day; closes 15, 215 freeways" data-duration="48"></a>
+  </div>
+  <div class="c-audio__text">
+    <p class="c-audio__text-listen">Listen to </p>
+      <div class="c-audio__duration">00:48</div>
+  </div>
+</div>
+<div class="c-audio__download"><a href="http://media.scpr.org/audio/features/20121105_features2124.mp3?context=news&via=website"><span>Download this </span> 0MB</a></div>
+
+<aside class=""  >
+  <ul class="o-social-tools o-social-tools--horiz">
+    <li class="email">
+      <a href="/content/share?obj_key=blog_entry-10898" class="social_email b-popup__link track-event email" target="_blank" data-key="blog_entry-10898" data-ga-category="Article" data-ga-action="Share" data-ga-label="Email">
+        <svg class="b-icon">
+          <use class="b-icon--color-gray-light" xlink:href="/static/images/scpr-sprite.svg#icon_line-email"/>
+        </svg>
+      </a>
+    </li>
+    <li class="facebook">
+      <a href="#" class="social_fb b-popup__link track-event facebook" data-ga-category="Article" data-ga-action="Share" data-ga-label="Facebook" data-url="/blogs/news/2012/11/05/10898/live-video-wildfire-erupts-san-bernardino-county-h/">
+        <svg class="b-icon">
+          <use class="b-icon--color-gray-light" xlink:href="/static/images/scpr-sprite.svg#icon_line-facebook-inverted"/>
+        </svg>
+      </a>
+    </li>
+    <li class="twitter">
+      <a href="#" class="social_twit b-popup__link track-event twitter" data-ga-category="Article" data-ga-action="Share" data-ga-label="Twitter" data-url="/blogs/news/2012/11/05/10898/live-video-wildfire-erupts-san-bernardino-county-h/" data-text="Wildfire%20erupts%20in%20San%20Bernardino%20County">
+        <svg class="b-icon">
+          <use class="b-icon--color-gray-light" xlink:href="/static/images/scpr-sprite.svg#icon_line-twitter"/>
+        </svg>
+      </a>
+    </li>
+  </ul>
+</aside>
+
+
+<div class="o-article__body">
+  <p style="order:0;">Firefighters in San Bernardino County appear to be slowing the advance of a 375-acre brushfire that’s shut down a 10-mile portion of the 15 Freeway in the Cajon Pass, about 60 miles east of Los Angeles, and forced the evacuations of a community of ranch homes.</p>
+<p style="order:1;">The fire is currently 5 percent contained, with full containment expected by 6 p.m. Tuesday, a U.S. Forest Service spokeswoman told KPCC.</p>
+<p style="order:2;">Residents from at least three homes in the Mathews Ranch area north of Devore were told to evacuate as the wind-driven fire burns through dry brush along both sides of the 15 freeway.</p>
+<p style="order:3;">“The firefighters did have quite a battle to fight, but we had 450 personnel fighting from the air and from the ground, and quick decisive action pretty much got a handle of it. The smoke is reduced right now, and we’re feeling good about the containment we have,” said U.S. Forest service spokeswoman Carol Underhill.</p>
+<p style="order:4;">The Devore fire broke out shortly before 11 a.m., as the region baked under the influence of a Santa Ana condition producing hot, dry air, with winds of 10 mph and gusts of about 25 mph.</p>
+<p style="order:5;">The CHP shut down the 15, a major route between Southern California and Las Vegas, in both directions as ground crews and air tankers battle the fire and move into place for structure protection. Firefighters faced steep terrain, temperatures in the upper 80s and wind gusts of about 20 miles per hour.</p>
+<p style="order:6;">The 15 had reopened with escorts by the California Highway Patrol by 5 p.m., according to Hesperia police.</p>
+<p style="order:7;">The fire was close enough to the road to pose a risk to drivers, California Highway Patrol Sgt. Billy Rangel said.</p>
+<p style="order:8;">"It had jumped across the freeway from the northbound side to the southbound side. It does affect people coming from Los Angeles area , San Gabriel Valley, Inland Empire, up the 15 going towards Victorville, Barstow, Las Vegas," Rangel said. "It's a main artery for this area, even on Monday."</p>
+<p style="order:9;">The fire was near Interstate 15's Kenwood exit. It also led to closures on the 15 and Interstate 215 freeways, as well as Cajon Boulevard, part of the old Route 66.</p>
+<p style="order:10;">Some 200 firefighters aided by 10 aircraft fought the fire, authorities said.</p>
+<p style="order:11;">No word yet on what caused the fire.</p>
+<p style="order:12;">Although early afternoon winds in the area were modest by Santa Ana standards, the National Weather Service said some mountain areas could see speeds up to 40 mph during the day.</p>
+<p style="order:13;"><a href="/blogs/news/2012/11/05/10888/high-fire-danger-southern-california-due-dry-warm-/">A red flag warning</a> indicating a high risk of wildfire was also in effect in the mountains and forests of Los Angeles and Ventura counties due to strong winds, low humidity and unseasonably high heat. It went into effect Sunday night and remains in effect until 4 p.m. in the San Gabriel and Santa Monica mountains, the Angeles National Forest and the Los Podres National Forest in Ventura County.</p>
+<p style="order:14;">The U.S. Forest Service says it mobilized five additional 20-person crews and 15 engines in advance of this week’s increased fire danger.</p>
+<p style="order:15;">There's also an elevated risk of fire in other parts of the region, including the valleys, though not as extreme.</p>
+<p style="order:16;">"This, in combination with critically dry fuels, will bring elevated fire danger to much of the region through Monday," warned an NWS advisory, stating that the danger will be highest this afternoon.</p>
+<p style="order:17;">Most areas will see a cooling trend this week, though, with temperatures dropping sharply. Downtown L.A. has a high Monday of 95, but that drops to 84 on Tuesday, then 77 on Wednesday, to 68 on Thursday and 64 on Friday, when rain is expected, according to an <a href="http://forecast.weather.gov/MapClick.php?site=lox&amp;smap=1&amp;textField1=34.067393&amp;textField2=-118.24230">NWS forecast</a>.</p>
+<p style="order:18;"><em>This story has been updated.</em></p>
+</div>
+
+<footer class="contributor" style="order: 989">
+  <p>With contributions from <a href="/about/people/staff/mike-roe">Mike Roe</a>, KPCC wire services, <a href="/about/people/staff/bianca-ramirez">Bianca Ramirez</a>, and Ed Joyce</p>
+</footer>
+
+
+
+<script>
+    // Load In-Article Membership Appeal from AdHost
+    scpr.VisualCampaign.enqueue('article-appeal', $('#article-membership-appeal'));
+
+    // Load PortableHoles
+    holes = new PortableHoles({
+      Embedly: {
+        query: { key : '0cb3651dde4740db8fcb147850c6b555' }
+      }
+    })
+
+    holes.swap()
+</script>
+
+
+<hr class="o-article__rule--ending b-rule b-rule--primary-lightest b-rule--padded" style="order: 998;" />
+
+
+
+<aside class=""  >
+  <ul class="o-social-tools o-social-tools--horiz">
+    <li class="email">
+      <a href="/content/share?obj_key=blog_entry-10898" class="social_email b-popup__link track-event email" target="_blank" data-key="blog_entry-10898" data-ga-category="Article" data-ga-action="Share" data-ga-label="Email">
+        <svg class="b-icon">
+          <use class="b-icon--color-gray-light" xlink:href="/static/images/scpr-sprite.svg#icon_line-email"/>
+        </svg>
+      </a>
+    </li>
+    <li class="facebook">
+      <a href="#" class="social_fb b-popup__link track-event facebook" data-ga-category="Article" data-ga-action="Share" data-ga-label="Facebook" data-url="/blogs/news/2012/11/05/10898/live-video-wildfire-erupts-san-bernardino-county-h/">
+        <svg class="b-icon">
+          <use class="b-icon--color-gray-light" xlink:href="/static/images/scpr-sprite.svg#icon_line-facebook-inverted"/>
+        </svg>
+      </a>
+    </li>
+    <li class="twitter">
+      <a href="#" class="social_twit b-popup__link track-event twitter" data-ga-category="Article" data-ga-action="Share" data-ga-label="Twitter" data-url="/blogs/news/2012/11/05/10898/live-video-wildfire-erupts-san-bernardino-county-h/" data-text="Wildfire%20erupts%20in%20San%20Bernardino%20County">
+        <svg class="b-icon">
+          <use class="b-icon--color-gray-light" xlink:href="/static/images/scpr-sprite.svg#icon_line-twitter"/>
+        </svg>
+      </a>
+    </li>
+  </ul>
+</aside>
+
+<aside class="o-previously " style="order: 998;">
+  <h6 class="b-heading b-heading--h6 b-heading--uppercase u-text-color--gray">Previously in <a class="u-text-color--sec" href="/blogs/news/2012/11/05/10898/live-video-wildfire-erupts-san-bernardino-county-h">The Latest</a></h6>
+  <ul class="c-list c-list--vert c-list--bullet c-list--bullet-lightest">
+      <li class="b-heading--bold">
+        <a data-ga-category="null" data-ga-action="Clickthrough" data-ga-label="null" href="/blogs/larry-mantle/2020/04/22/18293/an-update-from-larry-mantle/">An Update from Larry Mantle</a>
+      </li>
+  </ul>
+</aside>
+
+<!-- FOOTER CONTENT -->
+<hr class="b-rule b-rule--secondary-alt b-rule--padded l-column--boundless" style="order: 1001;" />
+
+<aside id="comments" name="comments" class="o-comments " style="order: 1001">
+    <div id="disqus_thread" class=""></div>
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'kpcc'; // required: replace example with your forum shortname
+        // The following are highly recommended additional parameters. Remove the slashes in front to use.
+        var disqus_identifier = 'blogs/entry:10898';
+        var disqus_url = 'https://www.scpr.org/blogs/news/2012/11/05/10898/live-video-wildfire-erupts-san-bernardino-county-h/';
+        var disqus_title = "Wildfire erupts in San Bernardino County on hot, windy Southern California day; closes 15, 215 freeways";
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="https://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+</aside>
+
+
+<section class="o-featured-blogs l-column--boundless"  style="order: 1002">
+  <h2 class="o-featured-blogs__heading">Enjoy The Latest? Try KPCC’s other blogs.</h2>
+  <a class="o-featured-blogs__all-blogs-link" href="/blogs"><span class="b-link--callout">See all of our blogs</span></a>
+    <div class="o-featured-blogs__blog">
+
+      <figure class="o-featured-blogs__blog-figure o-figure o-figure--widescreen">
+        <img class="o-figure__img" src="https://a.scpr.org/i/fdbaca068b1cf98cf84340c27560e26f/225224-small.jpg" style="background-image: url(https://a.scpr.org/i/fdbaca068b1cf98cf84340c27560e26f/225224-small.jpg);">
+      </figure>
+
+      <div class="o-featured-blogs__blog-description">
+        <p class="o-featured-blogs__blog-date u-text-color--gray-warm b-heading--bold">April 22, 2020</p>
+        <h1 class="o-featured-blogs__blog-title b-heading--medium"><a href="/blogs/larry-mantle/2020/04/22/18293/an-update-from-larry-mantle/">An Update from Larry Mantle</a></h1>
+      </div>
+
+      <div class="o-featured-blogs__blog-footer">
+        <a class="o-featured-blogs__blog-footer-date" href="/blogs/larry-mantle/2020/04/22/18293/an-update-from-larry-mantle/">
+          Larry Mantle
+        </a>
+        <a class="o-featured-blogs__blog-headline" href="/blogs/larry-mantle/2020/04/22/18293/an-update-from-larry-mantle/">
+          
+        </a>
+      </div>
+    </div>
+    <div class="o-featured-blogs__blog">
+
+      <figure class="o-featured-blogs__blog-figure o-figure o-figure--widescreen">
+        <img class="o-figure__img" src="https://a.scpr.org/i/f8c983a499bec9df15f3e7d506e11fcb/222427-small.jpg" style="background-image: url(https://a.scpr.org/i/f8c983a499bec9df15f3e7d506e11fcb/222427-small.jpg);">
+      </figure>
+
+      <div class="o-featured-blogs__blog-description">
+        <p class="o-featured-blogs__blog-date u-text-color--gray-warm b-heading--bold">July 16, 2019</p>
+        <h1 class="o-featured-blogs__blog-title b-heading--medium"><a href="/blogs/inside-kpcc/2019/07/16/18292/announcing-laist-studios/">Announcing LAist Studios</a></h1>
+      </div>
+
+      <div class="o-featured-blogs__blog-footer">
+        <a class="o-featured-blogs__blog-footer-date" href="/blogs/inside-kpcc/2019/07/16/18292/announcing-laist-studios/">
+          Inside KPCC
+        </a>
+        <a class="o-featured-blogs__blog-headline" href="/blogs/inside-kpcc/2019/07/16/18292/announcing-laist-studios/">
+          An inside perspective of the team that brings you 89.3 KPCC - Southern California Public Radio
+        </a>
+      </div>
+    </div>
+    <div class="o-featured-blogs__blog">
+
+      <figure class="o-featured-blogs__blog-figure o-figure o-figure--widescreen">
+        <img class="o-figure__img" src="https://a.scpr.org/i/3ecbaf09d7c3c5f9569124032c6a3f09/212229-small.jpg" style="background-image: url(https://a.scpr.org/i/3ecbaf09d7c3c5f9569124032c6a3f09/212229-small.jpg);">
+      </figure>
+
+      <div class="o-featured-blogs__blog-description">
+        <p class="o-featured-blogs__blog-date u-text-color--gray-warm b-heading--bold">July 18, 2018</p>
+        <h1 class="o-featured-blogs__blog-title b-heading--medium"><a href="/blogs/inside-kpcc/2018/07/18/18288/southern-california-public-radio-receives-grant-aw/">Southern California Public Radio Receives Grant Award from California Humanities</a></h1>
+      </div>
+
+      <div class="o-featured-blogs__blog-footer">
+        <a class="o-featured-blogs__blog-footer-date" href="/blogs/inside-kpcc/2018/07/18/18288/southern-california-public-radio-receives-grant-aw/">
+          Inside KPCC
+        </a>
+        <a class="o-featured-blogs__blog-headline" href="/blogs/inside-kpcc/2018/07/18/18288/southern-california-public-radio-receives-grant-aw/">
+          An inside perspective of the team that brings you 89.3 KPCC - Southern California Public Radio
+        </a>
+      </div>
+    </div>
+    <div class="o-featured-blogs__blog">
+
+      <figure class="o-featured-blogs__blog-figure o-figure o-figure--widescreen">
+        <img class="o-figure__img" src="https://a.scpr.org/i/1c57533cb9460872ddbafa875eab447b/212221-small.jpg" style="background-image: url(https://a.scpr.org/i/1c57533cb9460872ddbafa875eab447b/212221-small.jpg);">
+      </figure>
+
+      <div class="o-featured-blogs__blog-description">
+        <p class="o-featured-blogs__blog-date u-text-color--gray-warm b-heading--bold">July 18, 2018</p>
+        <h1 class="o-featured-blogs__blog-title b-heading--medium"><a href="/blogs/inside-kpcc/2018/07/18/18286/southern-california-public-radio-awarded-californi/">Southern California Public Radio Awarded California Arts Council “Arts and Public Media” Grant</a></h1>
+      </div>
+
+      <div class="o-featured-blogs__blog-footer">
+        <a class="o-featured-blogs__blog-footer-date" href="/blogs/inside-kpcc/2018/07/18/18286/southern-california-public-radio-awarded-californi/">
+          Inside KPCC
+        </a>
+        <a class="o-featured-blogs__blog-headline" href="/blogs/inside-kpcc/2018/07/18/18286/southern-california-public-radio-awarded-californi/">
+          An inside perspective of the team that brings you 89.3 KPCC - Southern California Public Radio
+        </a>
+      </div>
+    </div>
+
+</section>
+
+
+<section class="o-popular-stories l-column--boundless o-popular-stories--horiz" style="order: 1001">
+  <h4 class="o-popular-stories__heading b-heading b-heading--h4 b-heading--uppercase u-text-color--gray-warm b-heading--medium">What's popular now on KPCC</h4>
+    <div class="o-popular-stories__story track-event">
+      <figure class="o-popular-stories__figure o-figure o-figure--four-by-three">
+        <a data-ga-category="Article" data-ga-action="Clickthrough" data-ga-label="Popular Now Quadrant" href="/news/2021/08/27/99010/a-u-s-intelligence-report-fails-to-pinpoint-covid/">
+        <img class="o-figure__img" src="https://a.scpr.org/i/59d668f71ceddb95fd85b2c74ff3dbe0/234805-full.jpg" style="background-image: url(https://a.scpr.org/i/59d668f71ceddb95fd85b2c74ff3dbe0/234805-full.jpg)" />
+</a>        <figcaption class="o-popular-stories__caption">
+          <a data-ga-category="Article" data-ga-action="Clickthrough" data-ga-label="Popular Now Quadrant" href="/news/2021/08/27/99010/a-u-s-intelligence-report-fails-to-pinpoint-covid/">
+          A U.S. Intelligence Report Fails To Pinpoint COVID's Origins 
+</a>        </figcaption>
+      </figure>
+    </div>
+    <div class="o-popular-stories__story track-event">
+      <figure class="o-popular-stories__figure o-figure o-figure--four-by-three">
+        <a data-ga-category="Article" data-ga-action="Clickthrough" data-ga-label="Popular Now Quadrant" href="/news/2021/08/27/99009/peloton-says-it-s-been-subpoenaed-by-doj-and-dhs-o/">
+        <img class="o-figure__img" src="https://a.scpr.org/i/d116dd563eb2b33c35b08772770cc978/234804-full.jpg" style="background-image: url(https://a.scpr.org/i/d116dd563eb2b33c35b08772770cc978/234804-full.jpg)" />
+</a>        <figcaption class="o-popular-stories__caption">
+          <a data-ga-category="Article" data-ga-action="Clickthrough" data-ga-label="Popular Now Quadrant" href="/news/2021/08/27/99009/peloton-says-it-s-been-subpoenaed-by-doj-and-dhs-o/">
+          Peloton Says It's Been Subpoenaed By DOJ And DHS Over Its Product Injury Reporting
+</a>        </figcaption>
+      </figure>
+    </div>
+    <div class="o-popular-stories__story track-event">
+      <figure class="o-popular-stories__figure o-figure o-figure--four-by-three">
+        <a data-ga-category="Article" data-ga-action="Clickthrough" data-ga-label="Popular Now Quadrant" href="/news/2021/08/27/99008/the-u-s-has-set-up-a-mass-vaccination-site-for-afg/">
+        <img class="o-figure__img" src="https://a.scpr.org/i/3eb3e541688e115debdec435d4172dd6/234803-full.jpg" style="background-image: url(https://a.scpr.org/i/3eb3e541688e115debdec435d4172dd6/234803-full.jpg)" />
+</a>        <figcaption class="o-popular-stories__caption">
+          <a data-ga-category="Article" data-ga-action="Clickthrough" data-ga-label="Popular Now Quadrant" href="/news/2021/08/27/99008/the-u-s-has-set-up-a-mass-vaccination-site-for-afg/">
+          The U.S. Has Set Up A Mass Vaccination Site For Afghans Arriving In Virginia
+</a>        </figcaption>
+      </figure>
+    </div>
+    <div class="o-popular-stories__story track-event">
+      <figure class="o-popular-stories__figure o-figure o-figure--four-by-three">
+        <a data-ga-category="Article" data-ga-action="Clickthrough" data-ga-label="Popular Now Quadrant" href="/news/2021/08/27/99007/greenhouse-gas-levels-are-the-highest-ever-seen-an/">
+        <img class="o-figure__img" src="https://a.scpr.org/i/281c84db9a64d3e9cba7721d02ebce5e/234802-full.jpg" style="background-image: url(https://a.scpr.org/i/281c84db9a64d3e9cba7721d02ebce5e/234802-full.jpg)" />
+</a>        <figcaption class="o-popular-stories__caption">
+          <a data-ga-category="Article" data-ga-action="Clickthrough" data-ga-label="Popular Now Quadrant" href="/news/2021/08/27/99007/greenhouse-gas-levels-are-the-highest-ever-seen-an/">
+          Greenhouse Gas Levels Are The Highest Ever Seen — And That's Going Back 800,000 Years
+</a>        </figcaption>
+      </figure>
+    </div>
+</section>
+
+<aside class="o-epilogue l-column--boundless" style="order: 1003">
+  <img class="o-epilogue__graphic" src="/assets/graphic_epilogue-donate-da43de6f4b535f18d15ac128cd10b27d.svg">
+  <div class="o-epilogue__text">
+    <h1 class="o-epilogue__heading"><a href="https://support.kpcc.org/default?ms=subfooter">KPCC's Local coverage is a Southern California resource provided by member-supported public radio. We can't do it without you.</a></h1>
+    <a class="o-epilogue-callout b-link b-link--callout" href="https://support.kpcc.org/default?ms=subfooter">Your contributions power KPCC.  Give today.</a>
+  </div>
+</aside>
+
+
+
+    </main>
+    <footer class="">
+      
+      <div class="o-footer">
+  <div class="l-section--margin-sm l-row l-row--lg l-between l-bottom">
+    <div class="o-footer__logo-container l-col l-center@media-desktop">
+      <a href="/">
+        <svg class="o-footer__logo icon--left">
+          <use class="" xlink:href="/static/images/scpr-sprite.svg#logo_kpcc-white"/>
+        </svg>
+      </a>
+      <span class="o-footer__tagline b-text b-text--semibold u-text-color--gray">The Voice of Southern California</span>
+    </div>
+    <div class="o-footer__donate l-col l-end l-center@media-desktop">
+      <a href="https://support.kpcc.org/default?ms=footer" data-ga-category="Menu" data-ga-action="Donate" data-ga-label="/blogs/news/2012/11/05/10898/live-video-wildfire-erupts-san-bernardino-county-h">
+        <svg class="b-icon b-icon--size-med b-icon--left">
+          <use class="b-icon--line b-icon--color-white" xlink:href="/static/images/scpr-sprite.svg#icon_line-donate"/>
+        </svg>
+        <span class="b-link b-link--white-dark-bg b-text">Support the voices you trust. <b class="b-text--semibold">Donate now.</b></span>
+      </a>
+    </div>
+  </div>
+  <hr class="b-rule b-rule--primary" />
+  <nav class="o-footer__nav footer__nav--expanded u-text-align--center">
+    <div class="l-section--margin-sm">
+      <ul class="c-list--horiz c-list--divider b-text b-text--bold">
+        <li><a class="b-link b-link--white-dark-bg" href="/local">Local</a></li>
+        <li><a class="b-link b-link--white-dark-bg" href="/world">US &amp; World</a></li>
+        <li><a class="b-link b-link--white-dark-bg" href="/arts">Arts &amp; Entertainment</a></li>
+        <li><a class="b-link b-link--white-dark-bg" href="/crime">Crime &amp; Justice</a></li>
+      </ul>
+    </div>
+    <div class="l-section--margin-sm">
+      <ul class="c-list--horiz b-text">
+        <li><a class="b-link b-link--white-dark-bg" href="/programs/take-two">Take Two</a></li>
+        <li><a class="b-link b-link--white-dark-bg" href="/programs/airtalk">AirTalk</a></li>
+        <li><a class="b-link b-link--white-dark-bg" href="/programs/offramp">Off-Ramp</a></li>
+        <li><a class="b-link b-link--white-dark-bg" href="/programs/the-frame">The Frame</a></li>
+        <li><a class="b-link b-link--white-dark-bg" href="/schedule">Program Schedule</a></li>
+        <li><a class="b-link b-link--white-dark-bg" href="/programs">Programs A-Z</a></li>
+        <li><a class="b-link b-link--white-dark-bg" href="/events/kpcc-in-person">KPCC In Person</a></li>
+        <li><a class="b-link b-link--white-dark-bg" href="/about">About KPCC</a></li>
+        <li><a class="b-link b-link--white-dark-bg" href="/contact/#form">Contact Us</a></li>
+        <li><a class="b-link b-link--white-dark-bg" href="/about/people/staff">Staff Directory</a></li>
+        <li><a class="b-link b-link--white-dark-bg" href="/jobs">Careers</a></li>
+        <li><a class="link link--white-dark-bg" href="/support/car_donation">Donate Your Vehicle</a></li>
+      </ul>
+    </div>
+  </nav>
+  <nav class="o-footer__nav footer__nav--compact u-text-align--center">
+    <div class="l-section--margin-sm">
+      <ul class="c-list--horiz c-list--divider b-text b-text--bold">
+        <li><a class="b-link b-link--white-dark-bg" href="/news">News</a></li>
+        <li><a class="b-link b-link--white-dark-bg" href="/programs">Programs</a></li>
+        <li><a class="b-link b-link--white-dark-bg" href="/events/kpcc-in-person">Events</a></li>
+        <li><a class="b-link b-link--white-dark-bg" href="/support">Support</a></li>
+        <li><a class="b-link b-link--white-dark-bg" href="/about">About</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  
+
+  <div class="l-section--margin-sm l-row l-row--xl l-between l-bottom">
+    <div class="l-col l-center@media-wide">
+      <ul class="c-list--horiz c-list--horiz-compact">
+        <li class="o-footer__partner-label"><span class="u-text-color--gray b-text b-text--uppercase b-text--semibold">Our Partners</span></li>
+        <li>
+          <svg width="106" class="o-footer__partner-logo icon icon--left">
+            <use class="icon--fill icon--color-gray" xlink:href="/static/images/scpr-sprite.svg#logo_partner-apm"/>
+          </svg>
+        </li>
+        <li class="o-footer__partner">
+          <svg width="62" class="o-footer__partner-logo icon icon--left">
+            <use class="icon--fill icon--color-gray" xlink:href="/static/images/scpr-sprite.svg#logo_partner-npr"/>
+          </svg>
+        </li>
+        <li class="o-footer__partner">
+          <svg width="71" class="o-footer__partner-logo icon icon--left">
+            <use class="icon--fill icon--color-gray" xlink:href="/static/images/scpr-sprite.svg#logo_partner-bbc"/>
+          </svg>
+        </li>
+        <li class="o-footer__partner">
+          <svg width="86" class="o-footer__partner-logo icon icon--left">
+            <use class="icon--fill icon--color-gray" xlink:href="/static/images/scpr-sprite.svg#logo_partner-pri"/>
+          </svg>
+        </li>
+        <li class="o-footer__partner">
+          <svg width="28" class="o-footer__partner-logo icon icon--left">
+            <use class="icon--fill icon--color-gray" xlink:href="/static/images/scpr-sprite.svg#logo_partner-nbc4"/>
+          </svg>
+        </li>
+        <li class="o-footer__partner">
+          <svg width="57" class="o-footer__partner-logo icon icon--left">
+            <use class="icon--fill icon--color-gray" xlink:href="/static/images/scpr-sprite.svg#logo_partner-pcc"/>
+          </svg>
+        </li>
+      </ul>
+    </div>
+    <nav class="l-col l-end l-center@media-wide">
+      <ul class="c-list--horiz b-text b-text--small u-text-color--gray">
+        <li><a class="b-link b-link--gray-dark-bg" href="/terms/">Terms &amp; Conditions</a></li>
+        <li><a class="b-link b-link--gray-dark-bg" href="/privacy/">Privacy</a></li>
+        <li><a class="b-link b-link--gray-dark-bg" href="/web_site_feedback/">Feedback</a></li>
+        <li><a class="b-link b-link--gray-dark-bg" href="/about/public/">EEO Public Reports</a></li>
+        <li>&copy; 2021 Southern California Public Radio</li>
+      </ul>
+    </nav>
+  </div>
+</div>
+
+      <script>
+
+          // Load In-Article Membership Appeal from AdHost
+          scpr.VisualCampaign.enqueue('article-appeal', $('#article-membership-appeal'));
+
+          // Load PortableHoles
+          holes = new PortableHoles({
+            Embedly: {
+              query: { key : '0cb3651dde4740db8fcb147850c6b555' }
+            }
+          });
+
+          holes.swap();
+      </script>
+    </footer>
+    <aside id="audio-bar" class="o-audio-bar">
+    <div id="jquery_jplayer_1" class="jp-jplayer"></div>
+    <div id="jp_container_1" class="jp-audio o-audio-bar__container">
+      <div class="jp-controls o-audio-bar__playback-controls">
+        <svg value="play" class="b-icon jp-play o-audio-bar__controls-play" data-ga-category="Article" data-ga-action="Play" data-ga-label="Player">
+          <use class="" xlink:href="/static/images/scpr-sprite.svg#icon_line-audio-bar--play"/>
+          Play
+        </svg>
+        <svg value="pause" class="b-icon jp-pause o-audio-bar__controls-pause" data-ga-category="Article" data-ga-action="Pause" data-ga-label="Player">
+          <use class="" xlink:href="/static/images/scpr-sprite.svg#icon_line-audio-bar--pause"/>
+          Pause
+        </svg>
+      </div>
+      <div class="o-audio-bar__timeline">
+        <header id="jplayer1_title" class="o-audio-bar__title"></header>
+        <div class="o-audio-bar__meter">
+          <div class="jp-seek-bar">&nbsp;</div>
+          <div class="jp-play-bar" style="width: 16.38%;">&nbsp;</div>
+        </div>
+        <div class="o-audio-bar__markers">
+          <span class="ticker jp-current-time"></span>
+          <span class="o-pipe">/</span>
+          <span class="ticker jp-duration"></span>
+        </div>
+      </div>
+      <div class="o-audio-bar__buttons">
+          <a class="o-audio-bar__download" href="#" download>
+            <svg class="b-icon o-audio-bar__download-icon" data-ga-category="Article" data-ga-action="Volume" data-ga-label="Player">
+              <use class="" xlink:href="/static/images/scpr-sprite.svg#icon_line-download"/>
+              Download
+            </svg>
+          </a>
+          <svg value="mute" class="b-icon jp-mute o-audio-bar__unmute" data-ga-category="Article" data-ga-action="Volume" data-ga-label="Player">
+            <use class="" xlink:href="/static/images/scpr-sprite.svg#icon_line-volume--unmute"/>
+            Mute
+          </svg>
+          <svg value="unmute" class="b-icon jp-unmute o-audio-bar__mute" data-ga-category="Article" data-ga-action="Volume" data-ga-label="Player">
+            <use class="" xlink:href="/static/images/scpr-sprite.svg#icon_line-volume--mute"/>
+            Unmute
+          </svg>
+          <svg value="close" class="b-icon jp-stop o-audio-bar__collapse" data-ga-category="Article" data-ga-action="Volume" data-ga-label="Player">
+            <use class="" xlink:href="/static/images/scpr-sprite.svg#icon_line-close"/>
+            X
+          </svg>
+      </div>
+    </div>
+</aside><!--/ .o-audio-bar -->
+    <!-- Don't put display things in here! It's not inside the viewport. -->
+<script>
+  // ### Array.prototype.indexOf polyfill ###
+  // Production steps of ECMA-262, Edition 5, 15.4.4.14
+  // Reference: http://es5.github.io/#x15.4.4.14
+  if (!Array.prototype.indexOf) {
+    Array.prototype.indexOf = function(searchElement, fromIndex) {
+      var k;
+      if (this == null) {
+        throw new TypeError('"this" is null or not defined');
+      }
+      var o = Object(this);
+      var len = o.length >>> 0;
+      if (len === 0) {
+        return -1;
+      }
+      var n = +fromIndex || 0;
+      if (Math.abs(n) === Infinity) {
+        n = 0;
+      }
+      if (n >= len) {
+        return -1;
+      }
+      k = Math.max(n >= 0 ? n : len - Math.abs(n), 0);
+      while (k < len) {
+        if (k in o && o[k] === searchElement) {
+          return k;
+        }
+        k++;
+      }
+      return -1;
+    };
+  }
+</script>
+<!-- BEGIN Comscore -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "6035974", c3: "", c4: "" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6035974&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" />
+</noscript>
+<!-- /Comscore -->
+
+<!-- ChartBeat -->
+<script type="text/javascript">
+    var _sf_async_config = { uid: 33583, domain: 'scpr.org', useCanonical:true };
+    (function() {
+        function loadChartbeat() {
+            window._sf_endpt = (new Date()).getTime();
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
+            document.body.appendChild(e);
+        };
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+</script>
+<!-- /ChartBeat -->
+
+<!-- Mogo Pixel -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','mogoDataLayer','GTM-KVHTMW');</script>
+<!-- Mogo Pixel -->
+
+<!-- Eloqua Website Tracking -->
+<script type="text/javascript">
+    var _elqQ = _elqQ || [];
+    _elqQ.push(['elqSetSiteId', '1715082578']);
+    _elqQ.push(['elqTrackPageView']);
+
+    (function () {
+        function async_load() {
+            var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+            s.src = '//img.en25.com/i/elqCfg.min.js';
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_load, false);
+        else if (window.attachEvent) window.attachEvent('onload', async_load);
+    })();
+</script>
+<!-- /Eloqua Website Tracking -->
+
+<!--  Quantcast Tag -->
+<script>
+  qcdata = {} || qcdata;
+       (function(){
+       var elem = document.createElement('script');
+       elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-_ZNT1e57PQPC3";
+       elem.async = true;
+       elem.type = "text/javascript";
+       var scpt = document.getElementsByTagName('script')[0];
+       scpt.parentNode.insertBefore(elem,scpt);
+     }());
+
+
+   var qcdata = {qacct: 'p-_ZNT1e57PQPC3',
+                        orderid: '',
+                        revenue: ''
+                        };
+</script>
+  <noscript>
+    <img src="//pixel.quantserve.com/pixel/p-_ZNT1e57PQPC3.gif?labels=_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+  </noscript>
+<!-- End Quantcast Tag -->
+
+
+<script type="text/javascript">
+  var DISQUSWIDGETS = {};
+  var megaM, smartTime;
+
+  $(function() {
+    social            = new scpr.SocialTools();
+    audio             = new scpr.Audio();
+  });
+</script>
+
+<script>
+// Make sure this is last! A visual campaign
+// can be queued from anywhere.
+$(function() {
+  // Handle any queued visual campaigns.
+  scpr.VisualCampaign.enqueue('pushdown-global', $('#global-pushdown'));
+  scpr.VisualCampaign.fetchQueue();
+});
+</script>
+
+</body>
+</html>
+
+
+    <script src="/assets/better_homepage/style-guide-595f2dc3b18234ed913ffd5b40175ebc.js" async="async"></script>
+  </body>
+</html>

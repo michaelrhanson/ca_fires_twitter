@@ -1,0 +1,1377 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8"><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"NRJS-a2699dd83e955efc2bf",applicationID:"616955319"};;(()=>{var e,t,r={9071:(e,t,r)=>{"use strict";r.d(t,{I:()=>n});var n=0,i=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);i&&(n=+i[1])},6900:(e,t,r)=>{"use strict";let n;if(r.d(t,{H:()=>i}),r(2374).il){const e=document.createElement("div");e.innerHTML="\x3c!--[if lte IE 6]><div></div><![endif]--\x3e\x3c!--[if lte IE 7]><div></div><![endif]--\x3e\x3c!--[if lte IE 8]><div></div><![endif]--\x3e\x3c!--[if lte IE 9]><div></div><![endif]--\x3e",n=e.getElementsByTagName("div").length}var i;i=4===n?6:3===n?7:2===n?8:1===n?9:0},6562:(e,t,r)=>{"use strict";r.d(t,{P_:()=>h,Mt:()=>v,C5:()=>d,DL:()=>w,OP:()=>B,lF:()=>V,Yu:()=>A,Dg:()=>p,CX:()=>l,GE:()=>y,sU:()=>M});var n={};r.r(n),r.d(n,{agent:()=>O,match:()=>_,version:()=>S});var i=r(6797),o=r(909),a=r(8610);class s{constructor(e,t){try{if(!e||"object"!=typeof e)return(0,a.Z)("New setting a Configurable requires an object as input");if(!t||"object"!=typeof t)return(0,a.Z)("Setting a Configurable requires a model to set its initial properties");Object.assign(this,t),Object.entries(e).forEach((e=>{let[t,r]=e;const n=(0,o.q)(t);n.length&&r&&"object"==typeof r&&n.forEach((e=>{e in r&&((0,a.Z)(`"${e}" is a protected attribute and can not be changed in feature ${t}.  It will have no effect.`),delete r[e])})),this[t]=r}))}catch(e){(0,a.Z)("An error occured while setting a Configurable",e)}}}const c={beacon:i.ce.beacon,errorBeacon:i.ce.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},u={};function d(e){if(!e)throw new Error("All info objects require an agent identifier!");if(!u[e])throw new Error(`Info for ${e} was never set`);return u[e]}function l(e,t){if(!e)throw new Error("All info objects require an agent identifier!");u[e]=new s(t,c),(0,i.Qy)(e,u[e],"info")}const f={allow_bfcache:!1,privacy:{cookies_enabled:!0},ajax:{deny_list:void 0,enabled:!0,harvestTimeSeconds:10},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},ssl:void 0,obfuscate:void 0,jserrors:{enabled:!0,harvestTimeSeconds:10},metrics:{enabled:!0,harvestTimeSeconds:10},page_action:{enabled:!0,harvestTimeSeconds:30},page_view_event:{enabled:!0},page_view_timing:{enabled:!0,harvestTimeSeconds:30},session_trace:{enabled:!0,harvestTimeSeconds:10},spa:{enabled:!0,harvestTimeSeconds:10}},g={};function h(e){if(!e)throw new Error("All configuration objects require an agent identifier!");if(!g[e])throw new Error(`Configuration for ${e} was never set`);return g[e]}function p(e,t){if(!e)throw new Error("All configuration objects require an agent identifier!");g[e]=new s(t,f),(0,i.Qy)(e,g[e],"config")}function v(e,t){if(!e)throw new Error("All configuration objects require an agent identifier!");var r=h(e);if(r){for(var n=t.split("."),i=0;i<n.length-1;i++)if("object"!=typeof(r=r[n[i]]))return;r=r[n[n.length-1]]}return r}const m={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},b={};function w(e){if(!e)throw new Error("All loader-config objects require an agent identifier!");if(!b[e])throw new Error(`LoaderConfig for ${e} was never set`);return b[e]}function y(e,t){if(!e)throw new Error("All loader-config objects require an agent identifier!");b[e]=new s(t,m),(0,i.Qy)(e,b[e],"loader_config")}const A=(0,i.mF)().o;var x=r(6900),E=r(2053),O=null,S=null;if(navigator.userAgent){var D=navigator.userAgent,j=D.match(/Version\/(\S+)\s+Safari/);j&&-1===D.indexOf("Chrome")&&-1===D.indexOf("Chromium")&&(O="Safari",S=j[1])}function _(e,t){if(!O)return!1;if(e!==O)return!1;if(!t)return!0;if(!S)return!1;for(var r=S.split("."),n=t.split("."),i=0;i<n.length;i++)if(n[i]!==r[i])return!1;return!0}var k=r(5526),T=r(2374);const P="NRBA_SESSION_ID";function C(){if(!T.il)return null;try{let e;return null===(e=window.sessionStorage.getItem(P))&&(e=(0,k.ky)(16),window.sessionStorage.setItem(P,e)),e}catch(e){return null}}var I=T._A?.XMLHttpRequest,N=I&&I.prototype;const R={};function B(e){if(!e)throw new Error("All runtime objects require an agent identifier!");if(!R[e])throw new Error(`Runtime for ${e} was never set`);return R[e]}function M(e,t){if(!e)throw new Error("All runtime objects require an agent identifier!");var r;R[e]=new s(t,(r=e,{customTransaction:void 0,disabled:!1,features:{},isolatedBacklog:!1,loaderType:void 0,maxBytes:6===x.H?2e3:3e4,offset:(0,E.yf)(),onerror:void 0,origin:""+T._A?.location,ptid:void 0,releaseIds:{},sessionId:1==v(r,"privacy.cookies_enabled")?C():null,xhrWrappable:I&&N&&N.addEventListener&&!/CriOS/.test(navigator.userAgent),userAgent:n})),(0,i.Qy)(e,R[e],"runtime")}function V(e){return function(e){try{const t=d(e);return!!t.licenseKey&&!!t.errorBeacon&&!!t.applicationID}catch(e){return!1}}(e)}},8226:(e,t,r)=>{"use strict";r.d(t,{q:()=>n});const n="1223.PROD"},9557:(e,t,r)=>{"use strict";r.d(t,{w:()=>o});var n=r(8610);const i={agentIdentifier:""};class o{constructor(e){try{if("object"!=typeof e)return(0,n.Z)("shared context requires an object as input");this.sharedContext={},Object.assign(this.sharedContext,i),Object.entries(e).forEach((e=>{let[t,r]=e;Object.keys(i).includes(t)&&(this.sharedContext[t]=r)}))}catch(e){(0,n.Z)("An error occured while setting SharedContext",e)}}}},4329:(e,t,r)=>{"use strict";r.d(t,{L:()=>d,R:()=>c});var n=r(3752),i=r(7022),o=r(4045),a=r(2325);const s={};function c(e,t){const r={staged:!1,priority:a.p[t]||0};u(e),s[e].get(t)||s[e].set(t,r)}function u(e){e&&(s[e]||(s[e]=new Map))}function d(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:"",t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:"feature";if(u(e),!e||!s[e].get(t))return a(t);s[e].get(t).staged=!0;const r=Array.from(s[e]);function a(t){const r=e?n.ee.get(e):n.ee,a=o.X.handlers;if(r.backlog&&a){var s=r.backlog[t],c=a[t];if(c){for(var u=0;s&&u<s.length;++u)l(s[u],c);(0,i.D)(c,(function(e,t){(0,i.D)(t,(function(t,r){r[0].on(e,r[1])}))}))}delete a[t],r.backlog[t]=null,r.emit("drain-"+t,[])}}r.every((e=>{let[t,r]=e;return r.staged}))&&(r.sort(((e,t)=>e[1].priority-t[1].priority)),r.forEach((e=>{let[t]=e;a(t)})))}function l(e,t){var r=e[1];(0,i.D)(t[r],(function(t,r){var n=e[0];if(r[0]===n){var i=r[1],o=e[3],a=e[2];i.apply(o,a)}}))}},3752:(e,t,r)=>{"use strict";r.d(t,{ee:()=>u});var n=r(6797),i=r(3916),o=r(7022),a=r(6562),s="nr@context";let c=(0,n.fP)();var u;function d(){}function l(){return new d}function f(){(u.backlog.api||u.backlog.feature)&&(u.aborted=!0,u.backlog={})}c.ee?u=c.ee:(u=function e(t,r){var n={},c={},g={},h=!1;try{h=16===r.length&&(0,a.OP)(r).isolatedBacklog}catch(e){}var p={on:b,addEventListener:b,removeEventListener:w,emit:m,get:A,listeners:y,context:v,buffer:x,abort:f,aborted:!1,isBuffering:E,debugId:r,backlog:h?{}:t&&"object"==typeof t.backlog?t.backlog:{}};return p;function v(e){return e&&e instanceof d?e:e?(0,i.X)(e,s,l):l()}function m(e,r,n,i,o){if(!1!==o&&(o=!0),!u.aborted||i){t&&o&&t.emit(e,r,n);for(var a=v(n),s=y(e),d=s.length,l=0;l<d;l++)s[l].apply(a,r);var f=O()[c[e]];return f&&f.push([p,e,r,a]),a}}function b(e,t){n[e]=y(e).concat(t)}function w(e,t){var r=n[e];if(r)for(var i=0;i<r.length;i++)r[i]===t&&r.splice(i,1)}function y(e){return n[e]||[]}function A(t){return g[t]=g[t]||e(p,t)}function x(e,t){var r=O();p.aborted||(0,o.D)(e,(function(e,n){t=t||"feature",c[n]=t,t in r||(r[t]=[])}))}function E(e){return!!O()[c[e]]}function O(){return p.backlog}}(void 0,"globalEE"),c.ee=u)},9252:(e,t,r)=>{"use strict";r.d(t,{E:()=>n,p:()=>i});var n=r(3752).ee.get("handle");function i(e,t,r,i,o){o?(o.buffer([e],i),o.emit(e,t,r)):(n.buffer([e],i),n.emit(e,t,r))}},4045:(e,t,r)=>{"use strict";r.d(t,{X:()=>o});var n=r(9252);o.on=a;var i=o.handlers={};function o(e,t,r,o){a(o||n.E,i,e,t,r)}function a(e,t,r,i,o){o||(o="feature"),e||(e=n.E);var a=t[o]=t[o]||{};(a[r]=a[r]||[]).push([e,i])}},8544:(e,t,r)=>{"use strict";r.d(t,{bP:()=>s,iz:()=>c,m$:()=>a});var n=r(2374),i=!1;try{var o=Object.defineProperty({},"passive",{get:function(){i=!0}});n._A?.addEventListener("testPassive",null,o),n._A?.removeEventListener("testPassive",null,o)}catch(e){}function a(e){return i?{passive:!0,capture:!!e}:!!e}function s(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2];window.addEventListener(e,t,a(r))}function c(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2];document.addEventListener(e,t,a(r))}},5526:(e,t,r)=>{"use strict";r.d(t,{Rl:()=>i,ky:()=>o});var n=r(2374);function i(){var e=null,t=0,r=n._A?.crypto||n._A?.msCrypto;function i(){return e?15&e[t++]:16*Math.random()|0}r&&r.getRandomValues&&(e=r.getRandomValues(new Uint8Array(31)));for(var o,a="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",s="",c=0;c<a.length;c++)s+="x"===(o=a[c])?i().toString(16):"y"===o?(o=3&i()|8).toString(16):o;return s}function o(e){var t=null,r=0,n=self.crypto||self.msCrypto;n&&n.getRandomValues&&Uint8Array&&(t=n.getRandomValues(new Uint8Array(31)));for(var i=[],o=0;o<e;o++)i.push(a().toString(16));return i.join("");function a(){return t?15&t[r++]:16*Math.random()|0}}},2053:(e,t,r)=>{"use strict";r.d(t,{nb:()=>c,os:()=>u,yf:()=>s,zO:()=>a});var n=r(7145),i=(new Date).getTime(),o=i;function a(){return n.G&&performance.now?Math.round(performance.now()):(i=Math.max((new Date).getTime(),i))-o}function s(){return i}function c(e){o=e}function u(){return o}},7145:(e,t,r)=>{"use strict";r.d(t,{G:()=>n});const n=void 0!==r(2374)._A?.performance?.timing?.navigationStart},6625:(e,t,r)=>{"use strict";r.d(t,{s:()=>c,v:()=>u});var n=r(8283),i=r(9071),o=r(2053),a=r(7145),s=r(2374);let c=!0;function u(e){var t=function(){if(i.I&&i.I<9)return;if(a.G)return c=!1,s._A?.performance?.timing?.navigationStart}();t&&((0,n.B)(e,"starttime",t),(0,o.nb)(t))}},8283:(e,t,r)=>{"use strict";r.d(t,{B:()=>o,L:()=>a});var n=r(2053),i={};function o(e,t,r){void 0===r&&(r=(0,n.zO)()+(0,n.os)()),i[e]=i[e]||{},i[e][t]=r}function a(e,t,r,n){const o=e.sharedContext.agentIdentifier;var a=i[o]?.[r],s=i[o]?.[n];void 0!==a&&void 0!==s&&e.store("measures",t,{value:s-a})}},9548:(e,t,r)=>{"use strict";r.d(t,{T:()=>i});var n=r(2374);const i={isFileProtocol:function(){let e=Boolean("file:"===(0,n.lW)()?.location?.protocol);e&&(i.supportabilityMetricSent=!0);return e},supportabilityMetricSent:!1}},8610:(e,t,r)=>{"use strict";function n(e,t){console&&console.warn&&"function"==typeof console.warn&&(console.warn(`New Relic: ${e}`),t&&console.warn(t))}r.d(t,{Z:()=>n})},3916:(e,t,r)=>{"use strict";r.d(t,{X:()=>i});var n=Object.prototype.hasOwnProperty;function i(e,t,r){if(n.call(e,t))return e[t];var i=r();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:i,writable:!0,enumerable:!1}),i}catch(e){}return e[t]=i,i}},2374:(e,t,r)=>{"use strict";r.d(t,{_A:()=>o,il:()=>n,lW:()=>a,v6:()=>i});const n=Boolean("undefined"!=typeof window&&window.document),i=Boolean("undefined"!=typeof WorkerGlobalScope&&self.navigator instanceof WorkerNavigator);let o=(()=>{if(n)return window;if(i){if("undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope)return globalThis;if(self instanceof WorkerGlobalScope)return self}throw new Error("New Relic browser agent shutting down due to error: Unable to locate global scope. This is possibly due to code redefining browser global variables like `self` and `window`.")})();function a(){return o}},7022:(e,t,r)=>{"use strict";r.d(t,{D:()=>i});var n=Object.prototype.hasOwnProperty;function i(e,t){var r=[],i="",o=0;for(i in e)n.call(e,i)&&(r[o]=t(i,e[i]),o+=1);return r}},9226:(e,t,r)=>{"use strict";r.d(t,{$c:()=>u,Ng:()=>d,RR:()=>c});var n=r(6562),i=r(9557),o=r(9548),a=r(8610),s={regex:/^file:\/\/(.*)/,replacement:"file://OBFUSCATED"};class c extends i.w{constructor(e){super(e)}shouldObfuscate(){return u(this.sharedContext.agentIdentifier).length>0}obfuscateString(e){if(!e||"string"!=typeof e)return e;for(var t=u(this.sharedContext.agentIdentifier),r=e,n=0;n<t.length;n++){var i=t[n].regex,o=t[n].replacement||"*";r=r.replace(i,o)}return r}}function u(e){var t=[],r=(0,n.Mt)(e,"obfuscate")||[];return t=t.concat(r),o.T.isFileProtocol()&&t.push(s),t}function d(e){for(var t=!1,r=!1,n=0;n<e.length;n++){"regex"in e[n]?"string"!=typeof e[n].regex&&e[n].regex.constructor!==RegExp&&((0,a.Z)('An obfuscation replacement rule contains a "regex" value with an invalid type (must be a string or RegExp)'),r=!0):((0,a.Z)('An obfuscation replacement rule was detected missing a "regex" value.'),r=!0);var i=e[n].replacement;i&&"string"!=typeof i&&((0,a.Z)('An obfuscation replacement rule contains a "replacement" value with an invalid type (must be a string)'),t=!0)}return!t&&!r}},2650:(e,t,r)=>{"use strict";r.d(t,{K:()=>a,b:()=>o});var n=r(8544);function i(){return"undefined"==typeof document||"complete"===document.readyState}function o(e,t){if(i())return e();(0,n.bP)("load",e,t)}function a(e){if(i())return e();(0,n.iz)("DOMContentLoaded",e)}},6797:(e,t,r)=>{"use strict";r.d(t,{EZ:()=>u,Qy:()=>c,ce:()=>o,fP:()=>a,gG:()=>d,mF:()=>s});var n=r(2053),i=r(2374);const o={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function a(){return i._A.NREUM||(i._A.NREUM={}),void 0===i._A.newrelic&&(i._A.newrelic=i._A.NREUM),i._A.NREUM}function s(){let e=a();return e.o||(e.o={ST:i._A.setTimeout,SI:i._A.setImmediate,CT:i._A.clearTimeout,XHR:i._A.XMLHttpRequest,REQ:i._A.Request,EV:i._A.Event,PR:i._A.Promise,MO:i._A.MutationObserver,FETCH:i._A.fetch}),e}function c(e,t,r){let i=a();const o=i.initializedAgents||{},s=o[e]||{};return Object.keys(s).length||(s.initializedAt={ms:(0,n.zO)(),date:new Date}),i.initializedAgents={...o,[e]:{...s,[r]:t}},i}function u(e,t){a()[e]=t}function d(){return function(){let e=a();const t=e.info||{};e.info={beacon:o.beacon,errorBeacon:o.errorBeacon,...t}}(),function(){let e=a();const t=e.init||{};e.init={...t}}(),s(),function(){let e=a();const t=e.loader_config||{};e.loader_config={...t}}(),a()}},6998:(e,t,r)=>{"use strict";r.d(t,{N:()=>i,e:()=>o});var n=r(8544);function i(e){let t=arguments.length>1&&void 0!==arguments[1]&&arguments[1];return void(0,n.iz)("visibilitychange",r);function r(){if(t){if("hidden"!=document.visibilityState)return;e()}e(document.visibilityState)}}function o(){return"hidden"===document.visibilityState?-1:1/0}},6034:(e,t,r)=>{"use strict";r.d(t,{t:()=>n});const n=r(2325).D.metrics},2484:(e,t,r)=>{"use strict";r.d(t,{t:()=>n});const n=r(2325).D.pageViewEvent},6382:(e,t,r)=>{"use strict";r.d(t,{t:()=>n});const n=r(2325).D.pageViewTiming},1509:(e,t,r)=>{"use strict";r.d(t,{W:()=>s});var n=r(6562),i=r(3752),o=r(2384),a=r(6797);class s{constructor(e,t,r){this.agentIdentifier=e,this.aggregator=t,this.ee=i.ee.get(e,(0,n.OP)(this.agentIdentifier).isolatedBacklog),this.featureName=r,this.blocked=!1,this.checkConfiguration()}checkConfiguration(){if(!(0,n.lF)(this.agentIdentifier)){let e={...(0,a.gG)().info?.jsAttributes};try{e={...e,...(0,n.C5)(this.agentIdentifier)?.jsAttributes}}catch(e){}(0,o.j)(this.agentIdentifier,{...(0,a.gG)(),info:{...(0,a.gG)().info,jsAttributes:e}})}}}},2384:(e,t,r)=>{"use strict";r.d(t,{j:()=>w});var n=r(8683),i=r.n(n),o=r(2325),a=r(6562),s=r(9252),c=r(7022),u=r(3752),d=r(2053),l=r(4329),f=r(2650),g=r(2374);function h(e,t,n){n||(0,l.R)(e,"api"),function(e){function t(t){for(var r=arguments.length,n=new Array(r>1?r-1:0),i=1;i<r;i++)n[i-1]=arguments[i];Object.values(e.initializedAgents).forEach((e=>{e.exposed&&e.api[t]&&e.api[t](...n)}))}["setErrorHandler","finished","addToTrace","inlineHit","addRelease","addPageAction","setCurrentRouteName","setPageViewName","setCustomAttribute","interaction","noticeError"].forEach((r=>{e[r]=function(){for(var e=arguments.length,n=new Array(e),i=0;i<e;i++)n[i]=arguments[i];return t(r,...n)}}))}(t);var h=u.ee.get(e),p=h.get("tracer"),v="api-",m="api-ixn-";function b(){}(0,c.D)(["setErrorHandler","finished","addToTrace","inlineHit","addRelease"],(function(e,r){t[r]=y(v,r,!0,"api")})),t.addPageAction=y(v,"addPageAction",!0,o.D.pageAction),t.setCurrentRouteName=y(v,"routeName",!0,o.D.spa),t.setPageViewName=function(t,r){if("string"==typeof t)return"/"!==t.charAt(0)&&(t="/"+t),(0,a.OP)(e).customTransaction=(r||"http://custom.transaction")+t,y(v,"setPageViewName",!0,"api")()},t.setCustomAttribute=function(t,r){const n=(0,a.C5)(e);return(0,a.CX)(e,{...n,jsAttributes:{...n.jsAttributes,[t]:r}}),y(v,"setCustomAttribute",!0,"api")()},t.interaction=function(){return(new b).get()};var w=b.prototype={createTracer:function(e,t){var r={},n=this,i="function"==typeof t;return(0,s.p)("api-ixn-tracer",[(0,d.zO)(),e,r],n,o.D.spa,h),function(){if(p.emit((i?"":"no-")+"fn-start",[(0,d.zO)(),n,i],r),i)try{return t.apply(this,arguments)}catch(e){throw p.emit("fn-err",[arguments,this,"string"==typeof e?new Error(e):e],r),e}finally{p.emit("fn-end",[(0,d.zO)()],r)}}}};function y(e,t,r,n){return function(){return(0,s.p)("record-supportability",["API/"+t+"/called"],void 0,o.D.metrics,h),(0,s.p)(e+t,[(0,d.zO)()].concat(i()(arguments)),r?null:this,n,h),r?void 0:this}}function A(){r.e(692).then(r.bind(r,5692)).then((t=>{let{setAPI:r}=t;r(e),(0,l.L)(e,"api")}))}(0,c.D)("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),(function(e,t){w[t]=y(m,t,void 0,o.D.spa)})),t.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),(0,s.p)("record-supportability",["API/noticeError/called"],void 0,o.D.metrics,h),(0,s.p)("err",[e,(0,d.zO)(),!1,t],void 0,o.D.jserrors,h)},g.v6?A():(0,f.b)((()=>A()),!0)}var p=r(6797);const v={stn:o.D.sessionTrace,err:o.D.jserrors,ins:o.D.pageAction,spa:o.D.spa};function m(e,t){var r=u.ee.get(t);e&&"object"==typeof e&&((0,c.D)(e,(function(e,t){if(!t)return(0,s.p)("block-"+e,[],void 0,v[e],r);t&&!b[e]&&((0,s.p)("feat-"+e,[],void 0,v[e],r),b[e]=!0)})),(0,l.L)(t,o.D.pageViewEvent))}const b={};function w(e){let t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:{},r=arguments.length>2?arguments[2]:void 0,n=arguments.length>3?arguments[3]:void 0,{init:i,info:o,loader_config:s,runtime:c={loaderType:r},exposed:u=!0}=t;const d=(0,p.gG)();let l={};return o||(i=d.init,o=d.info,s=d.loader_config,l=d),g.v6&&(o.jsAttributes={...o.jsAttributes,isWorker:!0}),(0,a.CX)(e,o),(0,a.Dg)(e,i||{}),(0,a.GE)(e,s||{}),(0,a.sU)(e,c),h(e,l,n),(0,p.Qy)(e,d,"api"),(0,p.Qy)(e,u,"exposed"),g.v6||((0,p.EZ)("activatedFeatures",b),(0,p.EZ)("setToken",(t=>m(t,e)))),l}},909:(e,t,r)=>{"use strict";r.d(t,{Z:()=>i,q:()=>o});var n=r(2325);function i(e){switch(e){case n.D.ajax:return[n.D.jserrors];case n.D.sessionTrace:return[n.D.ajax,n.D.pageViewEvent];case n.D.pageViewTiming:return[n.D.pageViewEvent];default:return[]}}function o(e){return e===n.D.jserrors?[]:["auto"]}},2325:(e,t,r)=>{"use strict";r.d(t,{D:()=>n,p:()=>i});const n={ajax:"ajax",jserrors:"jserrors",metrics:"metrics",pageAction:"page_action",pageViewEvent:"page_view_event",pageViewTiming:"page_view_timing",sessionTrace:"session_trace",spa:"spa"},i={[n.pageViewEvent]:1,[n.pageViewTiming]:2,[n.metrics]:3,[n.jserrors]:4,[n.ajax]:5,[n.sessionTrace]:6,[n.pageAction]:7,[n.spa]:8}},8683:e=>{e.exports=function(e,t,r){t||(t=0),void 0===r&&(r=e?e.length:0);for(var n=-1,i=r-t||0,o=Array(i<0?0:i);++n<i;)o[n]=e[t+n];return o}},4992:(e,t,r)=>{var n={"./ajax/aggregate":[960,779,960],"./jserrors/aggregate":[6112,779,112],"./metrics/aggregate":[4325,779,325],"./page_action/aggregate":[6817,779,817],"./page_view_event/aggregate":[4823,779,823],"./page_view_timing/aggregate":[8785,779,785],"./session_trace/aggregate":[1307,779,307],"./spa/aggregate":[9378,779,378]};function i(e){if(!r.o(n,e))return Promise.resolve().then((()=>{var t=new Error("Cannot find module '"+e+"'");throw t.code="MODULE_NOT_FOUND",t}));var t=n[e],i=t[0];return Promise.all(t.slice(1).map(r.e)).then((()=>r(i)))}i.keys=()=>Object.keys(n),i.id=4992,e.exports=i}},n={};function i(e){var t=n[e];if(void 0!==t)return t.exports;var o=n[e]={exports:{}};return r[e](o,o.exports,i),o.exports}i.m=r,i.n=e=>{var t=e&&e.__esModule?()=>e.default:()=>e;return i.d(t,{a:t}),t},i.d=(e,t)=>{for(var r in t)i.o(t,r)&&!i.o(e,r)&&Object.defineProperty(e,r,{enumerable:!0,get:t[r]})},i.f={},i.e=e=>Promise.all(Object.keys(i.f).reduce(((t,r)=>(i.f[r](e,t),t)),[])),i.u=e=>e+"."+i.h().slice(0,8)+"-1223.js",i.h=()=>"215647de1097144af948",i.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),e={},t="NRBA:",i.l=(r,n,o,a)=>{if(e[r])e[r].push(n);else{var s,c;if(void 0!==o)for(var u=document.getElementsByTagName("script"),d=0;d<u.length;d++){var l=u[d];if(l.getAttribute("src")==r||l.getAttribute("data-webpack")==t+o){s=l;break}}s||(c=!0,(s=document.createElement("script")).charset="utf-8",s.timeout=120,i.nc&&s.setAttribute("nonce",i.nc),s.setAttribute("data-webpack",t+o),s.src=r),e[r]=[n];var f=(t,n)=>{s.onerror=s.onload=null,clearTimeout(g);var i=e[r];if(delete e[r],s.parentNode&&s.parentNode.removeChild(s),i&&i.forEach((e=>e(n))),t)return t(n)},g=setTimeout(f.bind(null,void 0,{type:"timeout",target:s}),12e4);s.onerror=f.bind(null,s.onerror),s.onload=f.bind(null,s.onload),c&&document.head.appendChild(s)}},i.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},i.p="https://js-agent.newrelic.com/",(()=>{var e={55:0,308:0};i.f.j=(t,r)=>{var n=i.o(e,t)?e[t]:void 0;if(0!==n)if(n)r.push(n[2]);else{var o=new Promise(((r,i)=>n=e[t]=[r,i]));r.push(n[2]=o);var a=i.p+i.u(t),s=new Error;i.l(a,(r=>{if(i.o(e,t)&&(0!==(n=e[t])&&(e[t]=void 0),n)){var o=r&&("load"===r.type?"missing":r.type),a=r&&r.target&&r.target.src;s.message="Loading chunk "+t+" failed.\n("+o+": "+a+")",s.name="ChunkLoadError",s.type=o,s.request=a,n[1](s)}}),"chunk-"+t,t)}};var t=(t,r)=>{var n,o,[a,s,c]=r,u=0;if(a.some((t=>0!==e[t]))){for(n in s)i.o(s,n)&&(i.m[n]=s[n]);if(c)c(i)}for(t&&t(r);u<a.length;u++)o=a[u],i.o(e,o)&&e[o]&&e[o][0](),e[o]=0},r=window.webpackChunkNRBA=window.webpackChunkNRBA||[];r.forEach(t.bind(null,0)),r.push=t.bind(null,r.push.bind(r))})();var o={};(()=>{"use strict";i.r(o);var e=i(2325),t=i(6562);const r=Object.values(e.D);function n(e){const n={};return r.forEach((r=>{n[r]=function(e,r){return!1!==(0,t.Mt)(r,`${e}.enabled`)}(r,e)})),n}var a=i(2384),s=i(909),c=i(9557),u=i(7022);class d extends c.w{constructor(e){super(e),this.aggregatedData={}}store(e,t,r,n,i){var o=this.getBucket(e,t,r,i);return o.metrics=function(e,t){t||(t={count:0});return t.count+=1,(0,u.D)(e,(function(e,r){t[e]=l(r,t[e])})),t}(n,o.metrics),o}merge(e,t,r,n,i){var o=this.getBucket(e,t,n,i);if(o.metrics){var a=o.metrics;a.count+=r.count,(0,u.D)(r,(function(e,t){if("count"!==e){var n=a[e],i=r[e];i&&!i.c?a[e]=l(i.t,n):a[e]=function(e,t){if(!t)return e;t.c||(t=f(t.t));return t.min=Math.min(e.min,t.min),t.max=Math.max(e.max,t.max),t.t+=e.t,t.sos+=e.sos,t.c+=e.c,t}(i,a[e])}}))}else o.metrics=r}storeMetric(e,t,r,n){var i=this.getBucket(e,t,r);return i.stats=l(n,i.stats),i}getBucket(e,t,r,n){this.aggregatedData[e]||(this.aggregatedData[e]={});var i=this.aggregatedData[e][t];return i||(i=this.aggregatedData[e][t]={params:r||{}},n&&(i.custom=n)),i}get(e,t){return t?this.aggregatedData[e]&&this.aggregatedData[e][t]:this.aggregatedData[e]}take(e){for(var t={},r="",n=!1,i=0;i<e.length;i++)t[r=e[i]]=g(this.aggregatedData[r]),t[r].length&&(n=!0),delete this.aggregatedData[r];return n?t:null}}function l(e,t){return null==e?function(e){e?e.c++:e={c:1};return e}(t):t?(t.c||(t=f(t.t)),t.c+=1,t.t+=e,t.sos+=e*e,e>t.max&&(t.max=e),e<t.min&&(t.min=e),t):{t:e}}function f(e){return{t:e,min:e,max:e,sos:e*e,c:1}}function g(e){return"object"!=typeof e?[]:(0,u.D)(e,h)}function h(e,t){return t}var p=i(6797),v=i(5526),m=i(8610);var b=i(9252),w=i(2053),y=i(8283),A=i(6625),x=i(4329),E=i(1509),O=i(2650),S=i(2374);class D extends E.W{constructor(e,t,r){let n=!(arguments.length>3&&void 0!==arguments[3])||arguments[3];super(e,t,r),this.completed=new Promise(((e,t)=>{this.resolve=e,this.reject=t})),this.hasAggregator=!1,this.auto=n,n&&(0,x.R)(e,r)}importAggregator(){try{if(this.hasAggregator||!this.auto)return;this.hasAggregator=!0;const e=async()=>{try{const{Aggregate:e}=await i(4992)(`./${this.featureName}/aggregate`);new e(this.agentIdentifier,this.aggregator),this.resolve()}catch(e){(0,m.Z)(`Failed to import aggregator class for ${this.featureName}`,e)}};S.v6?e():(0,O.b)((()=>e()),!0)}catch(e){this.reject(e)}}}var j,_,k,T=i(2484);class P extends D{constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,T.t,r),S.il&&((0,A.v)(e),(0,y.B)(e,"firstbyte",(0,w.yf)()),(0,O.K)((()=>this.measureDomContentLoaded())),(0,O.b)((()=>this.measureWindowLoaded()),!0),this.importAggregator())}measureWindowLoaded(){var t=(0,w.zO)();(0,y.B)(this.agentIdentifier,"onload",t+(0,w.os)()),(0,b.p)("timing",["load",t],void 0,e.D.pageViewTiming,this.ee)}measureDomContentLoaded(){(0,y.B)(this.agentIdentifier,"domContent",(0,w.zO)()+(0,w.os)())}}j=P,_="featureName",k=T.t,_ in j?Object.defineProperty(j,_,{value:k,enumerable:!0,configurable:!0,writable:!0}):j[_]=k;var C=i(6998),I=i(8544),N=i(6382);class R extends D{constructor(t,r){var n;let i=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];if(super(t,r,N.t,i),n=this,S.il){if(this.pageHiddenTime=(0,C.e)(),this.performanceObserver,this.lcpPerformanceObserver,this.clsPerformanceObserver,this.fiRecorded=!1,"PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){this.performanceObserver=new PerformanceObserver((function(){return n.perfObserver(...arguments)}));try{this.performanceObserver.observe({entryTypes:["paint"]})}catch(e){}this.lcpPerformanceObserver=new PerformanceObserver((function(){return n.lcpObserver(...arguments)}));try{this.lcpPerformanceObserver.observe({entryTypes:["largest-contentful-paint"]})}catch(e){}this.clsPerformanceObserver=new PerformanceObserver((function(){return n.clsObserver(...arguments)}));try{this.clsPerformanceObserver.observe({type:"layout-shift",buffered:!0})}catch(e){}}this.fiRecorded=!1;["click","keydown","mousedown","pointerdown","touchstart"].forEach((e=>{(0,I.iz)(e,(function(){return n.captureInteraction(...arguments)}))})),(0,C.N)((()=>{this.pageHiddenTime=(0,w.zO)(),(0,b.p)("docHidden",[this.pageHiddenTime],void 0,e.D.pageViewTiming,this.ee)}),!0),(0,I.bP)("pagehide",(()=>(0,b.p)("winPagehide",[(0,w.zO)()],void 0,e.D.pageViewTiming,this.ee))),this.importAggregator()}}perfObserver(t,r){t.getEntries().forEach((t=>{"first-paint"===t.name?(0,b.p)("timing",["fp",Math.floor(t.startTime)],void 0,e.D.pageViewTiming,this.ee):"first-contentful-paint"===t.name&&(0,b.p)("timing",["fcp",Math.floor(t.startTime)],void 0,e.D.pageViewTiming,this.ee)}))}lcpObserver(t,r){var n=t.getEntries();if(n.length>0){var i=n[n.length-1];if(this.pageHiddenTime<i.startTime)return;var o=[i],a=this.addConnectionAttributes({});a&&o.push(a),(0,b.p)("lcp",o,void 0,e.D.pageViewTiming,this.ee)}}clsObserver(t){t.getEntries().forEach((t=>{t.hadRecentInput||(0,b.p)("cls",[t],void 0,e.D.pageViewTiming,this.ee)}))}addConnectionAttributes(e){var t=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(t)return t.type&&(e["net-type"]=t.type),t.effectiveType&&(e["net-etype"]=t.effectiveType),t.rtt&&(e["net-rtt"]=t.rtt),t.downlink&&(e["net-dlink"]=t.downlink),e}captureInteraction(r){if(r instanceof t.Yu.EV&&!this.fiRecorded){var n=Math.round(r.timeStamp),i={type:r.type};this.addConnectionAttributes(i),n<=(0,w.zO)()?i.fid=(0,w.zO)()-n:n>(0,w.os)()&&n<=Date.now()?(n-=(0,w.os)(),i.fid=(0,w.zO)()-n):n=(0,w.zO)(),this.fiRecorded=!0,(0,b.p)("timing",["fi",n,i],void 0,e.D.pageViewTiming,this.ee)}}}!function(e,t,r){t in e?Object.defineProperty(e,t,{value:r,enumerable:!0,configurable:!0,writable:!0}):e[t]=r}(R,"featureName",N.t);var B=i(4045),M="React",V="Angular",q="AngularJS",L="Backbone",z="Ember",W="Vue",$="Meteor",F="Zepto",G="Jquery";function Z(){if(!S.il)return[];var e=[];try{(function(){try{if(window.React||window.ReactDOM||window.ReactRedux)return!0;if(document.querySelector("[data-reactroot], [data-reactid]"))return!0;for(var e=document.querySelectorAll("body > div"),t=0;t<e.length;t++)if(Object.keys(e[t]).indexOf("_reactRootContainer")>=0)return!0;return!1}catch(e){return!1}})()&&e.push(M),function(){try{return!!window.angular||(!!document.querySelector(".ng-binding, [ng-app], [data-ng-app], [ng-controller], [data-ng-controller], [ng-repeat], [data-ng-repeat]")||!!document.querySelector('script[src*="angular.js"], script[src*="angular.min.js"]'))}catch(e){return!1}}()&&e.push(q),function(){try{return!!(window.hasOwnProperty("ng")&&window.ng.hasOwnProperty("coreTokens")&&window.ng.coreTokens.hasOwnProperty("NgZone"))||!!document.querySelectorAll("[ng-version]").length}catch(e){return!1}}()&&e.push(V),window.Backbone&&e.push(L),window.Ember&&e.push(z),window.Vue&&e.push(W),window.Meteor&&e.push($),window.Zepto&&e.push(F),window.jQuery&&e.push(G)}catch(e){}return e}var U=i(9548),H=i(9226),X=i(8226);const Q=Boolean(S._A?.Worker),K=Boolean(S._A?.SharedWorker),J=Boolean(S._A?.navigator?.serviceWorker);let Y,ee,te;var re=i(6034);class ne extends D{constructor(e,t){var r;let n=arguments.length>2&&void 0!==arguments[2]?arguments[2]:{},i=!(arguments.length>3&&void 0!==arguments[3])||arguments[3];super(e,t,re.t,i),r=this,this.PfFeatStatusEnum=n,this.singleChecks(),this.eachSessionChecks(),(0,B.X)("record-supportability",(function(){return r.recordSupportability(...arguments)}),this.featureName,this.ee),(0,B.X)("record-custom",(function(){return r.recordCustom(...arguments)}),this.featureName,this.ee),this.importAggregator()}recordSupportability(e,t){var r=["sm",e,{name:e},t];return(0,b.p)("storeMetric",r,null,this.featureName,this.ee),r}recordCustom(e,t){var r=["cm",e,{name:e},t];return(0,b.p)("storeEventMetrics",r,null,this.featureName,this.ee),r}singleChecks(){this.recordSupportability(`Generic/Version/${X.q}/Detected`);const{loaderType:e}=(0,t.OP)(this.agentIdentifier);e&&this.recordSupportability(`Generic/LoaderType/${e}/Detected`),S.il&&(0,O.K)((()=>{Z().forEach((e=>{this.recordSupportability("Framework/"+e+"/Detected")}))})),U.T.isFileProtocol()&&(this.recordSupportability("Generic/FileProtocol/Detected"),U.T.supportabilityMetricSent=!0);const r=(0,H.$c)(this.agentIdentifier);r.length>0&&this.recordSupportability("Generic/Obfuscate/Detected"),r.length>0&&!(0,H.Ng)(r)&&this.recordSupportability("Generic/Obfuscate/Invalid"),S.il&&this.reportPolyfillsNeeded(),function(e){if(!Y){if(Q){Y=Worker;try{S._A.Worker=r(Y,"Dedicated")}catch(e){o(e,"Dedicated")}if(K){ee=SharedWorker;try{S._A.SharedWorker=r(ee,"Shared")}catch(e){o(e,"Shared")}}else n("Shared");if(J){te=navigator.serviceWorker.register;try{S._A.navigator.serviceWorker.register=(t=te,function(){for(var e=arguments.length,r=new Array(e),n=0;n<e;n++)r[n]=arguments[n];return i("Service",r[1]?.type),t.apply(navigator.serviceWorker,r)})}catch(e){o(e,"Service")}}else n("Service");var t;return}n("All")}function r(e,t){return new Proxy(e,{construct:(e,r)=>(i(t,r[1]?.type),new e(...r))})}function n(t){S.v6||e(`Workers/${t}/Unavailable`)}function i(t,r){e("module"===r?`Workers/${t}/Module`:`Workers/${t}/Classic`)}function o(t,r){e(`Workers/${r}/SM/Unsupported`),(0,m.Z)(`NR Agent: Unable to capture ${r} workers.`,t)}}(this.recordSupportability.bind(this))}reportPolyfillsNeeded(){this.recordSupportability(`Generic/Polyfill/Promise/${this.PfFeatStatusEnum.PROMISE}`),this.recordSupportability(`Generic/Polyfill/ArrayIncludes/${this.PfFeatStatusEnum.ARRAY_INCLUDES}`),this.recordSupportability(`Generic/Polyfill/ObjectAssign/${this.PfFeatStatusEnum.OBJECT_ASSIGN}`),this.recordSupportability(`Generic/Polyfill/ObjectEntries/${this.PfFeatStatusEnum.OBJECT_ENTRIES}`)}eachSessionChecks(){S.il&&(0,I.bP)("pageshow",(e=>{e.persisted&&this.recordCustom("Custom/BFCache/PageRestored")}))}}!function(e,t,r){t in e?Object.defineProperty(e,t,{value:r,enumerable:!0,configurable:!0,writable:!0}):e[t]=r}(ne,"featureName",re.t);new class{constructor(t){let r=arguments.length>1&&void 0!==arguments[1]?arguments[1]:(0,v.ky)(16);this.agentIdentifier=r,this.sharedAggregator=new d({agentIdentifier:this.agentIdentifier}),this.features={},this.desiredFeatures=t.features||[],this.desiredFeatures.sort(((t,r)=>e.p[t.featureName]-e.p[r.featureName])),Object.assign(this,(0,a.j)(this.agentIdentifier,t,t.loaderType||"agent")),this.start()}get config(){return{info:(0,t.C5)(this.agentIdentifier),init:(0,t.P_)(this.agentIdentifier),loader_config:(0,t.DL)(this.agentIdentifier),runtime:(0,t.OP)(this.agentIdentifier)}}start(){try{const e=n(this.agentIdentifier);this.desiredFeatures.forEach((t=>{if(e[t.featureName]){const r=(0,s.Z)(t.featureName);r.every((t=>e[t]))||(0,m.Z)(`${t.featureName} is enabled but one or more dependent features has been disabled (${JSON.stringify(r)}). This may cause unintended consequences or missing data...`),this.features[t.featureName]=new t(this.agentIdentifier,this.sharedAggregator)}})),(0,p.Qy)(this.agentIdentifier,this.features,"features")}catch(e){return(0,m.Z)("Failed to initialize instrument classes",e),!1}}}({features:[P,R,ne],loaderType:"lite"})})(),window.NRBA=o})();</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+
+    <meta name='robots' content='max-image-preview:large' />
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v15.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Downed power lines to blame for Cuyama fire | News Channel 3-12</title>
+	<meta name="description" content="The Cebrian Fire burning in New Cuyama was fully contained at 8 p.m. according to Santa Barbara County Fire Capt. Dave Zaniboni,The fire burned" />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://keyt.com/news/2017/06/26/downed-power-lines-to-blame-for-cuyama-fire/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Downed power lines to blame for Cuyama fire | News Channel 3-12" />
+	<meta property="og:description" content="The Cebrian Fire burning in New Cuyama was fully contained at 8 p.m. according to Santa Barbara County Fire Capt. Dave Zaniboni,The fire burned" />
+	<meta property="og:url" content="https://keyt.com/news/2017/06/26/downed-power-lines-to-blame-for-cuyama-fire/" />
+	<meta property="og:site_name" content="News Channel 3-12" />
+	<meta property="article:publisher" content="https://www.facebook.com/newschannel312/" />
+	<meta property="article:published_time" content="2017-06-26T07:51:35+00:00" />
+	<meta property="og:image" content="https://keyt.b-cdn.net/2022/04/nc312-combined-commercial-plate.png" />
+	<meta property="og:image:width" content="1920" />
+	<meta property="og:image:height" content="1080" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@newschannel312" />
+	<meta name="twitter:site" content="@newschannel312" />
+	<meta name="twitter:label1" content="Written by">
+	<meta name="twitter:data1" content="News Channel 3-12">
+	<meta name="twitter:label2" content="Est. reading time">
+	<meta name="twitter:data2" content="1 minute">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://keyt.com/#organization","name":"#YourNewsChannel","url":"https://keyt.com/","sameAs":["https://www.facebook.com/newschannel312/","https://www.instagram.com/newschannel312","https://www.linkedin.com/company/newschannel312","https://www.youtube.com/newschannel312","https://en.wikipedia.org/wiki/KEYT-TV","https://twitter.com/newschannel312"],"logo":{"@type":"ImageObject","@id":"https://keyt.com/#logo","inLanguage":"en-US","url":"https://keyt.b-cdn.net/2022/01/Tri_Logo_Jan2022.png","width":4500,"height":2250,"caption":"#YourNewsChannel"},"image":{"@id":"https://keyt.com/#logo"}},{"@type":"WebSite","@id":"https://keyt.com/#website","url":"https://keyt.com/","name":"News Channel 3-12","description":"YourNewsChannel","publisher":{"@id":"https://keyt.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://keyt.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://keyt.com/news/2017/06/26/downed-power-lines-to-blame-for-cuyama-fire/#primaryimage","inLanguage":"en-US","url":""},{"@type":"WebPage","@id":"https://keyt.com/news/2017/06/26/downed-power-lines-to-blame-for-cuyama-fire/#webpage","url":"https://keyt.com/news/2017/06/26/downed-power-lines-to-blame-for-cuyama-fire/","name":"Downed power lines to blame for Cuyama fire | News Channel 3-12","isPartOf":{"@id":"https://keyt.com/#website"},"primaryImageOfPage":{"@id":"https://keyt.com/news/2017/06/26/downed-power-lines-to-blame-for-cuyama-fire/#primaryimage"},"datePublished":"2017-06-26T07:51:35+00:00","dateModified":"2017-06-26T07:51:35+00:00","description":"The Cebrian Fire burning in New Cuyama was fully contained at 8 p.m. according to Santa Barbara County Fire Capt. Dave Zaniboni,The fire burned","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://keyt.com/news/2017/06/26/downed-power-lines-to-blame-for-cuyama-fire/"]}]},{"@type":["Article","NewsArticle"],"@id":"https://keyt.com/news/2017/06/26/downed-power-lines-to-blame-for-cuyama-fire/#article","isPartOf":{"@id":"https://keyt.com/news/2017/06/26/downed-power-lines-to-blame-for-cuyama-fire/#webpage"},"author":{"@id":"https://keyt.com/#/schema/person/26167bebfa1ccc3f7a6e88a484ff2094"},"headline":"Downed power lines to blame for Cuyama fire","datePublished":"2017-06-26T07:51:35+00:00","dateModified":"2017-06-26T07:51:35+00:00","mainEntityOfPage":{"@id":"https://keyt.com/news/2017/06/26/downed-power-lines-to-blame-for-cuyama-fire/#webpage"},"commentCount":0,"publisher":{"@id":"https://keyt.com/#organization"},"image":{"@id":"https://keyt.com/news/2017/06/26/downed-power-lines-to-blame-for-cuyama-fire/#primaryimage"},"articleSection":"News","inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://keyt.com/news/2017/06/26/downed-power-lines-to-blame-for-cuyama-fire/#respond"]}]},{"@type":"Person","@id":"https://keyt.com/#/schema/person/26167bebfa1ccc3f7a6e88a484ff2094","name":"News Channel 3-12","description":"Email the News Channel 3-12 Team"}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//keyt.com' />
+<link rel='dns-prefetch' href='//vjs.zencdn.net' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//www.googletagservices.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="News Channel 3-12 &raquo; Feed" href="https://keyt.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="News Channel 3-12 &raquo; Comments Feed" href="https://keyt.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="News Channel 3-12 &raquo; Downed power lines to blame for Cuyama fire Comments Feed" href="https://keyt.com/news/2017/06/26/downed-power-lines-to-blame-for-cuyama-fire/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/keyt.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://keyt.com/wp-includes/css/dist/block-library/style.min.css?ver=5.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-components-css'  href='https://keyt.com/wp-includes/css/dist/components/style.min.css?ver=5.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-editor-css'  href='https://keyt.com/wp-includes/css/dist/block-editor/style.min.css?ver=5.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-nux-css'  href='https://keyt.com/wp-includes/css/dist/nux/style.min.css?ver=5.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-reusable-blocks-css'  href='https://keyt.com/wp-includes/css/dist/reusable-blocks/style.min.css?ver=5.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-editor-css'  href='https://keyt.com/wp-includes/css/dist/editor/style.min.css?ver=5.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mux_video_block_style-css'  href='https://keyt.com/wp-content/plugins/ilab-media-tools-premium/public/blocks/mediacloud-mux.blocks.style.css' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='videojs-css'  href='//vjs.zencdn.net/7.15.4/video-js.css?ver=5.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='videojs-style-css'  href='https://keyt.com/wp-content/plugins/videojs-hls-player/videojs-hls-player.css?ver=5.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='npg-styles-css'  href='https://keyt.com/wp-content/themes/storymate-npg/build/css/theme.min.css?ver=1.4.21' type='text/css' media='all' />
+<link rel='stylesheet' id='ad-styles-css'  href='https://keyt.com/wp-content/themes/storymate-theme/build/css/theme.min.css?ver=1.4.21' type='text/css' media='all' />
+<link rel='stylesheet' id='style_login_widget-css'  href='https://keyt.com/wp-content/plugins/miniorange-oauth-oidc-single-sign-on/resources/css/style_login_widget.css?ver=5.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='pojo-a11y-css'  href='https://keyt.com/wp-content/plugins/pojo-accessibility/assets/css/style.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-social-sharing-css'  href='https://keyt.com/wp-content/plugins/wp-social-sharing/static/socialshare.css?ver=1.6' type='text/css' media='all' />
+<script type='text/javascript' src='https://keyt.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://keyt.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='super-speedy-search-js-js-extra'>
+/* <![CDATA[ */
+var sss = {"url":"https:\/\/keyt.com\/wp-admin\/admin-ajax.php","nonce":"b232002598","superspeedysearchurl":"https:\/\/keyt.com\/search\/ssswpi\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://keyt.com/wp-content/plugins/super-speedy-search/includes/../assets/js/super-speedy-search.js?ver=2.06' id='super-speedy-search-js-js'></script>
+<script type='text/javascript' src='//vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js?ver=1.0.3' id='videojs-ie8-js'></script>
+<script type='text/javascript' src='https://www.googletagservices.com/tag/js/gpt.js' id='gpt-js'></script>
+<link rel="https://api.w.org/" href="https://keyt.com/wp-json/" /><link rel="alternate" type="application/json" href="https://keyt.com/wp-json/wp/v2/posts/90183" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://keyt.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://keyt.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.9.3" />
+<link rel='shortlink' href='https://keyt.com/?p=90183' />
+<link rel="alternate" type="application/json+oembed" href="https://keyt.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkeyt.com%2Fnews%2F2017%2F06%2F26%2Fdowned-power-lines-to-blame-for-cuyama-fire%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://keyt.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkeyt.com%2Fnews%2F2017%2F06%2F26%2Fdowned-power-lines-to-blame-for-cuyama-fire%2F&#038;format=xml" />
+<script> var awd_admin_ajax_url = 'https://keyt.com/wp-admin/admin-ajax.php'; </script>
+<!-- This site is embedding HLS video using Video.js HLS Plugin v1.0.3 - https://www.socialite-media.com/videojs-hls-player-for-wordpress -->
+
+<meta property="og:image" content="https://keyt.b-cdn.net/2022/01/54270-KEYT-Logo-Tri_Logo_Jan2022-80.png">
+                <meta property="og:image:secure_url" content="https://keyt.b-cdn.net/2022/01/54270-KEYT-Logo-Tri_Logo_Jan2022-80.png">
+                <meta property="og:image:width" content="170">
+                <meta property="og:image:height" content="80"><style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style type="text/css">
+#pojo-a11y-toolbar .pojo-a11y-toolbar-toggle a{ background-color: #4054b2;	color: #ffffff;}
+#pojo-a11y-toolbar .pojo-a11y-toolbar-overlay, #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items.pojo-a11y-links{ border-color: #4054b2;}
+body.pojo-a11y-focusable a:focus{ outline-style: solid !important;	outline-width: 1px !important;	outline-color: #FF0000 !important;}
+#pojo-a11y-toolbar{ top: 100px !important;}
+#pojo-a11y-toolbar .pojo-a11y-toolbar-overlay{ background-color: #ffffff;}
+#pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items li.pojo-a11y-toolbar-item a, #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay p.pojo-a11y-toolbar-title{ color: #333333;}
+#pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items li.pojo-a11y-toolbar-item a.active{ background-color: #4054b2;	color: #ffffff;}
+@media (max-width: 767px) { #pojo-a11y-toolbar { top: 50px !important; } }</style><link rel="icon" href="https://keyt.b-cdn.net/2022/05/cropped-54270-Author-Generic-96x96.jpg" sizes="32x32" />
+<link rel="icon" href="https://keyt.b-cdn.net/2022/05/cropped-54270-Author-Generic-350x350.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://keyt.b-cdn.net/2022/05/cropped-54270-Author-Generic-350x350.jpg" />
+<meta name="msapplication-TileImage" content="https://keyt.b-cdn.net/2022/05/cropped-54270-Author-Generic-350x350.jpg" />
+		<style type="text/css" id="wp-custom-css">
+			body {
+    font-family: Verdana !important;
+}
+
+
+@media screen and (max-width: 480px)
+{
+#pojo-a11y-toolbar {
+    position: absolute;
+}
+}
+
+@media (min-width: 992px) {
+
+.related-posts .col-lg-6 {
+    flex: 0 0 25% !important;
+    max-width: 25% !important;
+	}
+}
+
+.related-posts .story__title a {
+    font-size: 16px;
+    font-weight: bold;
+}
+	
+
+div#code-block-0 {
+    padding: 0px;
+    margin: 0px;
+}
+
+div#variant-1 {
+    padding: 0px;
+    margin: 0px;
+}
+
+figcaption {
+    font-size: 16px;
+    font-style: italic;
+}
+
+#variant-0 #story-columns-2 {
+	
+	min-height:720px;
+}
+
+
+figcaption.photo-credit {
+    font-style: normal;
+}
+
+
+.story__title {
+	hyphens: none !important;	
+}
+
+.sidebar__story .story--md .hdg {
+    font-size: 1rem;
+}
+
+.mediaitem--image {
+	padding-bottom:16px;
+}
+
+.twitter-tweet-rendered {
+margin: 0px auto;
+}
+
+.wp-block-image {
+    text-align:center;
+}
+
+.wp-block-embed__wrapper {
+    text-align: center;
+}
+
+.instagram-media-rendered  {
+margin: 0px auto !important;
+}
+
+div.entry__content > iframe {
+    margin: 0px auto;
+    display: block;
+}
+
+figcaption {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+@media (max-width: 991.98px) {
+img.navbar__logo {
+    width: 70%;
+    height: auto;
+}
+	
+.navbar .navbar__menu-wrapper .navbar__menu li a {
+    font-size: 14px;
+    text-transform: capitalize;
+}
+
+.navbar__menu-wrapper {
+    position: absolute;
+    width: 100%;
+    margin: 0 auto;
+    visibility: hidden;
+    opacity: 100;
+}
+
+.navbar__menu>li {
+    border-top: 0px;
+}
+
+}
+
+figcaption.blocks-gallery-caption {
+    text-align: center;
+    width: 100%;
+}
+
+ul.blocks-gallery-grid {
+    margin: 20px 0px 0px 0px;
+}
+
+@media (min-width: 1200px) {
+.container {
+    max-width: 1200px !important;
+}
+}
+
+.navbar {
+    position: relative;
+    padding: 0px !important;
+}
+
+button.hamburger::after {
+    content: "MENU";
+	  font-size:9px;
+	  font-weight:bold;
+	position:relative;
+	top:16px;
+	left:-25px;
+	width:30px;
+}
+
+.navbar__toggle[data-toggle='off-canvas-menu'] {
+margin-right: -16px;
+}
+
+		</style>
+		<link rel="stylesheet" type="text/css" href="https://htlbid.com/v3/keyt.com/htlbid.css" />
+
+<script async src="https://htlbid.com/v3/keyt.com/htlbid.js" ></script>
+
+
+<script>
+  window.htlbid = window.htlbid || {};
+  htlbid.cmd = htlbid.cmd || [];
+  htlbid.cmd.push(function() {
+    htlbid.layout('universal'); 
+    htlbid.setTargeting("is_home", "no"); 
+    htlbid.setTargeting("wp_category", "news"); 
+    htlbid.setTargeting("category", "news"); 
+    htlbid.setTargeting("post_id", "90183");
+    htlbid.setTargeting("page_type", "article"); 
+    htlbid.setTargeting("is_testing","no");
+
+  });
+</script><!-- Google Tag Manager -->
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":
+            new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
+            "https://www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,"script","dataLayer","GTM-TCF83W6");</script>
+            <!-- End Google Tag Manager --><link rel="manifest" href="/manifest.json">
+
+<!--Nativo-->
+<script type="text/javascript" src="//s.ntv.io/serve/load.js"></script>
+
+<!--Minute.ly-->
+<script src="//apv-launcher.minute.ly/api/launcher/MIN-30440.js" async></script>
+
+<!--BlueConic-->
+    <script src="//cdn.blueconic.net/npgco.js"></script>
+
+<script>
+       if (typeof Storage !== "undefined") {
+  var targetingParamStr = localStorage.getItem("bcDFPTargetingParams");
+
+  if (targetingParamStr) {
+    var targetingParameters = JSON.parse(targetingParamStr);
+
+    // set page-level targeting parameters
+    jQuery.each(targetingParameters, function (index, param) {
+      window.googletag.pubads().setTargeting(param.key, param.value);
+    });
+            googletag.enableServices();
+  }
+}
+    </script>
+<style>
+body {
+    background-color: #fff;
+}
+</style><!-- Global Site Tag (gtag.js) - Google Analytics -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-2335596-1"></script>
+            <script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+
+              gtag('config', 'UA-2335596-1');
+            </script><style type="text/css">.story__category-tag {
+                background-color: #282861;
+                color: #FFFFFF;
+            }.header .navbar .menu-livestream-button a {
+                background-color: #b2b2b2;
+                color: #000000;
+            }
+            .header .navbar .menu-livestream-button.active a {
+                background-color: #CC3927;
+                color: #FFFFFF;
+            }</style><style type="text/css">body { font-family: Verdana; }
+            .hdg { font-family: Verdana; }.header { background-color: #FFFFFF; }
+            .header, .navbar-brand, .navbar__menu a, .header .navbar a { color: #000000; }
+            @media only screen and (min-width: 960px) {
+                .header .dropdown__menu > li { background-color: #FFFFFF; }
+                .header .dropdown__menu > li:hover { background-color: #f5f5f5; }
+                .header .dropdown__menu a { color: #000000; }
+            }
+            .header__utility { background-color: #000000; }
+            .header__utility a { color: #FFFFFF; }
+            .header__search { background-color: #E4E4E4; }
+            .header__search .icon { color: #000000; }
+            .header__search input { color: #000000; }
+            .header__search input::placeholder { color: #999999 }.footer { background-color: #ebebeb; }
+            .footer, .footer__widgets a { color: #000000; }.primary h1, .primary h1 a, .sidebar h1, .sidebar h1 a { color: #000000; }
+            .primary h2, .primary h2 a, .sidebar h2, .sidebar h2 a { color: #000000; }
+            .primary h3, .primary h3 a, .sidebar h3, .sidebar h3 a { color: #000000; }
+            .primary h4, .primary h4 a, .sidebar h4, .sidebar h4 a { color: #000000; }
+            .primary h5, .primary h5 a, .sidebar h5, .sidebar h5 a { color: #000000; }
+            .primary h6, .primary h6 a, .sidebar h6, .sidebar h6 a { color: #000000; }
+            .primary, .sidebar { color: #000000; }.btn.btn-primary { background-color: #777777; }
+            .btn.btn-primary:hover { background-color: #595959; }
+            .btn.btn-primary { color: #FFFFFF; }
+            .btn.btn-secondary { background-color: #777777; }
+            .btn.btn-secondary:hover { background-color: #595959; }
+            .btn.btn-secondary { color: #FFFFFF; }</style></head>
+
+<body class="post-template-default single single-post postid-90183 single-format-standard">
+
+<!-- Google Tag Manager (noscript) -->
+            <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TCF83W6"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <!-- End Google Tag Manager (noscript) -->
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true"
+     style="position: absolute; width: 0; height: 0; overflow: hidden;"
+     version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <symbol id="icon-circle-arrow" viewBox="0 0 40 40">
+          <title>circle-arrow</title>
+          <path fill="#FFF" fill-rule="nonzero" d="M0 20C0 8.953 8.953 0 20 0s20 8.953 20 20-8.953 20-20 20S0 31.047 0 20zm16.526 9.204l12.367-9.402L16.526 10.4v6.392H11.2v6.021h5.326v6.392-.001z"/>
+        </symbol>
+        <symbol id="icon-play" viewBox="0 0 32 32">
+            <title>Play Button</title>
+            <path fill="#fff" fill-rule="nonzero" d="M6 4l20 12-20 12z"/>
+        </symbol>
+        <symbol id="icon-stop" viewBox="0 0 32 32">
+            <title>Stop Button</title>
+            <path fill="#fff" fill-rule="nonzero" d="M4 4h24v24h-24z"/>
+        </symbol>
+    </defs>
+</svg>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true"
+     style="position: absolute; width: 0; height: 0; overflow: hidden;"
+     version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <symbol id="icon-chevron-right" viewBox="0 0 19 28">
+            <title>chevron-right</title>
+            <path d="M17.297 13.703l-11.594 11.594c-0.391 0.391-1.016 0.391-1.406 0l-2.594-2.594c-0.391-0.391-0.391-1.016 0-1.406l8.297-8.297-8.297-8.297c-0.391-0.391-0.391-1.016 0-1.406l2.594-2.594c0.391-0.391 1.016-0.391 1.406 0l11.594 11.594c0.391 0.391 0.391 1.016 0 1.406z"></path>
+        </symbol>
+        <symbol id="icon-chevron-left" viewBox="0 0 21 28">
+            <title>chevron-left</title>
+            <path d="M18.297 4.703l-8.297 8.297 8.297 8.297c0.391 0.391 0.391 1.016 0 1.406l-2.594 2.594c-0.391 0.391-1.016 0.391-1.406 0l-11.594-11.594c-0.391-0.391-0.391-1.016 0-1.406l11.594-11.594c0.391-0.391 1.016-0.391 1.406 0l2.594 2.594c0.391 0.391 0.391 1.016 0 1.406z"></path>
+        </symbol>
+        <symbol id="icon-chevron-up" viewBox="0 0 20 20">
+            <title>chevron-up</title>
+            <path d="M15.825 12.82c-.104.113-.25.18-.397.18-.145 0-.292-.067-.396-.18l-5.03-5.392L4.95 12.82c-.104.113-.25.18-.397.18-.145 0-.292-.067-.396-.18-.21-.222-.21-.6 0-.846L9.584 6.18C9.688 6.066 9.856 6 10 6c.147 0 .294.044.42.18l5.426 5.794c.21.224.21.602-.02.847z"></path>
+        </symbol>
+        <symbol id="icon-search" viewBox="0 0 32 32">
+            <title>search</title>
+            <path d="M31.008 27.231l-7.58-6.447c-0.784-0.705-1.622-1.029-2.299-0.998 1.789-2.096 2.87-4.815 2.87-7.787 0-6.627-5.373-12-12-12s-12 5.373-12 12 5.373 12 12 12c2.972 0 5.691-1.081 7.787-2.87-0.031 0.677 0.293 1.515 0.998 2.299l6.447 7.58c1.104 1.226 2.907 1.33 4.007 0.23s0.997-2.903-0.23-4.007zM12 20c-4.418 0-8-3.582-8-8s3.582-8 8-8 8 3.582 8 8-3.582 8-8 8z"></path>
+        </symbol>
+        <symbol id="icon-warning" viewBox="0 0 12 10">
+            <title>warning</title>
+            <path fill="#FFF" fill-rule="nonzero"
+                  d="M11.912 9.328L6.378.227A.455.455 0 0 0 6 0a.448.448 0 0 0-.377.227L.089 9.328c-.075.13-.129.339-.051.466.078.128.22.206.375.206h11.172a.437.437 0 0 0 .375-.206c.08-.127.027-.338-.048-.466zM6.857 8.75H5.143V7.5h1.714v1.25zm0-2.083H5.143v-3.75h1.714v3.75z"/>
+        </symbol>
+        <symbol id="icon-chevron-left-skinny" viewBox="0 0 24 24">
+            <title>chevron-left-skinny</title>
+            <path d="M15.707 17.293l-5.293-5.293 5.293-5.293c0.391-0.391 0.391-1.024 0-1.414s-1.024-0.391-1.414 0l-6 6c-0.391 0.391-0.391 1.024 0 1.414l6 6c0.391 0.391 1.024 0.391 1.414 0s0.391-1.024 0-1.414z"></path>
+        </symbol>
+        <symbol id="icon-chevron-right-skinny" viewBox="0 0 24 24">
+            <title>chevron-right-skinny</title>
+            <path d="M9.707 18.707l6-6c0.391-0.391 0.391-1.024 0-1.414l-6-6c-0.391-0.391-1.024-0.391-1.414 0s-0.391 1.024 0 1.414l5.293 5.293-5.293 5.293c-0.391 0.391-0.391 1.024 0 1.414s1.024 0.391 1.414 0z"></path>
+        </symbol>
+        <symbol id="icon-x" viewBox="0 0 24 24">
+            <title>x</title>
+            <path d="M5.293 6.707l5.293 5.293-5.293 5.293c-0.391 0.391-0.391 1.024 0 1.414s1.024 0.391 1.414 0l5.293-5.293 5.293 5.293c0.391 0.391 1.024 0.391 1.414 0s0.391-1.024 0-1.414l-5.293-5.293 5.293-5.293c0.391-0.391 0.391-1.024 0-1.414s-1.024-0.391-1.414 0l-5.293 5.293-5.293-5.293c-0.391-0.391-1.024-0.391-1.414 0s-0.391 1.024 0 1.414z"></path>
+        </symbol>
+        <symbol id="icon-clock" viewBox="0 0 32 32">
+            <title>clock</title>
+            <path d="M17.44 16.32v1.76h-8.64v-1.76h6.88v-10.56h1.76v10.56zM16 32c-8.837 0-16-7.163-16-16s7.163-16 16-16c8.837 0 16 7.163 16 16s-7.163 16-16 16zM16 28.8c7.069 0 12.8-5.731 12.8-12.8s-5.731-12.8-12.8-12.8c-7.069 0-12.8 5.731-12.8 12.8s5.731 12.8 12.8 12.8z"></path>
+        </symbol>
+        <symbol id="icon-calendar" viewBox="0 0 32 32">
+            <title>calendar</title>
+            <path d="M18.982 7.19v-5.958c0-0.68 0.548-1.232 1.225-1.232h3.674c0.676 0 1.225 0.552 1.225 1.232v3.388h5.455c0.707 0 1.28 0.573 1.28 1.28v24.255c0 1.019-0.822 1.845-1.837 1.845h-28.166c-1.014 0-1.837-0.826-1.837-1.845v-24.255c0-0.707 0.573-1.28 1.28-1.28h5.455v1.285-4.673c0-0.68 0.548-1.232 1.225-1.232h3.674c0.676 0 1.225 0.552 1.225 1.232v3.388h6.123v2.57zM12.32 30.77v-5.090h-5.12v5.090h5.12zM13.28 30.77h5.28v-5.090h-5.28v5.090zM19.52 30.77h5.12v-5.090h-5.12v5.090zM25.6 30.77h4.403c0.338 0 0.612-0.275 0.612-0.615v-4.475h-5.015v5.090zM30.615 24.72v-5.28h-5.015v5.28h5.015zM30.615 18.48v-4.93h-5.015v4.93h5.015zM24.64 13.55h-5.12v4.93h5.12v-4.93zM18.56 13.55h-5.28v4.93h5.28v-4.93zM12.32 13.55h-5.12v4.93h5.12v-4.93zM6.24 13.55h-5.015v4.93h5.015v-4.93zM1.225 19.44v5.28h5.015v-5.28h-5.015zM1.225 25.68v4.475c0 0.34 0.274 0.615 0.612 0.615h4.403v-5.090h-5.015zM7.2 24.72h5.12v-5.28h-5.12v5.28zM24.64 19.44h-5.12v5.28h5.12v-5.28zM18.56 19.44h-5.28v5.28h5.28v-5.28zM8.113 1.386v6.468h3.368v-6.468h-3.368zM20.359 1.386v6.468h3.368v-6.468h-3.368z"></path>
+        </symbol>
+        <symbol id="icon-play-button" viewBox="0 0 32 32">
+            <title>play-button</title>
+            <path d="M16 32c-8.837 0-16-7.163-16-16s7.163-16 16-16c8.837 0 16 7.163 16 16s-7.163 16-16 16zM22.88 16l-11.2-7.040v14.080l11.2-7.040z"></path>
+        </symbol>
+        <symbol id="icon-cancel-circle" viewBox="0 0 32 32">
+            <title>cancel-circle</title>
+            <path d="M16 0c-8.837 0-16 7.163-16 16s7.163 16 16 16 16-7.163 16-16-7.163-16-16-16zM16 29c-7.18 0-13-5.82-13-13s5.82-13 13-13 13 5.82 13 13-5.82 13-13 13z"></path>
+            <path d="M21 8l-5 5-5-5-3 3 5 5-5 5 3 3 5-5 5 5 3-3-5-5 5-5z"></path>
+        </symbol>
+        <symbol id="icon-user" viewBox="0 0 32 32">
+            <title>user</title>
+            <path d="M18 22.082v-1.649c2.203-1.241 4-4.337 4-7.432 0-4.971 0-9-6-9s-6 4.029-6 9c0 3.096 1.797 6.191 4 7.432v1.649c-6.784 0.555-12 3.888-12 7.918h28c0-4.030-5.216-7.364-12-7.918z"></path>
+        </symbol>
+    </defs>
+</svg>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;"
+     version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <symbol id="icon-twitter" viewBox="0 0 26 28">
+            <title>twitter</title>
+            <path d="M25.312 6.375c-0.688 1-1.547 1.891-2.531 2.609 0.016 0.219 0.016 0.438 0.016 0.656 0 6.672-5.078 14.359-14.359 14.359-2.859 0-5.516-0.828-7.75-2.266 0.406 0.047 0.797 0.063 1.219 0.063 2.359 0 4.531-0.797 6.266-2.156-2.219-0.047-4.078-1.5-4.719-3.5 0.313 0.047 0.625 0.078 0.953 0.078 0.453 0 0.906-0.063 1.328-0.172-2.312-0.469-4.047-2.5-4.047-4.953v-0.063c0.672 0.375 1.453 0.609 2.281 0.641-1.359-0.906-2.25-2.453-2.25-4.203 0-0.938 0.25-1.797 0.688-2.547 2.484 3.062 6.219 5.063 10.406 5.281-0.078-0.375-0.125-0.766-0.125-1.156 0-2.781 2.25-5.047 5.047-5.047 1.453 0 2.766 0.609 3.687 1.594 1.141-0.219 2.234-0.641 3.203-1.219-0.375 1.172-1.172 2.156-2.219 2.781 1.016-0.109 2-0.391 2.906-0.781z"></path>
+        </symbol>
+        <symbol id="icon-facebook" viewBox="0 0 16 28">
+            <title>facebook</title>
+            <path d="M14.984 0.187v4.125h-2.453c-1.922 0-2.281 0.922-2.281 2.25v2.953h4.578l-0.609 4.625h-3.969v11.859h-4.781v-11.859h-3.984v-4.625h3.984v-3.406c0-3.953 2.422-6.109 5.953-6.109 1.687 0 3.141 0.125 3.563 0.187z"></path>
+        </symbol>
+        <symbol id="icon-youtube" viewBox="0 0 28 28">
+            <title>youtube</title>
+            <path d="M11.109 17.625l7.562-3.906-7.562-3.953v7.859zM14 4.156c5.891 0 9.797 0.281 9.797 0.281 0.547 0.063 1.75 0.063 2.812 1.188 0 0 0.859 0.844 1.109 2.781 0.297 2.266 0.281 4.531 0.281 4.531v2.125s0.016 2.266-0.281 4.531c-0.25 1.922-1.109 2.781-1.109 2.781-1.062 1.109-2.266 1.109-2.812 1.172 0 0-3.906 0.297-9.797 0.297v0c-7.281-0.063-9.516-0.281-9.516-0.281-0.625-0.109-2.031-0.078-3.094-1.188 0 0-0.859-0.859-1.109-2.781-0.297-2.266-0.281-4.531-0.281-4.531v-2.125s-0.016-2.266 0.281-4.531c0.25-1.937 1.109-2.781 1.109-2.781 1.062-1.125 2.266-1.125 2.812-1.188 0 0 3.906-0.281 9.797-0.281v0z"></path>
+        </symbol>
+        <symbol id="icon-instagram" viewBox="0 0 24 28">
+            <title>instagram</title>
+            <path d="M16 14c0-2.203-1.797-4-4-4s-4 1.797-4 4 1.797 4 4 4 4-1.797 4-4zM18.156 14c0 3.406-2.75 6.156-6.156 6.156s-6.156-2.75-6.156-6.156 2.75-6.156 6.156-6.156 6.156 2.75 6.156 6.156zM19.844 7.594c0 0.797-0.641 1.437-1.437 1.437s-1.437-0.641-1.437-1.437 0.641-1.437 1.437-1.437 1.437 0.641 1.437 1.437zM12 4.156c-1.75 0-5.5-0.141-7.078 0.484-0.547 0.219-0.953 0.484-1.375 0.906s-0.688 0.828-0.906 1.375c-0.625 1.578-0.484 5.328-0.484 7.078s-0.141 5.5 0.484 7.078c0.219 0.547 0.484 0.953 0.906 1.375s0.828 0.688 1.375 0.906c1.578 0.625 5.328 0.484 7.078 0.484s5.5 0.141 7.078-0.484c0.547-0.219 0.953-0.484 1.375-0.906s0.688-0.828 0.906-1.375c0.625-1.578 0.484-5.328 0.484-7.078s0.141-5.5-0.484-7.078c-0.219-0.547-0.484-0.953-0.906-1.375s-0.828-0.688-1.375-0.906c-1.578-0.625-5.328-0.484-7.078-0.484zM24 14c0 1.656 0.016 3.297-0.078 4.953-0.094 1.922-0.531 3.625-1.937 5.031s-3.109 1.844-5.031 1.937c-1.656 0.094-3.297 0.078-4.953 0.078s-3.297 0.016-4.953-0.078c-1.922-0.094-3.625-0.531-5.031-1.937s-1.844-3.109-1.937-5.031c-0.094-1.656-0.078-3.297-0.078-4.953s-0.016-3.297 0.078-4.953c0.094-1.922 0.531-3.625 1.937-5.031s3.109-1.844 5.031-1.937c1.656-0.094 3.297-0.078 4.953-0.078s3.297-0.016 4.953 0.078c1.922 0.094 3.625 0.531 5.031 1.937s1.844 3.109 1.937 5.031c0.094 1.656 0.078 3.297 0.078 4.953z"></path>
+        </symbol>
+        <symbol id="icon-email" viewBox="0 0 28 28">
+            <title>email</title>
+            <path d="M28 11.094v12.406c0 1.375-1.125 2.5-2.5 2.5h-23c-1.375 0-2.5-1.125-2.5-2.5v-12.406c0.469 0.516 1 0.969 1.578 1.359 2.594 1.766 5.219 3.531 7.766 5.391 1.313 0.969 2.938 2.156 4.641 2.156h0.031c1.703 0 3.328-1.188 4.641-2.156 2.547-1.844 5.172-3.625 7.781-5.391 0.562-0.391 1.094-0.844 1.563-1.359zM28 6.5c0 1.75-1.297 3.328-2.672 4.281-2.438 1.687-4.891 3.375-7.313 5.078-1.016 0.703-2.734 2.141-4 2.141h-0.031c-1.266 0-2.984-1.437-4-2.141-2.422-1.703-4.875-3.391-7.297-5.078-1.109-0.75-2.688-2.516-2.688-3.938 0-1.531 0.828-2.844 2.5-2.844h23c1.359 0 2.5 1.125 2.5 2.5z"></path>
+        </symbol>
+        <symbol id="icon-linkedin" viewBox="0 0 382 382">
+            <title>linkedin</title>
+            <path d="M347.445 0H34.555C15.471 0 0 15.471 0 34.555v312.889C0 366.529 15.471 382 34.555 382h312.889C366.529 382 382 366.529 382 347.444V34.555C382 15.471 366.529 0 347.445 0zM118.207 329.844c0 5.554-4.502 10.056-10.056 10.056H65.345c-5.554 0-10.056-4.502-10.056-10.056V150.403c0-5.554 4.502-10.056 10.056-10.056h42.806c5.554 0 10.056 4.502 10.056 10.056v179.441zM86.748 123.432c-22.459 0-40.666-18.207-40.666-40.666S64.289 42.1 86.748 42.1s40.666 18.207 40.666 40.666-18.206 40.666-40.666 40.666zM341.91 330.654a9.247 9.247 0 01-9.246 9.246H286.73a9.247 9.247 0 01-9.246-9.246v-84.168c0-12.556 3.683-55.021-32.813-55.021-28.309 0-34.051 29.066-35.204 42.11v97.079a9.246 9.246 0 01-9.246 9.246h-44.426a9.247 9.247 0 01-9.246-9.246V149.593a9.247 9.247 0 019.246-9.246h44.426a9.247 9.247 0 019.246 9.246v15.655c10.497-15.753 26.097-27.912 59.312-27.912 73.552 0 73.131 68.716 73.131 106.472v86.846z" fill="#0077b7"/>
+        </symbol>
+    </defs>
+</svg>
+
+<div id="secondary-menu" class="navbar-collapse navbar__off-canvas"><ul id="menu-hamburger-menu" class="navbar__menu"><li id="menu-item-806" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-806 nav-item"><a href="https://keyt.com/">Home</a></li>
+<li id="menu-item-805" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-805 nav-item dropdown"><a href="https://keyt.com/news/">News</a><button class="dropdown__submenu-toggle btn btn--default" data-toggle="off-canvas-submenu-dropdown" role="button" aria-haspopup="true" aria-expanded="true"><svg class="icon icon-chevron-up"><use xlink:href="#icon-chevron-up"></use></svg></button>
+<ul role="menu" class="dropdown__menu ">
+	<li id="menu-item-6926" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6926 nav-item"><a href="https://keyt.com/category/news/santa-barbara-s-county/">Santa Barbara &#8211; South County</a></li>
+	<li id="menu-item-6924" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6924 nav-item"><a href="https://keyt.com/category/news/santa-maria-north-county/">Santa Maria &#8211; Lompoc &#8211; North County</a></li>
+	<li id="menu-item-6925" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6925 nav-item"><a href="https://keyt.com/category/news/san-luis-obispo-county/">San Luis Obispo County</a></li>
+	<li id="menu-item-6927" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6927 nav-item"><a href="https://keyt.com/category/news/ventura-county/">Ventura County</a></li>
+	<li id="menu-item-881884" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-881884 nav-item"><a href="https://keyt.com/us-world-news/">U.S. / World News</a></li>
+	<li id="menu-item-6917" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6917 nav-item"><a href="https://keyt.com/news/crime-and-safety/">Crime and Safety</a></li>
+	<li id="menu-item-11570" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11570 nav-item"><a href="https://keyt.com/news/newschannel3-investigates/">News Channel 3 Investigates</a></li>
+	<li id="menu-item-8659" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8659 nav-item"><a href="https://keyt.com/category/news/fire/">Fires</a></li>
+</ul>
+</li>
+<li id="menu-item-804" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-804 nav-item dropdown"><a href="https://keyt.com/weather/">Weather</a><button class="dropdown__submenu-toggle btn btn--default" data-toggle="off-canvas-submenu-dropdown" role="button" aria-haspopup="true" aria-expanded="true"><svg class="icon icon-chevron-up"><use xlink:href="#icon-chevron-up"></use></svg></button>
+<ul role="menu" class="dropdown__menu ">
+	<li id="menu-item-8695" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8695 nav-item"><a href="https://keyt.com/weather/local-forecast/">Local Forecast</a></li>
+	<li id="menu-item-8694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8694 nav-item"><a href="https://keyt.com/weather/interactive-radar/">Interactive Radar</a></li>
+	<li id="menu-item-7606" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7606 nav-item"><a href="https://keyt.com/skycam-network/">SkyCam Network</a></li>
+</ul>
+</li>
+<li id="menu-item-802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-802 nav-item dropdown"><a href="https://keyt.com/traffic/">Traffic</a><button class="dropdown__submenu-toggle btn btn--default" data-toggle="off-canvas-submenu-dropdown" role="button" aria-haspopup="true" aria-expanded="true"><svg class="icon icon-chevron-up"><use xlink:href="#icon-chevron-up"></use></svg></button>
+<ul role="menu" class="dropdown__menu ">
+	<li id="menu-item-10615" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10615 nav-item"><a href="https://keyt.com/gas-prices/">Gas Prices</a></li>
+</ul>
+</li>
+<li id="menu-item-879131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-879131 nav-item"><a href="https://keyt.com/sbiff/">SBIFF</a></li>
+<li id="menu-item-9191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9191 nav-item"><a href="https://keyt.com/politics/">Politics</a></li>
+<li id="menu-item-12313" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12313 nav-item dropdown"><a href="https://keyt.com/sports/">Sports</a><button class="dropdown__submenu-toggle btn btn--default" data-toggle="off-canvas-submenu-dropdown" role="button" aria-haspopup="true" aria-expanded="true"><svg class="icon icon-chevron-up"><use xlink:href="#icon-chevron-up"></use></svg></button>
+<ul role="menu" class="dropdown__menu ">
+	<li id="menu-item-8715" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8715 nav-item"><a href="https://keyt.com/category/sports/high-school-sports/">High School Sports</a></li>
+	<li id="menu-item-8714" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8714 nav-item"><a href="https://keyt.com/category/sports/college-sports/">College Sports</a></li>
+	<li id="menu-item-8716" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8716 nav-item"><a href="https://keyt.com/category/sports/local-sports/">More Sports</a></li>
+	<li id="menu-item-8897" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8897 nav-item"><a href="https://keyt.com/friday-football-focus/">Friday Football Focus</a></li>
+</ul>
+</li>
+<li id="menu-item-10601" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10601 nav-item dropdown"><a href="https://keyt.com/videos-galleries/">Newscasts &#038; Livestream</a><button class="dropdown__submenu-toggle btn btn--default" data-toggle="off-canvas-submenu-dropdown" role="button" aria-haspopup="true" aria-expanded="true"><svg class="icon icon-chevron-up"><use xlink:href="#icon-chevron-up"></use></svg></button>
+<ul role="menu" class="dropdown__menu ">
+	<li id="menu-item-10603" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10603 nav-item"><a href="https://keyt.com/livestream/">News Channel 3-12 Livestream</a></li>
+	<li id="menu-item-10600" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10600 nav-item"><a href="https://keyt.com/livestream-2/">Livestream Special Coverage</a></li>
+	<li id="menu-item-17273" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17273 nav-item"><a href="https://keyt.com/category/news/morning-news-guest-segments/">Morning News Guest Segments</a></li>
+	<li id="menu-item-627761" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-627761 nav-item"><a href="https://keyt.com/skycam-network/">SkyCam Network</a></li>
+</ul>
+</li>
+<li id="menu-item-10541" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10541 nav-item dropdown"><a href="https://keyt.com/play/">Contests</a><button class="dropdown__submenu-toggle btn btn--default" data-toggle="off-canvas-submenu-dropdown" role="button" aria-haspopup="true" aria-expanded="true"><svg class="icon icon-chevron-up"><use xlink:href="#icon-chevron-up"></use></svg></button>
+<ul role="menu" class="dropdown__menu ">
+	<li id="menu-item-10539" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10539 nav-item"><a href="https://keyt.com/category/lifestyle/entertainment/">Entertainment</a></li>
+	<li id="menu-item-10540" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10540 nav-item"><a href="https://keyt.com/category/lifestyle/travel/">Travel</a></li>
+</ul>
+</li>
+<li id="menu-item-801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-801 nav-item dropdown"><a href="https://keyt.com/life/">Life</a><button class="dropdown__submenu-toggle btn btn--default" data-toggle="off-canvas-submenu-dropdown" role="button" aria-haspopup="true" aria-expanded="true"><svg class="icon icon-chevron-up"><use xlink:href="#icon-chevron-up"></use></svg></button>
+<ul role="menu" class="dropdown__menu ">
+	<li id="menu-item-500942" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-500942 nav-item"><a href="https://jobs.keyt.com">805 Careers</a></li>
+	<li id="menu-item-229172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-229172 nav-item"><a href="https://keyt.com/house-home/">House &#038; Home</a></li>
+	<li id="menu-item-229173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-229173 nav-item"><a href="https://keyt.com/business-matters/">Business Matters</a></li>
+	<li id="menu-item-11572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11572 nav-item"><a href="https://keyt.com/latino/">Latino</a></li>
+	<li id="menu-item-643223" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-643223 nav-item"><a href="https://donate.slofoodbank.org/campaign/turkey-drive-2022/c430992">Holiday Turkey Drive</a></li>
+	<li id="menu-item-225677" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-225677 nav-item"><a href="https://keyt.com/your-money/">Your Money</a></li>
+	<li id="menu-item-10535" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10535 nav-item"><a href="https://keyt.com/category/lifestyle/community/">Community</a></li>
+	<li id="menu-item-10586" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10586 nav-item"><a href="https://events.keyt.com">Events Calendar</a></li>
+	<li id="menu-item-10590" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10590 nav-item"><a href="https://keyt.com/category/health/">Health</a></li>
+	<li id="menu-item-10588" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10588 nav-item"><a href="https://keyt.com/category/lifestyle/technology/">Technology</a></li>
+	<li id="menu-item-625503" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-625503 nav-item"><a href="https://keyt.com/category/lifestyle/whats-right/">What&#8217;s Right</a></li>
+</ul>
+</li>
+<li id="menu-item-800" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-800 nav-item dropdown"><a href="https://keyt.com/shop/">Shop</a><button class="dropdown__submenu-toggle btn btn--default" data-toggle="off-canvas-submenu-dropdown" role="button" aria-haspopup="true" aria-expanded="true"><svg class="icon icon-chevron-up"><use xlink:href="#icon-chevron-up"></use></svg></button>
+<ul role="menu" class="dropdown__menu ">
+	<li id="menu-item-184217" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-184217 nav-item"><a href="https://805locallinks.com">805LocalLinks</a></li>
+	<li id="menu-item-10536" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10536 nav-item"><a href="https://kcoy.tvdealclub.com/">Central Coast Deals</a></li>
+	<li id="menu-item-10537" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10537 nav-item"><a href="https://keyt-hc-health-connections.npgdigitalservices.com/">Health Connections</a></li>
+	<li id="menu-item-10538" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10538 nav-item"><a href="https://keyt-805-professionals.npgdigitalservices.com/">805 Professionals</a></li>
+</ul>
+</li>
+<li id="menu-item-199523" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-199523 nav-item"><a href="https://keyt.com/safe-at-home/">Safe at Home</a></li>
+<li id="menu-item-798" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-798 nav-item"><a href="https://keyt.com/share/">Share</a></li>
+<li id="menu-item-739437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-739437 nav-item dropdown"><a href="https://keyt.com/jobs/">Jobs</a><button class="dropdown__submenu-toggle btn btn--default" data-toggle="off-canvas-submenu-dropdown" role="button" aria-haspopup="true" aria-expanded="true"><svg class="icon icon-chevron-up"><use xlink:href="#icon-chevron-up"></use></svg></button>
+<ul role="menu" class="dropdown__menu ">
+	<li id="menu-item-730939" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-730939 nav-item"><a href="https://recruiting.adp.com/srccar/public/RTI.home?c=1059541&#038;d=External-Corporate&#038;city=%22Ventura%22,%22Santa%20Barbara%22,%22Santa%20Maria%22,%22San%20Luis%20Obispo%22">Work For Us</a></li>
+	<li id="menu-item-730947" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-730947 nav-item"><a href="https://jobs.keyt.com/">805 Careers</a></li>
+</ul>
+</li>
+<li id="menu-item-212664" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-212664 nav-item dropdown"><a href="https://keyt.com/about-us/contact-us/">About</a><button class="dropdown__submenu-toggle btn btn--default" data-toggle="off-canvas-submenu-dropdown" role="button" aria-haspopup="true" aria-expanded="true"><svg class="icon icon-chevron-up"><use xlink:href="#icon-chevron-up"></use></svg></button>
+<ul role="menu" class="dropdown__menu ">
+	<li id="menu-item-10575" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10575 nav-item"><a href="https://keyt.com/advertise-with-us/">Advertise with Us</a></li>
+	<li id="menu-item-10577" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10577 nav-item"><a href="https://keyt.com/about-us/contact-us/">Contact Us</a></li>
+	<li id="menu-item-14726" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14726 nav-item"><a href="https://keyt.com/about-us/closed-captioning/">Closed Captioning</a></li>
+	<li id="menu-item-14725" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14725 nav-item"><a href="https://keyt.com/about-us/download-our-apps/">Download Our Apps</a></li>
+	<li id="menu-item-14724" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14724 nav-item"><a href="https://keyt.b-cdn.net/2022/08/KEYT-KSBB-CD-and-KKFX-CD-2022-EEO-Program-Report.pdf">EEO Public File Report</a></li>
+	<li id="menu-item-14734" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14734 nav-item"><a href="https://keyt.com/about-us/fcc-public-file/">FCC Public File</a></li>
+	<li id="menu-item-407466" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-407466 nav-item"><a href="https://keyt.com/how-to-find-newschannel-12/">How to find News Channel 12</a></li>
+	<li id="menu-item-194550" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-194550 nav-item"><a href="https://keyt.com/station/2020/04/02/public-file-help/">Public File Help</a></li>
+	<li id="menu-item-14735" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14735 nav-item"><a href="https://keyt.com/careers">Jobs and Internships</a></li>
+	<li id="menu-item-11495" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11495 nav-item"><a href="https://keyt.com/meet-the-team/">Meet the Team</a></li>
+	<li id="menu-item-10584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10584 nav-item"><a href="https://keyt.com/newsletters-alerts/">Newsletters/Alerts</a></li>
+	<li id="menu-item-10583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10583 nav-item"><a href="https://keyt.com/tv-listings/">TV Listings</a></li>
+</ul>
+</li>
+</ul></div>
+<a href="#primary" class="screen-reader-text">Skip to Content</a>
+
+<header id="masthead" class="header header--default" role="banner">
+        <div class="header__wrapper">
+        <div class="container">
+            <nav class="navbar navbar--with-current-conditions">
+                <div class="navbar__wrapper">
+                    <button class="navbar__toggle off-canvas-toggle hamburger hamburger--slider" type="button"
+                            aria-label="Secondary Menu" aria-controls="navigation"
+                            data-toggle="off-canvas-menu">
+                        <span class="hamburger-box">
+                            <span class="hamburger-inner"></span>
+                        </span>
+                    </button>
+                    <a class="navbar__brand" href="https://keyt.com/" title="News Channel 3-12">
+                        <img src="https://keyt.b-cdn.net/2022/01/54270-KEYT-Logo-Tri_Logo_Jan2022-80.png" alt="54270 - KEYT Logo - Tri_Logo_Jan2022 - 80" width="170" height="80" class="navbar__logo">                    </a><img src="https://keyt.b-cdn.net/2021/06/keyt.jpg" width="1" height="1" style="width:1px; height:1px"/>
+                    <button class="navbar__toggle hamburger hamburger--slider" type="button"
+                            aria-label="Menu" aria-controls="navigation"
+                            data-toggle="mobile-menu">
+                        <span class="hamburger-box">
+                            <span class="hamburger-inner"></span>
+                        </span>
+                    </button>
+                    <div id="primary-menu" class="navbar__menu-wrapper"><ul id="menu-main-menu" class="navbar__menu navbar__menu--has-search"><li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36 nav-item"><a href="https://keyt.com/news/">News</a></li>
+<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35 nav-item"><a href="https://keyt.com/weather/">Weather</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33 nav-item"><a href="https://keyt.com/traffic/">Traffic</a></li>
+<li id="menu-item-878802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-878802 nav-item"><a href="https://keyt.com/sports/">Sports</a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32 nav-item"><a href="https://keyt.com/life/">Life</a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31 nav-item"><a href="https://keyt.com/shop/">Shop</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30 nav-item"><a href="https://keyt.com/play/">Play</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29 nav-item"><a href="https://keyt.com/share/">Share</a></li>
+<li class="menu-item menu-livestream-button menu-livestream-button--not-live">
+                <a href="https://keyt.com/livestream/">Watch</a>
+            </li></ul></div>                    
+<div class="current-conditions current-conditions--header">
+    <div class="current-conditions__slides">
+
+                    <a href="https://keyt.com/weather" target="_blank" class="current-conditions__location">
+                <div class="current-conditions__content" data-slide-number="0" data-location-id="ksba">
+                    <div class="current-conditions__condition">
+
+                                                                                <div class="current-conditions__condition-icon">
+                               <img src="https://keyt.com/wp-content/themes/storymate-npg/assets/images/weather-icons/9000_clear_day.png" alt="clear"> 
+                            </div>
+                        
+                    </div>
+                    <div class="current-conditions__title" style="color:#212121">
+                        Santa Barbara                    </div>
+                                            <div class="current-conditions__temperature" style="color:#212121">
+                            58&deg;
+                        </div>
+                                    </div>
+            </a>
+        
+    </div>
+</div>
+
+                    <div class="menu-user-search-wrapper">
+                                                <div class="menu-search">
+                            <a href="#" id="search-btn" class="search__button"><svg class="icon icon-search"><use xlink:href="#icon-search"></use></svg><svg class="icon icon-x"><use xlink:href="#icon-x"></use></svg></a>                        </div>
+                    </div>
+                </div>
+            </nav>
+        </div>
+        <div class="header__search" id="search-form">
+    <div class="container">
+        
+<form role="search" method="get" id="searchform" class="searchform" action="https://keyt.com">
+    <div class="form-group">
+        <div class="searchform__input-group input-group">
+            <input type="text" class="form-control text--weight-bold"
+                   placeholder="Search…"
+                   value="" name="s"
+                   title="Search for:"/>
+            <div class="searchform__submit input-group-btn">
+                <button class="btn btn--search" type="submit">
+                    <svg class="icon icon-search"><use xlink:href="#icon-search"></use></svg>
+                </button>
+            </div>
+        </div>
+    </div>
+</form>    </div>
+</div>
+    </div>
+</header><!-- .header -->
+
+
+    <div class="container">
+        <div class="row">
+            
+<aside id="secondary" class="sidebar col-lg-4" role="complementary">
+    <div id="posts_by_category-12" class="sidebar__widget-item widget_posts_by_category"><h3 class="sidebar__widget-title widget-title hdg hdg--6">Video Forecast</h3><div class="sidebar__story">
+<article class="story story--sm story--card">
+    
+        <a href="https://keyt.com/weather/local-forecast/2023/02/06/conditions-are-clearing-and-drying-out-monday/" class="story__thumb-link">
+            <div class="story__thumb">
+                                <img width="375" height="225" src="https://keyt.b-cdn.net/2023/02/Pismo-Beach-375x225.jpg" class="attachment-story--sm size-story--sm wp-post-image" alt="Pismo Beach Sun" loading="lazy" />            </div>
+        </a>
+
+        
+    <div class="story__content">
+        
+        <header class="story__header">
+            <h3 class="story__title hdg hdg--4">
+                <a href="https://keyt.com/weather/local-forecast/2023/02/06/conditions-are-clearing-and-drying-out-monday/" rel="bookmark">
+                    <svg class="icon icon-play-button"><use xlink:href="#icon-play-button"></use></svg>Conditions are clearing and drying out Monday                </a>
+            </h3>
+
+                    </header>
+
+            </div>
+</article>
+</div></div><div id="ai_widget-4" class="sidebar__widget-item ai_widget"><div class='code-block code-block-5' style='margin: 8px 0; clear: both;'>
+  
+  <div class='htlad-mr_2' data-unit='keyt/weather/local-forecast'></div></div>
+</div><div id="promo_box_widget-2" class="sidebar__widget-item widget_promo_box_widget">
+<article class="story story--story--sm story--card">
+
+    <a href="https://keyt.com/about-us/download-our-apps/" class="story__thumb-link">        <div class="story__thumb">
+            <img src="https://keyt.b-cdn.net/2022/06/DmJhdLrj-Web_APP_GIF.gif" alt="Web_APP_GIF" width="1920" height="1080">        </div>
+    </a>
+            <div class="story__content">
+            <header class="story__header">
+                <h3 class="story__title hdg hdg--4">
+                    <a href="https://keyt.com/about-us/download-our-apps/" class="story__thumb-link">                        Take our mobile apps with you!                    </a>                </h3>
+            </header>
+        </div>
+    
+</article>
+</div><div id="posts_by_category-13" class="sidebar__widget-item widget_posts_by_category"><h3 class="sidebar__widget-title widget-title hdg hdg--6">Top Stories</h3><div class="sidebar__story">
+<article class="story story--sm story--row">
+    
+    <div class="story__content">
+        
+        <header class="story__header">
+            <h3 class="story__title hdg hdg--4">
+                <a href="https://keyt.com/news/santa-barbara-s-county/2023/02/06/trauma-expert-mary-firestone-shares-ways-to-reconnect-with-your-inner-self-this-season-of-love/" rel="bookmark">
+                    <svg class="icon icon-play-button"><use xlink:href="#icon-play-button"></use></svg>Trauma expert Mary Firestone shares ways to reconnect with your inner self this season of love                </a>
+            </h3>
+
+                    </header>
+
+            </div>
+</article>
+</div><div class="sidebar__story">
+<article class="story story--sm story--row">
+    
+        <a href="https://keyt.com/weather/local-forecast/2023/02/06/conditions-are-clearing-and-drying-out-monday/" class="story__thumb-link">
+            <div class="story__thumb">
+                                <img width="375" height="225" src="https://keyt.b-cdn.net/2023/02/Pismo-Beach-375x225.jpg" class="attachment-story--sm size-story--sm wp-post-image" alt="Pismo Beach Sun" loading="lazy" />            </div>
+        </a>
+
+        
+    <div class="story__content">
+        
+        <header class="story__header">
+            <h3 class="story__title hdg hdg--4">
+                <a href="https://keyt.com/weather/local-forecast/2023/02/06/conditions-are-clearing-and-drying-out-monday/" rel="bookmark">
+                    <svg class="icon icon-play-button"><use xlink:href="#icon-play-button"></use></svg>Conditions are clearing and drying out Monday                </a>
+            </h3>
+
+                    </header>
+
+            </div>
+</article>
+</div><div class="sidebar__story">
+<article class="story story--sm story--row">
+    
+        <a href="https://keyt.com/weather/local-forecast/2023/02/05/sunday-evening-forecast-feb-5th/" class="story__thumb-link">
+            <div class="story__thumb">
+                                <img width="375" height="225" src="https://keyt.b-cdn.net/2023/02/pismo-beach-homefinder-header-960x400-1-375x225.jpg" class="attachment-story--sm size-story--sm wp-post-image" alt="Sunny Pismo Beach" loading="lazy" />            </div>
+        </a>
+
+        
+    <div class="story__content">
+        
+        <header class="story__header">
+            <h3 class="story__title hdg hdg--4">
+                <a href="https://keyt.com/weather/local-forecast/2023/02/05/sunday-evening-forecast-feb-5th/" rel="bookmark">
+                    <svg class="icon icon-play-button"><use xlink:href="#icon-play-button"></use></svg>Sunday Evening Forecast Feb 5th                </a>
+            </h3>
+
+                    </header>
+
+            </div>
+</article>
+</div><div class="sidebar__story">
+<article class="story story--sm story--row">
+    
+        <a href="https://keyt.com/news/santa-maria-north-county/2023/02/05/tourists-visit-solvang-for-an-early-valentines-celebration/" class="story__thumb-link">
+            <div class="story__thumb">
+                                <img width="375" height="225" src="https://keyt.b-cdn.net/2023/02/Screen-Shot-2023-02-05-at-8.11.02-PM-375x225.png" class="attachment-story--sm size-story--sm wp-post-image" alt="" loading="lazy" />            </div>
+        </a>
+
+        
+    <div class="story__content">
+        
+        <header class="story__header">
+            <h3 class="story__title hdg hdg--4">
+                <a href="https://keyt.com/news/santa-maria-north-county/2023/02/05/tourists-visit-solvang-for-an-early-valentines-celebration/" rel="bookmark">
+                    <svg class="icon icon-play-button"><use xlink:href="#icon-play-button"></use></svg>Tourists visit Solvang for an early Valentine&#8217;s celebration                </a>
+            </h3>
+
+                    </header>
+
+            </div>
+</article>
+</div><div class="sidebar__story">
+<article class="story story--sm story--row">
+    
+        <a href="https://keyt.com/news/2023/02/05/locals-attend-coffee-with-a-black-guy-in-support-of-black-history-month/" class="story__thumb-link">
+            <div class="story__thumb">
+                                <img width="375" height="225" src="https://keyt.b-cdn.net/2023/02/COFFEE-BROLL.00_00_34_24.Still001-375x225.jpg" class="attachment-story--sm size-story--sm wp-post-image" alt="" loading="lazy" />            </div>
+        </a>
+
+        
+    <div class="story__content">
+        
+        <header class="story__header">
+            <h3 class="story__title hdg hdg--4">
+                <a href="https://keyt.com/news/2023/02/05/locals-attend-coffee-with-a-black-guy-in-support-of-black-history-month/" rel="bookmark">
+                    Locals attend &#8220;Coffee with a Black Guy&#8221; in support of Black History Month                </a>
+            </h3>
+
+                    </header>
+
+            </div>
+</article>
+</div></div><div id="ai_widget-5" class="sidebar__widget-item ai_widget ai-sticky-widget"><div class='code-block code-block-8' style='margin: 8px 0; clear: both;'>
+  
+  <div class='htlad-mr_3' data-unit='keyt/news'></div></div>
+</div></aside><!-- #secondary -->
+            <div id="primary" class="primary col-lg-8">
+                <style>
+	.meta__secondary-categories {
+    padding: 8px 0px;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+
+	element.style {
+    font-size: 12px;
+}
+
+.topictag {
+    display: inline-block;
+    text-transform: capitalize;
+}
+	strong {
+    font-weight: 700;
+	}
+.viafoura img {
+    border: 0;
+    width: 45px;
+    height: 45px;
+    position: relative;
+    top: -6px;
+}
+	.vfauthor {
+    display: inline-block;
+    margin-left: 6px;
+	}
+
+span.vf-comments-count.vf-body-text--deprecated {
+    font-family: 'Roboto';
+    font-weight: bold;
+    padding-right: 10px;
+    font-size: 24px;
+}
+
+.meta__social .viafoura {
+	margin-right:8px;
+	margin-top:5px;
+}
+
+	.meta__social {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.viafoura .vf-button.is-size-medium {
+    padding: 0.2em 0em !important;
+}
+
+.meta__secondary-categories .viafoura {
+    display: inline-block;
+    margin: 0px 15px 10px 5px;
+}
+
+.meta__category .viafoura {
+    display: inline-block;
+}
+
+.viafoura .vf-button.is-size-medium {
+    padding: 0.3em;
+    min-width: 95px;
+    Font-size:11px;
+}
+
+	.cg_container p {
+    margin: 10px 0px;
+}
+	.cg_container {
+    border: 1px solid #e6e6e6;
+    padding: 20px;
+    background-color: #f2f7ff;
+    margin: 12px 0px;
+}
+	@media only screen and (max-width: 600px) {
+
+	.meta__social .viafoura {
+    width: 50%;
+}
+.post .entry__meta .meta__social .ss-social-sharing {
+    width: 100%;
+}
+	}
+</style>
+<article id="post-90183" class="panel-group post-90183 post type-post status-publish format-standard has-post-thumbnail hentry category-news">
+    <div class="meta__category">
+        <a href="https://keyt.com/category/news/"><strong>News</strong></a>
+		<div class="viafoura">
+   <vf-topic-follow topic-id="https://keyt.com/category/news/" topic-name="News" topic-type="topic" show-count="true" minimum-count="0"></vf-topic-follow>
+</div>
+    </div>
+
+    
+    <div class="entry__meta meta">
+        <div class="meta__info">
+            <div class="meta__user vcard author">
+                By <a href="https://keyt.com/author/keytnewsteam/" title="Posts by News Channel 3-12" rel="author">News Channel 3-12</a><div class="viafoura vfauthor">
+   <vf-topic-follow topic-id="" topic-name="" topic-type="author" show-count="true" minimum-count="0"></vf-topic-follow>
+</div>
+            </div>
+            <div class="meta__date">
+                                                <div class="meta__published">
+                    <span>Published</span>
+                    <span>
+                    <a href="https://keyt.com/2017/06/">
+                        <time datetime="2017-06-26">
+                            June 26, 2017                        </time>
+                    </a>
+                </span>
+                    <span>
+                    12:51 am                </span>
+                </div>
+            </div>
+        </div>
+                    <div class="meta__social"><div class="viafoura">
+				<vf-conversations-count vf-container-id="vf-90183"></vf-conversations-count><a href="#vf-conversations-container"><img src="https://ktvz.b-cdn.net/2022/06/comment_icon.png"></a></div>
+                		<div class="social-sharing ss-social-sharing">
+				        <a onclick="return ss_plugin_loadpopup_js(this);" rel="external nofollow" class="ss-button-facebook" href="http://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fkeyt.com%2Fnews%2F2017%2F06%2F26%2Fdowned-power-lines-to-blame-for-cuyama-fire%2F" target="_blank" >Share on Facebook</a><a onclick="return ss_plugin_loadpopup_js(this);" rel="external nofollow" class="ss-button-twitter" href="http://twitter.com/intent/tweet/?text=Downed+power+lines+to+blame+for+Cuyama+fire&url=https%3A%2F%2Fkeyt.com%2Fnews%2F2017%2F06%2F26%2Fdowned-power-lines-to-blame-for-cuyama-fire%2F" target="_blank">Share on Twitter </a><a onclick="return ss_plugin_loadpopup_js(this);" rel="external nofollow" class="ss-button-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fkeyt.com%2Fnews%2F2017%2F06%2F26%2Fdowned-power-lines-to-blame-for-cuyama-fire%2F&title=Downed+power+lines+to+blame+for+Cuyama+fire" target="_blank" >Share on Linkedin</a>	        	    </div>
+	                </div>
+            </div>
+
+    <header class="entry__header">
+        <h1 class="hdg hdg--3">Downed power lines to blame for Cuyama fire</h1>    </header><!-- .entry__header -->
+
+        
+    <div class="entry__content">
+        
+<p><em>[UPDATE]</em></p>
+
+
+<p>The Cebrian Fire burning in New Cuyama was fully contained at 8 p.m. according to Santa Barbara County Fire Capt. Dave Zaniboni,</p><div class='code-block code-block-10' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+  
+  <div class='htlad-in_article_1' data-unit='keyt/news'></div></div>
+
+
+
+<p>The fire burned approximately 260 acres and was caused by downed power lines in the area, according to Zaniboni.</p>
+
+
+<p>No injuries were reported.</p>
+
+
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;</p><div class='code-block code-block-15' style='margin: 8px 0; clear: both;'>
+<div class="viafoura">
+    <vf-content-recirculation
+    title="Trending Articles"
+    limit="5"
+    days-published="7"
+    trend-window="1"
+    sort="comments"
+    vf-container-id="vf-90183"
+  />   
+</div></div>
+<div class='code-block code-block-11' style='margin: 8px 0; clear: both;'>
+  
+  <div class='htlad-in_article_2' data-unit='keyt/news'></div></div>
+
+
+
+<p><em>[ORIGINAL STORY]</em></p>
+
+
+<p>A vegetation fire near New Cuyama burned over 250 acres Sunday afternoon.</p>
+
+
+<p>The &#8216;Cebrian Fire&#8217; was first reported at about 3:20 p.m. near the intersection of Cebrian Avenue and Perkins Road near New Cuyama Airport.</p><div class='code-block code-block-12' style='margin: 8px 0; clear: both;'>
+  
+  <div class='htlad-in_article_3' data-unit='keyt/news'></div></div>
+
+
+
+<p>The fire was burning in an easterly direction toward acres of plowed fields which was encouraging to fire crews.</p>
+
+
+<p>At around 4:45 p.m., fire officials said they hoped to have the fire contained within an hour.</p>
+
+
+<p>The fire received a full response from Santa Barbara County Fire and Los Padres National Forest.</p><div class='code-block code-block-13' style='margin: 8px 0; clear: both;'>
+  
+  <div class='htlad-in_article_4' data-unit='keyt/news'></div></div>
+
+
+
+<p>Two air tankers, one air attack and one helicopter responded.</p>
+
+
+<p>Evacuation warnings were in place for residents south of Cebrian Avenue but there was no immediate threat to those structures.</p>
+
+<div class="social-sharing ss-social-sharing">
+				        <a onclick="return ss_plugin_loadpopup_js(this);" rel="external nofollow" class="ss-button-facebook" href="http://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fkeyt.com%2Fnews%2F2017%2F06%2F26%2Fdowned-power-lines-to-blame-for-cuyama-fire%2F" target="_blank" >Share on Facebook</a><a onclick="return ss_plugin_loadpopup_js(this);" rel="external nofollow" class="ss-button-twitter" href="http://twitter.com/intent/tweet/?text=Downed+power+lines+to+blame+for+Cuyama+fire&url=https%3A%2F%2Fkeyt.com%2Fnews%2F2017%2F06%2F26%2Fdowned-power-lines-to-blame-for-cuyama-fire%2F" target="_blank">Share on Twitter</a><a onclick="return ss_plugin_loadpopup_js(this);" rel="external nofollow" class="ss-button-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fkeyt.com%2Fnews%2F2017%2F06%2F26%2Fdowned-power-lines-to-blame-for-cuyama-fire%2F&title=Downed+power+lines+to+blame+for+Cuyama+fire" target="_blank" >Share on Linkedin</a>	        	    </div>
+<!-- AI CONTENT END 1 -->
+    </div><!-- .entry__content -->
+	<div class="meta__secondary-categories"><span class"atf_title">Article Topic Follows:</span> <a href="https://keyt.com/category/news/">News</a>
+	<div class="viafoura">
+   <vf-topic-follow topic-id="https://keyt.com/category/news/" topic-name="News" topic-type="topic" show-count="true" minimum-count="0"></vf-topic-follow>
+</div>
+	</div>
+
+</article><!-- #post-## -->
+
+<div class="author author--flex author-1 panel-group">
+            <div class="author__image"><img src="https://keyt.b-cdn.net/2022/05/XlWBh8HZ-cropped-54270-Author-Generic-96x96.jpg" height="96" width="96" alt="Author Profile Photo"  /></div>    
+    <div class="author__info">
+        <h3 class="author__name">News Channel 3-12</h3>
+
+                    <div class="author__description">
+                <p>Email the News Channel 3-12 Team</p>
+            </div>
+        
+                    <div class="author__socials socials">
+                <a href="mailto:assignmentdesk@keyt.com"><svg class="icon icon-email"><use xlink:href="#icon-email"></use></svg></a><a href="http://facebook.com/newschannel312"target="_blank" rel="noopener"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a><a href="http://twitter.com/newschannel312"target="_blank" rel="noopener"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a><a href="http://instagram.com/newschannel312"target="_blank" rel="noopener"><svg class="icon icon-instagram"><use xlink:href="#icon-instagram"></use></svg></a><a href="http://youtube.com/newschannel312"target="_blank" rel="noopener"><svg class="icon icon-youtube"><use xlink:href="#icon-youtube"></use></svg></a>            </div>
+            </div>
+</div>
+
+<div class="related-posts panel-group">
+    <div class="panel">
+        <div class="panel__heading">
+            <h2 class="panel__title hdg">Related Articles</h2>
+        </div>
+        <div class="panel__body">
+            <div class="stories row">
+                <div class="col-lg-6">
+<article class="story story--md story--card">
+    
+    <div class="story__content">
+        
+        <header class="story__header">
+            <h3 class="story__title hdg hdg--4">
+                <a href="https://keyt.com/news/santa-barbara-s-county/2023/02/06/trauma-expert-mary-firestone-shares-ways-to-reconnect-with-your-inner-self-this-season-of-love/" rel="bookmark">
+                    <svg class="icon icon-play-button"><use xlink:href="#icon-play-button"></use></svg>Trauma expert Mary Firestone shares ways to reconnect with your inner self this season of love                </a>
+            </h3>
+
+                    </header>
+
+            </div>
+</article>
+</div><div class="col-lg-6">
+<article class="story story--md story--card">
+    
+        <a href="https://keyt.com/news/2023/02/06/britains-nhs-was-once-idolized-now-its-worst-ever-crisis-is-fueling-a-boom-in-private-health-care/" class="story__thumb-link">
+            <div class="story__thumb">
+                                <img width="500" height="321" src="https://keyt.b-cdn.net/2022/07/Business-CNN-500x321.jpg" class="attachment-story--md size-story--md wp-post-image" alt="" />            </div>
+        </a>
+
+        
+    <div class="story__content">
+        
+        <header class="story__header">
+            <h3 class="story__title hdg hdg--4">
+                <a href="https://keyt.com/news/2023/02/06/britains-nhs-was-once-idolized-now-its-worst-ever-crisis-is-fueling-a-boom-in-private-health-care/" rel="bookmark">
+                    <svg class="icon icon-play-button"><use xlink:href="#icon-play-button"></use></svg>Britain&#8217;s NHS was once idolized. Now its worst ever crisis is fueling a boom in private health care                </a>
+            </h3>
+
+                    </header>
+
+            </div>
+</article>
+</div><div class="col-lg-6">
+<article class="story story--md story--card">
+    
+    <div class="story__content">
+        
+        <header class="story__header">
+            <h3 class="story__title hdg hdg--4">
+                <a href="https://keyt.com/news/2023/02/06/webb-telescope-spots-new-colosseum-size-asteroid/" rel="bookmark">
+                    Webb telescope spots new Colosseum-size asteroid                </a>
+            </h3>
+
+                    </header>
+
+            </div>
+</article>
+</div><div class="col-lg-6">
+<article class="story story--md story--card">
+    
+    <div class="story__content">
+        
+        <header class="story__header">
+            <h3 class="story__title hdg hdg--4">
+                <a href="https://keyt.com/news/2023/02/06/judge-rules-to-allow-evidence-of-alex-murdaughs-alleged-financial-crimes-in-double-murder-trial/" rel="bookmark">
+                    <svg class="icon icon-play-button"><use xlink:href="#icon-play-button"></use></svg>Judge rules to allow evidence of Alex Murdaugh&#8217;s alleged financial crimes in double murder trial                </a>
+            </h3>
+
+                    </header>
+
+            </div>
+</article>
+</div>            </div>
+        </div>
+    </div>
+</div>
+<div id="nativo_below_article"></div>
+<div id="minutely_below_article"></div>
+<div id="rc-widget-da1e6e" data-rc-widget data-widget-host="habitat" data-endpoint="//trends.revcontent.com" data-widget-id="249699"></div>
+<script type="text/javascript" src="https://assets.revcontent.com/master/delivery.js" defer="defer"></script>
+<a name="vf-conversations-container"></a>
+<div class="cg_container">
+<strong>BE PART OF THE CONVERSATION</strong>
+<p>News Channel 3-12 is committed to providing a forum for civil and constructive conversation.</p>
+<p>Please keep your comments respectful and relevant. You can review our Community Guidelines by <a href="https://keyt.com/station/2022/07/14/community-guidelines/" target="_blank">clicking here </a></p>
+<p>If you would like to share a story idea, please submit it <a href="/share" target="_blank">here</a>.</p></div>
+<div class="viafoura">
+<vf-conversations vf-container-id="vf-90183"></vf-conversations>
+	</div>
+<div class="viafoura"><vf-tray-trigger floating="true"></vf-tray-trigger></div>
+            </div><!-- /#primary -->
+        </div>
+    </div>
+
+
+<footer class="footer panel-group" role="contentinfo">
+    <div class="container">
+                    <aside class="row footer__widgets footer__widgets--4" role="complementary">
+                <div id="media_image-2" class="footer__widget-item widget_media_image"><a href="https://www.keyt.com"><img width="170" height="80" src="https://keyt.b-cdn.net/2022/01/FQF3uuRY-Tri_Logo_Nov2020-80.png" class="image wp-image-389184  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" /></a></div><div id="text-2" class="footer__widget-item widget_text">			<div class="textwidget"><p><a href="/terms-of-service/">Terms of Service</a></p>
+<p><a href="/privacy-policy/">Privacy Policy</a></p>
+<p><a href="https://keyt.com/station/2022/07/14/community-guidelines/">Community Guidelines</a></p>
+<p><a href="/about-us/fcc-public-file/">FCC Public File</a></p>
+<p><a href="https://keyt.b-cdn.net/2022/08/KEYT-KSBB-CD-and-KKFX-CD-2022-EEO-Program-Report.pdf">EEO Public File Report</a></p>
+<p><a href="/fcc-applications">FCC Applications</a></p>
+<p><a href="http://donotsell.npg.digital/">Do Not Sell My Personal Information</a></p>
+</div>
+		</div><div id="text-3" class="footer__widget-item widget_text"><h3 class="footer__widget-title hdg hdg--6">Subscribe to our Email Lists</h3>			<div class="textwidget"><p><a href="https://keyt.com/newsletters-alerts/">Daily News Update<br />
+Weather Forecast<br />
+Breaking News<br />
+Severe Weather<br />
+Contests &amp; Promotions</a></p>
+</div>
+		</div><div id="custom_html-9" class="widget_text footer__widget-item widget_custom_html"><h3 class="footer__widget-title hdg hdg--6">Download Our Apps</h3><div class="textwidget custom-html-widget"><div align="center">
+	Available for iOS and Android <br>
+<a href="/about-us/download-our-apps/"><img src="https://keyt.b-cdn.net/2022/06/Splash_NewsChannel.png" width="80" alt="KEYT News App">
+&#160; &#160; 
+<img src="https://keyt.b-cdn.net/2022/06/Wx_App_512x512.png" width="80" alt="KEYT Weather App">
+</a>
+</div></div></div>            </aside><!-- #secondary -->
+        
+        <div class="footer__socials socials">
+                    </div>
+
+        <div class="footer__copyright">
+            © 2023, NPG of California, LLC        </div>
+    </div>
+</footer>
+
+
+
+
+			<script>
+				function convert_to_url(obj) {
+					return Object
+					.keys(obj)
+					.map(k => `${encodeURIComponent(k)}=${encodeURIComponent(obj[k])}`)
+					.join('&');
+				}
+
+				function pass_to_backend() {
+					if(window.location.hash) {
+						var hash = window.location.hash;
+						var elements = {};
+						hash.split("#")[1].split("&").forEach(element => {
+							var vars = element.split("=");
+							elements[vars[0]] = vars[1];
+						});
+						if(("access_token" in elements) || ("id_token" in elements) || ("token" in elements)) {
+							if(window.location.href.indexOf("?") !== -1) {
+								window.location = (window.location.href.split("?")[0] + window.location.hash).split('#')[0] + "?" + convert_to_url(elements);
+							} else {
+								window.location = window.location.href.split('#')[0] + "?" + convert_to_url(elements);
+							}
+						}
+					}
+				}
+
+				pass_to_backend();
+			</script>
+
+		<script type='text/javascript' src='//vjs.zencdn.net/7.15.4/video.js?ver=1.0.3' id='videojs-js'></script>
+<script type='text/javascript' src='https://keyt.com/wp-content/plugins/videojs-hls-player/videojs-hls-player.js?ver=1.0.3' id='videojs-custom-js'></script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment-with-locales.min.js?ver=2.24.0' id='momentjs-js'></script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.26/moment-timezone-with-data.min.js?ver=0.5.26' id='moment-timezone-js'></script>
+<script type='text/javascript' src='https://keyt.com/wp-includes/js/underscore.min.js?ver=1.13.1' id='underscore-js'></script>
+<script type='text/javascript' src='https://keyt.com/wp-includes/js/backbone.min.js?ver=1.4.0' id='backbone-js'></script>
+<script type='text/javascript' id='wp-api-request-js-extra'>
+/* <![CDATA[ */
+var wpApiSettings = {"root":"https:\/\/keyt.com\/wp-json\/","nonce":"b158852d1f","versionString":"wp\/v2\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://keyt.com/wp-includes/js/api-request.min.js?ver=5.9.3' id='wp-api-request-js'></script>
+<script type='text/javascript' src='https://keyt.com/wp-includes/js/wp-api.min.js?ver=5.9.3' id='wp-api-js'></script>
+<script type='text/javascript' src='https://keyt.com/wp-content/themes/storymate-npg/build/js/theme.min.js?ver=1.4.21' id='npg-theme-js'></script>
+<script type='text/javascript' src='https://keyt.com/wp-content/themes/storymate-theme/build/js/vendor.min.js?ver=1.4.21' id='ad-vendors-js'></script>
+<script type='text/javascript' src='https://keyt.com/wp-content/themes/storymate-theme/build/js/theme.min.js?ver=1.4.21' id='ad-theme-js'></script>
+<script type='text/javascript' src='https://keyt.com/wp-includes/js/comment-reply.min.js?ver=5.9.3' id='comment-reply-js'></script>
+<script type='text/javascript' id='pojo-a11y-js-extra'>
+/* <![CDATA[ */
+var PojoA11yOptions = {"focusable":"","remove_link_target":"","add_role_links":"","enable_save":"","save_expiration":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://keyt.com/wp-content/plugins/pojo-accessibility/assets/js/app.min.js?ver=1.0.0' id='pojo-a11y-js'></script>
+<script type='text/javascript' src='https://keyt.com/wp-content/plugins/wp-social-sharing/static/socialshare.js?ver=1.6' id='wp-social-sharing-js'></script>
+		<a id="pojo-a11y-skip-content" class="pojo-skip-link pojo-skip-content" tabindex="1" accesskey="s" href="#content">Skip to content</a>
+				<nav id="pojo-a11y-toolbar" class="pojo-a11y-toolbar-right pojo-a11y-" role="navigation">
+			<div class="pojo-a11y-toolbar-toggle">
+				<a class="pojo-a11y-toolbar-link pojo-a11y-toolbar-toggle-link" href="javascript:void(0);" title="Accessibility Tools">
+					<span class="pojo-sr-only sr-only">Open toolbar</span>
+					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="currentColor" width="1em">
+						<g><path d="M60.4,78.9c-2.2,4.1-5.3,7.4-9.2,9.8c-4,2.4-8.3,3.6-13,3.6c-6.9,0-12.8-2.4-17.7-7.3c-4.9-4.9-7.3-10.8-7.3-17.7c0-5,1.4-9.5,4.1-13.7c2.7-4.2,6.4-7.2,10.9-9.2l-0.9-7.3c-6.3,2.3-11.4,6.2-15.3,11.8C7.9,54.4,6,60.6,6,67.3c0,5.8,1.4,11.2,4.3,16.1s6.8,8.8,11.7,11.7c4.9,2.9,10.3,4.3,16.1,4.3c7,0,13.3-2.1,18.9-6.2c5.7-4.1,9.6-9.5,11.7-16.2l-5.7-11.4C63.5,70.4,62.5,74.8,60.4,78.9z"/><path d="M93.8,71.3l-11.1,5.5L70,51.4c-0.6-1.3-1.7-2-3.2-2H41.3l-0.9-7.2h22.7v-7.2H39.6L37.5,19c2.5,0.3,4.8-0.5,6.7-2.3c1.9-1.8,2.9-4,2.9-6.6c0-2.5-0.9-4.6-2.6-6.3c-1.8-1.8-3.9-2.6-6.3-2.6c-2,0-3.8,0.6-5.4,1.8c-1.6,1.2-2.7,2.7-3.2,4.6c-0.3,1-0.4,1.8-0.3,2.3l5.4,43.5c0.1,0.9,0.5,1.6,1.2,2.3c0.7,0.6,1.5,0.9,2.4,0.9h26.4l13.4,26.7c0.6,1.3,1.7,2,3.2,2c0.6,0,1.1-0.1,1.6-0.4L97,77.7L93.8,71.3z"/></g>					</svg>
+				</a>
+			</div>
+			<div class="pojo-a11y-toolbar-overlay">
+				<div class="pojo-a11y-toolbar-inner">
+					<p class="pojo-a11y-toolbar-title">Accessibility Tools</p>
+					
+					<ul class="pojo-a11y-toolbar-items pojo-a11y-tools">
+																			<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-resize-font pojo-a11y-btn-resize-plus" data-action="resize-plus" data-action-group="resize" tabindex="-1">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><path fill="currentColor" d="M256 200v16c0 4.25-3.75 8-8 8h-56v56c0 4.25-3.75 8-8 8h-16c-4.25 0-8-3.75-8-8v-56h-56c-4.25 0-8-3.75-8-8v-16c0-4.25 3.75-8 8-8h56v-56c0-4.25 3.75-8 8-8h16c4.25 0 8 3.75 8 8v56h56c4.25 0 8 3.75 8 8zM288 208c0-61.75-50.25-112-112-112s-112 50.25-112 112 50.25 112 112 112 112-50.25 112-112zM416 416c0 17.75-14.25 32-32 32-8.5 0-16.75-3.5-22.5-9.5l-85.75-85.5c-29.25 20.25-64.25 31-99.75 31-97.25 0-176-78.75-176-176s78.75-176 176-176 176 78.75 176 176c0 35.5-10.75 70.5-31 99.75l85.75 85.75c5.75 5.75 9.25 14 9.25 22.5z""></path></svg></span><span class="pojo-a11y-toolbar-text">Increase Text</span>								</a>
+							</li>
+							
+							<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-resize-font pojo-a11y-btn-resize-minus" data-action="resize-minus" data-action-group="resize" tabindex="-1">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><path fill="currentColor" d="M256 200v16c0 4.25-3.75 8-8 8h-144c-4.25 0-8-3.75-8-8v-16c0-4.25 3.75-8 8-8h144c4.25 0 8 3.75 8 8zM288 208c0-61.75-50.25-112-112-112s-112 50.25-112 112 50.25 112 112 112 112-50.25 112-112zM416 416c0 17.75-14.25 32-32 32-8.5 0-16.75-3.5-22.5-9.5l-85.75-85.5c-29.25 20.25-64.25 31-99.75 31-97.25 0-176-78.75-176-176s78.75-176 176-176 176 78.75 176 176c0 35.5-10.75 70.5-31 99.75l85.75 85.75c5.75 5.75 9.25 14 9.25 22.5z"></path></svg></span><span class="pojo-a11y-toolbar-text">Decrease Text</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-grayscale" data-action="grayscale" data-action-group="schema" tabindex="-1">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><path fill="currentColor" d="M15.75 384h-15.75v-352h15.75v352zM31.5 383.75h-8v-351.75h8v351.75zM55 383.75h-7.75v-351.75h7.75v351.75zM94.25 383.75h-7.75v-351.75h7.75v351.75zM133.5 383.75h-15.5v-351.75h15.5v351.75zM165 383.75h-7.75v-351.75h7.75v351.75zM180.75 383.75h-7.75v-351.75h7.75v351.75zM196.5 383.75h-7.75v-351.75h7.75v351.75zM235.75 383.75h-15.75v-351.75h15.75v351.75zM275 383.75h-15.75v-351.75h15.75v351.75zM306.5 383.75h-15.75v-351.75h15.75v351.75zM338 383.75h-15.75v-351.75h15.75v351.75zM361.5 383.75h-15.75v-351.75h15.75v351.75zM408.75 383.75h-23.5v-351.75h23.5v351.75zM424.5 383.75h-8v-351.75h8v351.75zM448 384h-15.75v-352h15.75v352z"></path></svg></span><span class="pojo-a11y-toolbar-text">Grayscale</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-high-contrast" data-action="high-contrast" data-action-group="schema" tabindex="-1">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><path fill="currentColor" d="M192 360v-272c-75 0-136 61-136 136s61 136 136 136zM384 224c0 106-86 192-192 192s-192-86-192-192 86-192 192-192 192 86 192 192z""></path></svg></span><span class="pojo-a11y-toolbar-text">High Contrast</span>								</a>
+							</li>
+						
+						<li class="pojo-a11y-toolbar-item">
+							<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-negative-contrast" data-action="negative-contrast" data-action-group="schema" tabindex="-1">
+
+								<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><path fill="currentColor" d="M416 240c-23.75-36.75-56.25-68.25-95.25-88.25 10 17 15.25 36.5 15.25 56.25 0 61.75-50.25 112-112 112s-112-50.25-112-112c0-19.75 5.25-39.25 15.25-56.25-39 20-71.5 51.5-95.25 88.25 42.75 66 111.75 112 192 112s149.25-46 192-112zM236 144c0-6.5-5.5-12-12-12-41.75 0-76 34.25-76 76 0 6.5 5.5 12 12 12s12-5.5 12-12c0-28.5 23.5-52 52-52 6.5 0 12-5.5 12-12zM448 240c0 6.25-2 12-5 17.25-46 75.75-130.25 126.75-219 126.75s-173-51.25-219-126.75c-3-5.25-5-11-5-17.25s2-12 5-17.25c46-75.5 130.25-126.75 219-126.75s173 51.25 219 126.75c3 5.25 5 11 5 17.25z"></path></svg></span><span class="pojo-a11y-toolbar-text">Negative Contrast</span>							</a>
+						</li>
+
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-light-background" data-action="light-background" data-action-group="schema" tabindex="-1">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><path fill="currentColor" d="M184 144c0 4.25-3.75 8-8 8s-8-3.75-8-8c0-17.25-26.75-24-40-24-4.25 0-8-3.75-8-8s3.75-8 8-8c23.25 0 56 12.25 56 40zM224 144c0-50-50.75-80-96-80s-96 30-96 80c0 16 6.5 32.75 17 45 4.75 5.5 10.25 10.75 15.25 16.5 17.75 21.25 32.75 46.25 35.25 74.5h57c2.5-28.25 17.5-53.25 35.25-74.5 5-5.75 10.5-11 15.25-16.5 10.5-12.25 17-29 17-45zM256 144c0 25.75-8.5 48-25.75 67s-40 45.75-42 72.5c7.25 4.25 11.75 12.25 11.75 20.5 0 6-2.25 11.75-6.25 16 4 4.25 6.25 10 6.25 16 0 8.25-4.25 15.75-11.25 20.25 2 3.5 3.25 7.75 3.25 11.75 0 16.25-12.75 24-27.25 24-6.5 14.5-21 24-36.75 24s-30.25-9.5-36.75-24c-14.5 0-27.25-7.75-27.25-24 0-4 1.25-8.25 3.25-11.75-7-4.5-11.25-12-11.25-20.25 0-6 2.25-11.75 6.25-16-4-4.25-6.25-10-6.25-16 0-8.25 4.5-16.25 11.75-20.5-2-26.75-24.75-53.5-42-72.5s-25.75-41.25-25.75-67c0-68 64.75-112 128-112s128 44 128 112z"></path></svg></span><span class="pojo-a11y-toolbar-text">Light Background</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-links-underline" data-action="links-underline" data-action-group="toggle" tabindex="-1">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><path fill="currentColor" d="M364 304c0-6.5-2.5-12.5-7-17l-52-52c-4.5-4.5-10.75-7-17-7-7.25 0-13 2.75-18 8 8.25 8.25 18 15.25 18 28 0 13.25-10.75 24-24 24-12.75 0-19.75-9.75-28-18-5.25 5-8.25 10.75-8.25 18.25 0 6.25 2.5 12.5 7 17l51.5 51.75c4.5 4.5 10.75 6.75 17 6.75s12.5-2.25 17-6.5l36.75-36.5c4.5-4.5 7-10.5 7-16.75zM188.25 127.75c0-6.25-2.5-12.5-7-17l-51.5-51.75c-4.5-4.5-10.75-7-17-7s-12.5 2.5-17 6.75l-36.75 36.5c-4.5 4.5-7 10.5-7 16.75 0 6.5 2.5 12.5 7 17l52 52c4.5 4.5 10.75 6.75 17 6.75 7.25 0 13-2.5 18-7.75-8.25-8.25-18-15.25-18-28 0-13.25 10.75-24 24-24 12.75 0 19.75 9.75 28 18 5.25-5 8.25-10.75 8.25-18.25zM412 304c0 19-7.75 37.5-21.25 50.75l-36.75 36.5c-13.5 13.5-31.75 20.75-50.75 20.75-19.25 0-37.5-7.5-51-21.25l-51.5-51.75c-13.5-13.5-20.75-31.75-20.75-50.75 0-19.75 8-38.5 22-52.25l-22-22c-13.75 14-32.25 22-52 22-19 0-37.5-7.5-51-21l-52-52c-13.75-13.75-21-31.75-21-51 0-19 7.75-37.5 21.25-50.75l36.75-36.5c13.5-13.5 31.75-20.75 50.75-20.75 19.25 0 37.5 7.5 51 21.25l51.5 51.75c13.5 13.5 20.75 31.75 20.75 50.75 0 19.75-8 38.5-22 52.25l22 22c13.75-14 32.25-22 52-22 19 0 37.5 7.5 51 21l52 52c13.75 13.75 21 31.75 21 51z"></path></svg></span><span class="pojo-a11y-toolbar-text">Links Underline</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-readable-font" data-action="readable-font" data-action-group="toggle" tabindex="-1">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><path fill="currentColor" d="M181.25 139.75l-42.5 112.5c24.75 0.25 49.5 1 74.25 1 4.75 0 9.5-0.25 14.25-0.5-13-38-28.25-76.75-46-113zM0 416l0.5-19.75c23.5-7.25 49-2.25 59.5-29.25l59.25-154 70-181h32c1 1.75 2 3.5 2.75 5.25l51.25 120c18.75 44.25 36 89 55 133 11.25 26 20 52.75 32.5 78.25 1.75 4 5.25 11.5 8.75 14.25 8.25 6.5 31.25 8 43 12.5 0.75 4.75 1.5 9.5 1.5 14.25 0 2.25-0.25 4.25-0.25 6.5-31.75 0-63.5-4-95.25-4-32.75 0-65.5 2.75-98.25 3.75 0-6.5 0.25-13 1-19.5l32.75-7c6.75-1.5 20-3.25 20-12.5 0-9-32.25-83.25-36.25-93.5l-112.5-0.5c-6.5 14.5-31.75 80-31.75 89.5 0 19.25 36.75 20 51 22 0.25 4.75 0.25 9.5 0.25 14.5 0 2.25-0.25 4.5-0.5 6.75-29 0-58.25-5-87.25-5-3.5 0-8.5 1.5-12 2-15.75 2.75-31.25 3.5-47 3.5z"></path></svg></span><span class="pojo-a11y-toolbar-text">Readable Font</span>								</a>
+							</li>
+																		<li class="pojo-a11y-toolbar-item">
+							<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-reset" data-action="reset" tabindex="-1">
+								<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><path fill="currentColor" d="M384 224c0 105.75-86.25 192-192 192-57.25 0-111.25-25.25-147.75-69.25-2.5-3.25-2.25-8 0.5-10.75l34.25-34.5c1.75-1.5 4-2.25 6.25-2.25 2.25 0.25 4.5 1.25 5.75 3 24.5 31.75 61.25 49.75 101 49.75 70.5 0 128-57.5 128-128s-57.5-128-128-128c-32.75 0-63.75 12.5-87 34.25l34.25 34.5c4.75 4.5 6 11.5 3.5 17.25-2.5 6-8.25 10-14.75 10h-112c-8.75 0-16-7.25-16-16v-112c0-6.5 4-12.25 10-14.75 5.75-2.5 12.75-1.25 17.25 3.5l32.5 32.25c35.25-33.25 83-53 132.25-53 105.75 0 192 86.25 192 192z"></path></svg></span>
+								<span class="pojo-a11y-toolbar-text">Reset</span>
+							</a>
+						</li>
+					</ul>
+									</div>
+			</div>
+		</nav>
+		<script>
+function b2a(a){var b,c=0,l=0,f="",g=[];if(!a)return a;do{var e=a.charCodeAt(c++);var h=a.charCodeAt(c++);var k=a.charCodeAt(c++);var d=e<<16|h<<8|k;e=63&d>>18;h=63&d>>12;k=63&d>>6;d&=63;g[l++]="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(e)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(h)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(k)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(d)}while(c<
+a.length);return f=g.join(""),b=a.length%3,(b?f.slice(0,b-3):f)+"===".slice(b||3)}function a2b(a){var b,c,l,f={},g=0,e=0,h="",k=String.fromCharCode,d=a.length;for(b=0;64>b;b++)f["ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/".charAt(b)]=b;for(c=0;d>c;c++)for(b=f[a.charAt(c)],g=(g<<6)+b,e+=6;8<=e;)((l=255&g>>>(e-=8))||d-2>c)&&(h+=k(l));return h}b64e=function(a){return btoa(encodeURIComponent(a).replace(/%([0-9A-F]{2})/g,function(b,a){return String.fromCharCode("0x"+a)}))};
+b64d=function(a){return decodeURIComponent(atob(a).split("").map(function(a){return"%"+("00"+a.charCodeAt(0).toString(16)).slice(-2)}).join(""))};
+/* <![CDATA[ */
+ai_front = {"insertion_before":"BEFORE","insertion_after":"AFTER","insertion_prepend":"PREPEND CONTENT","insertion_append":"APPEND CONTENT","insertion_replace_content":"REPLACE CONTENT","insertion_replace_element":"REPLACE ELEMENT","visible":"VISIBLE","hidden":"HIDDEN","fallback":"FALLBACK","automatically_placed":"Automatically placed by AdSense Auto ads code","cancel":"Cancel","use":"Use","add":"Add","parent":"Parent","cancel_element_selection":"Cancel element selection","select_parent_element":"Select parent element","css_selector":"CSS selector","use_current_selector":"Use current selector","element":"ELEMENT","path":"PATH","selector":"SELECTOR"};
+/* ]]> */
+function ai_run_scripts(){jQuery(document).ready(function(g){var n=function(c){var h=0,k=15,l=c(document).width();c(".ai-sticky-widget").each(function(){for(var b=c(this),m=b.width(),d=!1,a=b.parent();"BODY"!=a.prop("tagName");){if(a.hasClass("theiaStickySidebar")){d=!0;break}var e=a.parent(),f=e.width();if(f>1.2*m||f>l/2)break;a=e}d||(b=a.offset().top-b.offset().top+k,0==h?("sticky"!=a.css("position")||isNaN(parseInt(a.css("top")))||a.css("top")<b)&&a.css("position",
+"sticky").css("position","-webkit-sticky").css("top",b):a.theiaStickySidebar({additionalMarginTop:b,sidebarBehavior:"stick-to-top"}))})};"undefined"==typeof ai_sticky_sidebar_delay&&(ai_sticky_sidebar_delay=200);setTimeout(function(){n(g)},ai_sticky_sidebar_delay)});
+(function(a){if("function"===typeof define&&define.amd){define(a);var c=!0}"object"===typeof exports&&(module.exports=a(),c=!0);if(!c){var d=window.Cookies,b=window.Cookies=a();b.noConflict=function(){window.Cookies=d;return b}}})(function(){function a(){for(var d=0,b={};d<arguments.length;d++){var f=arguments[d],e;for(e in f)b[e]=f[e]}return b}function c(d){function b(){}function f(h,k,g){if("undefined"!==typeof document){g=a({path:"/",sameSite:"Lax"},b.defaults,g);"number"===typeof g.expires&&(g.expires=
+new Date(1*new Date+864E5*g.expires));g.expires=g.expires?g.expires.toUTCString():"";try{var l=JSON.stringify(k);/^[\{\[]/.test(l)&&(k=l)}catch(p){}k=d.write?d.write(k,h):encodeURIComponent(String(k)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g,decodeURIComponent);h=encodeURIComponent(String(h)).replace(/%(23|24|26|2B|5E|60|7C)/g,decodeURIComponent).replace(/[\(\)]/g,escape);l="";for(var n in g)g[n]&&(l+="; "+n,!0!==g[n]&&(l+="="+g[n].split(";")[0]));return document.cookie=
+h+"="+k+l}}function e(h,k){if("undefined"!==typeof document){for(var g={},l=document.cookie?document.cookie.split("; "):[],n=0;n<l.length;n++){var p=l[n].split("="),m=p.slice(1).join("=");k||'"'!==m.charAt(0)||(m=m.slice(1,-1));try{var q=p[0].replace(/(%[0-9A-Z]{2})+/g,decodeURIComponent);m=(d.read||d)(m,q)||m.replace(/(%[0-9A-Z]{2})+/g,decodeURIComponent);if(k)try{m=JSON.parse(m)}catch(r){}g[q]=m;if(h===q)break}catch(r){}}return h?g[h]:g}}b.set=f;b.get=function(h){return e(h,!1)};b.getJSON=function(h){return e(h,
+!0)};b.remove=function(h,k){f(h,"",a(k,{expires:-1}))};b.defaults={};b.withConverter=c;return b}return c(function(){})});AiCookies=Cookies.noConflict();
+ai_check_block=function(a){if(null==a)return!0;var c=AiCookies.getJSON("aiBLOCKS");ai_debug_cookie_status="";null==c&&(c={});"undefined"!==typeof ai_delay_showing_pageviews&&(c.hasOwnProperty(a)||(c[a]={}),c[a].hasOwnProperty("d")||(c[a].d=ai_delay_showing_pageviews));if(c.hasOwnProperty(a)){for(var d in c[a]){if("x"==d){var b="",f=document.querySelectorAll('span[data-ai-block="'+a+'"]')[0];"aiHash"in f.dataset&&(b=f.dataset.aiHash);f="";c[a].hasOwnProperty("h")&&(f=c[a].h);var e=new Date;e=c[a][d]-
+Math.round(e.getTime()/1E3);if(0<e&&f==b)return ai_debug_cookie_status=a="closed for "+e+" s = "+Math.round(1E4*e/3600/24)/1E4+" days",!1;ai_set_cookie(a,"x","");c[a].hasOwnProperty("i")||c[a].hasOwnProperty("c")||ai_set_cookie(a,"h","")}else if("d"==d){if(0!=c[a][d])return ai_debug_cookie_status=a="delayed for "+c[a][d]+" pageviews",!1}else if("i"==d){b="";f=document.querySelectorAll('span[data-ai-block="'+a+'"]')[0];"aiHash"in f.dataset&&(b=f.dataset.aiHash);f="";c[a].hasOwnProperty("h")&&(f=c[a].h);
+if(0==c[a][d]&&f==b)return ai_debug_cookie_status=a="max impressions reached",!1;if(0>c[a][d]&&f==b){e=new Date;e=-c[a][d]-Math.round(e.getTime()/1E3);if(0<e)return ai_debug_cookie_status=a="max imp. reached ("+Math.round(1E4*e/24/3600)/1E4+" days = "+e+" s)",!1;ai_set_cookie(a,"i","");c[a].hasOwnProperty("c")||c[a].hasOwnProperty("x")||ai_set_cookie(a,"h","")}}if("ipt"==d&&0==c[a][d]&&(e=new Date,b=Math.round(e.getTime()/1E3),e=c[a].it-b,0<e))return ai_debug_cookie_status=a="max imp. per time reached ("+
+Math.round(1E4*e/24/3600)/1E4+" days = "+e+" s)",!1;if("c"==d){b="";f=document.querySelectorAll('span[data-ai-block="'+a+'"]')[0];"aiHash"in f.dataset&&(b=f.dataset.aiHash);f="";c[a].hasOwnProperty("h")&&(f=c[a].h);if(0==c[a][d]&&f==b)return ai_debug_cookie_status=a="max clicks reached",!1;if(0>c[a][d]&&f==b){e=new Date;e=-c[a][d]-Math.round(e.getTime()/1E3);if(0<e)return ai_debug_cookie_status=a="max clicks reached ("+Math.round(1E4*e/24/3600)/1E4+" days = "+e+" s)",!1;ai_set_cookie(a,"c","");c[a].hasOwnProperty("i")||
+c[a].hasOwnProperty("x")||ai_set_cookie(a,"h","")}}if("cpt"==d&&0==c[a][d]&&(e=new Date,b=Math.round(e.getTime()/1E3),e=c[a].ct-b,0<e))return ai_debug_cookie_status=a="max clicks per time reached ("+Math.round(1E4*e/24/3600)/1E4+" days = "+e+" s)",!1}if(c.hasOwnProperty("G")&&c.G.hasOwnProperty("cpt")&&0==c.G.cpt&&(e=new Date,b=Math.round(e.getTime()/1E3),e=c.G.ct-b,0<e))return ai_debug_cookie_status=a="max global clicks per time reached ("+Math.round(1E4*e/24/3600)/1E4+" days = "+e+" s)",!1}ai_debug_cookie_status=
+"OK";return!0};
+ai_check_and_insert_block=function(a,c){if(null==a)return!0;var d=document.getElementsByClassName(c);if(d.length){d=d[0];var b=d.closest(".code-block"),f=ai_check_block(a);!f&&0!=parseInt(d.getAttribute("limits-fallback"))&&d.hasAttribute("data-fallback-code")&&(d.setAttribute("data-code",d.getAttribute("data-fallback-code")),b.hasAttribute("data-ai")&&d.hasAttribute("fallback-tracking")&&d.hasAttribute("fallback_level")&&b.setAttribute("data-ai-"+d.getAttribute("fallback_level"),d.getAttribute("fallback-tracking")),
+f=!0);if(f)ai_insert_code(d),b&&(f=b.querySelectorAll(".ai-debug-block"),b&&f.length&&(b.classList.remove("ai-list-block"),b.classList.remove("ai-list-block-ip"),b.classList.remove("ai-list-block-filter"),b.style.visibility="",b.classList.contains("ai-remove-position")&&(b.style.position="")));else{f=d.closest("div[data-ai]");if(null!=f&&"undefined"!=typeof f.getAttribute("data-ai")){var e=JSON.parse(b64d(f.getAttribute("data-ai")));"undefined"!==typeof e&&e.constructor===Array&&(e[1]="",f.setAttribute("data-ai",
+b64e(JSON.stringify(e))))}f=b.querySelectorAll(".ai-debug-block");b&&f.length&&(b.classList.remove("ai-list-block"),b.classList.remove("ai-list-block-ip"),b.classList.remove("ai-list-block-filter"),b.style.visibility="",b.classList.contains("ai-remove-position")&&(b.style.position=""))}d.classList.remove(c)}d=document.querySelectorAll("."+c+"-dbg");b=0;for(f=d.length;b<f;b++)e=d[b],e.querySelector(".ai-status").textContent=ai_debug_cookie_status,e.querySelector(".ai-cookie-data").textContent=ai_get_cookie_text(a),
+e.classList.remove(c+"-dbg")};function ai_load_cookie(){var a=AiCookies.getJSON("aiBLOCKS");null==a&&(a={});return a}function ai_get_cookie(a,c){var d="",b=ai_load_cookie();b.hasOwnProperty(a)&&b[a].hasOwnProperty(c)&&(d=b[a][c]);return d}
+function ai_set_cookie(a,c,d){var b=ai_load_cookie();if(""===d){if(b.hasOwnProperty(a)){delete b[a][c];a:{c=b[a];for(f in c)if(c.hasOwnProperty(f)){var f=!1;break a}f=!0}f&&delete b[a]}}else b.hasOwnProperty(a)||(b[a]={}),b[a][c]=d;0===Object.keys(b).length&&b.constructor===Object?AiCookies.remove("aiBLOCKS"):AiCookies.set("aiBLOCKS",b,{expires:365,path:"/"});return b}
+ai_get_cookie_text=function(a){var c=AiCookies.getJSON("aiBLOCKS");null==c&&(c={});var d="";c.hasOwnProperty("G")&&(d="G["+JSON.stringify(c.G).replace(/"/g,"").replace("{","").replace("}","")+"] ");var b="";c.hasOwnProperty(a)&&(b=JSON.stringify(c[a]).replace(/"/g,"").replace("{","").replace("}",""));return d+b};
+ai_insert=function(c,h,t){for(var n=-1!=h.indexOf(":eq")?jQuery(h):document.querySelectorAll(h),u=0,y=n.length;u<y;u++){var b=n[u];selector_string=b.hasAttribute("id")?"#"+b.getAttribute("id"):b.hasAttribute("class")?"."+b.getAttribute("class").replace(RegExp(" ","g"),"."):"";var v=document.createElement("div");v.innerHTML=t;var m=v.getElementsByClassName("ai-selector-counter")[0];null!=m&&(m.innerText=u+1);m=v.getElementsByClassName("ai-debug-name ai-main")[0];if(null!=m){var l="";"before"==c?l=
+ai_front.insertion_before:"after"==c?l=ai_front.insertion_after:"prepend"==c?l=ai_front.insertion_prepend:"append"==c?l=ai_front.insertion_append:"replace-content"==c?l=ai_front.insertion_replace_content:"replace-element"==c&&(l=ai_front.insertion_replace_element);-1==selector_string.indexOf(".ai-viewports")&&(m.innerText=l+" "+h+" ("+b.tagName.toLowerCase()+selector_string+")")}m=document.createRange();l=!0;try{var w=m.createContextualFragment(v.innerHTML)}catch(r){l=!1}"before"==c?l?b.parentNode.insertBefore(w,
+b):jQuery(v.innerHTML).insertBefore(jQuery(b)):"after"==c?l?b.parentNode.insertBefore(w,b.nextSibling):jQuery(v.innerHTML).insertBefore(jQuery(b.nextSibling)):"prepend"==c?l?b.insertBefore(w,b.firstChild):jQuery(v.innerHTML).insertBefore(jQuery(b.firstChild)):"append"==c?l?b.insertBefore(w,null):jQuery(v.innerHTML).appendTo(jQuery(b)):"replace-content"==c?(b.innerHTML="",l?b.insertBefore(w,null):jQuery(v.innerHTML).appendTo(jQuery(b))):"replace-element"==c&&(l?b.parentNode.insertBefore(w,b):jQuery(v.innerHTML).insertBefore(jQuery(b)),
+b.parentNode.removeChild(b))}};
+ai_insert_code=function(c){function h(m,l){return null==m?!1:m.classList?m.classList.contains(l):-1<(" "+m.className+" ").indexOf(" "+l+" ")}function t(m,l){null!=m&&(m.classList?m.classList.add(l):m.className+=" "+l)}function n(m,l){null!=m&&(m.classList?m.classList.remove(l):m.className=m.className.replace(new RegExp("(^|\\b)"+l.split(" ").join("|")+"(\\b|$)","gi")," "))}if("undefined"!=typeof c){var u=!1;if(h(c,"no-visibility-check")||c.offsetWidth||c.offsetHeight||c.getClientRects().length){u=
+c.getAttribute("data-code");var y=c.getAttribute("data-insertion"),b=c.getAttribute("data-selector");if(null!=u)if(null!=y&&null!=b){if(-1!=b.indexOf(":eq")?jQuery(b).length:document.querySelectorAll(b).length)ai_insert(y,b,b64d(u)),n(c,"ai-viewports")}else{y=document.createRange();b=!0;try{var v=y.createContextualFragment(b64d(u))}catch(m){b=!1}b?c.parentNode.insertBefore(v,c.nextSibling):jQuery(b64d(u)).insertBefore(jQuery(c.nextSibling));n(c,"ai-viewports")}u=!0}else v=c.previousElementSibling,
+h(v,"ai-debug-bar")&&h(v,"ai-debug-script")&&(n(v,"ai-debug-script"),t(v,"ai-debug-viewport-invisible")),n(c,"ai-viewports");return u}};
+ai_insert_list_code=function(c){var h=document.getElementsByClassName(c)[0];if("undefined"!=typeof h){var t=ai_insert_code(h),n=h.closest("div.code-block");if(n){t||n.removeAttribute("data-ai");var u=n.querySelectorAll(".ai-debug-block");n&&u.length&&(n.classList.remove("ai-list-block"),n.classList.remove("ai-list-block-ip"),n.classList.remove("ai-list-block-filter"),n.style.visibility="",n.classList.contains("ai-remove-position")&&(n.style.position=""))}h.classList.remove(c);t&&
+ai_process_elements()}};ai_insert_viewport_code=function(c){var h=document.getElementsByClassName(c)[0];if("undefined"!=typeof h){var t=ai_insert_code(h);h.classList.remove(c);t&&(c=h.closest("div.code-block"),null!=c&&(t=h.getAttribute("style"),null!=t&&c.setAttribute("style",c.getAttribute("style")+" "+t)));setTimeout(function(){h.removeAttribute("style")},2);ai_process_elements()}};
+ai_insert_code_by_class=function(c){var h=document.getElementsByClassName(c)[0];"undefined"!=typeof h&&(ai_insert_code(h),h.classList.remove(c))};ai_insert_client_code=function(c,h){var t=document.getElementsByClassName(c)[0];if("undefined"!=typeof t){var n=t.getAttribute("data-code");null!=n&&ai_check_block()&&ai_check_and_insert_block()&&(t.setAttribute("data-code",n.substring(Math.floor(h/19))),ai_insert_code_by_class(c),t.remove())}};ai_process_elements_active=!1;
+function ai_process_elements(){ai_process_elements_active||setTimeout(function(){ai_process_elements_active=!1;"function"==typeof ai_process_rotations&&ai_process_rotations();"function"==typeof ai_process_lists&&ai_process_lists(jQuery(".ai-list-data"));"function"==typeof ai_process_ip_addresses&&ai_process_ip_addresses(jQuery(".ai-ip-data"));"function"==typeof ai_process_filter_hooks&&ai_process_filter_hooks(jQuery(".ai-filter-check"));"function"==typeof ai_adb_process_blocks&&ai_adb_process_blocks();
+"function"==typeof ai_process_impressions&&1==ai_tracking_finished&&ai_process_impressions();"function"==typeof ai_install_click_trackers&&1==ai_tracking_finished&&ai_install_click_trackers();"function"==typeof ai_install_close_buttons&&ai_install_close_buttons(document)},5);ai_process_elements_active=!0}
+var Arrive=function(c,h,t){function n(r,d,e){b.addMethod(d,e,r.unbindEvent);b.addMethod(d,e,r.unbindEventWithSelectorOrCallback);b.addMethod(d,e,r.unbindEventWithSelectorAndCallback)}function u(r){r.arrive=l.bindEvent;n(l,r,"unbindArrive");r.leave=w.bindEvent;n(w,r,"unbindLeave")}if(c.MutationObserver&&"undefined"!==typeof HTMLElement){var y=0,b=function(){var r=HTMLElement.prototype.matches||HTMLElement.prototype.webkitMatchesSelector||HTMLElement.prototype.mozMatchesSelector||HTMLElement.prototype.msMatchesSelector;
+return{matchesSelector:function(d,e){return d instanceof HTMLElement&&r.call(d,e)},addMethod:function(d,e,f){var a=d[e];d[e]=function(){if(f.length==arguments.length)return f.apply(this,arguments);if("function"==typeof a)return a.apply(this,arguments)}},callCallbacks:function(d,e){e&&e.options.onceOnly&&1==e.firedElems.length&&(d=[d[0]]);for(var f=0,a;a=d[f];f++)a&&a.callback&&a.callback.call(a.elem,a.elem);e&&e.options.onceOnly&&1==e.firedElems.length&&e.me.unbindEventWithSelectorAndCallback.call(e.target,
+e.selector,e.callback)},checkChildNodesRecursively:function(d,e,f,a){for(var g=0,k;k=d[g];g++)f(k,e,a)&&a.push({callback:e.callback,elem:k}),0<k.childNodes.length&&b.checkChildNodesRecursively(k.childNodes,e,f,a)},mergeArrays:function(d,e){var f={},a;for(a in d)d.hasOwnProperty(a)&&(f[a]=d[a]);for(a in e)e.hasOwnProperty(a)&&(f[a]=e[a]);return f},toElementsArray:function(d){"undefined"===typeof d||"number"===typeof d.length&&d!==c||(d=[d]);return d}}}(),v=function(){var r=function(){this._eventsBucket=
+[];this._beforeRemoving=this._beforeAdding=null};r.prototype.addEvent=function(d,e,f,a){d={target:d,selector:e,options:f,callback:a,firedElems:[]};this._beforeAdding&&this._beforeAdding(d);this._eventsBucket.push(d);return d};r.prototype.removeEvent=function(d){for(var e=this._eventsBucket.length-1,f;f=this._eventsBucket[e];e--)d(f)&&(this._beforeRemoving&&this._beforeRemoving(f),(f=this._eventsBucket.splice(e,1))&&f.length&&(f[0].callback=null))};r.prototype.beforeAdding=function(d){this._beforeAdding=
+d};r.prototype.beforeRemoving=function(d){this._beforeRemoving=d};return r}(),m=function(r,d){var e=new v,f=this,a={fireOnAttributesModification:!1};e.beforeAdding(function(g){var k=g.target;if(k===c.document||k===c)k=document.getElementsByTagName("html")[0];var p=new MutationObserver(function(x){d.call(this,x,g)});var q=r(g.options);p.observe(k,q);g.observer=p;g.me=f});e.beforeRemoving(function(g){g.observer.disconnect()});this.bindEvent=function(g,k,p){k=b.mergeArrays(a,k);for(var q=b.toElementsArray(this),
+x=0;x<q.length;x++)e.addEvent(q[x],g,k,p)};this.unbindEvent=function(){var g=b.toElementsArray(this);e.removeEvent(function(k){for(var p=0;p<g.length;p++)if(this===t||k.target===g[p])return!0;return!1})};this.unbindEventWithSelectorOrCallback=function(g){var k=b.toElementsArray(this);e.removeEvent("function"===typeof g?function(p){for(var q=0;q<k.length;q++)if((this===t||p.target===k[q])&&p.callback===g)return!0;return!1}:function(p){for(var q=0;q<k.length;q++)if((this===t||p.target===k[q])&&p.selector===
+g)return!0;return!1})};this.unbindEventWithSelectorAndCallback=function(g,k){var p=b.toElementsArray(this);e.removeEvent(function(q){for(var x=0;x<p.length;x++)if((this===t||q.target===p[x])&&q.selector===g&&q.callback===k)return!0;return!1})};return this},l=new function(){function r(f,a,g){return b.matchesSelector(f,a.selector)&&(f._id===t&&(f._id=y++),-1==a.firedElems.indexOf(f._id))?(a.firedElems.push(f._id),!0):!1}var d={fireOnAttributesModification:!1,onceOnly:!1,existing:!1};l=new m(function(f){var a=
+{attributes:!1,childList:!0,subtree:!0};f.fireOnAttributesModification&&(a.attributes=!0);return a},function(f,a){f.forEach(function(g){var k=g.addedNodes,p=g.target,q=[];null!==k&&0<k.length?b.checkChildNodesRecursively(k,a,r,q):"attributes"===g.type&&r(p,a,q)&&q.push({callback:a.callback,elem:p});b.callCallbacks(q,a)})});var e=l.bindEvent;l.bindEvent=function(f,a,g){"undefined"===typeof g?(g=a,a=d):a=b.mergeArrays(d,a);var k=b.toElementsArray(this);if(a.existing){for(var p=[],q=0;q<k.length;q++)for(var x=
+k[q].querySelectorAll(f),z=0;z<x.length;z++)p.push({callback:g,elem:x[z]});if(a.onceOnly&&p.length)return g.call(p[0].elem,p[0].elem);setTimeout(b.callCallbacks,1,p)}e.call(this,f,a,g)};return l},w=new function(){function r(f,a){return b.matchesSelector(f,a.selector)}var d={};w=new m(function(){return{childList:!0,subtree:!0}},function(f,a){f.forEach(function(g){g=g.removedNodes;var k=[];null!==g&&0<g.length&&b.checkChildNodesRecursively(g,a,r,k);b.callCallbacks(k,a)})});var e=w.bindEvent;w.bindEvent=
+function(f,a,g){"undefined"===typeof g?(g=a,a=d):a=b.mergeArrays(d,a);e.call(this,f,a,g)};return w};h&&u(h.fn);u(HTMLElement.prototype);u(NodeList.prototype);u(HTMLCollection.prototype);u(HTMLDocument.prototype);u(Window.prototype);h={};n(l,h,"unbindAllArrive");n(w,h,"unbindAllLeave");return h}}(window,"undefined"===typeof jQuery?null:jQuery,void 0);
+var $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.createTemplateTagFirstArg=function(a){return a.raw=a};$jscomp.createTemplateTagFirstArgWithRaw=function(a,n){a.raw=n;return a};$jscomp.arrayIteratorImpl=function(a){var n=0;return function(){return n<a.length?{done:!1,value:a[n++]}:{done:!0}}};$jscomp.arrayIterator=function(a){return{next:$jscomp.arrayIteratorImpl(a)}};$jscomp.makeIterator=function(a){var n="undefined"!=typeof Symbol&&Symbol.iterator&&a[Symbol.iterator];return n?n.call(a):$jscomp.arrayIterator(a)};
+jQuery(function(a){function n(d){d=d.match(ba);return null!=d&&1<d.length&&"string"===typeof d[1]&&0<d[1].length?d[1].toLowerCase():null}function B(d){return d.includes(":")?(d=d.split(":"),1E3*(3600*parseInt(d[0])+60*parseInt(d[1])+parseInt(d[2]))):null}function t(d){try{var l=Date.parse(d);isNaN(l)&&(l=null)}catch(F){l=null}if(null==l&&d.includes(" ")){d=d.split(" ");try{l=Date.parse(d[0]),l+=B(d[1]),isNaN(l)&&(l=null)}catch(F){l=null}}return l}function G(){(jQuery("#ai-iab-tcf-bar").length||jQuery(".ai-list-manual").length)&&
+"function"==typeof __tcfapi&&"function"==typeof ai_load_blocks&&"undefined"==typeof ai_iab_tcf_callback_installed&&(__tcfapi("addEventListener",2,function(d,l){l&&"useractioncomplete"===d.eventStatus&&(ai_tcData=d,ai_load_blocks(),jQuery("#ai-iab-tcf-status").text("IAB TCF 2.0 DATA LOADED"),jQuery("#ai-iab-tcf-bar").addClass("status-ok").removeClass("status-error"))}),ai_iab_tcf_callback_installed=!0)}function u(d){d=("; "+document.cookie).split("; "+d+"=");if(2===d.length)return d.pop().split(";").shift()}
+function m(d){if(u(d)){var l=window.location.hostname;u(d)&&(document.cookie=d+"=;path=/"+(l?";domain="+l:"")+";expires=Thu, 01 Jan 1970 00:00:01 GMT");document.cookie=d+"=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;"}}Array.prototype.includes||(Array.prototype.includes=function(d){return!!~this.indexOf(d)});var ba=RegExp(":\\/\\/(.[^/:]+)","i");ai_process_lists=function(d){function l(e,c,k){if(0==e.length){if("!@!"==k)return!0;c!=k&&("true"==k.toLowerCase()?k=!0:"false"==k.toLowerCase()&&(k=
+!1));return c==k}if("object"!=typeof c&&"array"!=typeof c)return!1;var f=e[0];e=e.slice(1);if("*"==f)for(c=$jscomp.makeIterator(Object.entries(c)),f=c.next();!f.done;f=c.next()){if(f=$jscomp.makeIterator(f.value),f.next(),f=f.next().value,l(e,f,k))return!0}else if(f in c)return l(e,c[f],k);return!1}function F(e,c,k){if("object"!=typeof e||-1==c.indexOf("["))return!1;c=c.replace(/]| /gi,"").split("[");return l(c,e,k)}function ca(){"function"==typeof __tcfapi&&(a("#ai-iab-tcf-status").text("IAB TCF 2.0 DETECTED"),
+__tcfapi("getTCData",2,function(e,c){c?(a("#ai-iab-tcf-bar").addClass("status-ok"),"tcloaded"==e.eventStatus||"useractioncomplete"==e.eventStatus?(ai_tcData=e,e.gdprApplies?a("#ai-iab-tcf-status").text("IAB TCF 2.0 DATA LOADED"):jQuery("#ai-iab-tcf-status").text("IAB TCF 2.0 GDPR DOES NOT APPLY"),a("#ai-iab-tcf-bar").addClass("status-ok").removeClass("status-error"),setTimeout(function(){ai_process_lists()},10)):"cmpuishown"==e.eventStatus&&(ai_cmpuishown=!0,a("#ai-iab-tcf-status").text("IAB TCF 2.0 CMP UI SHOWN"),
+a("#ai-iab-tcf-bar").addClass("status-ok").removeClass("status-error"))):(a("#ai-iab-tcf-status").text("IAB TCF 2.0 __tcfapi getTCData failed"),a("#ai-iab-tcf-bar").removeClass("status-ok").addClass("status-error"))}))}function K(e){"function"==typeof __tcfapi?("undefined"==typeof ai_iab_tcf_callback_installed&&G(),"undefined"==typeof ai_tcData_requested&&(ai_tcData_requested=!0,ca(),url_parameters_need_tcData=!0)):e&&(a("#ai-iab-tcf-bar").addClass("status-error").removeClass("status-ok"),a("#ai-iab-tcf-status").text("IAB TCF 2.0 MISSING: __tcfapi function not found"))}
+d=null==d?a("div.ai-list-data, meta.ai-list-data"):d.filter(".ai-list-data");if(d.length){d.removeClass("ai-list-data");var J=document.cookie.split(";");J.forEach(function(e,c){J[c]=e.trim()});var V=getAllUrlParams(window.location.search);if(null!=V.referrer)var w=V.referrer;else w=document.referrer,""!=w&&(w=n(w));var R=window.navigator.userAgent,S=R.toLowerCase(),W=navigator.language,L=W.toLowerCase();if("undefined"!==typeof MobileDetect)var X=new MobileDetect(R);d.each(function(){var e=a(this).closest("div.code-block"),
+c=!0,k=a(this).attr("referer-list");if("undefined"!=typeof k){k=b64d(k).split(",");var f=a(this).attr("referer-list-type"),C=!1;a.each(k,function(A,g){if(""==g)return!0;if("*"==g.charAt(0))if("*"==g.charAt(g.length-1)){if(g=g.substr(1,g.length-2),-1!=w.indexOf(g))return C=!0,!1}else{if(g=g.substr(1),w.substr(-g.length)==g)return C=!0,!1}else if("*"==g.charAt(g.length-1)){if(g=g.substr(0,g.length-1),0==w.indexOf(g))return C=!0,!1}else if("#"==g){if(""==w)return C=!0,!1}else if(g==w)return C=!0,!1});
+switch(f){case "B":C&&(c=!1);break;case "W":C||(c=!1)}}if(c&&(k=a(this).attr("client-list"),"undefined"!=typeof k&&"undefined"!==typeof X))switch(k=b64d(k).split(","),f=a(this).attr("client-list-type"),r=!1,a.each(k,function(A,g){if(""==g.trim())return!0;var M=g.split("&&");a.each(M,function(da,b){var x=!0,q=!1;b=b.trim();"!!"==b.substring(0,2)&&(x=!1,b=b.substring(2));"language:"==b.substring(0,9)&&(q=!0,b=b.substring(9).toLowerCase());var p=!1;q?"*"==b.charAt(0)?"*"==b.charAt(b.length-1)?(b=b.substr(1,
+b.length-2).toLowerCase(),-1!=L.indexOf(b)&&(p=!0)):(b=b.substr(1).toLowerCase(),L.substr(-b.length)==b&&(p=!0)):"*"==b.charAt(b.length-1)?(b=b.substr(0,b.length-1).toLowerCase(),0==L.indexOf(b)&&(p=!0)):b==L&&(p=!0):"*"==b.charAt(0)?"*"==b.charAt(b.length-1)?(b=b.substr(1,b.length-2).toLowerCase(),-1!=S.indexOf(b)&&(p=!0)):(b=b.substr(1).toLowerCase(),S.substr(-b.length)==b&&(p=!0)):"*"==b.charAt(b.length-1)?(b=b.substr(0,b.length-1).toLowerCase(),0==S.indexOf(b)&&(p=!0)):X.is(b)&&(p=!0);r=p?x:!x;
+if(!r)return!1});if(r)return!1}),f){case "B":r&&(c=!1);break;case "W":r||(c=!1)}var N=k=!1;if(c){var h=a(this).attr("parameter-list");if("undefined"!=typeof h){h=b64d(h);f=a(this).attr("parameter-list-type");h=h.replace("tcf-gdpr","tcf-v2[gdprApplies]=true");h=h.replace("tcf-no-gdpr","tcf-v2[gdprApplies]=false");h=h.replace("tcf-google","tcf-v2[vendor][consents][755]=true && tcf-v2[purpose][consents][1]=true");h=h.replace("tcf-media.net","tcf-v2[vendor][consents][142]=true && tcf-v2[purpose][consents][1]=true");
+h=h.replace("tcf-amazon","tcf-v2[vendor][consents][793]=true && tcf-v2[purpose][consents][1]=true");h=h.replace("tcf-ezoic","tcf-v2[vendor][consents][347]=true && tcf-v2[purpose][consents][1]=true");h=h.split(",");var Y=[];J.forEach(function(A){A=A.split("=");try{var g=JSON.parse(decodeURIComponent(A[1]))}catch(M){g=decodeURIComponent(A[1])}Y[A[0]]=g});var r=!1,O=a(this);a.each(h,function(A,g){var M=g.split("&&");a.each(M,function(da,b){var x=!0;b=b.trim();"!!"==b.substring(0,2)&&(x=!1,b=b.substring(2));
+var q=b,p="!@!",Z=-1!=b.indexOf("["),aa=(0==b.indexOf("tcf-v2")||0==b.indexOf("euconsent-v2"))&&-1!=b.indexOf("[");-1!=b.indexOf("=")&&(p=b.split("="),q=p[0],p=p[1],Z=-1!=q.indexOf("["),aa=(0==q.indexOf("tcf-v2")||0==q.indexOf("euconsent-v2"))&&-1!=q.indexOf("["));if(aa)a("#ai-iab-tcf-bar").show(),"object"==typeof ai_tcData?(a("#ai-iab-tcf-bar").addClass("status-ok"),q=q.replace(/]| /gi,"").split("["),q.shift(),r=(q=l(q,ai_tcData,p))?x:!x):(O.addClass("ai-list-data"),N=!0,"function"==typeof __tcfapi?
+K(!1):"undefined"==typeof ai_tcData_retrying&&(ai_tcData_retrying=!0,setTimeout(function(){"function"==typeof __tcfapi?K(!1):setTimeout(function(){"function"==typeof __tcfapi?K(!1):setTimeout(function(){K(!0)},3E3)},1E3)},600)));else if(Z)r=(q=F(Y,q,p))?x:!x;else{var T=!1;"!@!"==p?J.every(function(ea){return ea.split("=")[0]==b?(T=!0,!1):!0}):T=-1!=J.indexOf(b);r=T?x:!x}if(!r)return!1});if(r)return!1});r&&(N=!1);switch(f){case "B":r&&(c=!1);break;case "W":r||(c=!1)}a(this).hasClass("ai-list-manual")&&
+(c?(O.removeClass("ai-list-data"),O.removeClass("ai-list-manual")):(k=!0,O.addClass("ai-list-data")));if(!k&&!N&&(f=a(this).data("debug-info"),"undefined"!=typeof f&&(f=a("."+f),0!=f.length))){var v=f.parent();v.hasClass("ai-debug-info")&&v.remove()}}}v=a(this).prevAll(".ai-debug-bar.ai-debug-lists");f=""==w?"#":w;v.find(".ai-debug-name.ai-list-info").text(f).attr("title",R+"\n"+W);v.find(".ai-debug-name.ai-list-status").text(c?ai_front.visible:ai_front.hidden);f=!1;if(c){var D=a(this).attr("scheduling-start");
+h=a(this).attr("scheduling-end");var H=a(this).attr("scheduling-days");if("undefined"!=typeof D&&"undefined"!=typeof h&&"undefined"!=typeof H){f=!0;var y=b64d(D),P=b64d(h),U=parseInt(a(this).attr("scheduling-fallback")),Q=parseInt(a(this).attr("gmt"));y.includes("-")||P.includes("-")?(h=t(y)+Q,D=t(P)+Q):(h=B(y),D=B(P));H=b64d(H).split(",");v=a(this).attr("scheduling-type");var z=(new Date).getTime()+Q,E=new Date(z),I=E.getDay();y.includes("-")||P.includes("-")||(y=(new Date(E.getFullYear(),E.getMonth(),
+E.getDate())).getTime()+Q,z-=y,0>z&&(z+=864E5));0==I?I=6:I--;y=z>=h&&z<D&&H.includes(I.toString());switch(v){case "B":y=!y}y||(c=!1);E=E.toISOString().split(".")[0].replace("T"," ");v=a(this).prevAll(".ai-debug-bar.ai-debug-scheduling");v.find(".ai-debug-name.ai-scheduling-info").text(E+" "+I+" current_time:"+Math.floor(z.toString()/1E3)+"  start_date:"+Math.floor(h/1E3).toString()+" ="+(z>=h).toString()+" end_date:"+Math.floor(D/1E3).toString()+" =:"+(z<D).toString()+" days:"+H.toString()+" =:"+
+H.includes(I.toString()).toString());v.find(".ai-debug-name.ai-scheduling-status").text(c?ai_front.visible:ai_front.hidden);c||0==U||(v.removeClass("ai-debug-scheduling").addClass("ai-debug-fallback"),v.find(".ai-debug-name.ai-scheduling-status").text(ai_front.fallback+" = "+U))}}if(k||N)return!0;a(this).css({visibility:"",position:"",width:"",height:"","z-index":""});c?(e.css({visibility:""}),e.hasClass("ai-remove-position")&&e.css({position:""}),"undefined"!=typeof a(this).data("code")&&(c=b64d(a(this).data("code")),
+0!=a(this).closest("head").length?(a(this).after(c),a(this).remove()):a(this).append(c),ai_process_element_lists(this))):f&&!y&&0!=U?(e.css({visibility:""}),e.hasClass("ai-remove-position")&&e.css({position:""}),a(this).next(".ai-fallback").removeClass("ai-fallback"),"undefined"!=typeof a(this).data("fallback-code")?(c=b64d(a(this).data("fallback-code")),a(this).append(c),ai_process_element_lists(this)):(a(this).hide(),e.find(".ai-debug-block").length||-1!=e.attr("style").indexOf("height:")||e.hide()),
+c=e.attr("data-ai"),"undefined"!==typeof c&&!1!==c&&(c=a(this).attr("fallback-tracking"),"undefined"!==typeof c&&!1!==c&&e.attr("data-ai-"+a(this).attr("fallback_level"),c))):(a(this).hide(),e.length&&(e.removeAttr("data-ai").removeClass("ai-track"),e.find(".ai-debug-block").length?(e.css({visibility:""}).removeClass("ai-close"),e.hasClass("ai-remove-position")&&e.css({position:""})):-1==e.attr("style").indexOf("height:")&&e.hide()));a(this).attr("data-code","");a(this).attr("data-fallback-code",
+"");e.removeClass("ai-list-block")})}};a(document).ready(function(d){setTimeout(function(){ai_process_lists();setTimeout(function(){G();if("function"==typeof ai_load_blocks){var l=function(F){"cmplzEnableScripts"!=F.type&&"all"!==F.consentLevel||ai_load_blocks()};jQuery(document).on("cmplzEnableScripts",l);jQuery(document).on("cmplz_event_marketing",l)}},50);jQuery(".ai-debug-page-type").dblclick(function(){jQuery("#ai-iab-tcf-status").text("CONSENT COOKIES");jQuery("#ai-iab-tcf-bar").show()});jQuery("#ai-iab-tcf-bar").click(function(){m("euconsent-v2");
+m("__lxG__consent__v2");m("__lxG__consent__v2_daisybit");m("__lxG__consent__v2_gdaisybit");m("CookieLawInfoConsent");m("cookielawinfo-checkbox-advertisement");m("cookielawinfo-checkbox-analytics");m("cookielawinfo-checkbox-necessary");m("complianz_policy_id");m("complianz_consent_status");m("cmplz_marketing");m("cmplz_consent_status");m("cmplz_preferences");m("cmplz_statistics-anonymous");m("cmplz_choice");m("moove_gdpr_popup");m("real_cookie_banner-blog:1-tcf");m("real_cookie_banner-blog:1");jQuery("#ai-iab-tcf-status").text("CONSENT COOKIES DELETED")})},
+5)})});
+function ai_process_element_lists(a){setTimeout(function(){"function"==typeof ai_process_rotations_in_element&&ai_process_rotations_in_element(a);"function"==typeof ai_process_lists&&ai_process_lists(jQuery(".ai-list-data",a));"function"==typeof ai_process_ip_addresses&&ai_process_ip_addresses(jQuery(".ai-ip-data",a));"function"==typeof ai_process_filter_hooks&&ai_process_filter_hooks(jQuery(".ai-filter-check",a));"function"==typeof ai_adb_process_blocks&&ai_adb_process_blocks(a);"function"==typeof ai_process_impressions&&
+1==ai_tracking_finished&&ai_process_impressions();"function"==typeof ai_install_click_trackers&&1==ai_tracking_finished&&ai_install_click_trackers();"function"==typeof ai_install_close_buttons&&ai_install_close_buttons(document)},5)}
+function getAllUrlParams(a){var n=a?a.split("?")[1]:window.location.search.slice(1);a={};if(n){n=n.split("#")[0];n=n.split("&");for(var B=0;B<n.length;B++){var t=n[B].split("="),G=void 0,u=t[0].replace(/\[\d*\]/,function(m){G=m.slice(1,-1);return""});t="undefined"===typeof t[1]?"":t[1];u=u.toLowerCase();t=t.toLowerCase();a[u]?("string"===typeof a[u]&&(a[u]=[a[u]]),"undefined"===typeof G?a[u].push(t):a[u][G]=t):a[u]=t}}return a};
+jQuery(function(a){function u(e,c){c||(c=window.location.href);e=e.replace(/[\[\]]/g,"\\$&");var f=(new RegExp("[?&]"+e+"(=([^&#]*)|&|#|$)")).exec(c);return f?f[2]?decodeURIComponent(f[2].replace(/\+/g," ")):"":null}function v(e){e.removeClass("ai-ip-data");var c=!1;if(""!=ai_ip_data){try{var f=JSON.parse(ai_ip_data),g=f[0],l=f[1],n=f[2],p=f[3]}catch(d){return}var r=!1;-1!=g.indexOf("#")&&(r=!0,g=g.replace("#",""));var q="";r&&(q="CFP BLOCKED, ");q=q+g+", "+l;null!=n&&null!=p&&(q=q+":"+n+":"+p);null==
+n&&(n="");null==p&&(p="");null!=f&&e.each(function(){var d=a(this).closest("div.code-block");c=!0;var h=a(this).attr("ip-addresses");if("undefined"!=typeof h){h=h.split(",");var t=a(this).attr("ip-address-list"),k=!1;a.each(h,function(w,b){if("*"==b.charAt(0))if("*"==b.charAt(b.length-1)){if(b=b.substr(1,b.length-2),-1!=g.indexOf(b))return k=!0,!1}else{if(b=b.substr(1),g.substr(-b.length)==b)return k=!0,!1}else if("*"==b.charAt(b.length-1)){if(b=b.substr(0,b.length-1),0==g.indexOf(b))return k=
+!0,!1}else if("#"==b){if(""==g)return k=!0,!1}else if("CFP"==b.toUpperCase()){if(r)return k=!0,!1}else if(b==g)return k=!0,!1});switch(t){case "B":k&&(c=!1);break;case "W":k||(c=!1)}}if(c&&(h=a(this).attr("countries"),"undefined"!=typeof h))switch(h=h.split(","),t=a(this).attr("country-list"),k=!1,a.each(h,function(w,b){var m=b.trim().split(":");if(null==m[1]||""==n)m[1]="";if(null==m[2]||""==p)m[2]="";var x=m.join(":").toUpperCase();m=(l+":"+(""==m[1]?"":n)+":"+(""==m[2]?"":p)).toUpperCase();if(x==
+m)return k=!0,!1}),t){case "B":k&&(c=!1);break;case "W":k||(c=!1)}a(this).css({visibility:"",position:"",width:"",height:"","z-index":""});h=a(this).prev(".ai-debug-bar");h.find(".ai-debug-name.ai-ip-country").text(q);h.find(".ai-debug-name.ai-ip-status").text(c?ai_front.visible:ai_front.hidden);c?(d.css({visibility:""}),d.hasClass("ai-remove-position")&&d.css({position:""}),"undefined"!=typeof a(this).data("code")&&(h=b64d(a(this).data("code")),0!=a(this).closest("head").length?(a(this).after(h),
+a(this).remove()):a(this).append(h),a(this).attr("data-code",""),ai_process_element(this))):(a(this).hide(),d.length&&(d.removeAttr("data-ai").removeClass("ai-track"),d.find(".ai-debug-block").length?(d.css({visibility:""}).removeClass("ai-close"),d.hasClass("ai-remove-position")&&d.css({position:""}),"undefined"!=typeof a(this).data("code")&&(d.removeClass("ai-list-block"),d.removeClass("ai-list-block-filter"),d.prev().hasClass("ai-debug-info")&&d.prev().remove())):-1==d.attr("style").indexOf("height:")&&
+d.hide()));d.removeClass("ai-list-block-ip")})}}ai_process_ip_addresses=function(e){e=null==e?a("div.ai-ip-data, meta.ai-ip-data"):e.filter(".ai-ip-data");if(e.length)if("undefined"!=typeof ai_ip_data)v(e);else if("undefined"==typeof ai_ip_data_requested){ai_ip_data_requested=!0;var c="/wp-admin/admin-ajax.php?action=ai_ajax&ip-data=ip-address-country-city",f=u("ai-debug-ip-address");null!=f&&(c+="&ai-debug-ip-address="+f);f=u("ai-debug-country");null!=f&&(c+="&ai-debug-country="+f);a.ajax({url:c,
+type:"post",data:{ai_check:"14730bef1b",ai_version:(new Date).getTime()+"-"+Math.round(1E5*Math.random())},async:!0}).done(function(g){ai_ip_data=g;if(""==g){var l="Ajax request returned empty data, geo-targeting disabled";console.error(l);"undefined"!=typeof ai_js_errors&&ai_js_errors.push([l,c,0])}else try{JSON.parse(g)}catch(n){l="Ajax call returned invalid data, geo-targeting disabled",console.error(l,g),"undefined"!=typeof ai_js_errors&&ai_js_errors.push([l,c,0])}e=a("div.ai-ip-data, meta.ai-ip-data");
+e.length&&v(e)}).fail(function(g,l,n){a("div.ai-ip-data").each(function(){a(this).css({display:"none",visibility:"",position:"",width:"",height:"","z-index":""}).removeClass("ai-ip-data").hide()})})}};a(document).ready(function(e){setTimeout(function(){ai_process_ip_addresses()},5)})});
+function ai_process_element(a){setTimeout(function(){"function"==typeof ai_process_rotations_in_element&&ai_process_rotations_in_element(a);"function"==typeof ai_process_lists&&ai_process_lists(jQuery(".ai-list-data",a));"function"==typeof ai_process_ip_addresses&&ai_process_ip_addresses(jQuery(".ai-ip-data",a));"function"==typeof ai_process_filter_hooks&&ai_process_filter_hooks(jQuery(".ai-filter-check",a));"function"==typeof ai_adb_process_blocks&&ai_adb_process_blocks(a);"function"==typeof ai_process_impressions&&
+1==ai_tracking_finished&&ai_process_impressions();"function"==typeof ai_install_click_trackers&&1==ai_tracking_finished&&ai_install_click_trackers();"function"==typeof ai_install_close_buttons&&ai_install_close_buttons(document)},5)};
+ai_run_834480474693 = function(){
+ai_document_write=document.write;document.write=function(a){"interactive"==document.readyState?(console.error("document.write called after page load: ",a),"undefined"!=typeof ai_js_errors&&ai_js_errors.push(["document.write called after page load",a,0])):ai_document_write.call(document,a)};
+ai_insert ('before', '#masthead', b64d ('PGRpdiBjbGFzcz0nY29kZS1ibG9jayBjb2RlLWJsb2NrLTknIHN0eWxlPSdtYXJnaW46IDA7Jz4KICA8ZGl2IGNsYXNzPSdodGxhZC1vb3AnIGRhdGEtdW5pdD0na2V5dC9uZXdzJz48L2Rpdj48L2Rpdj4K'));
+ai_insert ('before', 'div#story-columns-2 > div > div > div > div > div > article:eq(0)', b64d ('PGRpdiBjbGFzcz0nY29kZS1ibG9jayBjb2RlLWJsb2NrLTQnIHN0eWxlPSdtYXJnaW46IDhweCAwOyBjbGVhcjogYm90aDsnPgogIAogIDxkaXYgY2xhc3M9J2h0bGFkLW1yXzEnIGRhdGEtdW5pdD0na2V5dC9uZXdzJz48L2Rpdj48L2Rpdj4K'));
+ai_insert ('after', 'header#masthead', b64d ('PGRpdiBjbGFzcz0nY29kZS1ibG9jayBjb2RlLWJsb2NrLTEnIHN0eWxlPSdtYXJnaW46IDhweCBhdXRvIDhweDsgdGV4dC1hbGlnbjogY2VudGVyOyBkaXNwbGF5OiBibG9jazsgY2xlYXI6IGJvdGg7Jz4KICAKICA8ZGl2IGNsYXNzPSdodGxhZC1sZWFkZXJib2FyZF8xJyBkYXRhLXVuaXQ9J2tleXQvbmV3cyc+PC9kaXY+PC9kaXY+Cg=='));
+};
+if (document.readyState === 'complete' || (document.readyState !== 'loading' && !document.documentElement.doScroll)) ai_run_834480474693 (); else document.addEventListener ('DOMContentLoaded', ai_run_834480474693);
+ai_js_code = true;
+}
+function ai_wait_for_jquery(){function b(f,c){var a=document.createElement("script");a.src=f;var d=document.getElementsByTagName("head")[0],e=!1;a.onload=a.onreadystatechange=function(){e||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState||(e=!0,c&&c(),a.onload=a.onreadystatechange=null,d.removeChild(a))};d.appendChild(a)}window.jQuery&&window.jQuery.fn?ai_run_scripts():(ai_jquery_waiting_counter++,4==ai_jquery_waiting_counter&&b("https://keyt.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0",function(){b("https://keyt.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=5.9.3",
+null)}),30>ai_jquery_waiting_counter&&setTimeout(function(){ai_wait_for_jquery()},50))}ai_jquery_waiting_counter=0;ai_wait_for_jquery();
+
+</script>
+
+<script type="text/javascript" async src="//cdn.viafoura.net/vf-v2.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"NRJS-a2699dd83e955efc2bf","applicationID":"616955319","transactionName":"MVUHZkJQXkYCUkwPXggfJFFEWF9bTEJRCFYKVQ==","queueTime":0,"applicationTime":748,"atts":"HRIEEApKTUg=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

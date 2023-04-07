@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html>
+<!-- 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+-->
+
+<head><script type="text/javascript" src="/_static/js/bundle-playback.js?v=kjExWF7-" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=Jjml7g96" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://inciweb.nwcg.gov:80/incident/article/4442/26320/","20150807004904","https://web.archive.org/","web","/_static/",
+	      "1438908544");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+<script id="f5_cspm">(function(){var f5_cspm={f5_p:'GGCFONKLLBBPFLDIJIGHHCLGOOBEPICELGFKPMBJMNABLPBLBJNCNFMEMDKAGODFKEABNEIDBIBDNFOOADMMGGJGFCABAONNEPDHEHPEPKDBMNPFIHAJMOLECBINHBCN',setCharAt:function(str,index,chr){if(index>str.length-1)return str;return str.substr(0,index)+chr+str.substr(index+1);},get_byte:function(str,i){var s=(i/16)|0;i=(i&15);s=s*32;return((str.charCodeAt(i+16+s)-65)<<4)|(str.charCodeAt(i+s)-65);},set_byte:function(str,i,b){var s=(i/16)|0;i=(i&15);s=s*32;str=f5_cspm.setCharAt(str,(i+16+s),String.fromCharCode((b>>4)+65));str=f5_cspm.setCharAt(str,(i+s),String.fromCharCode((b&15)+65));return str;},set_latency:function(str,latency){latency=latency&0xffff;str=f5_cspm.set_byte(str,32,(latency>>8));str=f5_cspm.set_byte(str,33,(latency&0xff));str=f5_cspm.set_byte(str,27,2);return str;},wait_perf_data:function(){try{var wp=window.performance.timing;if(wp.loadEventEnd>0){var res=wp.loadEventEnd-wp.navigationStart;if(res<60001){var cookie_val=f5_cspm.set_latency(f5_cspm.f5_p,res);window.document.cookie='aaaaaaaaaaaaaaa='+encodeURIComponent(cookie_val)+';path=/';}
+return;}}
+catch(err){return;}
+setTimeout(f5_cspm.wait_perf_data,100);return;},go:function(){var chunk=window.document.cookie.split(/\s*;\s*/);for(var i=0;i<chunk.length;++i){var pair=chunk[i].split(/\s*=\s*/);if(pair[0]=='f5_cspm'){if(pair[1]=='1234'){var d=new Date();d.setTime(d.getTime()-1);window.document.cookie='f5_cspm=;expires='+d.toUTCString()+';path=/;';setTimeout(f5_cspm.wait_perf_data,100);}}}}}
+f5_cspm.go();}());</script>
+
+<title>InciWeb the Incident Information System: South Complex Closure</title>
+
+<!--[if IE]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<!-- META Stuff -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="language" content="en-US"/>
+<meta name="verify-v1" content="wsNAyrZ5WMeCNO1RfJ0QNAkXGm5vyktiVmBXIiGGCbA="/>
+<meta name="description" content="Information on Click Link for Evacuations &amp; Closures in Hyampom Areas"/>
+<meta name="keywords" content="wildland fire, firefighters, firefighting, forest fire, rangeland fire, fire information, fire resources, coordination, all-risk response"/>
+<meta name="version" content="InciWeb Version 2.4"/>
+<meta name="author" content="InciWeb developed and maintained by  
+								USDA Forest Service, Fire and Aviation Management, 
+								helpdesk@dms.nwcg.gov"/>
+<meta http-equiv="expires" content="Fri, 07 08 2015 23:00:00 GMT"/>
+
+<!-- JS Stuff -->
+<script type="text/javascript" src="/web/20150807004904js_/http://inciweb.nwcg.gov/js/global.js"></script>
+<script type="text/JavaScript" src="/web/20150807004904js_/http://inciweb.nwcg.gov/js/external.js"></script>
+<script type="text/JavaScript" src="/web/20150807004904js_/http://inciweb.nwcg.gov/js/lib/jquery.js"></script>
+<script type="text/JavaScript" src="/web/20150807004904js_/http://inciweb.nwcg.gov/js/show_hide/show_hide.js"></script>
+<script type="text/javascript" src="/web/20150807004904js_/http://inciweb.nwcg.gov/js/thickbox/thickbox-compressed.js"></script>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://web.archive.org/web/20150807004904/https://ssl." : "https://web.archive.org/web/20150807004904/http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+try {
+var gaaccount = "UA-1452839-1";
+//var pageTracker = _gat._getTracker(gaaccount); //deprecated
+var pageTracker = _gat._createTracker(gaaccount);
+//var pageTracker = _gat._getTracker("UA-1452839-1");
+
+// put in customized calls before_trackPageview() methods
+var pgtracker = ".nwcg.gov";
+pageTracker._setDomainName(pgtracker);
+pageTracker._setVisitorCookieTimeout(0);
+pageTracker._setSessionCookieTimeout(0); 
+pageTracker._setCampaignCookieTimeout(0);
+
+pageTracker._trackPageview();
+} catch(err) {
+	//log something
+}
+</script>
+<!-- GA code generated by GA site: Universal Analytics which preferred and will replace ga.js-->
+<script>
+try {
+//  var gaaccount = "UA-1452839-1";
+//  var pgtracker = ".nwcg.gov";
+//  (function(i,s,o,g,r,a,m)
+//		  {i['GoogleAnalyticsObject']=r;
+//		  	i[r]=i[r]||function(){
+//  				(i[r].q=i[r].q||[]).push(arguments)}
+//		  ,i[r].l=1*new Date();
+//		  a=s.createElement(o),
+//		  m=s.getElementsByTagName(o)[0];
+//		  a.async=1;a.src=g;
+//		  m.parentNode.insertBefore(a,m)
+//  })(window,document,'script','//web.archive.org/web/20150807004904/http://www.google-analytics.com/analytics.js','ga');
+
+  //ga('create', 'UA-45949816-1', 'nwcg.gov');
+//  ga('create', gaaccount, 'auto');
+//  ga('send', 'pageview');
+} catch(err) {
+	//log something
+}
+</script>
+<!-- end GA code generated -->
+<!-- Link Stuff -->
+
+		<link rel="alternate" type="application/rss+xml" title="this Incident article feed" href="/web/20150807004904/http://inciweb.nwcg.gov/feeds/rss/articles/incident/4442/"/>
+		
+<!-- Style Stuff -->
+<style type="text/css">
+@import url("/web/20150807004904cs_/http://inciweb.nwcg.gov/style/style.php");
+@import url("/web/20150807004904cs_/http://inciweb.nwcg.gov/style/thickbox.css");
+</style>
+<link rel="stylesheet" media="print" href="/web/20150807004904cs_/http://inciweb.nwcg.gov/style/print.css" type="text/css"/>
+
+</head>
+<body>
+<div id="wrap">
+        <div id="top">
+            <div id="drop_block">
+                <form action="#" method="post" id="form_nav">                
+                <div style="width: 320px; text-align: right;">
+                    <div style="width: 130px; float: left;"><label for="inc_id">Select an incident</label></div>
+                    <div style="width: 160px; display: inline;">
+<!-- 
+cached incident dropdown at 19:44:13
+cached id 56a9c5e8134b5d9e6b44fe62eaecbbec
+-->
+<select name="inc_id" id="inc_id" class="select_width" tabindex="1"><option value="" selected="selected">incident</option><option value="4363">231 Fire</option><option value="4314">Additional Alaska Fires</option><option value="4323">Aggie Creek Fire</option><option value="4370">Alex Camp Road Fire</option><option value="4357">Bakers Camp</option><option value="4457">Bald Knob</option><option value="4437">Baldy Fire</option><option value="4334">Beckwourth Lightning Complex</option><option value="4430">Big Creek Fire</option><option value="4308">Big Five</option><option value="4407">Blankenship Fire</option><option value="4401">Blue Creek Fire</option><option value="4341">Blue Fire</option><option value="4286">Buckskin Fire</option><option value="4328">Bunker Hill Complex</option><option value="4381">Burnt Complex</option><option value="4423">Cabin Fire</option><option value="4400">Cabin Gulch Fire</option><option value="4424">Cable Crossing Fire</option><option value="4282">Chisana River 2 Fire</option><option value="4441">Chorro Fire</option><option value="4461">Collier Butte</option><option value="4289">Commissary Fire</option><option value="4412">Cutca Fire</option><option value="4345">Denali Fires</option><option value="4353">Dennison</option><option value="4445">Dodge Fire</option><option value="4388">Douglas County Complex</option><option value="4458">Finger Rock Fire</option><option value="4428">Fork Complex</option><option value="4427">Frog Fire</option><option value="4444">Gasquet Complex</option><option value="4336">Glacier Rim Fire</option><option value="4268">Guadalupe Fire</option><option value="4350">Hansen Fire</option><option value="4078">Happy Camp Complex</option><option value="4414">High Meadow Fire</option><option value="4303">Hog Fire</option><option value="4332">Hog Fire &quot;saddle Fire&quot;</option><option value="4397">July Lightning Fires</option><option value="4307">Juneau Lake</option><option value="4299">Kearny River Fire</option><option value="4021">Klamath National Forest Lightning Fires</option><option value="4408">Kyburz</option><option value="4302">Lake Fire</option><option value="4346">Lake Post-Fire BAER</option><option value="4301">Locust Fire</option><option value="4368">Long Lake Fire</option><option value="4421">Lowell Fire</option><option value="4436">Mad River Complex</option><option value="4392">Middle Yukon Fires/Ruby Area Fires</option><option value="4275">Modoc NF  Lightning Fires 2015</option><option value="4296">Moore Fire</option><option value="4360">Mt Adams Complex</option><option value="4325">Mt Emma Fire</option><option value="4260">Mud Lake Complex</option><option value="4419">Muddy Creek 2</option><option value="4452">National Creek Complex</option><option value="4459">National Creek Complex</option><option value="4355">Newby Lake Fire</option><option value="4411">North Boulder 2</option><option value="4395">North Fire</option><option value="4305">Paradise Fire</option><option value="4432">Parker Ridge</option><option value="4403">Pc Complex</option><option value="4443">Phillips Creek Fire</option><option value="4416">Pine Ridge</option><option value="4396">Pines</option><option value="4297">Pinon Fire</option><option value="4269">Pinon Park Fire</option><option value="4402">Pool Fire</option><option value="4440">Potter Mountain Complex</option><option value="4311">Red Canyon Fire</option><option value="4405">Reynolds Creek Fire</option><option value="4431">River Complex</option><option value="4448">Rock Fire</option><option value="4404">Rock Point</option><option value="4451">Rocky Fire</option><option value="4450">Rogue River-Siskiyou NF  Area Fires</option><option value="4456">Rough Fire</option><option value="4447">Route Complex</option><option value="4446">Sa Hill</option><option value="4278">Saddle Fire</option><option value="4449">Sheep Creek Fire</option><option value="4399">Shf Lightning</option><option value="4439">Six Rivers July Lightning</option><option value="4417">Solitude</option><option value="4442">South Complex</option><option value="4391">Springs Fire</option><option value="4306">Stetson Creek</option><option value="4426">Stouts Fire</option><option value="4337">Sugarloaf</option><option value="4316">Sunset Rock</option><option value="4324">Tanana Area Fires</option><option value="4384">Tetlin Hills Fire</option><option value="4455">Three Sisters</option><option value="4460">Three Sisters</option><option value="4271">Thunder Creek Fire</option><option value="4356">Twenty-One Mile Grade</option><option value="4454">Twin Fire</option><option value="4317">Washington Fire</option><option value="4371">West Fork Fire</option><option value="4380">Whetstone Ridge</option><option value="4304">Whitetail</option><option value="4364">Williams Fire</option><option value="4413">Willow Fire</option><option value="4354">Wolverine Fire</option><option value="4315">Woodrow Fire</option></select></div>
+                </div>                
+                <div style="width: 320px; text-align: right;">
+                    <div style="width: 130px; float: left;"><label for="state_id">Select a state</label></div>
+                    <div style="width: 160px; display: inline;">
+<!-- 
+cached state dropdown at 19:44:13
+cached id 0a94f14ee4656420f989a28dad297a78
+-->
+<select name="state_id" id="state_id" class="select_width" tabindex="2"><option value="" selected="selected">state</option><option value="1">Alabama</option><option value="2">Alaska</option><option value="3">Arizona</option><option value="4">Arkansas</option><option value="5">California</option><option value="6">Colorado</option><option value="7">Connecticut</option><option value="8">Delaware</option><option value="9">District of Columbia</option><option value="10">Florida</option><option value="11">Georgia</option><option value="12">Hawaii</option><option value="13">Idaho</option><option value="14">Illinois</option><option value="15">Indiana</option><option value="16">Iowa</option><option value="17">Kansas</option><option value="18">Kentucky</option><option value="19">Louisiana</option><option value="20">Maine</option><option value="21">Maryland</option><option value="22">Massachusetts</option><option value="23">Michigan</option><option value="24">Minnesota</option><option value="25">Mississippi</option><option value="26">Missouri</option><option value="27">Montana</option><option value="28">Nebraska</option><option value="29">Nevada</option><option value="30">New Hampshire</option><option value="31">New Jersey</option><option value="32">New Mexico</option><option value="33">New York</option><option value="34">North Carolina</option><option value="35">North Dakota</option><option value="36">Ohio</option><option value="37">Oklahoma</option><option value="38">Oregon</option><option value="39">Pennsylvania</option><option value="40">Puerto Rico</option><option value="41">Rhode Island</option><option value="42">South Carolina</option><option value="43">South Dakota</option><option value="44">Tennessee</option><option value="45">Texas</option><option value="46">Utah</option><option value="47">Vermont</option><option value="48">Virginia</option><option value="49">Washington</option><option value="50">West Virginia</option><option value="51">Wisconsin</option><option value="52">Wyoming</option></select></div>
+                </div>
+                <div><input name="jump" class="button" type="submit" value="go" tabindex="3"/></div>
+                </form>
+            </div>
+        
+            <h1><a href="/web/20150807004904/http://inciweb.nwcg.gov/" title="InciWeb - Incident Information System">InciWeb - Incident Information System</a></h1>
+            <!--  <div class="banner" id="bannerid"><b>The InciWeb system will be unavailable on Monday, Feb 16, 2015.</b></div>-->
+            <p class="hide"><a href="#content">[Skip to content]</a></p>
+    
+            <div id="crumbs"><ul id="navlist"><li><a href="/web/20150807004904/http://inciweb.nwcg.gov/" title="incidents">Incidents</a>&nbsp;&gt; </li><li><a href="/web/20150807004904/http://inciweb.nwcg.gov/state/5/" title="California incidents">California</a>&nbsp;&gt; </li><li><a href="/web/20150807004904/http://inciweb.nwcg.gov/unit/3/" title="Shasta - Trinity National Forest incidents">Shasta - Trinity National Forest</a>&nbsp;&gt; </li><li><a href="/web/20150807004904/http://inciweb.nwcg.gov/incident/4442/" title="South Complex Wildfire information">South Complex</a>&nbsp;&gt; </li><li><a href="/web/20150807004904/http://inciweb.nwcg.gov/incident/closures/4442/" title="South Complex Wildfire Closures">Closures</a>&nbsp;&gt; </li><li class="active">Article</li></ul></div>
+    
+            <h2>South Complex Closure</h2>
+    
+            <div id="main_menu"><ul id="menu"><li><a href="/web/20150807004904/http://inciweb.nwcg.gov/incident/4442/" title="South Complex Wildfire information">Incident Information</a></li><li><a href="/web/20150807004904/http://inciweb.nwcg.gov/incident/announcements/4442/" title="South Complex Wildfire announcements">Announcements</a></li><li><a href="/web/20150807004904/http://inciweb.nwcg.gov/incident/closures/4442/" title="cSouth Complex Wildfire losures">Closures</a></li><li><a href="/web/20150807004904/http://inciweb.nwcg.gov/incident/news/4442/" title="nSouth Complex Wildfire ews releases">News</a></li><li><a href="/web/20150807004904/http://inciweb.nwcg.gov/incident/photographs/4442/" title="South Complex Wildfire photographs">Photographs</a></li><li><a href="/web/20150807004904/http://inciweb.nwcg.gov/incident/maps/4442/" title="South Complex Wildfire maps">Maps</a></li></ul> </div>
+        </div>        
+        
+		<div id="content">
+                        
+     
+         
+		    <h3>Click Link for Evacuations &amp; Closures in Hyampom Areas</h3><p><strong>Incident:</strong> South Complex Wildfire<br/><strong>Released:</strong> 2 days ago</p><p><b style="mso-bidi-font-weight: normal;"><font face="'Times New Roman'" size="3">THE FOLLOWING LIST INCLUDES ALL CURRENT HYAMPOM EVACUATIONS AND CLOSURES·: </font></b></p><font color="#000000"></font><p><b style="mso-bidi-font-weight: normal;"><u><font face="'Times New Roman'" size="3">Mandatory Evacuations as of 6 p.m. on August 4 include residences along:</font></u></b></p><font color="#000000"><p style="margin: 3.75pt 1.5pt; line-height: normal;"><font face="'Times New Roman'" size="3"></font></p><ul style="list-style-type: disc; direction: ltr;"><li style="color: rgb(0, 0, 0); font-style: normal; font-weight: normal;"><p style="color: rgb(0, 0, 0); font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 0pt; mso-list: l0 level1 lfo1;"><font face="'Times New Roman'" size="3">Skunk Ranch area</font></p></li><li 12pt;="" new="" normal;="" normal;"="" roman","serif";="" style="color: rgb(0, 0, 0);" times=""><p 0in;="" 0pt;="" 11pt;="" calibri","sans-serif";="" l0="" level1="" lfo1;"="" normal;="" style="color: rgb(0, 0, 0);"><font face="'Times New Roman'" size="3">End of Kerlin Creek Road </font></p></li><li 12pt;="" new="" normal;="" normal;"="" roman","serif";="" style="color: rgb(0, 0, 0);" times=""><p 0in;="" 0pt;="" 11pt;="" calibri","sans-serif";="" l0="" level1="" lfo1;"="" normal;="" style="color: rgb(0, 0, 0);"><font face="'Times New Roman'" size="3">Corral Bottom area from the intersection of Road 16 and Road 47 to Road 47 to Road 60 and Road 60 into Hyampom</font></p></li></ul><p style="margin: 3.75pt 1.5pt; line-height: normal;"><font face="'Times New Roman'" size="3"> </font></p></font><p style="margin: 3.75pt 1.5pt; line-height: normal;"><font face="'Times New Roman'" size="3"></font></p><p style="margin: 3.75pt 1.5pt; line-height: normal;"><font color="#000000" face="'Times New Roman'" size="3"> </font></p><font color="#000000"></font><p style="margin: 3.75pt 1.5pt; line-height: normal;"><font face="'Times New Roman'" size="3"></font></p><font color="#000000"><p style="margin: 3.75pt 1.5pt; line-height: normal;"><br/><b><u><font face="'Times New Roman'" size="3">Voluntary Evacuations as of 6 p.m. on August 4 include residences along: </font></u></b></p><p style="margin: 3.75pt 1.5pt; line-height: normal;"><font face="'Times New Roman'" size="3"></font></p><p style="margin: 3.75pt 1.5pt; line-height: normal;"><font face="'Times New Roman'" size="3"></font></p><p style="margin: 3.75pt 1.5pt; line-height: normal;"><font face="'Times New Roman'"><font size="3"><b> </b>• Corral Bottom Road Area Voluntary Evacuations - at the intersection of Corral Bottom Road and the five-way cross of 47 Road, all privately owned residences south to the 60 Road and on the 60 Road all private residences in the area of Hidden Lake to Chaparall Mountain.</font></font></p><p style="margin: 3.75pt 1.5pt; line-height: normal;"><font face="'Times New Roman'" size="3"> </font></p></font><p style="margin: 3.75pt 1.5pt; line-height: normal;"><font face="'Times New Roman'"><font size="3"><font color="#000000">• Wintu Flat</font><br/></font></font></p><p style="margin: 3.75pt 1.5pt; line-height: normal;"><font face="'Times New Roman'" size="3"></font></p><p style="margin: 3.75pt 1.5pt; line-height: normal;"><font face="'Times New Roman'"><font size="3"><font color="#000000">• </font>Waldorf Flat <br/><font color="#000000">• </font>Grel Ranch <br/><font color="#000000">• </font>Oak Flat <br/><font color="#000000">• </font>Manzanita Ranch</font></font></p><li 12pt;="" new="" normal;="" normal;"="" roman","serif";="" style="color: rgb(0, 0, 0);" times=""><p 0in;="" 0pt;="" 11pt;="" calibri","sans-serif";="" l0="" level1="" lfo1;"="" normal;="" style="color: rgb(0, 0, 0);"><font face="'Times New Roman'" size="3">• Castle Rock Area-residences in the area of Underwood Mountain Road, Castle Rock and Hog Ranch including 5N40 Road, 5N07 Road, 5N09 Road, Big Lake, Hidden Lake, to 5N60 Road to Mill Creek Road. </font></p></li><p style="margin: 3.75pt 1.5pt; line-height: normal;"><font face="'Times New Roman'" size="3"> </font></p><p style="margin: 3.75pt 1.5pt; line-height: normal;"><font face="'Times New Roman'" size="3"></font></p><p style="margin: 3.75pt 1.5pt; line-height: normal;"><br/><font face="'Times New Roman'" size="3"> </font></p><font color="#000000"></font><p style="margin: 3.75pt 1.5pt; line-height: normal;"><font color="#000000" face="'Times New Roman'" size="3"> </font></p><font color="#000000"></font><p style="margin: 3.75pt 1.5pt; line-height: normal;"><font color="#000000" face="'Times New Roman'" size="3"></font></p><font color="#000000"></font><p style="margin: 3.75pt 1.5pt; line-height: normal;"><font color="#000000" face="'Times New Roman'" size="3"> </font></p><font color="#000000"></font><p style="margin: 3.75pt 1.5pt; line-height: normal;"><b style="mso-bidi-font-weight: normal;"><u><font face="'Times New Roman'" size="3">Road Closure points associated with the fires as of 6 p.m. on August 3</font></u></b></p><p style="margin: 3.75pt 1.5pt; line-height: normal;"><font color="#000000" face="'Times New Roman'" size="3">(In case of evacuation, these routes will not be accessible.)</font></p><font color="#000000"></font><p style="margin: 3.75pt 1.5pt 3.75pt 0in; line-height: normal;"><font color="#000000" face="'Times New Roman'" size="3">• Intersection of Road 47 and Road 60 <br/>• Intersection of Road 16 and Road 47 </font></p><p style="margin: 3.75pt 1.5pt; line-height: normal;"><font face="'Times New Roman'"><font size="2"><font size="3"><font color="#000000">• </font><b style="mso-bidi-font-weight: normal;">All roads associated with the residences listed above</b><br/> <br/>Closures and Evacuations for the Hayfork area may be found under the Fork Complex. </font></font></font></p>
+		</div>
+
+		<!-- end content -->
+
+		<div id="rightnav">
+		<h3 class="right_head">Unit Information</h3><div class="right_block"><img src="/web/20150807004904im_/http://inciweb.nwcg.gov/images/shields/usfs.gif" alt="USFS Shield" id="unit_shield"/><div id="unit_address"><a href="https://web.archive.org/web/20150807004904/http://www.fs.fed.us/r5/shastatrinity/" title="exits web site">Shasta - Trinity National Forest</a><br/>U.S. Forest Service<br/>3644 Avtech Parkway<br/>Redding, CA 96002</div></div><h3 class="right_head">Incident Contact</h3><div class="right_block"><div id="contact">
+<!-- 
+cached column contacts at 19:49:06
+cache id 4b64bedc53f2b305851c21557a69e384
+-->
+<div><strong>South Complex Fire Information</strong><div><span class="smaller">Email: <a href="/web/20150807004904/http://inciweb.nwcg.gov/incident/mail/4442/7063/">STNFSouthComplex@gmail.com</a></span><br/><span class="smaller">Phone: 530 628-0093</span></div></div></div><h3 class="right_head">Recent Articles</h3><div class="right_block"><ul class="right_list">
+<!-- 
+cached column articles at 19:49:06
+cached id 652425b28c0b75ff1c4b2566a409fadd
+-->
+<li><a href="/web/20150807004904/http://inciweb.nwcg.gov/incident/article/4442/26402/">08/06/2015 Morning Update</a><br/><span class="smaller"><strong>News</strong> - 10 hrs. ago</span></li><li><a href="/web/20150807004904/http://inciweb.nwcg.gov/incident/article/4442/26377/">08/05/2015 Morning Update</a><br/><span class="smaller"><strong>News</strong> - 1 day ago</span></li><li><a href="/web/20150807004904/http://inciweb.nwcg.gov/incident/article/4442/26352/">08/04/2015 Evening Update</a><br/><span class="smaller"><strong>News</strong> - 2 days ago</span></li><li><a href="/web/20150807004904/http://inciweb.nwcg.gov/incident/article/4442/26321/">Burnt Ranch Community Meeting 4  PM  on August 6, 2015</a><br/><span class="smaller"><strong>Announcement</strong> - 2 days ago</span></li></ul></div><h3 class="right_head">Related Incident Links</h3><div class="right_block"><ul class="right_list">
+<!-- 
+cached column related links at 19:48:00
+cached id 5ea25a0870a8ecb30005450b19877dc7
+-->
+<li><a href="https://web.archive.org/web/20150807004904/http://www.ncuaqmd.org/files/Wildfire/NCUAQMD%20Advisory%208.4.2015.pdf" rel="external">Air Quality Report for 8/4</a></li><li><a href="https://web.archive.org/web/20150807004904/https://www.facebook.com/USFSShastaTrinityNF?ref=aymt_homepage_panel" rel="external">Shasta-Trinity National Forest Facebook Page</a></li></ul></div><h3 class="right_head">Incident Cooperators</h3><div class="right_block"><ul class="right_list">
+<!-- 
+cached column cooperators at 19:48:00
+cached id e25c9cc536d095f6ed94eef32f595789
+-->
+<li><a href="https://web.archive.org/web/20150807004904/http://www.chp.ca.gov/" rel="external">California Highway Patrol</a></li><li><a href="https://web.archive.org/web/20150807004904/http://www.dot.ca.gov/" rel="external">Caltrans</a></li><li><a href="https://web.archive.org/web/20150807004904/http://www.pge.com/" rel="external">Pacific Gas &amp; Electric</a></li><li><a href="https://web.archive.org/web/20150807004904/http://www.trinitycounty.org/index.aspx?page=80" rel="external">Trinity County Sheriff'S Department</a></li></ul></div><h3 class="right_head">Follow this Incident</h3><div class="right_block"><ul class="feed-list"><li class="twitter"><a href="https://web.archive.org/web/20150807004904/https://twitter.com/search?q=%23SouthComplex" target="_blank">Twitter Feed</a></li><li class="feed-rss"><a href="/web/20150807004904/http://inciweb.nwcg.gov/feeds/rss/articles/incident/4442/" title="this Incident article feed">Article RSS Feed</a></li><li class="feed-ge"><a href="/web/20150807004904/http://inciweb.nwcg.gov/feeds/maps/incident/4442/" title="this Incident GoogleEarth feed">Google Earth Network Feed</a></li></ul><div class="feed-help"><a href="/web/20150807004904/http://inciweb.nwcg.gov/feeds/" class="smaller bold">help&nbsp;&raquo;</a></div></div><h3 class="right_head">Fire Information Websites</h3><div class="right_block"><ul class="feed-list">	
+				<li><a href="/web/20150807004904/http://inciweb.nwcg.gov/links/">Incident Related Links</a></li>	 
+		  		<li><a href="https://web.archive.org/web/20150807004904/http://idahofireinfo.blogspot.com/" target="_blank">Idaho Fire Information</a></li>
+		  		<li><a href="https://web.archive.org/web/20150807004904/http://cdfdata.fire.ca.gov/incidents/incidents_current" target="_blank">CalFire Incident Information</a></li>
+		   		</ul></div><h3 class="right_head">Share This</h3><div class="right_block"><ul class="feed-list">		 
+		  <li class="twitter"><a href="https://web.archive.org/web/20150807004904/http://twitter.com/home/?status=%40inciweb+%23SouthComplex+http%3A%2F%2Finciweb.nwcg.gov%2Fincident%2Farticle%2F4442%2F26320%2F" target="_blank">Twitter</a></li>		 
+		  <li class="facebook"><a href="https://web.archive.org/web/20150807004904/http://www.facebook.com/sharer.php?u=http://inciweb.nwcg.gov/incident/article/4442/26320/" target="_blank">Facebook</a></li>
+		  </ul></div>		</div>   <div id="footer">
+		<ul id="menu_footer">
+			<li><a href="/web/20150807004904/http://inciweb.nwcg.gov/links/">Links</a></li>
+			<li><a href="/web/20150807004904/http://inciweb.nwcg.gov/terminology/">Terminology</a></li>
+			<li><a href="/web/20150807004904/http://inciweb.nwcg.gov/about/">About This Site</a></li>
+			<li><a href="/web/20150807004904/http://inciweb.nwcg.gov/help/">Help</a></li>
+            <li><a href="/web/20150807004904/http://inciweb.nwcg.gov/disclaimer/">Disclaimer</a></li>
+			<li><a href="/web/20150807004904/http://inciweb.nwcg.gov/feeds/">Feeds</a></li>
+			<li><a href="https://web.archive.org/web/20150807004904/https://nap.nwcg.gov/NAP/" target="_blank">Log In</a></li>
+		</ul>
+	</div>
+	<!-- end footer -->
+</div>
+<!-- end wrap -->
+<div id="nifc_agencies">
+<a href="https://web.archive.org/web/20150807004904/http://www.nwcg.gov/" title="National Wildfire Coordinating Group"><img src="/web/20150807004904im_/http://inciweb.nwcg.gov/images/shields/nwcg.gif" alt="National Wildfire Coordinating Group" width="50" height="53"/></a>
+<a href="https://web.archive.org/web/20150807004904/http://www.fs.fed.us/fire/" title="U.S. Forest Service"><img src="/web/20150807004904im_/http://inciweb.nwcg.gov/images/shields/usfs.gif" alt="U.S. Forest Service" width="50" height="53"/></a>
+<a href="https://web.archive.org/web/20150807004904/http://www.fire.blm.gov/" title="Bureau of Land Management"><img src="/web/20150807004904im_/http://inciweb.nwcg.gov/images/shields/blm.gif" alt="Bureau of Land Managemen" width="50" height="46"/></a>
+<a href="https://web.archive.org/web/20150807004904/http://www.bia.gov/nifc" title="Bureau of Indian Affairs"><img src="/web/20150807004904im_/http://inciweb.nwcg.gov/images/shields/bia.gif" alt="Bureau of Indian Affairs" width="70" height="70"/></a>
+<a href="https://web.archive.org/web/20150807004904/http://www.fws.gov/fire" title="Fish and Wildlife Service"><img src="/web/20150807004904im_/http://inciweb.nwcg.gov/images/shields/fws.gif" alt="Fish and Wildlife Service" width="50" height="61"/></a>
+<a href="https://web.archive.org/web/20150807004904/http://www.nps.gov/fire" title="National Park Service"><img src="/web/20150807004904im_/http://inciweb.nwcg.gov/images/shields/nps.gif" alt="National Park Service" width="50" height="65"/></a>
+<a href="https://web.archive.org/web/20150807004904/http://www.stateforesters.org/" title="National Association of State Foresters"><img src="/web/20150807004904im_/http://inciweb.nwcg.gov/images/shields/nasf.gif" alt="National Association of State Foresters" width="72" height="72"/></a>
+<a href="https://web.archive.org/web/20150807004904/http://www.usfa.fema.gov/" title="U.S. Fire Administration"><img src="/web/20150807004904im_/http://inciweb.nwcg.gov/images/shields/usfa.gif" alt="U.S. Fire Administration" width="50" height="64"/></a>
+</div>
+
+
+<div id="disclaimer">Content posted to this website is for information purposes only.</div>
+
+<div id="performance"> 
+version: 2.4&nbsp; &nbsp; &nbsp; 
+load time: 0.00034 sec.
+</div>
+
+
+</body>
+</html><!--
+     FILE ARCHIVED ON 00:49:04 Aug 07, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:24:54 Feb 06, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 153.409
+  exclusion.robots: 0.069
+  exclusion.robots.policy: 0.062
+  RedisCDXSource: 3.194
+  esindex: 0.007
+  LoadShardBlock: 131.318 (3)
+  PetaboxLoader3.datanode: 101.646 (4)
+  CDXLines.iter: 16.313 (3)
+  load_resource: 252.726
+  PetaboxLoader3.resolve: 230.451
+-->

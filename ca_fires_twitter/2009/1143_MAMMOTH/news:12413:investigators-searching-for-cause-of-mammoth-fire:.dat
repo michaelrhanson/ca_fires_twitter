@@ -1,0 +1,1718 @@
+
+
+<!DOCTYPE html>
+<html id="ctl00_ctl00_mainhtml" xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head id="ctl00_ctl00_Head1">
+
+   <script type="text/javascript">
+      if (window.name == "refresh")
+      {
+         window.stop();
+         window.location.replace(window.location.pathname + window.location.search + window.location.hash);
+         window.name = "";
+      }
+   </script>
+   
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+   <link rel="stylesheet" type="text/css" href="https://media.myteamscoop.com/css/smartBanner.css?v=1.14.5.29039" media="screen" />
+   <link rel="stylesheet" type="text/css" href="https://media.myteamscoop.com/css/common.css?v=1.14.5.29039" />
+   <link rel="stylesheet" type="text/css" href="https://media.myteamscoop.com/css/fontawesome/fontawesome.min.css?v=1.14.5.29039" />
+   
+   
+      <meta name="apple-itunes-app" content="app-id=523219414,app-argument=https://goldcountrymedia.com/news/12413/investigators-searching-for-cause-of-mammoth-fire/" />
+      
+      <meta name="google-play-app" content="app-id=com.presteligence.goldcountry" />
+      
+
+   <script type="text/javascript" src="https://media.myteamscoop.com/js/jquery.js?v=1.14.5.29039"></script>
+
+   <script type="text/javascript">
+      var _fbClientId = "309214499646406",
+         _fbTarget = window.location.pathname,
+         _baseUri = "https://myteamscoop.com/",
+         _webUri = "https://goldcountrymedia.com",
+         _mediaUrl = "https://media.myteamscoop.com/",
+         _logoTemplate = "https://media.myteamscoop.com/logo/%%TEAM_ID%%/97",
+         _schoolTemplate = "https://media.myteamscoop.com/logo/%%SCHOOL_ID%%/school/%%SPORT_ID%%/97",
+         _MTS_PHOTO_TEMPLATE = "https://media.myteamscoop.com/image/%%IMG_ID%%/%%SIZE%%/%%TEAM_ID%%/%%USER_ID%%/%%TYPE%%/97",
+         _portalId = 97,
+         _portalName = "Gold Country Media",
+         _portalUrl = "https://goldcountrymedia.com/",
+         _twitterName = "",
+         _facebookName = "",
+         _region = "Gold Country",
+         _MTS_widgetsReady = false,
+         _MTS_userId = -1,
+         _MTS_urlRegex = new RegExp("[|+<>\\*%&:\\?\\/\\\\\'.\"\\r\\n#]", "g"),
+         _isAdmin = false,
+         _warnAboutRejected = false,
+         _MTS_cssList = [],
+         _MTS_jsList = [],
+         _MTS_pageVP = "~/PortalNews.aspx",
+         _MTS_pageId = 0,
+         _MTS_histCount = 0,
+         _MTS_sportsEnabled = false,
+         _MTS_uploadLimit = 41943040,
+         
+         _hasAlerts = false,
+         _registrationPop = false,
+         _targetList = "team,".split(',');
+   </script>
+
+   
+   <!--[if lt IE 9]>
+      <link rel="stylesheet" type="text/css" href="../../../%3C%25=SportsApp.Core.MediaUrl%20%25%3Ecss/?pid=&lt;%=_portal.Id %>&amp;ie=1&amp;v=&lt;%=SportsApp.Core.Version %>" />
+   <![endif]-->
+   
+
+<script type="text/javascript">
+   
+      var _gaq = _gaq || [];
+      
+         _gaq.push(['_setAccount', 'UA-32025052-1']);
+         _gaq.push(['_setCustomVar', 1, 'Portal', '97', 2]);
+         _gaq.push(['_trackPageview', 'Investigators searching for cause of Mammoth fire | Gold Country Media?[portalNewsId, 12413], [title, investigators-searching-for-cause-of-mammoth-fire]']);
+      
+
+      (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = 'https://ssl.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+   
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-309298-41', 'auto');
+       
+         ga('send', 'pageview',
+         {
+            
+               'dimension1': "Investigators searching for cause of Mammoth fire | Gold Country Media",
+               'dimension2': "[portalNewsId, 12413], [title, investigators-searching-for-cause-of-mammoth-fire]"
+         });
+      
+
+   var _pageName = "Investigators searching for cause of Mammoth fire | Gold Country Media";
+   var _ga_sport = "";
+   var _ga_school = "";
+   var _ga_guid = "12413";
+   var _ga_author = "Jenifer Gee\nJournal Staff Writer\n";
+   var _ga_pagetype = "portalnews";
+   var _ga_tags = "";
+</script>
+
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+	googletag.defineSlot('/1006431/CR_staff_main_Footer_728x90', [728, 90], 'main_footer').addService(googletag.pubads());
+	googletag.defineSlot('/1006431/CR_staff_main_impact_300x250', [[300, 250], [300, 600]], 'main_impact').addService(googletag.pubads());
+	googletag.defineSlot('/1006431/CR_legacy_300x250', [300, 250], 'legacy_300x250').addService(googletag.pubads());
+	googletag.defineSlot('/1006431/cr_staff_in_article_300x250', [300, 250], 'article_300x250').addService(googletag.pubads());
+	googletag.defineSlot('/1006431/cr_lower_impact_300x250', [300, 250], 'lower_impact_300x250').addService(googletag.pubads());
+	googletag.defineSlot('/1006431/gcm_apex', [300, 250], 'apex_300x250').addService(googletag.pubads());
+	googletag.defineSlot('/1006431/CR_Homepage_Promo_1', [180, 150], 'home_promo').addService(googletag.pubads());
+	googletag.defineSlot('/1006431/GCM_Publication_Navigation', [300, 100], 'dfp_pub_nav').addService(googletag.pubads());
+	googletag.defineSlot('/1006431/CR_Living_Navigation', [300, 100], 'dfp_living_nav').addService(googletag.pubads());
+	googletag.defineSlot('/1006431/CR_Sports_Navigation', [300, 100], 'dfp_sports_nav').addService(googletag.pubads());
+	googletag.defineSlot('/1006431/CR_Obituary_Navigation', [300, 100], 'dfp_obit_nav').addService(googletag.pubads());
+	googletag.defineSlot('/1006431/CR_News_Navigation', [300, 100], 'dfp_news_nav').addService(googletag.pubads());
+	googletag.defineSlot('/1006431/CR_Multimedia_Navigation', [300, 100], 'dfp_multi_nav').addService(googletag.pubads());
+	googletag.defineSlot('/1006431/CR_Opinion_Navigation', [300, 100], 'dfp_opinion_nav').addService(googletag.pubads());
+	googletag.defineSlot('/1006431/GCM_classifieds_navigation', [300, 100], 'dfp_class_nav').addService(googletag.pubads());
+
+
+
+	var urlPath = window.location.pathname.toLowerCase().split('/').filter(function (ret) { return ret.length > 0 ? ret : ""; });
+
+	var site = "";
+	var section = "";
+	var subscriber = _MTS_userId > 0 ? "yes" : "no";
+
+	if (urlPath.length >= 1)
+	{
+		if (urlPath[0] === "news-category")
+		{
+			section = urlPath[1];
+		}
+		else if (urlPath[0] === "portal.aspx")
+		{
+			section = "homepage";
+		}
+		else if (urlPath[0] === "live-content")
+		{
+			switch (urlPath[1])
+			{
+				case "auburn-journal":
+				case "lincoln-news-messenger":
+				case "the-folsom-telegraph":
+				case "the-press-tribune":
+				case "placer-herald":
+				case "the-loomis-news": 
+					site = urlPath[1].replace(/-/g, ' ');
+					break;
+				default:
+					break;
+			}
+		}
+	}
+	else
+	{
+		section = "homepage";
+	}
+
+	googletag.pubads().setTargeting("site", site);
+	googletag.pubads().setTargeting("section", section);
+	googletag.pubads().setTargeting("subscriber", subscriber);
+
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+<style>
+body, .masterMcWrap {background: #ffffff !important;}
+.masterMcWrap {min-height: 768px} /*PREVENT FOOTER FROM SNAPPING TO TOP OF PAGE ON PAGE LOAD*/
+.rounded, .mRounded, .fRounded {
+border-radius: 0px 0px 0px 0px !important;
+-webkit-border-radius: 0px 0px 0px 0px !important;
+-moz-border-radius: 0px 0px 0px 0px !important;
+}
+
+@font-face {
+font-family:"futura-pt";
+src:url("https://use.typekit.net/af/309dfe/000000000000000000010091/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/309dfe/000000000000000000010091/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/309dfe/000000000000000000010091/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"futura-pt";
+src:url("https://use.typekit.net/af/eb729a/000000000000000000010092/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/eb729a/000000000000000000010092/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/eb729a/000000000000000000010092/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+font-style:italic;font-weight:700;
+}
+
+@font-face {
+font-family:"futura-pt";
+src:url("https://use.typekit.net/af/9b05f3/000000000000000000013365/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/9b05f3/000000000000000000013365/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/9b05f3/000000000000000000013365/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"futura-pt";
+src:url("https://use.typekit.net/af/cf3e4e/000000000000000000010095/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/cf3e4e/000000000000000000010095/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/cf3e4e/000000000000000000010095/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+font-style:italic;font-weight:400;
+}
+
+@font-face {
+font-family:"futura-pt-condensed";
+src:url("https://use.typekit.net/af/6f8764/000000000000000000012039/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/6f8764/000000000000000000012039/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/6f8764/000000000000000000012039/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"futura-pt-condensed";
+src:url("https://use.typekit.net/af/082b7c/00000000000000000001203a/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/082b7c/00000000000000000001203a/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/082b7c/00000000000000000001203a/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+font-style:italic;font-weight:400;
+}
+
+@font-face {
+font-family:"futura-pt-condensed";
+src:url("https://use.typekit.net/af/64e0cf/00000000000000000001203d/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/64e0cf/00000000000000000001203d/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/64e0cf/00000000000000000001203d/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"futura-pt-condensed";
+src:url("https://use.typekit.net/af/e6a9c1/00000000000000000001203e/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/e6a9c1/00000000000000000001203e/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/e6a9c1/00000000000000000001203e/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+font-style:italic;font-weight:700;
+}
+
+@font-face {
+font-family:"futura-pt-bold";
+src:url("https://use.typekit.net/af/053fc9/00000000000000003b9af1e4/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/053fc9/00000000000000003b9af1e4/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/053fc9/00000000000000003b9af1e4/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"futura-pt-bold";
+src:url("https://use.typekit.net/af/72575c/00000000000000003b9af1e5/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/72575c/00000000000000003b9af1e5/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/72575c/00000000000000003b9af1e5/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+font-style:italic;font-weight:700;
+}
+
+body {font-family: 'futura-pt', helvetica, arial, sans-serif;}
+</style>
+
+<script>
+$(document).one("widgetsloaded", function() {
+$(".fa-newspaper").attr("href", "https://www.mynewsonthego.com/GoldCountry/SignIn.aspx");
+$(".fa-newspaper").attr("target", "_blank");
+
+var hi = $(".headerItem:contains('subscribe')");
+hi.attr("href", "https://cloud2.brehm.pub/scripts/WebObjects.exe/MVDNGoldCountrySelfServ.woa/");   
+hi.attr("target", "_blank");
+
+$(".navTools .headerItem").first().attr("href", "/live-content/subscribe");
+
+if(window.location.href.indexOf("/user/login/") > -1) {
+   $("a[title='Not a Subscriber']").attr("href", "https://goldcountrymedia.com/live-content/subscribe/");
+}
+});
+</script>
+
+<script>
+$(document).one("widgetsloaded", function() {
+  var eeb = $(".eeditionBigdrop");
+  eeb.detach();
+  eeb.insertAfter(".sportsList");
+
+  var eec = $(".eEditionCtr");
+  eec.addClass("eeditionHide");
+
+  $("#list_35").on("mouseenter", function() {
+    $(".eeditionBigdrop").addClass("ebdShow");
+    alert("hello");
+    $("#ee36.eEditionCtr").removeClass("eeditionHide");
+  });
+
+  var idn = ["36", "37", "38", "39", "40", "41"];
+
+  for (i = 0; i < idn.length; i++) {
+    $("#pmi_custompage_" + idn[i]).on("mouseenter", function() {
+      $(".eeditionBigdrop").addClass("ebdShow");
+      var id = $(this).attr("id").split("pmi_custompage_").join("");
+      $(".eEditionCtr").addClass("eeditionHide");
+      $("#ee" + id).removeClass("eeditionHide");
+    });
+  }
+
+  $(".menuDropBg").on("mouseleave", function() {
+    $(".eeditionBigdrop").removeClass("ebdShow");
+  });
+});
+</script>
+
+<style type="text/css">
+.eeditionBigdrop {
+  float: left;
+  position: relative;
+  width: 130px;
+  height: 260px;
+  margin: 20px 0px;
+  display: none;
+}
+
+.ebdShow {
+  display: block;
+}
+
+#ee36, #ee37, #ee38,
+#ee39, #ee40, #ee41 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 130px;
+  height: 260px;
+}
+
+.eEditionCtr {
+  float: left;
+  clear: both;
+  position: relative;
+  width: 130px;
+  height: 260px;
+  overflow: hidden;
+  color: unset;
+  text-align: center;
+  margin-bottom: 20px;
+  z-index: 1;
+  opacity: 1;
+  transition: opacity 500ms, z-index 250ms, border 250ms;
+  -webkit-transition: opacity 500ms, z-index 250ms, border 250ms;
+  -moz-transition: opacity 500ms, z-index 250ms, border 250ms;  
+  border: solid 5px transparent;
+}
+
+.eEditionCtr:hover {
+  border: solid 5px #ffcc04;
+}
+
+.eeditionHide {
+  opacity: 0;
+  z-index: 0;
+}
+
+.eEditionImg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 120px !important;
+  height: 250px !important;
+}
+
+.eEditionDate {
+  line-height: 30px;
+  font-size: .8em;
+  width: 100%;
+  padding: 0px 10px;
+  font-weight: unset;
+  text-align: left;
+}
+
+.eEditionDate span {
+  float: right;
+}
+</style>
+
+<script>
+
+!function(s,a,e,v,n,t,z){if(s.saq)return;n=s.saq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!s._saq)s._saq=n;n.push=n;n.loaded=!0;n.version='1.0';n.queue=[];t=a.createElement(e);t.async=!0;t.src=v;z=a.getElementsByTagName(e)[0];z.parentNode.insertBefore(t,z)}(window,document,'script','https://tags.srv.stackadapt.com/events.js');saq('ts', 'JGgBslmnqU5o-vh158IbZA');
+
+</script>
+
+
+   
+   <!-- Facebook Metadata -->
+   
+   <meta property="og:image" content="http://cf7a1f0618441e31bb02-6c98f771acd871eb8c8fdc2f5fa1b652.r46.cf1.rackcdn.com/0/0/0/0/145/233/145233_original" />
+   <meta property="og:image:secure_url" content="https://42428ff44a0f17038fd4-6c98f771acd871eb8c8fdc2f5fa1b652.ssl.cf1.rackcdn.com/0/0/0/0/145/233/145233_original" />
+   <meta property="og:image:width" content="500" />
+   <meta property="og:image:height" content="261" />
+   <meta property="og:type" content="article" />
+   <meta property="fb:app_id" content="309214499646406" />
+   <meta property="og:url" content="https://goldcountrymedia.com/news/12413/investigators-searching-for-cause-of-mammoth-fire/" />
+   <meta property="og:title" content="Investigators searching for cause of Mammoth fire" />
+   <meta property="og:description" content="Crews held 643-acre fire at Foresthill Road ridge" />
+
+   <!-- Twitter Metadata -->
+   
+   <meta name="twitter:card" content="summary_large_image" />
+   <meta name="twitter:site" content="@" />
+   <meta name="twitter:title" content="Investigators searching for cause of Mammoth fire" />
+   <meta name="twitter:description" content="Crews held 643-acre fire at Foresthill Road ridge" />
+   <meta name="twitter:image" content="https://42428ff44a0f17038fd4-6c98f771acd871eb8c8fdc2f5fa1b652.ssl.cf1.rackcdn.com/0/0/0/0/145/233/145233_original" />
+   <meta name="twitter:image:alt" content="" />
+   
+   
+   <!-- SEO Metadata -->
+   <meta name="description" content="Crews held 643-acre fire at Foresthill Road ridge" />
+   <meta name="keywords" content="" />
+   <meta name="robots" content="index, follow">
+   <link rel="canonical" href="https://goldcountrymedia.com/news/12413/investigators-searching-for-cause-of-mammoth-fire/" />
+   
+   <!-- Google+ Metadata -->
+   <meta itemprop="name" content="Investigators searching for cause of Mammoth fire" />
+   <meta itemprop="description" content="Crews held 643-acre fire at Foresthill Road ridge">
+   <meta itemprop="image" content="https://42428ff44a0f17038fd4-6c98f771acd871eb8c8fdc2f5fa1b652.ssl.cf1.rackcdn.com/0/0/0/0/145/233/145233_original">
+   
+
+
+   
+   <link rel="shortcut icon" href="https://media.myteamscoop.com/images/custom/97/favicon.ico" />
+   
+      <link rel="stylesheet" type="text/css" href="https://media.myteamscoop.com/css/?custom=true&pid=97" />
+   
+   <link rel="stylesheet" type="text/css" href="https://media.myteamscoop.com/css/oneColumn.css?v=1.14.5.29039" />
+   <link rel="Stylesheet" type="text/css" href="https://media.myteamscoop.com/css/?v=1.14.5.29039&pid=97" />
+
+   <script type="text/javascript">
+      _MTS_cssList.push("css/jQueryExtensions/jquery-ui.css", "css/popUpDialog.css");
+      _MTS_jsList.push("js/signin.js", "js/popUpDialog.js", "js/oneCol.js");
+      var _timeout = 1140000;
+      var _sessionTimeout = 1200000;
+      var __redirectTo = "/news/12413/investigators-searching-for-cause-of-mammoth-fire/";
+      var _COMMON_isTablet = false;
+      var _encodedPathAndQuery = "%2fnews%2f12413%2finvestigators-searching-for-cause-of-mammoth-fire%2f",
+         _MTS_SEOALT = "Investigators searching for cause of Mammoth fire",
+      _homePageUrl = "/";
+   </script>
+      
+   <script type="text/javascript">
+      _returnPageLink = "/";
+      
+      var _isTablet = _COMMON_isTablet;
+      var _portalId = 97;
+   </script>
+
+   
+
+<title>
+	Investigators searching for cause of Mammoth fire | Gold Country Media
+</title><meta name="description" content="Crews held 643-acre fire at Foresthill Road ridge" /></head>
+
+   
+<body >
+   
+   
+   
+
+   <div class="background"></div>
+   <div id="fb-root"></div>
+
+
+
+   <noscript>You must have javascript enabled to view this site.</noscript>
+
+   <div class="alwaysMobileBg"></div>
+   
+   <div class="busySpinnerBg">
+      <div class="closeSpinner"><i class="fas fa-times"></i></div>
+      <img class="busySpinner" src="https://media.myteamscoop.com/images/busySpinner.gif" alt="" />
+   </div>
+
+   
+	<div class="navigation_admin_menu_widget">
+		<input type="hidden" name="id" value="" />
+		<input type="hidden" name="abovethefold" value="true" />
+	</div>
+   
+      <div class="custom_header_widget">
+		   <input type="hidden" name="abovethefold" value="true" />
+      </div>
+      
+
+<script type="text/javascript">
+   _MTS_jsList.push("js/content/mobileSelectors.js");
+</script>
+   <div class="emailRejected" style="display: none;">
+      <div class="rejectTop">
+         <div class="rejectedTitle">Email Rejected!</div>
+         <div class="rejectHide">x</div>
+      </div>
+      <div class="rejectedInfo">
+         We attempted to send a notification to your email address but we were unable to verify that you provided a valid email address.
+         Please click <a class="emailLink" href="/user/edit/">here</a> to update your email address if you wish to receive notifications.
+         Otherwise, you may click <a class="emailLink" href="javascript:fireEmailRejected()">here</a> to disable notifications and hide this message.
+      </div>
+   </div>
+
+   
+
+   <div class="masterMcWrap">
+      <div id="logged_nav">
+	      
+
+      </div>
+      <div id="timeout">
+         <div class="tText n">
+            Your session was unable to be renewed and will be expiring in <span id="tTimer">0</span> seconds. 
+            Click <span id="tRenew">here</span> to attempt to renew your session.
+
+            <div id="tStatus"></div>
+         </div>
+      </div>
+
+      
+   
+
+   <div id="newsItem" class="innerSec group">
+      
+
+<script>_MTS_jsList.push("js/tracking.js");</script>
+
+<script type="text/javascript">
+   _rated = false;
+   _rating = 0;
+   _articleId = 12413;
+   _articleTitle = "Investigators searching for cause of Mammoth fire";
+   _featureImageId = 0;
+   _isFeatured = false;
+
+   
+
+   _selectedAlbum = {"images":[]};
+   var _activeContainer = {"portals":[{"id":97,"url":"https://42428ff44a0f17038fd4-6c98f771acd871eb8c8fdc2f5fa1b652.ssl.cf1.rackcdn.com","domain":""}]};
+
+</script>
+
+
+      <div id="previousStoryTitle" class="ns_12412" title="Board member scheduled for July court appearance">
+         <input type="hidden" id="nsUrl_12412" value="news/12412/board-member-scheduled-for-july-court-appearance/" />
+         <img src="https://media.myteamscoop.com/images/whiteLeftArrow.png" alt="" />
+         <div class="mStoryTitle">Board member scheduled for July court appearance</div>
+      </div>
+   <div class='innerSec group'><div id='mts_r_0' class='widget_region' style='text-align:center'><input type='hidden' name='reg_width' value='100.00' /><input type='hidden' name='reg_margin_left' value='0.00' /><input type='hidden' name='reg_margin_right' value='0.00' /><input type='hidden' name='reg_width_med' value='100.00' /><input type='hidden' name='reg_margin_left_med' value='0.00' /><input type='hidden' name='reg_margin_right_med' value='0.00' /><input type='hidden' name='reg_width_tablet' value='100.00' /><input type='hidden' name='reg_margin_left_tablet' value='0.00' /><input type='hidden' name='reg_margin_right_tablet' value='0.00' /><input type='hidden' name='reg_pixel' value='False' /><input type='hidden' name='reg_innerSec' value='True' /><div id='mts_c_0' class='widget_column' style='display:inline-block;vertical-align:top;text-align:initial;'><input type='hidden' name='col_width' value='850.00' /><input type='hidden' name='col_margin_left' value='0.00' /><input type='hidden' name='col_margin_right' value='20.00' /><input type='hidden' name='col_width_med' value='640.00' /><input type='hidden' name='col_margin_left_med' value='0.00' /><input type='hidden' name='col_margin_right_med' value='20.00' /><input type='hidden' name='col_width_tablet' value='408.00' /><input type='hidden' name='col_margin_left_tablet' value='0.00' /><input type='hidden' name='col_margin_right_tablet' value='20.00' /><input type='hidden' name='col_pixel' value='True' /><div class='photo_slider_widget'><input type='hidden' name='id' value='12413' /><input type='hidden' name='types' value='PortalNews' /><input type='hidden' name='hideHeader' value='true' /><input type='hidden' name='sliderMode' value='NewsItem' /><input type='hidden' name='includeAuthor' value='true' /></div><div class='news_content_widget'><input type='hidden' name='id' value='12413' /><input type='hidden' name='showPrintData' value='true' /></div><div class='custom_break_widget'><style>
+.storyWrapper {
+   padding: 20px;
+}
+
+#edit.featUntil {
+   margin-bottom: 0px;
+}
+
+.photo_slider_widget #featLink {
+   height: auto !important;
+   float: none;
+   display: inline-block;
+}
+
+#featSty.whiteNews,
+.photo_slider_widget #featLink {
+   height: auto !Important;
+   white-space: unset !important;
+   overflow: unset !important;
+}
+
+.photo_slider_widget .featuredInfo {
+   padding: 20px 20px 0px 20px !important;
+}
+
+.featSmall .featReduced {
+   font-weight: bold;
+   text-align: right;
+}
+
+@media all and (min-width: 768px) {
+   .storyWrapper {
+      padding: 30px 0px;
+   }
+
+   #edit.featUntil {
+      padding: 10px 0px;
+      margin-bottom: 0px;
+   }
+
+   .photo_slider_widget .featuredInfo {
+      padding: 20px 0px 0px 0px !important;
+   }
+
+   #mts_c_0 {
+      width: calc(100% - 320px) !important;
+   }
+}
+</style>
+
+<script type="text/javascript">
+$(document).one("widgetsloaded", function ()
+{
+MTS_purgeList(_MTS_jsList, true);
+});
+</script></div></div><div id='mts_c_1' class='widget_column' style='display:inline-block;vertical-align:top;text-align:initial;'><input type='hidden' name='col_width' value='300.00' /><input type='hidden' name='col_margin_left' value='0.00' /><input type='hidden' name='col_margin_right' value='0.00' /><input type='hidden' name='col_width_med' value='300.00' /><input type='hidden' name='col_margin_left_med' value='0.00' /><input type='hidden' name='col_margin_right_med' value='0.00' /><input type='hidden' name='col_width_tablet' value='300.00' /><input type='hidden' name='col_margin_left_tablet' value='0.00' /><input type='hidden' name='col_margin_right_tablet' value='0.00' /><input type='hidden' name='col_pixel' value='True' /><div class='custom_break_widget'><div id='apex_300x250' class='dfpAd' data-fronttarget='pos' data-backtarget='atf' data-sizes='[[300,250]' data-slot='' >
+        <script type='text/javascript'>
+$(document).one("widgetsloaded", function()
+	{
+                googletag.cmd.push(function() {
+                        googletag.display('apex_300x250');
+                        
+                });
+});
+            </script>
+</div>
+
+<style>
+.dfpAd {margin-bottom: 20px;}
+</style></div><div class='custom_break_widget'><style type="text/css">
+
+.nlSignup {
+    padding: 20px;
+    width: 100%;
+    float: left;
+    clear: both;
+    background: #efefef;
+    margin-bottom: 20px;
+    }
+
+.bigType {
+    font-size: 1.25em;
+    font-weight: bold;
+    margin-bottom: 10px;
+    line-height: 20px;
+    float: left;
+    }
+
+.smallType {
+    float: left;
+    clear: both;
+    width: 100%;
+    line-height: 20px;
+    }
+
+.smallTypeBtn {
+    float: left;
+    clear: both;
+    width: 100%;
+    line-height: 30px;
+    font-size: .9em;
+    color: #ffffff;
+    margin: 10px 0px 0px 0px;
+    text-align: center;
+    background-color: #000 !important;
+    }
+</style>
+
+<div class="nlSignup rounded">
+<span class="bigType">Sign up for our Newsletters!</span> 
+<span class="smallType">Today's news in your inbox</span>
+<a href="/live-content/newsletter-sign-up" class="smallTypeBtn mts_cc_button">Sign up Now!</a>
+</div></div><div class='custom_break_widget'><style type="text/css">
+
+a.catHead {
+   clear: both;
+   padding: 10px;
+   width: 100%;
+   font-weight: 800;
+   display: inline-block;
+   font-size: 1.25em !important;
+   float: left;
+   background: #ffcc04;
+   color: #ffffff !important;;
+} 
+
+.trending_media_widget .trendingListCont {
+   padding: 10px;
+}
+
+a.mts_cc_text.trendingLink {
+   color: #000000 !important;
+}
+
+.trending_media_widget .trendingRow {
+   font-size: .9em;
+   background: #efefef;
+   padding: 10px;
+   line-height: unset;
+   border-bottom: solid 1px #bbbbbb;
+   font-weight: 800;
+}
+
+.trending_media_widget .trendingRow:last-of-type {
+   border-bottom: none;
+}
+
+@media all and (min-width: 768px) {
+   .catHead {
+      padding: 0px;
+   }
+
+   .trending_media_widget .trendingListCont {
+      padding: 0px;
+   }
+}
+</style>
+
+<a class="catHead mts_cc_text group" href="/news-category/news/1/">TOP STORIES</a></div><div class='custom_break_widget'><div class="trending_media_widget">
+	<input type="hidden" name="types" value="NewsItem">
+	<input type="hidden" name="phrase" value="">
+	<input type="hidden" name="searchType" value="Trending">
+	<input type="hidden" name="itemStart" value="">
+	<input type="hidden" name="itemCount" value="8">
+	<input type="hidden" name="excludeTypes" value="">
+	<input type="hidden" name="excludeId" value="">
+	<input type="hidden" name="excludeType" value="">
+	<input type="hidden" name="displayType" value="">
+	<input type="hidden" name="hideHeader" value="true">
+	<input type="hidden" name="renameHeader" value="TOP STORIES">
+	<input type="hidden" name="searchStatus" value="">
+	<input type="hidden" name="taggedTypes" value="">
+	<input type="hidden" name="varyByColor" value="">
+	<input type="hidden" name="secondaryData" value="">
+	<input type="hidden" name="secondaryDataColor" value="">
+</div></div><div class='custom_break_widget'><div id='main_impact' class='dfpAd' data-fronttarget='pos' data-backtarget='atf' data-sizes='[[300,250]' data-slot='' >
+        <script type='text/javascript'>
+$(document).one("widgetsloaded", function()
+	{
+                googletag.cmd.push(function() {
+                        googletag.display('main_impact');
+                        
+                });
+});
+            </script>
+</div>
+</div><div class='custom_break_widget'><style>
+/* MOBILE */
+.bottomGradient {
+	background: rgba(255,255,255,0);
+	background: -moz-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(0,0,0,1) 100%);
+	background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,255,255,0)), color-stop(100%, rgba(0,0,0,1)));
+	background: -webkit-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(0,0,0,1) 100%);
+	background: -o-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(0,0,0,1) 100%);
+	background: -ms-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(0,0,0,1) 100%);
+	background: linear-gradient(to bottom, rgba(255,255,255,0) 0%, rgba(0,0,0,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#000000', GradientType=0 );
+	width: 100%;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	height: 50%;
+	z-index: 1;
+}
+
+.mostPopularMain {
+	position: relative;
+	clear: both;
+	width: 100%;
+	float: left;	
+}
+
+.mostPopularMain {
+	margin-bottom: 20px;
+}
+
+.mostPopularMain .storyImage, 
+.videosCtrSide .videoImg {
+	float: left;
+	position: relative;
+	width: 100%;	
+}
+
+.videoTitleCtr {
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	color: #ffffff;
+	z-index: 2;
+	font-weight: 800;
+	font-size: 1em;
+	line-height: 20px;
+	width: 100%;
+	padding: 20px;
+}
+
+.fa-play-circle {
+	font-size: 24px;
+	float: left;
+}
+
+.videoTitleCtr .videoTitle {
+	float: left;
+	padding-left: 10px;
+	color: #ffffff;
+	background: unset;
+}
+
+.videosCtrSide {
+	float: left;
+	clear: both;
+	width: 100%;
+	position: relative;
+}
+
+.videoSide {
+	float: left;
+	clear: both;
+	position: relative;
+	width: 100%;
+}
+
+.videosCtrSide {
+	margin-bottom: 20px;
+}
+
+.mostRecentCtr, .mostPopularCtr {
+	float: left;
+	clear: both;
+	width: 100%;
+	position: relative;
+	background: #ffffff;
+	margin-bottom: 0px;
+}
+
+.mpTitle {
+	float: left;
+	clear: both;
+	width: 100%;
+	position: relative;
+	color: #000000;
+	padding: 0px;
+}
+
+.mpInfo {
+	padding: 20px;
+	float: left;
+	clear: both;
+	width: 100%;
+	background: #efefef;
+	font-size: .9em;
+}
+
+.mpTitle {
+	line-height: 20px;
+	font-weight: 800;
+}
+
+.mpCategory {
+	color: #666666;
+	line-height: 20px;
+}
+
+.videoSide {
+	margin-bottom: 20px;
+}
+</style>
+
+<!--RECENT STORIES-->
+<div class="mostPopularCtr" data-mtsRest="/api/v1/publisher/stories/top/?portal_id=97&top=5">
+	<a class="mostPopularMain" data-holder="0_Link">
+		<img class="storyImage" data-holder="0_MediaList_0_ImgLink" />				
+		<div class="mpInfo">			
+			<div class="mpCategory" data-holder="0_TagList_0_getTitle"></div>
+			<div class="mpTitle" data-holder="0_Title"></div>
+		</div>
+	</a>
+
+	<a class="mostPopularMain" data-holder="1_Link">
+		<img class="storyImage" data-holder="1_MediaList_0_ImgLink" />	
+		<div class="mpInfo">			
+			<div class="mpCategory" data-holder="1_TagList_0_getTitle"></div>
+			<div class="mpTitle" data-holder="1_Title"></div>
+		</div>
+	</a>
+
+	<a class="mostPopularMain" data-holder="2_Link">
+		<img class="storyImage" data-holder="2_MediaList_0_ImgLink" />				
+		<div class="mpInfo">			
+			<div class="mpCategory" data-holder="2_TagList_0_getTitle"></div>
+			<div class="mpTitle" data-holder="2_Title"></div>
+		</div>
+	</a>	
+	
+	<a class="mostPopularMain" data-holder="3_Link">
+		<img class="storyImage" data-holder="3_MediaList_0_ImgLink" />				
+		<div class="mpInfo">			
+			<div class="mpCategory" data-holder="3_TagList_0_getTitle"></div>
+			<div class="mpTitle" data-holder="3_Title"></div>
+		</div>
+	</a>	
+	
+	<a class="mostPopularMain" data-holder="4_Link">
+		<img class="storyImage" data-holder="4_MediaList_0_ImgLink" />				
+		<div class="mpInfo">			
+			<div class="mpCategory" data-holder="4_TagList_0_getTitle"></div>
+			<div class="mpTitle" data-holder="4_Title"></div>
+		</div>
+	</a>
+</div>
+<div id='lower_impact_300x250' class='dfpAd' data-fronttarget='pos' data-backtarget='atf' data-sizes='[[300,250]' data-slot='' >
+        <script type='text/javascript'>
+$(document).one("widgetsloaded", function()
+	{
+                googletag.cmd.push(function() {
+                        googletag.display('lower_impact_300x250');
+                        
+                });
+});
+            </script>
+</div>
+
+
+<!--RECENT VIDEOS-->
+<div class="videosCtrSide" data-mtsRest="/api/v1/portal/videos/recent/?portal_id=97" data-mtsCallback="setVideoTitle">
+	<a class="videoSide" data-holder="0_Link" target="_blank">
+		<img class="videoImg" data-holder="0_Thumbnail" />
+		<div class="videoTitleCtr">
+			<div class="far fa-play-circle"></div>
+			<div class="videoTitle" data-holder="0_Name"></div>					
+		</div>
+		<div class="bottomGradient"></div>							
+	</a>
+	<a class="videoSide" data-holder="1_Link" target="_blank">
+		<img class="videoImg" data-holder="1_Thumbnail" />
+		<div class="videoTitleCtr">
+			<div class="far fa-play-circle"></div>
+			<div class="videoTitle" data-holder="1_Name"></div>					
+		</div>
+		<div class="bottomGradient"></div>							
+	</a>
+	<a class="videoSide" data-holder="2_Link" target="_blank">
+		<img class="videoImg" data-holder="2_Thumbnail" />
+		<div class="videoTitleCtr">
+			<div class="far fa-play-circle"></div>
+			<div class="videoTitle" data-holder="2_Name"></div>					
+		</div>
+		<div class="bottomGradient"></div>							
+	</a>
+</div>
+
+<script>
+function setVideoTitle(ret) {
+	var video = $(".videoSide").width();	
+	var videoIcon = $(".fa-play-circle").width();
+	var title = $(".videoTitle");
+	var product = video - (videoIcon + 40);
+
+	title.css({"width": product + "px" });
+
+if (ret != null)
+{
+var videos = $(".videoSide");
+for (var i = videos .length -1; i >= 0; i--)
+{
+if (videos.length > i)
+videos[i].href = "/" + ret[i].Link;
+}
+}
+}
+</script></div><div class='custom_break_widget'><style type="text/css">
+.twitterFeedCtr {
+   width: 100%;
+   height: 530px;
+   overflow-y: auto;
+   margin-bottom: 20px;
+}
+</style>
+
+<div class="twitterFeedCtr">
+<a class="twitter-timeline" href="https://twitter.com/auburnjournal">Tweets by the Auburn Journal</a> 
+</div>
+</div></div></div></div>
+   <div id="nextStoryTitle" class="ns_12414" title="Car salesman icon Facha passes">
+      <input type="hidden" id="nsUrl_12414" value="news/12414/car-salesman-icon-facha-passes/" />
+      <div class="mStoryTitle">Car salesman icon Facha passes</div>
+      <img src="https://media.myteamscoop.com/images/whiteRightArrow.png" alt=""/>
+   </div>
+
+      <div class="borderBox">
+         <div id="back" class="mts_cc_button borderBtn">Back</div>
+      </div>
+   </div>
+
+   
+ 
+ <script type="text/javascript"> _selectAlbum = "";
+    _selectImage = "";
+    var _featurePhotos = false;
+    _MTS_jsList.push("js/tracking.js");
+</script>
+
+<script type="text/javascript">
+   var _mediaUrl = "https://media.myteamscoop.com/";
+</script>
+
+<div id="whiteBox" class="whiteBox" style="display: none;">
+
+   <div class="imageInfoWrapper">
+      <div id="whiteCaptionRow" class="mediaTools">
+         <div class="mediaToolPop">
+         
+         </div>
+
+         <i class="fas fa-chevron-left imageBackBtn" title="Back"></i>
+
+         <div id="whiteCheerButton"></div>
+
+         
+
+         <i class="fas fa-expand-alt toggleCaption" title="Show/Hide Photo Options And Details"></i>
+
+         <div class="cropImgOptions" id="cropImgOpts">
+            <div id="saveCrop" class="mts_cc_button submitEdit">
+               Crop
+            </div>
+            <div id="cancelCrop" class="mts_cc_button submitEdit">
+               Undo / Cancel
+            </div>
+         </div>
+
+      </div>
+
+      <div class="mediaControlsContainer" style="display: none;">
+         <div class="mediaControlLeft"></div>
+         <div class="mediaControlStop"></div>
+         <div class="mediaControlPlay"></div>
+         <div class="mediaControlPause"></div>
+         <div class="mediaControlRight"></div>
+      </div>
+   </div>
+
+   <div id="whiteLoader" class="whiteLoader">
+      <div class="whiteCenter">
+         <div class="whiteLoaderImage"><img src="https://media.myteamscoop.com/images/loading.gif" title="Loading..." alt="[Loading...]" /></div>
+         <div class="whiteLoaderText">Loading...</div>
+      </div>
+   </div>
+
+   <div class="white group">
+
+      <div id="whiteImage">
+         <div class="whiteLeftArrow"></div>
+      </div>
+
+      <div class="titleBuy">
+         <div class="titleBuyCtr">
+            <div class="shareCtr">
+               <a id="twitterPhotoShare" class="fab fa-twitter photoOptIcon" title="Share Via Twitter"></a>
+               <i id="fbPhotoShare" class="fab fa-facebook-f photoOptIcon" title="Share Via Facebook"></i>
+               <input type="hidden" id="fbTitle" value="" />
+               <input type="hidden" id="fbImgDefault" value="" />
+               <input type="hidden" id="fbLink" value="" />
+               <i id="mailPhotoShare" class="fas fa-envelope photoOptIcon" title="Share Via Email"></i>
+               <i id="buyPhoto" class="fas fa-dollar-sign photoOptIcon" title="Buy Photo"></i>
+                
+            </div>
+            <div class="whiteText">
+               <div class="whiteAlbumTitle"></div>
+               <span id="whiteTitle"></span>
+               <span id="whiteCredit" class="bold"></span>
+            </div>
+         </div>
+      </div>
+      <!--LEFT SIDE-->
+      <div class="rightSideCtr">
+         <div id="whiteCaptionRapper" class="leftGalInfo">
+            <div class="editImgInfo" id="editImgShowBtn">
+               Edit Photo Info
+            </div>
+            <div class="editImgCtr">
+               <div class="wlbl">
+                  Edit Title
+               </div>
+               <textarea class="editImgInput" id="whiteTitleNewValue"></textarea>
+               <div id="editCaptionWrap">
+                  <div class="wlbl">
+                     Edit Caption
+                  </div>
+                  <textarea id="whiteSummaryNewValue" maxlength="1024" class="eiTextarea"></textarea>
+               </div>
+               <div class="wlbl">
+                  Credit Source(s)
+               </div>
+               <textarea class="editImgInput" id="whiteCreditEditText"></textarea>
+               <div class="btnCtr">
+                  <div class="submitEdit mts_cc_button" id="editImgSave">
+                     Save
+                  </div>
+                  <div class="submitEdit mts_cc_button" id="editImgCancel">
+                     Cancel
+                  </div>
+               </div>
+            </div>
+         </div>
+   
+         <div class="miscPhotoInfo">
+            <div id="whiteSummary"></div>
+            <div id="whiteUploader" class="whiteUploader"></div>
+            <div id="featureDate">
+               Featured photo until: 
+               
+               <span class="mts_cc_text" id="photoEditFeatLink"></span>
+               
+               <div id="featApply" style="display: none;">
+                  <div>Applying &hellip;</div>
+                  <img src="https://media.myteamscoop.com/images/ajax-loader.gif" alt="Applying ..." />
+               </div>
+               <div id="fdError" style="display: none;"></div>
+            </div>
+   
+            <div id="tagContainer" class="whiteTagContainer tagContainer"></div>
+         </div>
+      </div>
+            <!--END LEFT SIDE-->
+   </div>
+
+   <!--ALBUM SCROLLER-->
+   <div class="asCtr">
+      <div class="albumScroller">
+      </div>
+   </div>
+
+   <div class="photo_upload_widget">
+      <input type="hidden" name="abovethefold" value="true" />
+      <input type="hidden" name="uploadType" value="Photo" />
+   </div>
+   
+
+
+   
+         <div class="uploadTagWrapper">
+            
+
+<script type="text/javascript"> 
+   var _iPad = navigator.userAgent.toLowerCase().search(/ipad/) > 0; 
+   var _event = "click"; 
+   var _hasJQuery = false; 
+   var _hasCal = false; 
+   var _hasAjax = false; 
+   var _isPortalTag = true; 
+   var _loadedCat = ['typePortalVideos'];
+   var _startedWithMTSJQuery = typeof _MTS_JQUERY != "undefined";
+   var _MTS_JQUERY = _startedWithMTSJQuery ? _MTS_JQUERY : undefined;
+   var _MTS_SITEURL = "https://goldcountrymedia.com/";
+   var _MTS_SEARCH_TYPE = "tag";
+   var _DoNotSuggestRelated = false; 
+   _MTS_jsList.push("js/mce/tagSel.js");
+   _MTS_cssList.push("css/plugins/chosen/chosen.min.css", "css/mce/tagList.css", "css/mce/imageSel.css", "css/miniCalendar.css");
+   _imageSizes = {"SiteWideMxW":1280,"SiteWideMxH":720,"SlideShowMxW":864,"SlideShowMxH":486,"ThumbnailMxW":600,"ThumbnailMxH":337,"TeamLogoMxW":250,"TeamLogoMxH":250};
+   if (typeof(_MTS_urlRegex) === 'undefined')
+      _MTS_urlRegex = new RegExp("[|+<>\\\\*%&:\\\\?\\\\/\\\\\\\\\\\'.\\\"\\\\r\\\\n#]", "g");
+
+   window.onload = function ()
+   {
+      determineInit();
+   };
+
+   function determineInit()
+   {
+      if (typeof jQuery == "undefined")
+      { 
+         var js = document.createElement("script"); 
+         js.type = "text/javascript"; 
+         js.src = "https://media.myteamscoop.com/js/jquery.js?v=1.14.5.29039"; 
+         js.onload = function () { _hasJQuery = true; initChosen(); if (!_startedWithMTSJQuery) { _MTS_JQUERY = jQuery; } startTag(); }; 
+         document.getElementsByTagName("head")[0].appendChild(js); 
+      } else { _hasJQuery = true; if (!_startedWithMTSJQuery) { _MTS_JQUERY = jQuery; } } 
+      
+      if (typeof _cal == "undefined")
+      {
+         var js = document.createElement("script"); 
+         js.type = "text/javascript"; 
+         js.src = "https://media.myteamscoop.com/js/miniCalendar.js?v=1.14.5.29039"; 
+         js.onload = function () { _hasCal = true; startTag(); }; 
+         document.getElementsByTagName("head")[0].appendChild(js); 
+      } else { _hasCal = true; } 
+      
+      if (typeof ajax == "undefined") {
+         var js = document.createElement("script"); 
+         js.type = "text/javascript"; 
+         js.src = "https://media.myteamscoop.com/js/ajax.js?v=1.14.5.29039"; 
+         js.onload = function () { _hasAjax = true; startTag(); }; 
+         document.getElementsByTagName("head")[0].appendChild(js); 
+      } else { _hasAjax = true; } 
+      
+      if (_hasJQuery && _hasCal) { startTag(); }
+   }
+
+   function initChosen()
+   { 
+      if (typeof _MTS_JQUERY == "undefined" || typeof _MTS_JQUERY().chosen == "undefined") 
+      { 
+         var js = document.createElement("script"); 
+         js.type = "text/javascript"; 
+         js.src = "https://media.myteamscoop.com/js/plugins/chosen/chosen.jquery.min.js?v=1.14.5.29039"; 
+         js.onload = function () { _hasAjax = true; startTag(); }; 
+         document.getElementsByTagName("head")[0].appendChild(js);
+      } 
+   } 
+
+   function startTag()
+   {
+      if (typeof(_MTS_JQUERY) != "undefined" && typeof(initTag) != "undefined")
+      {
+         if (_MTS_widgetsReady)
+         {
+            reallyStartTag();
+         }
+         else
+         {
+            _MTS_JQUERY(document).one("widgetsloaded", function ()
+            {
+               reallyStartTag();
+            });
+         }
+      }
+      else
+      {
+         setTimeout(startTag, 500);
+      }
+   }
+
+   function reallyStartTag()
+   {
+      initTag();
+      // Same url regex that is done on server side for seo purposes - usage: $.urlName(url)
+      (function ($)
+      {
+         $.urlName = (function (url)
+         {
+            return url.replace(_MTS_urlRegex, "-").replace(/ /g, "-").replace(/\-+/g, "-");
+         })
+      })(jQuery);
+   }
+</script>
+
+<div class="search_widget">
+   <input type="hidden" name="excluded" value="250" />
+   <input type="hidden" name="searchType" value="Tag" />
+   <input type="hidden" name="searchCallback" value="highlightLightboxTags" />
+   <input type="hidden" name="abovethefold" value="true" />
+   <input type="hidden" name="recentData" value="False" />
+   <input type="hidden" name="frequent" value="False" />
+</div>
+         </div>
+   
+</div>
+
+
+
+   </div>
+
+
+   
+      <div class="fullAdView">
+      </div>
+      <div class="fullPageAd">
+         
+   
+         <div class="adOptions">
+            <div class="adCounter">
+               <div class="loadingAd">Loading...</div> <img class="mts_lazy" width="324" height="20" data-original="https://media.myteamscoop.com/images/ajax-loader.gif" alt="" />
+            </div>
+            <div id="skipAd" class="adBtn">
+               View Page in Progress
+            </div>
+         </div>
+      </div>
+   <div id='main_footer' class='centeredAd dfpAd' data-fronttarget='pos' data-backtarget='atf' data-sizes='[[728,90]]' >
+        <script type='text/javascript'>
+$(document).one("widgetsloaded", function()
+	{
+                googletag.cmd.push(function() {
+                        googletag.display('main_footer');
+                        
+                });
+});
+            </script>
+</div>
+
+<div class="eeditionBigdrop">
+  <!-- E-Edition Widget Code --------------------------------------------------------------------------------------------->
+  <a id="ee36" class="eEditionCtr group eeditionHide" href="" target="_blank">
+      <!--<div class="eEditionDate mts_cc_heading"></div>-->
+    <img class="eEditionImg" src="" />
+  </a>
+
+  <script type="text/javascript">
+
+  var params = [];
+
+  params.push({ name: "freeid", value: "c30f0828-a1a6-4367-bc3b-a2085d93c362"});
+  params.push({ name: "fmt", value: "json" });
+
+  $.getJSON("https://mynewsonthego.com/GoldCountry/free/getpubfront.aspx", params, function(json) {
+    $("#ee36").attr("href", json.mynews_url);
+    //$("#ee36 .eEditionDate").html("Auburn Journal<span>" + json.latest_rundate + "</span>");
+    $("#ee36 .eEditionImg").attr("src", json.img_url);
+  });
+  </script>
+  <!---------------------------------------------------------------------------------------------------------------------->
+
+  <!-- E-Edition Widget Code --------------------------------------------------------------------------------------------->
+  <a id="ee38" class="eEditionCtr group eeditionHide" href="" target="_blank">
+    <!--<div class="eEditionDate mts_cc_heading"></div>-->
+    <img class="eEditionImg" src="" />
+  </a>
+
+  <script type="text/javascript">
+
+  var params = [];
+
+  params.push({ name: "freeid", value: "da4440b0-aa84-4d04-9ac9-9d40077bba70"});
+  params.push({ name: "fmt", value: "json" });
+
+  $.getJSON("https://mynewsonthego.com/GoldCountry/free/getpubfront.aspx", params, function(json) {
+    $("#ee38").attr("href", json.mynews_url);
+    //$("#ee38 .eEditionDate").html("The Folsom Telegraph <span>" + json.latest_rundate + "</span>");
+    $("#ee38 .eEditionImg").attr("src", json.img_url);
+  });
+  </script>
+  <!---------------------------------------------------------------------------------------------------------------------->
+
+  <!-- E-Edition Widget Code --------------------------------------------------------------------------------------------->
+  <a id="ee37" class="eEditionCtr group eeditionHide" href="" target="_blank">
+    <!--<div class="eEditionDate mts_cc_heading"></div>-->
+    <img class="eEditionImg" src="" />
+  </a>
+
+  <script type="text/javascript">
+
+  var params = [];
+
+  params.push({ name: "freeid", value: "f5650243-b412-4c7e-a68f-8edcab7f7e4b"});
+  params.push({ name: "fmt", value: "json" });
+
+  $.getJSON("https://mynewsonthego.com/GoldCountry/free/getpubfront.aspx", params, function(json) {
+    $("#ee37").attr("href", json.mynews_url);
+    //$("#ee37 .eEditionDate").html("Lincoln News Messenger <span>" + json.latest_rundate + "</span>");
+    $("#ee37 .eEditionImg").attr("src", json.img_url);
+  });
+  </script>
+  <!---------------------------------------------------------------------------------------------------------------------->
+
+  <!-- E-Edition Widget Code --------------------------------------------------------------------------------------------->
+  <a id="ee39" class="eEditionCtr group eeditionHide" href="" target="_blank">
+    <!--<div class="eEditionDate mts_cc_heading"></div>-->
+    <img class="eEditionImg" src="" />
+  </a>
+
+  <script type="text/javascript">
+
+  var params = [];
+
+  params.push({ name: "freeid", value: "31436f06-eefe-4489-8a1c-7dc1689d0fa5"});
+  params.push({ name: "fmt", value: "json" });
+
+  $.getJSON("https://mynewsonthego.com/GoldCountry/free/getpubfront.aspx", params, function(json) {
+    $("#ee39").attr("href", json.mynews_url);
+    //$("#ee39 .eEditionDate").html("The LPress-Tribune<span>" + json.latest_rundate + "</span>");
+    $("#ee39 .eEditionImg").attr("src", json.img_url);
+  });
+  </script>
+  <!---------------------------------------------------------------------------------------------------------------------->
+
+  <!-- E-Edition Widget Code --------------------------------------------------------------------------------------------->
+  <a id="ee40" class="eEditionCtr group eeditionHide" href="" target="_blank">
+    <!--<div class="eEditionDate mts_cc_heading"></div>-->
+    <img class="eEditionImg" src="" />
+  </a>
+
+  <script type="text/javascript">
+
+  var params = [];
+
+  params.push({ name: "freeid", value: "fc833217-d9a7-4734-a093-49444417675f"});
+  params.push({ name: "fmt", value: "json" });
+
+  $.getJSON("https://mynewsonthego.com/GoldCountry/free/getpubfront.aspx", params, function(json) {
+    $("#ee40").attr("href", json.mynews_url);
+    //$("#ee40 .eEditionDate").html("The Placer-Herald<span>" + json.latest_rundate + "</span>");
+    $("#ee40 .eEditionImg").attr("src", json.img_url);
+  });
+  </script>
+  <!---------------------------------------------------------------------------------------------------------------------->
+
+  <!-- E-Edition Widget Code --------------------------------------------------------------------------------------------->
+  <a id="ee41" class="eEditionCtr group eeditionHide" href="" target="_blank">
+    <!--<div class="eEditionDate mts_cc_heading"></div>-->
+    <img class="eEditionImg" src="" />
+  </a>
+
+  <script type="text/javascript">
+
+  var params = [];
+
+  params.push({ name: "freeid", value: "7bcf2e13-c0a9-41eb-a1ad-d00496698c56"});
+  params.push({ name: "fmt", value: "json" });
+
+  $.getJSON("https://mynewsonthego.com/GoldCountry/free/getpubfront.aspx", params, function(json) {
+    $("#ee41").attr("href", json.mynews_url);
+    //$("#ee41 .eEditionDate").html("The Loomis News<span>" + json.latest_rundate + "</span>");
+    $("#ee41 .eEditionImg").attr("src", json.img_url);
+  });
+  </script>
+  <!---------------------------------------------------------------------------------------------------------------------->
+</div>
+   
+   
+   
+   <h1 class="heading">
+   Investigators searching for cause of Mammoth fire
+</h1>
+
+
+
+   <div id='mts_r_0' class='widget_region' style='text-align:center'><input type='hidden' name='reg_width' value='100.00' /><input type='hidden' name='reg_margin_left' value='0.00' /><input type='hidden' name='reg_margin_right' value='0.00' /><input type='hidden' name='reg_width_med' value='100.00' /><input type='hidden' name='reg_margin_left_med' value='0.00' /><input type='hidden' name='reg_margin_right_med' value='0.00' /><input type='hidden' name='reg_width_tablet' value='100.00' /><input type='hidden' name='reg_margin_left_tablet' value='0.00' /><input type='hidden' name='reg_margin_right_tablet' value='0.00' /><input type='hidden' name='reg_pixel' value='False' /><input type='hidden' name='reg_innerSec' value='False' /><div id='mts_c_0_3' class='widget_column' style='text-align: initial;'><input type='hidden' name='col_width' value='100.00' /><input type='hidden' name='col_margin_left' value='0.00' /><input type='hidden' name='col_margin_right' value='0.00' /><input type='hidden' name='col_width_med' value='100.00' /><input type='hidden' name='col_margin_left_med' value='0.00' /><input type='hidden' name='col_margin_right_med' value='0.00' /><input type='hidden' name='col_width_tablet' value='100.00' /><input type='hidden' name='col_margin_left_tablet' value='0.00' /><input type='hidden' name='col_margin_right_tablet' value='0.00' /><input type='hidden' name='col_pixel' value='False' /><div class='custom_break_widget'><style>
+/*FOOTER*/
+.custom_footer_widget {
+   display: block;
+}
+
+.footer {
+   position: relative;
+   clear: both;
+   width: 100%;
+   padding: 20px;
+   background: #333333;
+}
+
+.footerInner {
+   position: relative;
+   clear: both;
+   width: 100%;
+}
+
+.fLogoCtr {
+   width: 100%;
+   position: relative;
+   float: left;
+   border-bottom: solid 1px #ffffff;
+   padding-bottom: 20px;
+}
+
+.fLogo {
+   float: left;
+   width: 100%;
+   max-width: 400px;
+}
+
+.footerBlock {
+   float: left;
+   clear: both;
+   width: 100%;
+   text-transform: uppercase;
+   font-size: .8em;
+   padding-top: 20px;
+}
+
+.footerLbl {
+   float: left;
+   clear: both;
+   width: 100%;
+   font-weight: 800;
+   color: #ffcc04;
+}
+
+.footerLink {
+   float: left;
+   clear: both;
+   width: 100%;
+   font-weight: 400;
+   color: #ffffff;
+   margin-top: 10px;
+   font-size: .9em;
+}
+
+.copyright {
+   float: left;
+   clear: both;
+   width: 100%;
+   font-weight: 400;
+   color: #ffffff;
+   margin-top: 20px;
+   font-size: .9em;
+   padding: 20px 0px 0px 0px;
+   border-top: solid 1px #ffffff;
+   text-transform: uppercase;
+   line-height: unset;
+}
+
+.copyright a {
+   float: left;
+   clear: both;
+   width: 100%;
+   font-weight: 400;
+   color: #ffffff;
+   font-size: .9em;   
+}
+
+.fa-copyright {
+   color: #ffffff;
+   padding: 0px;
+   line-height: unset;
+   display: inline-block;
+   vertical-align: baseline;
+   float: none;
+}
+
+.nlBlock {
+   width: 100%;
+   float: left;
+   clear: both;
+   position: relative;
+   padding: 0px;
+   text-align: center;
+}
+
+.nlText {
+   font-weight: 800;
+   width: 100%;
+   text-transform: uppercase;
+   font-size: 2em;
+   color: #ffffff;
+   line-height: 25px;
+   margin-bottom: 20px;
+   text-align: center;
+}
+
+.nlImg {
+   max-width: 100%;
+   margin: auto;
+   display: block;
+}
+
+.nlBtnCtr {
+   clear: both;
+   position: relative;
+   width: 100%;
+   padding: 20px 0px 0px 0px;
+   text-align: center;
+   display: inline-block;
+}
+
+.nlBtn {
+   border-radius: 5px;
+   padding: 0px 20px;
+   line-height: 40px;
+   display: inline-block;
+   cursor: pointer;
+   background: #222222;
+   color: #ffcc04;
+   transition: opacity 250ms;
+   -webkit-transition: opacity 250ms;
+   -moz-transition: opacity 250ms;
+   text-align: center;
+   font-size: 1.25em;
+   width: 70%;
+   margin: auto;
+}
+
+.nlBtn:hover {
+   opacity: .8;
+}
+
+@media all and (min-width: 768px) {
+   .search_widget .searchResults {min-height: 500px;}
+
+   .footer {
+      padding: 20px 20px 0px 20px;
+   }
+
+   .footerBlock {
+      clear: none;
+      width: 33.333%;
+      padding: 20px 0px;
+   }
+
+   .nlBlock {
+      padding: 0px;
+   }
+
+   .fas.fa-copyright {
+      padding: 0px;
+   }
+}
+
+@media all and (min-width: 1024px) {
+   .footer {
+      padding: 20px 0px;
+   }
+
+   .footerInner {
+      width: 960px;
+      margin: auto;
+      float: none;
+      display: block;
+   }
+
+   .footerBlock {
+      font-size: .9em;      
+   }
+
+   .nlBlock {
+      padding: 0px;
+   }
+
+   .nlBtn {
+      max-width: 300px;
+   }
+
+   .nlFooterItem {
+      width: 250px;
+      float: right;
+   }
+}
+
+@media all and (min-width: 1366px) {
+   .footer {
+      padding: 20px 0px;
+   }
+
+   .footerInner {
+      width: 1170px;
+      margin: auto;
+      float: none;
+      display: block;
+   }
+
+   .nlBlock {
+      padding: 0px;
+   }
+
+   .nlBtn {
+      max-width: 300px;
+   }
+}
+</style>
+
+<div class="footer group">
+   <div class="footerInner">
+      <a href="/" class="fLogoCtr">
+         <img class="fLogo" src="https://42428ff44a0f17038fd4-6c98f771acd871eb8c8fdc2f5fa1b652.ssl.cf1.rackcdn.com/0/0/0/0/0/25/25_original" />
+      </a>
+      <div class="footerBlock">
+         <div class="footerLbl">
+            quick links
+         </div>
+         <a class="footerLink" href="/live-content/form-letter-to-the-editor">submit letter to the editor</a>
+         <a class="footerLink" href="/live-content/form-submit-story-idea">submit story idea</a>
+         <a class="footerLink" href="/live-content/form-birth-announcement">submit birth announcement</a>
+         <a class="footerLink" href="/live-content/form-wedding-announcement">submit wedding announcement</a>
+         <a class="footerLink" href="/live-content/form-anniversary-announcement">submit anniversary announcement</a>
+         <a class="footerLink" href="/live-content/form-submit-an-obituary">submit obituary</a>
+         <a class="footerLink" href="/live-content/form-subscriber-or-delivery-issues">subscriber and delivery issues</a>
+         <a class="footerLink" href="/live-content/contact">contact us</a>
+         <a class="footerLink" href="/live-content/privacy policy">privacy policy</a>
+      </div>
+      <div class="footerBlock">
+         <div class="footerLbl">
+            our publications
+         </div>
+         <a class="footerLink" href="/live-content/auburn journal">auburn journal</a>
+         <a class="footerLink" href="/live-content/the loomis news">the loomis news</a>
+         <a class="footerLink" href="/live-content/placer herald">placer herald - rocklin</a>
+         <a class="footerLink" href="/live-content/lincoln news messenger">lincoln news messenger</a>
+         <a class="footerLink" href="/live-content/the press tribune">press tribune - roseville &amp; granite bay</a>
+         <a class="footerLink" href="/live-content/the folsom telegraph">folsom telegraph</a>
+         <a class="footerLink" href="http://www.winecountrythisweek.com">wine country this week</a>
+         <a class="footerLink" href="/live-content/special sections">special sections</a>
+         <!--<a class="footerLink" href="live-content/real estate">real estate</a>-->
+      </div>
+      <div class="footerBlock nlFooterItem">
+         <div class="nlBlock">
+            <div class="nlText">Sign up for our newsletters!</div>
+            <img class="nlImg" src="https://media.myteamscoop.com/image/91609/2/0/2/0/97?cacheBuster=0.2190488538728157" />
+            <div class="nlBtnCtr">
+               <a class="nlBtn" href="/live-content/newsletter-sign-up" >Sign Up</a>
+            </div>
+         </div>
+      </div>
+      <div class="copyright">
+         <a href="https://goldcountrymedia.com"><div class="fas fa-copyright"></div> <span class="year"></span> copyright gold country media</a>
+      </div>
+   </div>   
+</div>
+
+<script>
+$(document).one("widgetsloaded", function() {
+   var footer = $(".footer");    
+   footer.parents(".widget_region").css({"clear": "both" });   
+   if(window.location.href.indexOf("/admin") > -1 || window.location.href.indexOf("/layout-admin") > -1) {
+      footer.parents(".widget_region").css({"display": "none" });
+   }
+
+   $(".footer").parents(".widget_region").siblings(".masterMcWrap").css({"min-height": "unset" });
+
+   var date = new Date().getFullYear();
+   $(".year").html(date);
+
+});
+</script></div></div></div>
+
+   <script type="text/javascript">
+      _MTS_cssList.push("css/plugins/chosen/chosen.min.css");
+      _MTS_jsList.push("js/ajax.js", "js/jQueryExtensions/jquery-ui.js", "js/jQueryExtensions/touch-punch.js", "js/jQueryExtensions/jquery.lazyload.js", "js/plugins/chosen/chosen.jquery.min.js", "js/common.js");
+      
+      _MTS_jsList.push("js/smartBanner.js");
+      
+         _MTS_cssList.push("css/portrait.css");
+      
+      _imageSizes = {"SiteWideMxW":1280,"SiteWideMxH":720,"SlideShowMxW":864,"SlideShowMxH":486,"ThumbnailMxW":600,"ThumbnailMxH":337,"TeamLogoMxW":250,"TeamLogoMxH":250};
+      var _MTS_adSlot = "";
+      _MTS_VERSION = "1.14.5.29039";
+
+      
+      
+	</script>
+
+
+   <script type="text/javascript" src="https://media.myteamscoop.com/js/widgets/main.js?v=1.14.5.29039&weburi=https://goldcountrymedia.com/&portalid=97&mediauri=https://media.myteamscoop.com/"></script>
+   
+</body>
+</html>
+

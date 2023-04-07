@@ -1,0 +1,692 @@
+ 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd" >
+
+<!--
+State of California master template
+Version 2010.11.03
+-->
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/Basic-Int.dwt" codeOutsideHTMLIsLocked="false" -->
+<head><script type="text/javascript" src="/_static/js/bundle-playback.js?v=kjExWF7-" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=Jjml7g96" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=310","20160304022718","https://web.archive.org/","web","/_static/",
+	      "1457058438");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Jesusita Fire General Information</title>
+<!-- InstanceEndEditable -->
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1"/>
+<meta http-equiv="Content-Style-Type" content="text/css"/>
+<!-- InstanceBeginEditable name="MetaTags" -->
+<meta name="Author" content="State of California"/>
+
+<meta name="Description" content="State of California Jesusita Fire General Information"/>
+<meta name="Keywords" content="California, state, government Jesusita Fire General Information"/>
+<!-- InstanceEndEditable -->
+<meta name="language" content="English"/>
+
+<link rel="stylesheet" href="https://web.archive.org/web/20160304022718cs_/http://www.fire.ca.gov/css/legacy_styles.css" media="screen, projection, print, tv" type="text/css"/>
+<link rel="stylesheet" href="https://web.archive.org/web/20160304022718cs_/http://cdfdata.fire.ca.gov/pub/template/css/styles.css" media="screen, projection, print, tv" type="text/css"/>
+<link rel="stylesheet" href="https://web.archive.org/web/20160304022718cs_/http://cdfdata.fire.ca.gov/pub/template/css/slideshow.css" media="screen, projection, print, tv" type="text/css"/>
+<link rel="stylesheet" type="text/css" media="all" href="https://web.archive.org/web/20160304022718cs_/http://cdfdata.fire.ca.gov/pub/template/css/tabpanel_old.css"/>
+<!-- 
+Step 01
+Select your navigation type: Mega Drop-Down, Mini Nav or Single Level Nav
+For the Mega Drop-Down or Mini Nav, use one of the following CSS files. For the Single Level Nav, leave this line blank.
+
+<link rel="stylesheet" href="http://cdfdata.fire.ca.gov/pub/template/css/navigation-megadropdown.css" media="screen, projection, print, tv" type="text/css" />-->
+<link rel="stylesheet" href="https://web.archive.org/web/20160304022718cs_/http://cdfdata.fire.ca.gov/pub/template/css/navigation-mininav.css" media="screen, projection, print, tv" type="text/css"/>
+
+
+<!--<link rel="stylesheet" href="http://cdfdata.fire.ca.gov/pub/template/css/navigation-megadropdown.css" media="screen, projection, print, tv" type="text/css" />-->
+
+<!--
+Step 02
+Select a color scheme:
+
+<link rel="stylesheet" href="http://cdfdata.fire.ca.gov/pub/template/css/design01.css" media="screen, projection, print, tv" type="text/css" />
+<link rel="stylesheet" href="http://cdfdata.fire.ca.gov/pub/template/css/design02.css" media="screen, projection, print, tv" type="text/css" />
+<link rel="stylesheet" href="http://cdfdata.fire.ca.gov/pub/template/css/design03b.css" media="screen, projection, print, tv" type="text/css" />
+<link rel="stylesheet" href="http://cdfdata.fire.ca.gov/pub/template/css/design03g.css" media="screen, projection, print, tv" type="text/css" />
+<link rel="stylesheet" href="http://cdfdata.fire.ca.gov/pub/template/css/design03r.css" media="screen, projection, print, tv" type="text/css" />
+-->
+
+<link rel="stylesheet" href="https://web.archive.org/web/20160304022718cs_/http://cdfdata.fire.ca.gov/pub/template/css/design01.css" media="screen, projection, print, tv" type="text/css"/>
+
+<!--
+Step 03
+Select a footer with or without the dark container:
+
+<link rel="stylesheet" href="http://cdfdata.fire.ca.gov/pub/template/css/footer-with-dark-container.css" media="screen, projection, print, tv" type="text/css" />
+<link rel="stylesheet" href="http://cdfdata.fire.ca.gov/pub/template/css/footer-without-dark-container.css" media="screen, projection, print, tv" type="text/css" />
+-->
+
+<link rel="stylesheet" href="https://web.archive.org/web/20160304022718cs_/http://cdfdata.fire.ca.gov/pub/template/css/footer-without-dark-container.css" media="screen, projection, print, tv" type="text/css"/>
+<link rel="stylesheet" href="https://web.archive.org/web/20160304022718cs_/http://cdfdata.fire.ca.gov/pub/template/css/flipper.css" media="screen, projection, print, tv" type="text/css"/>
+
+<!-- InstanceBeginEditable name="SetDefaultNavItem" -->
+
+<script type="text/javascript">
+<!--
+
+var defaultMainList = "Home";
+
+// -->
+</script>
+
+<!-- InstanceEndEditable -->
+<!--Translate Popup-->
+<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20160304022718cs_/http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.1/themes/base/jquery-ui.css">
+<script type="text/javascript" src="https://web.archive.org/web/20160304022718js_/http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20160304022718js_/http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
+<script>
+	
+	$(document).ready(function() {
+		var $dialog = $('#dialog');
+		$("#dialog").dialog({ 
+			autoOpen: false,
+			title: 'Google™ Translate Disclaimer',
+			width: 625
+			});
+		$("#translate").click(function() {
+			$dialog.dialog('open');
+		});
+		$("a.closeDialog").click(function() {
+			$dialog.dialog('close');
+		});
+	});
+</script>
+<!--/Translate Popup-->
+
+<script type="text/javascript" src="https://web.archive.org/web/20160304022718js_/http://cdfdata.fire.ca.gov/pub/template/javascript/scripts_incidents.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20160304022718js_/http://cdfdata.fire.ca.gov/pub/template/javascript/slideshow.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20160304022718js_/http://cdfdata.fire.ca.gov/pub/template/javascript/tabpanel.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20160304022718js_/http://cdfdata.fire.ca.gov/pub/template/javascript/flipper.js"></script>
+<!--[if IE 6]>
+	<link rel="stylesheet" type="text/css" href="http://cdfdata.fire.ca.gov/pub/template/css/ie6.css" />
+<![endif]-->
+
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+
+</head>
+<body class="javascript_off">
+
+<!--
+Step 04
+Select your navigation type:
+/ssi/header.single_level_nav.html
+/ssi/header.mininav.html
+/ssi/header.megadropdown.html
+-->
+
+<!--
+Mini Nav
+-->
+<script type="text/javascript">
+ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3419582-2']);  // for state-wide analytics - do not remove or change
+  _gaq.push(['_setDomainName', '.ca.gov']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://web.archive.org/web/20160304022718/https://ssl' : 'https://web.archive.org/web/20160304022718/http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ 
+</script>
+<script type="text/javascript">
+ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23110710-21']);  // your google analytics profile code, either from your own google account, or contact eServices to have one set up for you
+  _gaq.push(['_setDomainName', '.ca.gov']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://web.archive.org/web/20160304022718/https://ssl' : 'https://web.archive.org/web/20160304022718/http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ 
+</script>
+<div id="header">
+
+	<div id="skip_to_content"><a href="#main_content">Skip to Main Content</a></div>
+
+	<!-- Step 06 -->
+	<div class="head_cagov_logo"><a href="https://web.archive.org/web/20160304022718/http://www.ca.gov/"><img src="https://web.archive.org/web/20160304022718im_/http://cdfdata.fire.ca.gov/pub/template/images/design01/header_ca.gov.png" alt="CA.gov"/></a></div>
+	<div class="head_organization_banner"><a href=""><img src="https://web.archive.org/web/20160304022718im_/http://cdfdata.fire.ca.gov/pub/template/images/design01/header_organization.png" alt="Organization Title"/></a></div>
+
+	<div id="head_links"><a href="https://web.archive.org/web/20160304022718/http://www.ca.gov/">CA.gov</a> | <a href="https://web.archive.org/web/20160304022718/http://www.calfire.ca.gov/faqs/faqs.php">FAQs</a> | <a href="https://web.archive.org/web/20160304022718/http://www.calfire.ca.gov/contacts/">Contact Us</a> | <a href="https://web.archive.org/web/20160304022718/http://www.calfire.ca.gov/about/about_sitemap.php">Site Map</a> | <a id="translate" href="#">Translate</a></div>
+
+	<!--
+	Step 07
+	Select your search form type:
+	/ssi/search.local_and_statewide.html
+	/ssi/search.local_only.html
+	-->
+		<!--
+	Local and statewide search
+	Version 2010.11.30
+	-->
+
+	<script type="text/javascript" src="https://web.archive.org/web/20160304022718js_/http://www.google.com/jsapi"></script>
+	<script type="text/javascript">
+		google.load('search', '1');
+		google.setOnLoadCallback(function() {
+			google.search.CustomSearchControl.attachAutoCompletion(
+				'001779225245372747843:mdsmtl_vi1a',
+				document.getElementById('search_ca_textfield'),
+				'ca_form');
+		});
+		google.setOnLoadCallback(function() {
+			google.search.CustomSearchControl.attachAutoCompletion(
+				'001779225245372747843:bleoj5gjmwq', // update this value with your search engine unique ID. Submit a request to the OTech Service Desk if you don't already know your unique search engine ID. old id:001779225245372747843:9s-idxui5pk
+				document.getElementById('search_local_textfield'),
+				'local_form');
+		});
+	</script>
+
+	<div id="head_search">
+		<form id="ca_form" class="hidden" method="get" action="https://web.archive.org/web/20160304022718/http://www.google.com/cse"> <!-- the form action will be changed using javascript -->
+			<div class="textfield_container">
+				<label for="search_ca_textfield" accesskey="s" class="hidden">Statewide search: </label>
+				<input type="text" name="q" id="search_ca_textfield" size="40" value="Search" onfocus="if(this.value=='Search')this.value=''" onblur="if(this.value=='')this.value='Search'"/>
+
+				<input type="hidden" name="cx" value="001779225245372747843:mdsmtl_vi1a"/>
+				<input type="hidden" name="cof" value=""/> <!-- this value will be set using javascript -->
+				<input type="hidden" name="ie" value="UTF-8"/>
+			</div>
+			<div class="submit_container">
+				<!-- Step 08 -->
+				<input type="image" alt="Search" title="Search" name="submit" src="https://web.archive.org/web/20160304022718im_/http://cdfdata.fire.ca.gov/pub/template/images/design01/header_search_submitbutton.png"/>
+			</div>
+		</form>	
+
+		<form id="local_form" method="get" action="https://web.archive.org/web/20160304022718/http://www.google.com/cse"> <!-- the form action will be changed using javascript -->
+			<div class="textfield_container">
+				<label for="search_local_textfield" accesskey="s" class="hidden">Search this site: </label>
+				<input type="text" name="q" id="search_local_textfield" size="40" value="Search" onfocus="if(this.value=='Search')this.value=''" onblur="if(this.value=='')this.value='Search'"/>
+
+				<input type="hidden" name="cx" value="001779225245372747843:bleoj5gjmwq"/> <!-- update this value with your search engine unique ID. Submit a request to the OTech Service Desk if you don't already know your unique search engine ID. 001779225245372747843:9s-idxui5pk-->
+				<input type="hidden" name="cof" value=""/> <!-- this value will be set using javascript -->
+				<input type="hidden" name="ie" value="UTF-8"/>
+			</div>
+			<div class="submit_container">
+				<!-- Step 08 -->
+				<input type="image" alt="Search" title="Search" name="submit" src="https://web.archive.org/web/20160304022718im_/http://cdfdata.fire.ca.gov/pub/template/images/design01/header_search_submitbutton.png"/>
+			</div>
+		</form>
+
+		<form id="control" action="/web/20160304022718/http://cdfdata.fire.ca.gov/serp.html">
+			<div id="radio_container">
+				<input type="radio" name="which" id="head_srch_local" value="local" class="radiobutton" checked="checked"/>
+				<label for="head_srch_local" accesskey="l" id="head_srch_l_lbl">This Site</label>
+				<input type="radio" name="which" id="head_srch_ca" value="ca" class="radiobutton"/>
+				<label for="head_srch_ca" accesskey="c" id="head_srch_c_lbl">California</label>
+			</div>
+		</form>
+	</div>
+
+	<div id="navigation">
+		<ul id="nav_list">
+			<li><a href="https://web.archive.org/web/20160304022718/http://www.calfire.ca.gov/" class="nav_level1_link">Home</a></li>
+			<li><a href="https://web.archive.org/web/20160304022718/http://www.calfire.ca.gov/about/about.php" class="nav_level1_link">About Us</a>
+				<div class="nav_panel">
+				  <ul>
+						<li><a href="https://web.archive.org/web/20160304022718/http://www.calfire.ca.gov/about/about_careers.php">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20160304022718/http://www.calfire.ca.gov/about/about_executive_staff.php">Executive Staff</a></li>
+						<li><a href="https://web.archive.org/web/20160304022718/http://www.calfire.ca.gov/about/about_history.php">History</a></li>
+                  <li><a href="https://web.archive.org/web/20160304022718/http://www.calfire.ca.gov/contacts/index.php">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20160304022718/http://www.calfire.ca.gov/about/about_relatedlinks.php">Related Links</a></li>
+						<li><a href="https://web.archive.org/web/20160304022718/http://www.calfire.ca.gov/about/memorials-honorees.php">Memorials &amp; Honorees</a></li>
+					</ul>
+				</div>
+			</li>
+			<li><a href="" class="nav_level1_link">Programs</a>
+				<div class="nav_panel">
+					<ul>
+						<li><a href="https://web.archive.org/web/20160304022718/http://www.calfire.ca.gov/fire_protection/fire_protection.php">Fire Protection</a></li>
+						<li><a href="https://web.archive.org/web/20160304022718/http://www.calfire.ca.gov/resource_mgt/resource_mgt.php">Resource Management</a></li>
+						<li><a href="https://web.archive.org/web/20160304022718/http://calfire.ca.gov/RVETS/RVETS.php" class="nav_p_heading">R.V.E.T.S.</a></li>
+						<li><a href="https://web.archive.org/web/20160304022718/http://osfm.fire.ca.gov/" target="_blank">Office of the State Fire Marshal</a></li>
+                        <li><a href="https://web.archive.org/web/20160304022718/http://calfire.ca.gov/fire_prevention/fire_prevention.php">Fire Prevention</a><a href="https://web.archive.org/web/20160304022718/http://calfire.ca.gov/fire_prevention/fire_prevention.php"></a></li>
+						<li><a href="https://web.archive.org/web/20160304022718/http://frap.fire.ca.gov/" target="_blank">Fire and Resource Assessment Program</a></li>
+						<li><a href="https://web.archive.org/web/20160304022718/http://bofdata.fire.ca.gov/">Board of Forestry</a></li>
+					</ul>
+				</div>
+				
+			</li>
+            <li><a href="https://web.archive.org/web/20160304022718/http://calfire.ca.gov/communications/communications.php" class="nav_level1_link">Newsroom</a>
+				<div class="nav_panel">
+					<ul>
+						<li><a href="https://web.archive.org/web/20160304022718/http://cdfdata.fire.ca.gov/incidents/">Incidents</a></li>
+						<li><a href="https://web.archive.org/web/20160304022718/http://www.calfire.ca.gov/">News Releases</a></li>
+						<li><a href="https://web.archive.org/web/20160304022718/http://www.calfire.ca.gov/communications/communications_factsheets.php">Fact Sheets</a></li>
+						<li><a href="https://web.archive.org/web/20160304022718/http://www.calfire.ca.gov/communications/communications_multimedia.php">Multi Media</a></li>
+						<li><a href="https://web.archive.org/web/20160304022718/http://calfire.ca.gov/communications/socialmedia.php">Social Media</a></li>
+						<li><a href="https://web.archive.org/web/20160304022718/http://cdfdata.fire.ca.gov/incidents/incidents_statsevents">Statistics &amp; Events</a></li>
+					</ul>
+				</div>
+			</li>
+            <li><a href="https://web.archive.org/web/20160304022718/http://www.calfire.ca.gov/about/about_careers.php" class="nav_level1_link">Careers</a>
+              <div class="nav_panel">
+              <ul>
+                <li><a href="https://web.archive.org/web/20160304022718/http://calfire.ca.gov/about/about_careers_exams.php" class="nav_p_heading">Exams</a></li>
+                <li><a href="https://web.archive.org/web/20160304022718/http://calfire.ca.gov/about/about_careers_fireprotection_seasonal.php" class="nav_p_heading">Seasonal Firefighter Hiring </a></li>
+                <li><a href="https://web.archive.org/web/20160304022718/http://calfire.ca.gov/about/about_careers_vacancies.php" class="nav_p_heading">Job Vacancies </a></li>
+                <li><a href="https://web.archive.org/web/20160304022718/http://calfire.ca.gov/about/about_careers.php" class="nav_p_heading">CAL FIRE Careers</a></li>
+                <li><a href="https://web.archive.org/web/20160304022718/http://www.spb.ca.gov/" target="_blank" class="nav_p_heading">State Personnel Board </a></li>
+                <li><a href="https://web.archive.org/web/20160304022718/http://calfire.ca.gov/RVETS/RVETS.php" class="nav_p_heading">R.V.E.T.S.</a></li>
+              </ul></div>
+            </li>
+            <li><a href="" class="nav_level1_link">Resources</a>
+              <div class="nav_panel">
+                <ul>
+                  <li><a href="https://web.archive.org/web/20160304022718/http://calfire.ca.gov/general/units.php" class="nav_p_heading">Units</a></li>
+                  
+                  <li><a href="https://web.archive.org/web/20160304022718/http://calfire.ca.gov/about/about_dobusiness.php" class="nav_p_heading">Doing Business with CAL FIRE (DVBE/Small Business)</a></li>
+                  <li><a href="https://web.archive.org/web/20160304022718/http://cdfdata.fire.ca.gov/incidents/incidents_hiredequipment" class="nav_p_heading">Hired Equipment Information</a></li>
+                  <li><a href="https://web.archive.org/web/20160304022718/http://calfire.ca.gov/about/about_contact_us_recordsandrequests.php" class="nav_p_heading">Public Records Act Request Guidelines</a></li>
+                  <li><a href="https://web.archive.org/web/20160304022718/http://osfm.fire.ca.gov/pdf/firemarshal/reportingonSOB.pdf" target="_blank" class="nav_p_heading">Reporting Fires on State Properties</a></li>
+                </ul>
+              </div>
+            </li>
+		</ul>
+</div>
+	<div id="img_ribbon"></div>
+</div>
+
+
+<div id="page_container">
+
+	<div id="main_content">
+		
+		<div class="add_padding">
+			<div class="content_left_column">
+				<!-- InstanceBeginEditable name="MainContentLeftColumn" -->
+                <img style="width:100%" src="https://web.archive.org/web/20160304022718im_/http://cdfdata.fire.ca.gov/pub/template/images/content/ResourceManagement.jpg"/>
+				<!-- BEGIN BREADCRUMB NAVIGATION
+
+<TABLE WIDTH='100%' CELLPADDING='0' CELLSPACING='0' CLASS='breadcrumb' BORDER='0' SUMMARY=''><TR><TD>
+
+<TABLE WIDTH='100%' CELLSPACING='0' CELLPADDING='5' BORDER='0' SUMMARY=''>
+<TR><TD VALIGN='top' WIDTH='20%' CLASS='breadcrumbtext'><B>NAVIGATION:</B></TD><TD VALIGN='top' CLASS='breadcrumbtext'>
+
+<A HREF='http://www.fire.ca.gov/index.php'>CAL FIRE Home</A> > <A HREF='http://www.fire.ca.gov/fire_er.php'>Fire & Emergency Response</A> > <a href="/incidents/incidents">Fire Information</a> > <a href="/incidents/incidents_archived">Archived Incidents</a> > Jesusita Fire
+
+</TD></TR></TABLE>
+
+</TD></TR></TABLE>
+
+END BREADCRUMB NAVIGATION -->
+
+<!-- BEGIN TIMESTAMP -->
+
+<div class="lastmodified">
+Last modified on May 18, 2009<br>
+</div>
+
+<!-- END TIMESTAMP -->
+
+<!-- BEGIN MAIN CONTENT -->
+
+<!-- BEGIN MORE INFO RIGHT ALIGNED BOX -->
+<div style="float:right; width:250px;">
+<div class="hot_topics" style="float:right; width:250px; margin-left:15px; font-weight:normal; font-size:10pt; margin-top:1em;">
+
+
+              <!-- <table class="hot_topics_table"echo border="0" cellspacing="0" cellpadding="2" width="100%">
+
+                <tr style="background:#fff;">
+                  <td valign="top" class="hot_topics_heading"><h2>More Information</h2></td>
+                </tr>
+                <tr style="background:#ECECE7;">
+                  <td valign="top">
+
+<ul class="list_decorative_dark">
+<li><a href='/incidents/incidents_details_info?incident_id=310'> Incident Information</a></li>
+
+                  </ul> 
+  
+                  </td>
+                </tr>
+              </table> -->
+             
+  <div class="cleaner">&nbsp;</div>
+  
+
+</div>
+
+
+    
+  <!--START TWITTER WIDGET CODE -->
+	<div style="clear:both;"></div>
+    <!--  <div style="float:right; width:250px;">      
+
+    <script src="/pub/twitterwidget.js"></script>
+<script>
+
+new TWTR.Widget({
+
+  version: 2,
+
+  type: 'profile',
+
+  rpp: 5,
+
+  interval: 6000,
+
+  width: 250,
+
+  height: 600,
+
+  theme: {
+
+    shell: {
+
+      background: '#00214d',
+
+      color: '#ffffff'
+
+    },
+
+    tweets: {
+
+      background: '#ccd4df',
+
+      color: '#000000',
+
+      links: '#b50b1f'
+
+    }
+
+  },
+
+  features: {
+
+    scrollbar: false,
+
+    loop: false,
+
+    live: false,
+
+    hashtags: true,
+
+    timestamp: true,
+
+    avatars: false,
+
+    behavior: 'all'
+
+  }
+
+}).render().setUser('CAL_FIRE').start();
+
+</script></div>-->
+<!--END TWITTER WIDGET CODE --> 
+</div>
+<!-- END MORE INFO RIGHT ALIGNED BOX -->
+
+
+
+<table width="500" cellspacing="0" cellpadding="0" border="0" summary="">
+    <tbody>
+        <tr>
+            <td width="100%" valign="top" class="content">
+
+<h3 class="incident_h3" style="color:blue">Jesusita Fire</h3>
+<p>
+
+            <table width="500" cellspacing="0" cellpadding="2" border="0" class="incident_table">
+                <tbody>
+                    <tr class="header_tr">
+                        <td colspan="3" class="header_td">Jesusita Fire Incident Information: </td>
+                    </tr>
+                    <tr class="odd">
+                        <td width="30%" class="emphasized" scope="row">Last Updated: </td>
+                        <td width="35%">May 18, 2009 5:00 pm &nbsp;</td>
+                        <td width="35%" align="center"><span style="color:red;">FINAL</span></td>
+                    </tr>
+                    <tr class="even">
+                        <td class="emphasized" scope="row">Date/Time Started: </td>
+                        <td colspan="2">May 5, 2009 1:45 pm &nbsp; </td>
+                    </tr>
+                    <tr class="odd">
+                        <td class="emphasized" scope="row">Administrative Unit:</td>
+                        <td colspan="2">Los Padres National Forest / Santa Barbara County Fire &nbsp;</td>
+                    </tr>
+                    <tr class="even">
+                        <td class="emphasized" scope="row">County:</td>
+                        <td colspan="2">Santa Barbara County  &nbsp; </td>
+                    </tr>
+
+                    <tr class="odd">
+                        <td class="emphasized" scope="row">Location:</td>
+                        <td colspan="2">Northwest of Mission Canyon and Santa Barbara City   &nbsp;</td>
+                    </tr><tr class="even">
+                        <td class="emphasized" scope="row">Acres Burned - Containment: </td>
+                        <td colspan="2">8,733 acres   &nbsp;</td>
+                    </tr><tr class="odd">
+                        <td class="emphasized" scope="row">Estimated - Containment: </td>
+                        <td colspan="2">8,733 acres - <font color="red">100%</font> contained   &nbsp;</td>
+                    </tr><tr class="even"><td class="emphasized" scope="row">Structures Destroyed:</td><td colspan="2">Assessment to date: 80 homes destroyed, 15 homes damaged; 79 outbuildings destroyed, 2 outbuildings damaged; 1 commercial property destroyed.   &nbsp;</td></tr><tr valign="top" class="odd"><td class="emphasized" scope="row"> Evacuations: </td><td colspan="2"> All evacuations have been lifted   &nbsp;</td></tr><tr valign="top" class="even"><td class="emphasized" scope="row"> Cause: </td><td colspan="2"> Under Investigation&nbsp;</td></tr><tr valign="top" class="odd"><td class="emphasized" scope="row"> Cooperating Agencies: </td><td colspan="2"> CAL FIRE, Santa Barbara County Fire, Santa Barbara City Fire, USFS, Carpinteria Fire, Montecito Fire, BLM, Ventura County Fire, OES, Santa Barbara County Sheriff, Santa Barbara Police, CHP, CDCR and CCC.   &nbsp; </td></tr><tr valign="top" class="even"><td class="emphasized" scope="row"> Total Fire Personnel: </td><td colspan="2"> 4,543 at peak 5/10    &nbsp;</td></tr><tr valign="top" class="odd"><td class="emphasized" scope="row"> Total Fire Engines: </td><td colspan="2"> 490 at peak 5/10    &nbsp;</td></tr><tr valign="top" class="even"><td class="emphasized" scope="row"> Total Fire crews: </td><td colspan="2"> 110 at peak 5/10   &nbsp; </td></tr><tr valign="top" class="odd"><td class="emphasized" scope="row"> Total Helicopters: </td><td colspan="2"> 14 at peak 5/10    &nbsp;</td></tr><tr valign="top" class="even"><td class="emphasized" scope="row"> Total Dozers: </td><td colspan="2"> 37 at peak 5/10   &nbsp; </td></tr><tr valign="top" class="odd"><td class="emphasized" scope="row"> Total Water Tenders: </td><td colspan="2"> 45 at peak 5/10    &nbsp;</td></tr><tr valign="top" class="even"><td class="emphasized" scope="row"> Costs to date: </td><td colspan="2"> $20 million   &nbsp;</td></tr><tr valign="top" class="odd"><td class="emphasized" scope="row">Incident Management Team: </td><td colspan="2"> Incident Command Team #4    &nbsp;</td></tr><tr valign="top" class="even"><td class="emphasized" scope="row">Conditions: </td><td colspan="2">No significant fire activity or growth.
+
+The incident has transitioned to a Type 3 unified command with the USFS and Santa Barbara County.
+ &nbsp; </td></tr>
+                </tbody>
+            </table>
+            <p> </p>
+            <p> </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+<!-- END MAIN CONTENT -->
+
+
+				<!-- InstanceEndEditable -->
+			</div>
+			<div class="content_right_column">
+				<!-- InstanceBeginEditable name="MainContentRightColumn" -->
+				<!--Whats New-->
+                <div class="whats_new">
+				
+                </div>
+   				<!--/Whats New-->
+                
+                <!--Section Links-->
+
+               <div class="section_links">
+                <h1 style="font-size:1.52em">California Statewide Fire Map</h1>
+                  <p>
+	                  <iframe marginheight="0" marginwidth="0" src="https://web.archive.org/web/20160304022718if_/https://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=208523333872813891131.0004c02beb4f2788337d0&amp;ll=37.055177,-120.454102&amp;spn=17.505593,18.720703&amp;z=5&amp;output=embed" frameborder="0" height="400" scrolling="No" width="260"></iframe>
+	                  <br/>
+View <a href="https://web.archive.org/web/20160304022718/http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=208523333872813891131.0004c02beb4f2788337d0&amp;ll=37.055177,-120.454102&amp;spn=17.505593,18.720703&amp;z=5&amp;source=embed">California Fire Map</a> in a larger map <br/>
+	                </p>
+                
+                 
+<h3 style="font-size:9pt">Jesusita Fire More Info</h3>
+<ul class="list_decorative_blue">
+<li><a href="/web/20160304022718/http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=310">Jesusita Fire Information</a></li>
+<li><a href="/web/20160304022718/http://cdfdata.fire.ca.gov/incidents/incidents_details_maps?incident_id=310">Incident Maps</a></li>
+<li><a href="/web/20160304022718/http://cdfdata.fire.ca.gov/incidents/incidents_details_photos?incident_id=310">Photos</a></li>
+<li><a href="/web/20160304022718/http://cdfdata.fire.ca.gov/incidents/incidents_details_newsreleases?incident_id=310">News Releases</a></li>
+<li><a href="/web/20160304022718/http://cdfdata.fire.ca.gov/incidents/incidents_details_weather?incident_id=310">Weather Information</a></li>
+
+<li><a href="/web/20160304022718/http://cdfdata.fire.ca.gov/incidents/incidents_details_numbers?incident_id=310">Telephone Numbers</a></li>
+<li><a href="/web/20160304022718/http://cdfdata.fire.ca.gov/incidents/incidents_details_notices?incident_id=310">Special Notices</a></li>
+<li><a href="/web/20160304022718/http://cdfdata.fire.ca.gov/incidents/incidents_details_links?incident_id=310">Related Links</a></li>
+
+</ul>
+              
+              
+             
+              </div>
+              <!--/Section Links-->	
+                 <div class="section_links"><!--START TWITTER WIDGET CODE -->
+      <div>  
+    <script charset="utf-8" src="https://web.archive.org/web/20160304022718js_/http://calfire.ca.gov/javascript/TwitterListWidget.js"></script>
+<script>
+new TWTR.Widget({
+version: 2,
+type: 'list',
+rpp: 16,
+interval: 30000,
+title: '',
+subject: '<img width="260px" src="https://web.archive.org/web/20160304022718/http://calfire.ca.gov/communications/Twitter/header2.png">',
+width: 270,
+height: 300,
+theme: {
+  shell: {
+    background: '#1c008c',
+    color: '#ffffff'
+  },
+  tweets: {
+    background: '#ffffff',
+    color: '#444444',
+    links: '#1c008c'
+  }
+},
+features: {
+  scrollbar: true,
+  loop: false,
+  live: true,
+  behavior: 'all'
+}
+}).render().setList('CAL_FIRE', 'official').start();
+</script>
+<!--<script src='/pub/twitterwidget.js'></script>
+<script>
+
+new TWTR.Widget({
+
+  version: 2,
+
+  type: 'profile',
+
+  rpp: 5,
+
+  interval: 6000,
+
+  width: 250,
+
+  height: 600,
+
+  theme: {
+
+    shell: {
+
+      background: '#00214d',
+
+      color: '#ffffff'
+
+    },
+
+    tweets: {
+
+      background: '#ccd4df',
+
+      color: '#000000',
+
+      links: '#b50b1f'
+
+    }
+
+  },
+
+  features: {
+
+    scrollbar: false,
+
+    loop: false,
+
+    live: false,
+
+    hashtags: true,
+
+    timestamp: true,
+
+    avatars: false,
+
+    behavior: 'all'
+
+  }
+
+}).render().setUser('CAL_FIRE').start();
+
+</script>--></div>
+<!--END TWITTER WIDGET CODE --></div>			
+				<!-- InstanceEndEditable -->
+			</div>
+			<div class="cleaner"></div>
+		</div>
+	</div>
+
+	<!--
+	Step 05
+	To add the dark container to the footer, insert an SSI link to /ssi/footer_1.html here.
+	-->
+	
+</div>
+
+<!--
+Bottom footer
+-->
+
+<div id="footer_2">
+	<div><a href="#header">Back to Top</a> | <a href="https://web.archive.org/web/20160304022718/http://www.ca.gov/use.html" target="_blank">Conditions of Use</a> | <a href="https://web.archive.org/web/20160304022718/http://www.calfire.ca.gov/about/about_privacypolicystatement.php">Privacy Policy</a> | <a href="https://web.archive.org/web/20160304022718/http://www.calfire.ca.gov/contacts/index.php">Contact Us </a>| <a href="https://web.archive.org/web/20160304022718/http://www.calfire.ca.gov/about/about_sitemap.php">Site Map</a></div>
+	<div>
+		Copyright &copy; 2012 State of California
+	</div>
+</div>
+<!--Popup Dialog for Translate-->
+      <div id="dialog">
+                  <p>This Google&trade; translation feature is provided for informational purposes only.</p>
+                  <p>The California Department of Forestry and Fire Protecton is unable to guarantee the accuracy of this translation and is therefore not liable for any inaccurate information resulting from the translation application tool.</p>
+                  <p>Please consult with a translator for accuracy if you are relying on the translation or are using this site for official business.</p>
+                  <p>If you have any questions please <a href="#">contact us here</a>.</p>
+                  <h3>Select a Language Below&nbsp;/&nbsp;<span lang="es">Seleccione el Idioma Abajo</span></h3>
+                  <div id="google_translate_element"></div>
+                  <script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en',
+    multilanguagePage: true,
+    layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL
+  }, 'google_translate_element');
+}
+</script><script src="//web.archive.org/web/20160304022718js_/http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> 
+                  <a class="closeDialog" href="#">Close this box or use the [ X ]</a> </div>
+<!--/Translate Popup-->                  <!--
+     FILE ARCHIVED ON 02:27:18 Mar 04, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:29:13 Feb 06, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 238.741
+  exclusion.robots: 0.089
+  exclusion.robots.policy: 0.082
+  cdx.remote: 0.06
+  esindex: 0.008
+  LoadShardBlock: 180.686 (3)
+  PetaboxLoader3.datanode: 203.595 (4)
+  CDXLines.iter: 20.128 (3)
+  load_resource: 130.056
+  PetaboxLoader3.resolve: 80.692
+-->

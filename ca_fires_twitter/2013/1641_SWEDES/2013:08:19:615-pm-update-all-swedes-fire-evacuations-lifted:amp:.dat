@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html amp lang="en-US" transformed="self;v=1" i-amphtml-layout="" i-amphtml-no-boilerplate="">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,minimum-scale=1,maximum-scale=1,user-scalable=no"><link rel="preconnect" href="https://cdn.ampproject.org"><style amp-runtime="" i-amphtml-version="012301181928000">html{overflow-x:hidden!important}html.i-amphtml-fie{height:100%!important;width:100%!important}html:not([amp4ads]),html:not([amp4ads]) body{height:auto!important}html:not([amp4ads]) body{margin:0!important}body{-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;text-size-adjust:100%}html.i-amphtml-singledoc.i-amphtml-embedded{-ms-touch-action:pan-y pinch-zoom;touch-action:pan-y pinch-zoom}html.i-amphtml-fie>body,html.i-amphtml-singledoc>body{overflow:visible!important}html.i-amphtml-fie:not(.i-amphtml-inabox)>body,html.i-amphtml-singledoc:not(.i-amphtml-inabox)>body{position:relative!important}html.i-amphtml-ios-embed-legacy>body{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important}html.i-amphtml-ios-embed{overflow-y:auto!important;position:static}#i-amphtml-wrapper{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;margin:0!important;display:block!important}html.i-amphtml-ios-embed.i-amphtml-ios-overscroll,html.i-amphtml-ios-embed.i-amphtml-ios-overscroll>#i-amphtml-wrapper{-webkit-overflow-scrolling:touch!important}#i-amphtml-wrapper>body{position:relative!important;border-top:1px solid transparent!important}#i-amphtml-wrapper+body{visibility:visible}#i-amphtml-wrapper+body .i-amphtml-lightbox-element,#i-amphtml-wrapper+body[i-amphtml-lightbox]{visibility:hidden}#i-amphtml-wrapper+body[i-amphtml-lightbox] .i-amphtml-lightbox-element{visibility:visible}#i-amphtml-wrapper.i-amphtml-scroll-disabled,.i-amphtml-scroll-disabled{overflow-x:hidden!important;overflow-y:hidden!important}amp-instagram{padding:54px 0px 0px!important;background-color:#fff}amp-iframe iframe{box-sizing:border-box!important}[amp-access][amp-access-hide]{display:none}[subscriptions-dialog],body:not(.i-amphtml-subs-ready) [subscriptions-action],body:not(.i-amphtml-subs-ready) [subscriptions-section]{display:none!important}amp-experiment,amp-live-list>[update]{display:none}amp-list[resizable-children]>.i-amphtml-loading-container.amp-hidden{display:none!important}amp-list [fetch-error],amp-list[load-more] [load-more-button],amp-list[load-more] [load-more-end],amp-list[load-more] [load-more-failed],amp-list[load-more] [load-more-loading]{display:none}amp-list[diffable] div[role=list]{display:block}amp-story-page,amp-story[standalone]{min-height:1px!important;display:block!important;height:100%!important;margin:0!important;padding:0!important;overflow:hidden!important;width:100%!important}amp-story[standalone]{background-color:#000!important;position:relative!important}amp-story-page{background-color:#757575}amp-story .amp-active>div,amp-story .i-amphtml-loader-background{display:none!important}amp-story-page:not(:first-of-type):not([distance]):not([active]){transform:translateY(1000vh)!important}amp-autocomplete{position:relative!important;display:inline-block!important}amp-autocomplete>input,amp-autocomplete>textarea{padding:0.5rem;border:1px solid rgba(0,0,0,0.33)}.i-amphtml-autocomplete-results,amp-autocomplete>input,amp-autocomplete>textarea{font-size:1rem;line-height:1.5rem}[amp-fx^=fly-in]{visibility:hidden}amp-script[nodom],amp-script[sandboxed]{position:fixed!important;top:0!important;width:1px!important;height:1px!important;overflow:hidden!important;visibility:hidden}
+/*# sourceURL=/css/ampdoc.css*/[hidden]{display:none!important}.i-amphtml-element{display:inline-block}.i-amphtml-blurry-placeholder{transition:opacity 0.3s cubic-bezier(0.0,0.0,0.2,1)!important;pointer-events:none}[layout=nodisplay]:not(.i-amphtml-element){display:none!important}.i-amphtml-layout-fixed,[layout=fixed][width][height]:not(.i-amphtml-layout-fixed){display:inline-block;position:relative}.i-amphtml-layout-responsive,[layout=responsive][width][height]:not(.i-amphtml-layout-responsive),[width][height][heights]:not([layout]):not(.i-amphtml-layout-responsive),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-layout-responsive){display:block;position:relative}.i-amphtml-layout-intrinsic,[layout=intrinsic][width][height]:not(.i-amphtml-layout-intrinsic){display:inline-block;position:relative;max-width:100%}.i-amphtml-layout-intrinsic .i-amphtml-sizer{max-width:100%}.i-amphtml-intrinsic-sizer{max-width:100%;display:block!important}.i-amphtml-layout-container,.i-amphtml-layout-fixed-height,[layout=container],[layout=fixed-height][height]:not(.i-amphtml-layout-fixed-height){display:block;position:relative}.i-amphtml-layout-fill,.i-amphtml-layout-fill.i-amphtml-notbuilt,[layout=fill]:not(.i-amphtml-layout-fill),body noscript>*{display:block;overflow:hidden!important;position:absolute;top:0;left:0;bottom:0;right:0}body noscript>*{position:absolute!important;width:100%;height:100%;z-index:2}body noscript{display:inline!important}.i-amphtml-layout-flex-item,[layout=flex-item]:not(.i-amphtml-layout-flex-item){display:block;position:relative;-ms-flex:1 1 auto;flex:1 1 auto}.i-amphtml-layout-fluid{position:relative}.i-amphtml-layout-size-defined{overflow:hidden!important}.i-amphtml-layout-awaiting-size{position:absolute!important;top:auto!important;bottom:auto!important}i-amphtml-sizer{display:block!important}@supports (aspect-ratio:1/1){i-amphtml-sizer.i-amphtml-disable-ar{display:none!important}}.i-amphtml-blurry-placeholder,.i-amphtml-fill-content{display:block;height:0;max-height:100%;max-width:100%;min-height:100%;min-width:100%;width:0;margin:auto}.i-amphtml-layout-size-defined .i-amphtml-fill-content{position:absolute;top:0;left:0;bottom:0;right:0}.i-amphtml-replaced-content,.i-amphtml-screen-reader{padding:0!important;border:none!important}.i-amphtml-screen-reader{position:fixed!important;top:0px!important;left:0px!important;width:4px!important;height:4px!important;opacity:0!important;overflow:hidden!important;margin:0!important;display:block!important;visibility:visible!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:8px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:12px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:16px!important}.i-amphtml-unresolved{position:relative;overflow:hidden!important}.i-amphtml-select-disabled{-webkit-user-select:none!important;-ms-user-select:none!important;user-select:none!important}.i-amphtml-notbuilt,[layout]:not(.i-amphtml-element),[width][height][heights]:not([layout]):not(.i-amphtml-element),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element){position:relative;overflow:hidden!important;color:transparent!important}.i-amphtml-notbuilt:not(.i-amphtml-layout-container)>*,[layout]:not([layout=container]):not(.i-amphtml-element)>*,[width][height][heights]:not([layout]):not(.i-amphtml-element)>*,[width][height][sizes]:not([layout]):not(.i-amphtml-element)>*{display:none}amp-img:not(.i-amphtml-element)[i-amphtml-ssr]>img.i-amphtml-fill-content{display:block}.i-amphtml-notbuilt:not(.i-amphtml-layout-container),[layout]:not([layout=container]):not(.i-amphtml-element),[width][height][heights]:not([layout]):not(.i-amphtml-element),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element){color:transparent!important;line-height:0!important}.i-amphtml-ghost{visibility:hidden!important}.i-amphtml-element>[placeholder],[layout]:not(.i-amphtml-element)>[placeholder],[width][height][heights]:not([layout]):not(.i-amphtml-element)>[placeholder],[width][height][sizes]:not([layout]):not(.i-amphtml-element)>[placeholder]{display:block;line-height:normal}.i-amphtml-element>[placeholder].amp-hidden,.i-amphtml-element>[placeholder].hidden{visibility:hidden}.i-amphtml-element:not(.amp-notsupported)>[fallback],.i-amphtml-layout-container>[placeholder].amp-hidden,.i-amphtml-layout-container>[placeholder].hidden{display:none}.i-amphtml-layout-size-defined>[fallback],.i-amphtml-layout-size-defined>[placeholder]{position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;z-index:1}amp-img[i-amphtml-ssr]:not(.i-amphtml-element)>[placeholder]{z-index:auto}.i-amphtml-notbuilt>[placeholder]{display:block!important}.i-amphtml-hidden-by-media-query{display:none!important}.i-amphtml-element-error{background:red!important;color:#fff!important;position:relative!important}.i-amphtml-element-error:before{content:attr(error-message)}i-amp-scroll-container,i-amphtml-scroll-container{position:absolute;top:0;left:0;right:0;bottom:0;display:block}i-amp-scroll-container.amp-active,i-amphtml-scroll-container.amp-active{overflow:auto;-webkit-overflow-scrolling:touch}.i-amphtml-loading-container{display:block!important;pointer-events:none;z-index:1}.i-amphtml-notbuilt>.i-amphtml-loading-container{display:block!important}.i-amphtml-loading-container.amp-hidden{visibility:hidden}.i-amphtml-element>[overflow]{cursor:pointer;position:relative;z-index:2;visibility:hidden;display:initial;line-height:normal}.i-amphtml-layout-size-defined>[overflow]{position:absolute}.i-amphtml-element>[overflow].amp-visible{visibility:visible}template{display:none!important}.amp-border-box,.amp-border-box *,.amp-border-box :after,.amp-border-box :before{box-sizing:border-box}amp-pixel{display:none!important}amp-analytics,amp-auto-ads,amp-story-auto-ads{position:fixed!important;top:0!important;width:1px!important;height:1px!important;overflow:hidden!important;visibility:hidden}amp-story{visibility:hidden!important}html.i-amphtml-fie>amp-analytics{position:initial!important}[visible-when-invalid]:not(.visible),form [submit-error],form [submit-success],form [submitting]{display:none}amp-accordion{display:block!important}@media (min-width:1px){:where(amp-accordion>section)>:first-child{margin:0;background-color:#efefef;padding-right:20px;border:1px solid #dfdfdf}:where(amp-accordion>section)>:last-child{margin:0}}amp-accordion>section{float:none!important}amp-accordion>section>*{float:none!important;display:block!important;overflow:hidden!important;position:relative!important}amp-accordion,amp-accordion>section{margin:0}amp-accordion:not(.i-amphtml-built)>section>:last-child{display:none!important}amp-accordion:not(.i-amphtml-built)>section[expanded]>:last-child{display:block!important}
+/*# sourceURL=/css/ampshared.css*/</style><meta property="og:type" content="article"><meta property="og:title" content="6:15 p.m. update: All Swedes Fire evacuations lifted"><meta property="og:url" content="https://www.unknown.com/general-news/20130819/615-pm-update-all-swedes-fire-evacuations-lifted/2"><meta property="og:description" content="BANGOR — All evacuations and evacuation warnings around the Swedes Fire southeast of Oroville were lifted by Cal Fire as of 6 p.m. today. The fire was up to 2,139 acres and was 64 percent con…"><meta property="article:published_time" content="2013-08-19T00:00:00+00:00"><meta property="article:modified_time" content="2018-09-14T00:00:00+00:00"><meta property="og:site_name" content="Monterey Herald"><meta property="og:image" content="https://www.montereyherald.com/wp-content/uploads/2018/08/MCH-Filler-Photo.png"><meta property="og:image:width" content="512"><meta property="og:image:height" content="512"><meta property="og:image:alt" content=""><meta property="og:locale" content="en_US"><meta name="twitter:image" content="https://www.montereyherald.com/wp-content/uploads/2018/08/MCH-Filler-Photo.png"><meta name="twitter:text:title" content="6:15 p.m. update: All Swedes Fire evacuations lifted"><meta name="twitter:card" content="summary"><meta name="robots" content="max-image-preview:large"><meta name="generator" content="AMP Plugin v2.1.4; mode=reader; theme=legacy"><meta name="generator" content="WordPress 6.1.1"><script async="" src="https://cdn.ampproject.org/v0.mjs" type="module" crossorigin="anonymous"></script><script async nomodule src="https://cdn.ampproject.org/v0.js" crossorigin="anonymous"></script><script src="https://cdn.ampproject.org/v0/amp-ad-0.1.mjs" async="" custom-element="amp-ad" type="module" crossorigin="anonymous"></script><script async nomodule src="https://cdn.ampproject.org/v0/amp-ad-0.1.js" crossorigin="anonymous" custom-element="amp-ad"></script><script src="https://cdn.ampproject.org/v0/amp-analytics-0.1.mjs" async="" custom-element="amp-analytics" type="module" crossorigin="anonymous"></script><script async nomodule src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js" crossorigin="anonymous" custom-element="amp-analytics"></script><script src="https://cdn.ampproject.org/v0/amp-form-0.1.mjs" async="" custom-element="amp-form" type="module" crossorigin="anonymous"></script><script async nomodule src="https://cdn.ampproject.org/v0/amp-form-0.1.js" crossorigin="anonymous" custom-element="amp-form"></script><script src="https://cdn.ampproject.org/v0/amp-iframe-0.1.mjs" async="" custom-element="amp-iframe" type="module" crossorigin="anonymous"></script><script async nomodule src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js" crossorigin="anonymous" custom-element="amp-iframe"></script><script src="https://cdn.ampproject.org/v0/amp-script-0.1.mjs" async="" custom-element="amp-script" type="module" crossorigin="anonymous"></script><script async nomodule src="https://cdn.ampproject.org/v0/amp-script-0.1.js" crossorigin="anonymous" custom-element="amp-script"></script><script src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.mjs" async="" custom-element="amp-sidebar" type="module" crossorigin="anonymous"></script><script async nomodule src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js" crossorigin="anonymous" custom-element="amp-sidebar"></script><script src="https://cdn.ampproject.org/v0/amp-social-share-0.1.mjs" async="" custom-element="amp-social-share" type="module" crossorigin="anonymous"></script><script async nomodule src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js" crossorigin="anonymous" custom-element="amp-social-share"></script><script src="https://cdn.ampproject.org/v0/amp-sticky-ad-1.0.mjs" async="" custom-element="amp-sticky-ad" type="module" crossorigin="anonymous"></script><script async nomodule src="https://cdn.ampproject.org/v0/amp-sticky-ad-1.0.js" crossorigin="anonymous" custom-element="amp-sticky-ad"></script><script src="https://cdn.ampproject.org/v0/amp-subscriptions-0.1.mjs" async="" custom-element="amp-subscriptions" type="module" crossorigin="anonymous"></script><script async nomodule src="https://cdn.ampproject.org/v0/amp-subscriptions-0.1.js" crossorigin="anonymous" custom-element="amp-subscriptions"></script><style amp-custom="">:root{--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,161;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (-webkit-min-device-pixel-ratio:2),(min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.screen-reader-text{border:0;clip:rect(1px,1px,1px,1px);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}:root:not(#_):not(#_):not(#_):not(#_):not(#_):not(#_):not(#_) .screen-reader-text{word-wrap:normal}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}:root:not(#_):not(#_):not(#_):not(#_):not(#_):not(#_):not(#_) .screen-reader-text:focus{clip:auto}html :where(.has-border-color){border-style:solid}html :where([data-amp-original-style*=border-top-color]){border-top-style:solid}html :where([data-amp-original-style*=border-right-color]){border-right-style:solid}html :where([data-amp-original-style*=border-bottom-color]){border-bottom-style:solid}html :where([data-amp-original-style*=border-left-color]){border-left-style:solid}html :where([data-amp-original-style*=border-width]){border-style:solid}html :where([data-amp-original-style*=border-top-width]){border-top-style:solid}html :where([data-amp-original-style*=border-right-width]){border-right-style:solid}html :where([data-amp-original-style*=border-bottom-width]){border-bottom-style:solid}html :where([data-amp-original-style*=border-left-width]){border-left-style:solid}html :where(amp-img[class*=wp-image-]),html :where(amp-anim[class*=wp-image-]){height:auto;max-width:100%}amp-iframe iframe,amp-iframe noscript,amp-img img,amp-img noscript{image-rendering:inherit;-o-object-fit:inherit;object-fit:inherit;-o-object-position:inherit;object-position:inherit}.amp-wp-content,.amp-wp-title-bar div{max-width:600px;margin:0 auto}body{font-family:"Source Sans Pro",Helvetica,sans-serif;font-size:16px;line-height:1.8;background:#fff;color:#3d596d;padding-bottom:100px}.amp-wp-content{padding:16px;overflow-wrap:break-word;word-wrap:break-word;font-weight:400;color:#000}.amp-wp-title{margin:18px 0 0 0;font-size:36px;line-height:1.258;font-weight:700;color:#000}.amp-wp-meta{margin-bottom:16px}p,ul{margin:0 0 24px 0}a,a:visited{color:#0093f5}a:hover,a:active,a:focus{color:#47b6ff}.amp-wp-meta,nav.amp-wp-title-bar{font-family:"Open Sans",sans-serif;font-size:15px}ul.amp-wp-meta{padding:24px 0 0 0;margin:0 0 24px 0}ul.amp-wp-meta li{list-style:none;display:block;margin:0;line-height:24px;overflow:hidden}ul.amp-wp-meta li:first-child:before{display:none}.amp-wp-meta,.amp-wp-meta a{text-decoration:none}.amp-wp-meta .screen-reader-text{clip:rect(1px,1px,1px,1px);height:1px;overflow:hidden;position:absolute;width:1px}.amp-wp-byline amp-img{border-radius:50%;border:0;background:#f3f6f8;position:relative;top:6px;margin-right:6px}nav.amp-wp-title-bar{background:#003d66;padding:0 16px}nav.amp-wp-title-bar div{line-height:54px;color:#fff}nav.amp-wp-title-bar a{color:#fff;text-decoration:none}nav.amp-wp-title-bar .amp-wp-site-icon{float:left;margin:11px 8px 0 0;border-radius:50%}amp-iframe{background:#fff}.site-footer .footer-menus-wrapper{border-top:5px solid #0a0908;padding-top:10px}.site-footer .footer-menus-wrapper ul.menu{display:inline-block;list-style-type:none;margin:0;padding:0}.site-footer .footer-menus-wrapper ul.menu li a,.site-footer .footer-menus-wrapper ul.menu li a:visited{text-decoration:none}.amp-wp-title-bar-left{float:left}.amp-wp-title-bar-right{float:right}.amp-search-form{border:2px solid #000;box-shadow:0 1px 1px 1px rgba(0,0,0,.2);overflow:hidden}.amp-search-form form input.search{min-width:calc(100% - 20px);max-width:calc(100% - 20px);box-sizing:border-box;margin:0;border:0;padding:10px;font-size:.8em}.amp-wp-title-bar form{display:inline-block}.amp-wp-title-bar button{display:inline-block}.icon-hamburger{cursor:pointer;margin-left:15px;font-size:1.1em}.amp-wp-title-bar .search-form{color:#fff}.amp-ad-container{text-align:center}amp-sidebar{background-color:#000}.nav-wrapper .nav-primary .navigation-inner .menu-main-navigation-container .menu ul{list-style-type:none;font-weight:bold}.nav-wrapper .nav-primary a,.nav-wrapper .nav-primary a:visited{color:#fff;text-decoration:none;font-weight:normal}.nav-wrapper .nav-primary a:hover{color:#fff;text-decoration:underline;font-weight:normal}.nav-wrapper .nav-primary ul li{list-style-type:none}.nav-wrapper ul.menu{margin:0;padding:0}.nav-wrapper ul.sub-menu{margin:0;padding:0}.nav-wrapper ul.sub-menu li{font-size:.8em}.navigation-inner{width:200px;padding:25px}body{font-family:"Droid Sans",Georgia,serif;background:#fff}a,a:visited{color:#003459}a:hover,a:active,a:focus{color:#0097a7}nav.amp-wp-title-bar{background:#000}.ampWrapper a{text-decoration:none}.ampWrapper button{text-decoration:none}.ampWrapper{margin:0 auto;z-index:1}.ampWrapperInside{position:relative;overflow:hidden}.ampBlue{background:#097bff;border-radius:20px;height:270px}.ampthanks{text-align:center;font-size:50px;z-index:2;position:relative}.ampBody{color:white;text-align:center;font-size:1.8em;width:100%}.ampsubscribe{margin-top:30px}#ampSubscribe{font-size:20px;margin-top:30px}.ampBtn{background:white;width:70%;margin:0 auto;border-radius:20px;color:#097bff;padding:5px;text-decoration:none;border:1px solid #097bff}.ampbtnCopy{font-size:1.4em}.ampLogin{text-align:center;font-size:20px;margin:80px 0;background:#fff}.ampLogin a{color:#097bff;text-decoration:underline}.ampLogin button{font-size:20px;color:#097bff;text-decoration:underline;border:0;background:transparent;border-radius:0}.ampBodyInside{padding:70px 15px 0;height:100px;line-height:1.3em}@media all and (max-width:415px){.ampLogin{margin:50px auto}.ampWrapper{width:95%}.ampBlue{width:100%}.ampthanks{font-size:35px}.ampBody{font-size:1.6em}.ampsubscribe{margin-top:30px}}@media all and (max-width:325px){.ampBodyInside{padding:50px 10px 0;height:65px}.ampLogin{margin:30px 0;font-size:1em}.ampBlue{height:200px}.ampBody{font-size:1.2em}.ampthanks{font-size:25px}.ampbtnCopy{font-size:1.2em}}.ampsubscribe{margin-top:20px}@font-face{font-family:"social-logos";src:url("https://www.montereyherald.com/wp-content/mu-plugins/jetpack-11.7/_inc/social-logos/social-logos.eot?5d3b4da4f6c2460dd842dbf9e0992ea6");font-weight:normal;font-style:normal}@font-face{font-family:"social-logos";src:url("https://www.montereyherald.com/wp-content/mu-plugins/jetpack-11.7/_inc/social-logos/social-logos.eot?5d3b4da4f6c2460dd842dbf9e0992ea6");src:url("https://www.montereyherald.com/wp-content/mu-plugins/jetpack-11.7/_inc/social-logos/social-logos.eot?5d3b4da4f6c2460dd842dbf9e0992ea6#iefix") format("embedded-opentype"),url("https://www.montereyherald.com/wp-content/mu-plugins/jetpack-11.7/_inc/social-logos/social-logos.woff") format("woff"),url("https://www.montereyherald.com/wp-content/mu-plugins/jetpack-11.7/_inc/social-logos/social-logos.ttf?5d3b4da4f6c2460dd842dbf9e0992ea6") format("truetype");font-weight:normal;font-style:normal;font-display:swap}amp-social-share,.amp-social-share{border-radius:50%;color:#fff;-webkit-border-radius:50%;position:relative;line-height:1;width:32px;height:32px;margin:0 5px 5px 0;vertical-align:middle}amp-social-share::before,.amp-social-share::before{display:inline-block;font:normal 18px/1 "social-logos";padding:7px;position:relative;top:1px;vertical-align:top;text-align:center}.amp-social-share.print{background:#e9e9e9;font-size:0;cursor:pointer;display:inline-block;vertical-align:middle;border:none;padding:0}.amp-social-share.print::before{content:"";color:#656565}amp-social-share[type='email']{background:#e9e9e9;color:#656565}amp-social-share[type='email']::before{content:""}amp-social-share[type='tumblr']{background:#2c4762}amp-social-share[type='tumblr']::before{content:""}amp-social-share[type='facebook']{background:#1877f2}amp-social-share[type='facebook']::before{content:""}amp-social-share[type='twitter']{background:#00acee}amp-social-share[type='twitter']::before{content:""}amp-social-share[type='pinterest']{background:#ca1f27}amp-social-share[type='pinterest']::before{content:""}amp-social-share[type='telegram']{background:#08c}amp-social-share[type='telegram']::before{content:""}amp-social-share[type='linkedin']{background:#0077b5}amp-social-share[type='linkedin']::before{content:""}amp-social-share[type='pocket']{background:#ee4056}amp-social-share[type='pocket']::before{content:""}amp-social-share[type='reddit']{background:#cee3f8;color:#555}amp-social-share[type='reddit']::before{content:""}amp-social-share[type='skype']{background:#00aff0}amp-social-share[type='skype']::before{content:""}amp-social-share[type='whatsapp']{background:#43d854}amp-social-share[type='whatsapp']::before{content:""}
+
+/*# sourceURL=amp-custom.css */</style><script id="amp-subscriptions" type="application/json">
+						{
+						  "services": [
+							{
+							  "type": "iframe",
+							  "iframeSrc": "https://mg2access.montereyherald.com/14/accessIframe",
+							  "iframeVars": [
+								"READER_ID",
+								"CANONICAL_URL",
+								"AMPDOC_URL",
+								"SOURCE_URL",
+								"DOCUMENT_REFERRER"
+							  ],
+							  "actions": {
+								"login": "https://mg2access.montereyherald.com/14/?siteCode=DFM__NorCal__HERALD&configCode=NorCalconfig&flow=login&environment=prod&returnUrl=RETURN_URL&readerId=READER_ID",
+								"subscribe": "https://mg2access.montereyherald.com/14/?configCode=NorCalconfig&siteCode=DFM__NorCal__HERALD&readerId=READER_ID&returnUrl=RETURN_URL&allowSso=true&embedded=false&flow=activate&activatePageUrl=https%3A%2F%2Fcheckout.montereyherald.com%2FnolandingS2%3Fofrgp_id%3D1340%26%23038%3Bg2i_source%3Dconnextamp%26%23038%3Bg2i_medium%3Dpaywall%26%23038%3Bg2i_campaign%3DMG2PW13%26%23038%3Bg2i_or_o%3DInternet%26%23038%3Bg2i_or_p%3DMG2PW13%26%23038%3Bgaurl%3DCANONICAL_PATH"
+							  },
+							  "siteCode": "DFM__NorCal__HERALD",
+							  "configCode": "NorCalconfig"
+							}
+						  ],
+						  "fallbackEntitlement": {
+							"source": "fallback",
+							"granted": true,
+							"grantReason": "METERING",
+							"data": {
+							  "AccessLevel": "fallback_timeout",
+							  "UserState": "LoggedOut",
+							  "IsGoogleBot": false
+							}
+						  }
+						}
+					</script><link rel="canonical" href="https://www.unknown.com/general-news/20130819/615-pm-update-all-swedes-fire-evacuations-lifted/2"><title>6:15 p.m. update: All Swedes Fire evacuations lifted – Monterey Herald</title><script type="application/ld+json">{"@context":"http:\/\/schema.org","publisher":{"@type":"Organization","name":"Monterey Herald","logo":{"@type":"ImageObject","url":"https:\/\/www.montereyherald.com\/wp-content\/uploads\/2022\/04\/mhfix-1.png?w=228"}},"@type":"NewsArticle","mainEntityOfPage":"https:\/\/www.montereyherald.com\/2013\/08\/19\/615-pm-update-all-swedes-fire-evacuations-lifted\/","headline":"6:15 p.m. update: All Swedes Fire evacuations lifted","datePublished":"2013-08-19T00:00:00-07:00","dateModified":"2018-09-14T00:00:00-07:00","author":{"@type":"Person","name":"Monterey County Herald"},"image":{"@type":"ImageObject","url":"https:\/\/www.montereyherald.com\/wp-content\/themes\/scng\/static\/images\/noimage.jpg","height":392,"width":696},"isAccessibleForFree":"False","isPartOf":{"@type":["Product"],"name":"All Access","productID":"https:\/\/www.montereyherald.com:all-access"}}</script></head>
+<body>
+
+		<amp-sidebar id="sidebar" layout="nodisplay" side="right" class="i-amphtml-layout-nodisplay" hidden="hidden" i-amphtml-layout="nodisplay">
+			<div class="nav-wrapper">
+				<div class="nav-primary">
+					<div class="navigation-inner">
+						<nav class="menu-main-navigation-container" role="navigation" aria-label="Main Menu" id="primary-container"><ul id="primary-menu" class="menu"><li id="menu-item-256" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-256 menu-large"><a href="https://www.montereyherald.com/news/" aria-expanded="false" aria-haspopup="true">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-257" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-257 menu-large"><a href="https://www.montereyherald.com/news/">News</a></li>
+	<li id="menu-item-2857416" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2857416 menu-large"><a href="https://www.montereyherald.com/local-news/">Local News</a></li>
+	<li id="menu-item-2714814" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2714814 menu-large"><a href="https://www.montereyherald.com/monterey-herald-mobile-alerts-signup/">News Alerts</a></li>
+	<li id="menu-item-2811193" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2811193 menu-large"><a href="https://www.montereyherald.com/news/crime-public-safety/">Crime and Public Safety</a></li>
+	<li id="menu-item-2811192" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2811192 menu-large"><a href="https://www.montereyherald.com/news/courts/">Courts</a></li>
+	<li id="menu-item-259" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-259 menu-large"><a href="https://www.montereyherald.com/business/">Business</a></li>
+	<li id="menu-item-2811197" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2811197 menu-large"><a href="https://www.montereyherald.com/news/marijuana/">Marijuana</a></li>
+	<li id="menu-item-2692132" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2692132 menu-large"><a href="https://www.montereyherald.com/news/education/">Education</a></li>
+	<li id="menu-item-2811198" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2811198 menu-large"><a href="/tag/2020-election">2020 Election</a></li>
+	<li id="menu-item-2811194" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2811194 menu-large"><a href="https://www.montereyherald.com/news/environment/">Environment</a></li>
+	<li id="menu-item-2811195" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2811195 menu-large"><a href="https://www.montereyherald.com/news/health/">Health</a></li>
+	<li id="menu-item-2811196" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2811196 menu-large"><a href="https://www.montereyherald.com/news/housing/">Housing</a></li>
+	<li id="menu-item-2811190" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2811190 menu-large"><a href="https://www.montereyherald.com/news/transportation/">Transportation</a></li>
+	<li id="menu-item-260" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260 menu-large"><a href="https://www.montereyherald.com/news/california-news/">California News</a></li>
+</ul>
+</li>
+<li id="menu-item-278" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-278 menu-large"><a href="https://www.montereyherald.com/sports/" aria-expanded="false" aria-haspopup="true">Sports</a>
+<ul class="sub-menu">
+	<li id="menu-item-279" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-279 menu-large"><a href="https://www.montereyherald.com/sports/">Sports</a></li>
+	<li id="menu-item-280" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-280 menu-large"><a href="https://www.montereyherald.com/sports/local-sports/">Local Sports</a></li>
+	<li id="menu-item-2811199" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2811199 menu-large"><a href="https://www.montereyherald.com/sports/high-school-sports/">High School Sports</a></li>
+	<li id="menu-item-2986459" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2986459 menu-large"><a href="https://www.montereyherald.com/tag/att-pebble-beach-pro-am/">AT&amp;T Pebble Beach Pro-Am</a></li>
+	<li id="menu-item-2811202" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2811202 menu-large"><a href="https://www.montereyherald.com/sports/college-sports/">College Sports</a></li>
+	<li id="menu-item-284" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-284 menu-large"><a href="https://www.montereyherald.com/sports/mlb/oakland-athletics/">Oakland Athletics</a></li>
+	<li id="menu-item-2857419" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2857419 menu-large"><a href="https://www.montereyherald.com/sports/nfl/raiders/">Raiders</a></li>
+	<li id="menu-item-286" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-286 menu-large"><a href="https://www.montereyherald.com/sports/nfl/san-francisco-49ers/">San Francisco 49ers</a></li>
+	<li id="menu-item-287" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287 menu-large"><a href="https://www.montereyherald.com/sports/mlb/san-francisco-giants/">San Francisco Giants</a></li>
+	<li id="menu-item-288" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-288 menu-large"><a href="https://www.montereyherald.com/sports/nhl/san-jose-sharks/">San Jose Sharks</a></li>
+	<li id="menu-item-289" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-289 menu-large"><a href="https://www.montereyherald.com/sports/nba/golden-state-warriors/">Golden State Warriors</a></li>
+</ul>
+</li>
+<li id="menu-item-290" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-290 menu-large"><a href="https://www.montereyherald.com/things-to-do/lifestyle/" aria-expanded="false" aria-haspopup="true">Lifestyle</a>
+<ul class="sub-menu">
+	<li id="menu-item-291" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-291 menu-large"><a href="https://www.montereyherald.com/things-to-do/lifestyle/">Lifestyle</a></li>
+	<li id="menu-item-2687005" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2687005 menu-large"><a href="https://www.montereyherald.com/things-to-do/entertainment/">Entertainment</a></li>
+	<li id="menu-item-293" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-293 menu-large"><a href="https://www.montereyherald.com/things-to-do/movies/">Movies</a></li>
+	<li id="menu-item-3071927" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3071927 menu-large"><a href="http://www.mhrc2022.com/">Vote: Reader’s Choice</a></li>
+	<li id="menu-item-2857420" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2857420 menu-large"><a href="https://www.montereyherald.com/things-to-do/restaurants-food-drink/">Restaurants Food and Drink</a></li>
+	<li id="menu-item-296" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-296 menu-large"><a href="https://www.montereyherald.com/things-to-do/home-garden/">Home &amp; Garden</a></li>
+	<li id="menu-item-2702017" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2702017 menu-large"><a href="https://comicskingdom.com/?utm_source=dfm">Comics</a></li>
+	<li id="menu-item-2702018" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2702018 menu-large"><a href="http://puzzles.comicskingdom.com/?utm_source=dfm">Puzzles</a></li>
+	<li id="menu-item-2981773" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2981773 menu-large"><a href="https://www.montereyherald.com/local-events/">Local Events</a></li>
+</ul>
+</li>
+<li id="menu-item-2692173" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2692173 menu-large"><a href="https://www.legacy.com/obituaries/montereyherald/" aria-expanded="false" aria-haspopup="true">Obits</a>
+<ul class="sub-menu">
+	<li id="menu-item-2692172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2692172 menu-large"><a href="https://www.legacy.com/obituaries/montereyherald/">View Obits</a></li>
+	<li id="menu-item-299" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-299 menu-large"><a href="https://www.bayareanewsgroupobituaries.com/">Place Obits</a></li>
+</ul>
+</li>
+<li id="menu-item-300" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-300 menu-large"><a href="https://www.montereyherald.com/opinion/" aria-expanded="false" aria-haspopup="true">Opinion</a>
+<ul class="sub-menu">
+	<li id="menu-item-301" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-301 menu-large"><a href="https://www.montereyherald.com/opinion/">Opinion</a></li>
+	<li id="menu-item-302" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-302 menu-large"><a href="https://www.montereyherald.com/opinion/columnists/">Columnists</a></li>
+	<li id="menu-item-303" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-303 menu-large"><a href="https://www.montereyherald.com/opinion/editorials/">Editorials</a></li>
+	<li id="menu-item-304" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-304 menu-large"><a href="https://www.montereyherald.com/opinion/letters-to-the-editor/">Letters to the Editor</a></li>
+</ul>
+</li>
+<li id="menu-item-3043318" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3043318 menu-large"><a href="https://www.montereyherald.com/special-sections/">Special Sections</a></li>
+<li id="menu-item-2970691" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2970691 menu-large"><a href="#" aria-expanded="false" aria-haspopup="true">Advertising</a>
+<ul class="sub-menu">
+	<li id="menu-item-2858326" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2858326 menu-large"><a href="http://www.norcalaudiencesolutions.com/">Advertise with Us</a></li>
+	<li id="menu-item-2970692" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2970692 menu-large"><a href="https://www.montereyherald.com/sponsored-content/">Sponsored Content</a></li>
+</ul>
+</li>
+<li id="menu-item-2696982" class="subscribe-visibility subscribe-special custom-button menu-item menu-item-type-custom menu-item-object-custom menu-item-2696982"><a href="https://checkout.montereyherald.com/?g2i_source=website&amp;g2i_medium=link&amp;g2i_campaign=nav&amp;g2i_or_o=Internet&amp;g2i_or_p=nav&amp;returnUrl=https%3A%2F%2Fwww.montereyherald.com%2F">Subscribe</a></li>
+<li id="menu-item-2827947" class="log-in-button subscribe-special custom-button menu-item menu-item-type-custom menu-item-object-custom menu-item-2827947"><a href="https://www.montereyherald.com/login">Log In</a></li>
+<li id="menu-item-2888118" class="log-out-button menu-item menu-item-type-custom menu-item-object-custom menu-item-2888118 menu-large"><a href="/logout">Logout</a></li>
+</ul></nav>					</div>
+				</div>
+			</div>
+		</amp-sidebar>
+
+		<nav class="amp-wp-title-bar">
+	<div>
+		<div class="amp-wp-title-bar-left">
+					</div>
+		<a href="https://www.montereyherald.com/">
+										<amp-img src="https://www.montereyherald.com/wp-content/uploads/2018/08/cropped-MCH_SI.png?w=32" width="32" height="32" class="amp-wp-site-icon i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:32px;height:32px" i-amphtml-layout="fixed"></amp-img>
+						Monterey Herald		</a>
+		<div class="amp-wp-title-bar-right">
+						<span on="tap:sidebar.open" tabindex="0" role="button" class="icon-hamburger">☰ Menu</span>
+				</div>
+	</div>
+</nav>
+<div class="amp-wp-content">
+	
+			<div class="amp-search-form">
+				<form method="get" action="https://www.montereyherald.com/" target="_top" class="search-form">
+					<input name="s" type="search" placeholder="Search" aria-label="Search" class="search">
+					<input name="orderby" type="hidden" value="date">
+					<input name="order" type="hidden" value="desc">
+				</form>
+			</div>
+
+			
+	<h1 class="amp-wp-title">6:15 p.m. update: All Swedes Fire evacuations lifted</h1>
+	<ul class="amp-wp-meta">
+		<li class="amp-wp-byline">
+	Monterey County Herald</li>
+<li class="amp-wp-posted-on">  <!-- AMP META TIME -->
+	<div class="time">PUBLISHED: <time datetime="2013-08-18 17:00:00">August 19, 2013 at 12:00 a.m.</time> | UPDATED: <time class="updated" datetime="2018-09-13 17:00:00">September 14, 2018 at 12:00 a.m.</time></div></li>
+	<li class="amp-wp-tax-category">  <!-- AMP META TAXONOMY -->
+		<span class="screen-reader-text">Categories:</span>
+		<a href="https://www.montereyherald.com/news/" rel="category tag">News</a>	</li>
+	</ul>
+	
+		
+		
+											<!--Get amp article content-->
+				<div subscriptions-section="content">
+					<p>BANGOR — All evacuations and evacuation warnings around the Swedes Fire southeast of Oroville were lifted by Cal Fire as of 6 p.m. today. </p>
+<p>The fire was up to 2,139 acres and was 64 percent contained. One residence, one garage and three outbuildings were destroyed. </p>
+<p>Cal Fire said residents can return to their properties but: </p><div class="amp-ad-container"><amp-ad width="300" height="250" type="doubleclick" data-slot="/8013/montereyherald.com/Products/Amp" data-multi-size="" json='{"targeting":{"POS":["Amp_01"]},"amp":"1"}' rtc-config='{"vendors": { "aps": { "PUB_ID": "3391","PARAMS": {"targeting":{"POS":["Amp_01"]},"amp":"1"} } , "newspassid": {"PUBLISHER_ID":"NPID10000005","SITE_ID":"4204204326","TAG_ID":"9991070002","PLACEMENT_ID":"1420434937","AD_UNIT_CODE":"montereyherald.com/products/amp"} } }' class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:300px;height:250px" i-amphtml-layout="fixed"></amp-ad></div>
+<li>
+<p> Be alert for downed power lines and other hazards. </p>
+<li>
+<p> Check propane tanks, regulators and lines before turning on gas. </p>
+<li>
+<p> Check your residence for hidden embers or smoldering fires. </p><div class="amp-ad-container"><amp-ad width="300" height="250" type="doubleclick" data-slot="/8013/montereyherald.com/Products/Amp" data-multi-size="" json='{"targeting":{"POS":["Amp_02"]},"amp":"1"}' rtc-config='{"vendors": { "aps": { "PUB_ID": "3391","PARAMS": {"targeting":{"POS":["Amp_02"]},"amp":"1"} } , "newspassid": {"PUBLISHER_ID":"NPID10000005","SITE_ID":"4204204326","TAG_ID":"9991070002","PLACEMENT_ID":"1420434938","AD_UNIT_CODE":"montereyherald.com/products/amp"} } }' class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:300px;height:250px" i-amphtml-layout="fixed"></amp-ad></div>
+<p>There was also a warning to drive carefully in the fire area and watch for fire and utility equipment. </p>
+<p>Sunday night, 11 people were at the shelter set up Butte County at the Church of the Nazarene, 2238 Monte Vista Ave. in Oroville. </p>
+<p>About 30 horses were being sheltered at the large animal shelter at Camelot, 1985 Clark Road, Butte Valley. The small animal shelter, at old Oroville Hospital, 2279 Del Oro Ave., was hosting 37 dogs, 26 cats, 13 rabbits and a rooster. </p><div class="amp-ad-container"><amp-ad width="300" height="250" type="doubleclick" data-slot="/8013/montereyherald.com/Products/Amp" data-multi-size="" json='{"targeting":{"POS":["Amp_03"]},"amp":"1"}' rtc-config='{"vendors": { "aps": { "PUB_ID": "3391","PARAMS": {"targeting":{"POS":["Amp_03"]},"amp":"1"} } , "newspassid": {"PUBLISHER_ID":"NPID10000005","SITE_ID":"4204204326","TAG_ID":"9991070002","PLACEMENT_ID":"1420434939","AD_UNIT_CODE":"montereyherald.com/products/amp"} } }' class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:300px;height:250px" i-amphtml-layout="fixed"></amp-ad></div>
+<p>There are 90 engines, 28 bulldozers, 25 water trucks and 33 fire crews still assigned to the fire. Nine helicopters are working the blaze too. </p>
+<p>All told 1,484 personnel are fighting the fire. </p>
+<p>That includes two UH-60 Blackhawk and one CH-47 Chinook helicopters and their crews from the California National Guard. </p><div class="amp-ad-container"><amp-ad width="300" height="250" type="doubleclick" data-slot="/8013/montereyherald.com/Products/Amp" data-multi-size="" json='{"targeting":{"POS":["Amp_04"]},"amp":"1"}' rtc-config='{"vendors": { "aps": { "PUB_ID": "3391","PARAMS": {"targeting":{"POS":["Amp_04"]},"amp":"1"} } , "newspassid": {"PUBLISHER_ID":"NPID10000005","SITE_ID":"4204204326","TAG_ID":"9991070002","PLACEMENT_ID":"1420434940","AD_UNIT_CODE":"montereyherald.com/products/amp"} } }' class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:300px;height:250px" i-amphtml-layout="fixed"></amp-ad></div>
+<p>The Guard has had nine helicopters and two C-130 air tankers at work on three Northern California fires since they were mobilized Aug. 13. </p>
+<p>Each Blackhawk has a 660-gallon water bucket, while the Chinook can lift 2,000 gallons. </p>
+<p>Today firefighters strengthed existing firelines and built new ones. All the lines held, despite the erratic winds in the area. </p><div class="amp-ad-container"><amp-ad width="300" height="250" type="doubleclick" data-slot="/8013/montereyherald.com/Products/Amp" data-multi-size="" json='{"targeting":{"POS":["Amp_05"]},"amp":"1"}' rtc-config='{"vendors": { "aps": { "PUB_ID": "3391","PARAMS": {"targeting":{"POS":["Amp_05"]},"amp":"1"} } , "newspassid": {"PUBLISHER_ID":"NPID10000005","SITE_ID":"4204204326","TAG_ID":"9991070002","PLACEMENT_ID":"1420434941","AD_UNIT_CODE":"montereyherald.com/products/amp"} } }' class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:300px;height:250px" i-amphtml-layout="fixed"></amp-ad></div>
+<p>The fire broke out about 4:30 p.m. Friday in the vicinity of Swedes Flat Road and Chinese Wall Road. The house that burned was on Chinese Wall. </p>
+<p>Full containment is expected Thursday.</p>
+<div class="amp-ad-container"><amp-ad width="300" height="250" type="doubleclick" data-slot="/8013/montereyherald.com/Products/Amp" data-multi-size="" json='{"targeting":{"POS":["Amp_06"]},"amp":"1"}' rtc-config='{"vendors": { "aps": { "PUB_ID": "3391","PARAMS": {"targeting":{"POS":["Amp_06"]},"amp":"1"} } , "newspassid": {"PUBLISHER_ID":"NPID10000005","SITE_ID":"4204204326","TAG_ID":"9991070002","PLACEMENT_ID":"1420434942","AD_UNIT_CODE":"montereyherald.com/products/amp"} } }' class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:300px;height:250px" i-amphtml-layout="fixed"></amp-ad></div><amp-sticky-ad layout="nodisplay" class="i-amphtml-layout-nodisplay" hidden="hidden" i-amphtml-layout="nodisplay">
+	<amp-ad width="320" height="50" type="doubleclick" data-multi-size="320x50" data-slot="/8013/montereyherald.com/Products/Amp" json='{"targeting":{"POS":["Amp_Sticky"]},"amp":"1"}' rtc-config='{ "vendors": { "aps": { "PUB_ID":"3391","PARAMS": {"targeting":{"POS":["Amp_Sticky"]},"amp":"1"} } , "newspassid": {"PUBLISHER_ID":"NPID10000005","SITE_ID":"4204204326","TAG_ID":"9991070002","PLACEMENT_ID":"1420434947","AD_UNIT_CODE":"montereyherald.com/products/amp"} } }' class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:320px;height:50px" i-amphtml-layout="fixed">
+	</amp-ad>
+</amp-sticky-ad><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><amp-social-share type="facebook" height="32px" width="32px" aria-label="Click to share on Facebook" title="Click to share on Facebook" data-param-app_id="249643311490" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:32px;height:32px" i-amphtml-layout="fixed"></amp-social-share><amp-social-share type="twitter" height="32px" width="32px" aria-label="Click to share on Twitter" title="Click to share on Twitter" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:32px;height:32px" i-amphtml-layout="fixed"></amp-social-share><button class="amp-social-share print" on="tap:AMP.print">Print</button></div></div></div>				</div>
+							<div subscriptions-section="content-not-granted">
+					<div class="ampWrapper">
+				<div class="ampWrapperInside">
+					<div class="ampcircle"></div>
+					<amp-img id="paywall" src="https://www.montereyherald.com/wp-content/plugins/dfm-amp-mods/static/images/blank.png" width="1" height="1" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:1px;height:1px" i-amphtml-layout="fixed"></amp-img>
+											<div class="ampthanks">
+						Thanks for reading!						</div>
+						<div class="ampBlue">
+							<div class="ampBody">
+								<div class="ampBodyInside">
+									Get unlimited access to enjoy this article and more								</div>
+								<div class="ampsubscribe" id="subscribeNow">
+									<span id="ampSubscribe">Subscribe Now</span>
+																												<button subscriptions-action="subscribe" subscriptions-display="data.UserState!='Subscribed'" class="ampBtn">
+											<span class="ampbtnCopy">4 months for $1</span>
+										</button>
+																	</div>
+							</div>
+						</div>
+
+						<div class="ampLogin">
+																			Already a subscriber? <button subscriptions-action="login" subscriptions-display="data.UserState='LoggedOut'">Login</button>
+											</div>
+									</div>
+			</div>
+					</div>
+							
+								
+		
+	
+	<p><strong>View more on			<a href="https://www.montereyherald.com">
+				Monterey Herald			</a>
+		</strong></p>
+
+	<amp-ad type="nativo" height="350" width="400" layout="responsive" data-request-url="https://amp.montereyherald.com/amp/nativo" class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" i-amphtml-layout="responsive"><i-amphtml-sizer style="display:block;padding-top:87.5%"></i-amphtml-sizer>
+			</amp-ad>
+				<amp-embed width="100" height="100" type="taboola" layout="responsive" data-publisher="medianewsgroup-network" data-mode="thumbnails-a" data-placement="Below Article Thumbnails AMP" data-target_type="mix" data-article="auto" data-url="" class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" i-amphtml-layout="responsive"><i-amphtml-sizer style="display:block;padding-top:100%"></i-amphtml-sizer>
+				</amp-embed>
+			
+		<footer class="site-footer">
+			<div class="footer-menus-wrapper">
+				<ul id="footer-bottom-menu" class="menu"><li id="menu-item-2706415" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2706415"><a href="https://www.medianewsgroup.com/terms-of-use/">Terms of Use</a></li>
+<li id="menu-item-9664" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9664"><a href="https://www.medianewsgroup.com/cookie-policy/">Cookie Policy</a></li>
+<li id="menu-item-3083143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3083143"><a href="https://www.medianewsgroup.com/privacy-policy#section-9">California Notice at Collection</a></li>
+<li id="menu-item-3083144" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3083144"><a href="https://www.medianewsgroup.com/privacy-policy#financial">Notice of Financial Incentive</a></li>
+<li id="menu-item-3083145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3083145"><a href="https://my.datasubject.com/16A1AnRt2Fn8i1unj/77">Do Not Sell/Share My Personal Information</a></li>
+<li id="menu-item-246" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-246"><a href="https://www.medianewsgroup.com/arbitration/">Arbitration</a></li>
+<li id="menu-item-248" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-248"><a href="https://vip.wordpress.com">Powered by WordPress.com VIP</a></li>
+</ul>			</div>
+		</footer>
+
+		
+</div>
+
+			<script id="aps-script" type="text/plain" target="amp-script">var kvBidObject={kvMap:JSON.parse("%%PATTERN:TARGETINGMAP%%"),url:"%%PATTERN:url%%",bidType:"openAuction",cv:"v2.0.0"};function _apstagRenderCallback(a){for(var e=window,n=0;n<5;){if((e=a.ampEnv?window:e.parent).apstag)try{n=5,e.apstag.renderImp(document,"%%PATTERN:amzniid%%",a)}catch(a){}n++}}function _isAmp(){return window.AMP_CONTEXT_DATA&&"AMP-AD"===window.AMP_CONTEXT_DATA.tagName}if(kvBidObject.ampEnv=_isAmp(),kvBidObject.ampEnv){var apstagUrl="//c.amazon-adsystem.com/aax2/apstag.js",s=document.createElement("script");s.onload=function(){_apstagRenderCallback(kvBidObject)},s.src=apstagUrl,window.document.head.appendChild(s)}else _apstagRenderCallback(kvBidObject);</script>
+				<amp-iframe width="1" title="User Sync" height="1" sandbox="allow-scripts allow-same-origin" frameborder="0" src="https://bidder.newspassid.com/static/load-cookie.html?bidder=newspassid" id="newspassid-load-cookie" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:1px;height:1px" i-amphtml-layout="fixed"><amp-img src="https://bidder.newspassid.com/" layout="nodisplay" placeholder class="i-amphtml-layout-nodisplay" hidden="hidden" i-amphtml-layout="nodisplay"></amp-img></amp-iframe>
+		
+		<amp-analytics type="googleanalytics" id="analytics1" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:1px;height:1px" i-amphtml-layout="fixed">
+			<script type="application/json">
+				{"vars":{"account":"UA-61435456-17"},"triggers":{"trackPageviewWithCustomDimensions":{"on":"visible","request":"pageviewWithCds","vars":{"cd2":"montereyherald.com","cd3":"montereyherald.com","cd14":"News","cd15":"News","cd16":"","cd20":"","cd23":687467,"cd24":"AMP","cd25":"NORCAL","cd30":"","cd5":"2013-08-19T00:00:00-07:00","cd6":"2013-08-19T00:00:00-07:00","cd7":"2018-09-14T00:00:00-07:00","cd21":"https:\/\/www.unknown.com\/general-news\/20130819\/615-pm-update-all-swedes-fire-evacuations-lifted\/2","cd22":"615-pm-update-all-swedes-fire-evacuations-lifted","cd62":"","cd26":"Monterey County Herald","cd54":"migration@dfmdev.com","cd55":"no_affiliation","cd27":"6:15 p.m. update: All Swedes Fire evacuations lifted","cd28":"https:\/\/www.montereyherald.com\/2013\/08\/19\/615-pm-update-all-swedes-fire-evacuations-lifted\/","cd29":"6:15 p.m. update: All Swedes Fire evacuations lifted"}},"paywallVisible":{"selector":"#paywall","on":"visible","request":"paywallEvent","vars":{"eventCategory":"Paywall - MG2 - AMP","eventAction":"AMP Paywall Visible","eventLabel":"AMP Paywall Visible","cd2":"montereyherald.com","cd3":"montereyherald.com","cd14":"News","cd15":"News","cd16":"","cd20":"","cd23":687467,"cd24":"AMP","cd25":"NORCAL","cd30":"","cd5":"2013-08-19T00:00:00-07:00","cd6":"2013-08-19T00:00:00-07:00","cd7":"2018-09-14T00:00:00-07:00","cd21":"https:\/\/www.unknown.com\/general-news\/20130819\/615-pm-update-all-swedes-fire-evacuations-lifted\/2","cd22":"615-pm-update-all-swedes-fire-evacuations-lifted","cd62":"","cd26":"Monterey County Herald","cd54":"migration@dfmdev.com","cd55":"no_affiliation","cd27":"6:15 p.m. update: All Swedes Fire evacuations lifted","cd28":"https:\/\/www.montereyherald.com\/2013\/08\/19\/615-pm-update-all-swedes-fire-evacuations-lifted\/","cd29":"6:15 p.m. update: All Swedes Fire evacuations lifted"}},"paywallSubscribe":{"selector":"#subscribeNow","on":"click","request":"paywallEvent","vars":{"eventCategory":"Paywall - MG2 - AMP","eventAction":"AMP Paywall Subscribe","eventLabel":"AMP Paywall Subscribe","cd2":"montereyherald.com","cd3":"montereyherald.com","cd14":"News","cd15":"News","cd16":"","cd20":"","cd23":687467,"cd24":"AMP","cd25":"NORCAL","cd30":"","cd5":"2013-08-19T00:00:00-07:00","cd6":"2013-08-19T00:00:00-07:00","cd7":"2018-09-14T00:00:00-07:00","cd21":"https:\/\/www.unknown.com\/general-news\/20130819\/615-pm-update-all-swedes-fire-evacuations-lifted\/2","cd22":"615-pm-update-all-swedes-fire-evacuations-lifted","cd62":"","cd26":"Monterey County Herald","cd54":"migration@dfmdev.com","cd55":"no_affiliation","cd27":"6:15 p.m. update: All Swedes Fire evacuations lifted","cd28":"https:\/\/www.montereyherald.com\/2013\/08\/19\/615-pm-update-all-swedes-fire-evacuations-lifted\/","cd29":"6:15 p.m. update: All Swedes Fire evacuations lifted"}}},"requests":{"pageviewWithCds":"${pageview}&cd2=${cd2}&cd3=${cd3}&cd14=${cd14}&cd15=${cd15}&cd16=${cd16}&cd20=${cd20}&cd23=${cd23}&cd24=${cd24}&cd25=${cd25}&cd30=${cd30}&cd5=${cd5}&cd6=${cd6}&cd7=${cd7}&cd21=${cd21}&cd22=${cd22}&cd62=${cd62}&cd26=${cd26}&cd54=${cd54}&cd55=${cd55}&cd27=${cd27}&cd28=${cd28}&cd29=${cd29}","paywallEvent":"${event}&cd2=${cd2}&cd3=${cd3}&cd14=${cd14}&cd15=${cd15}&cd16=${cd16}&cd20=${cd20}&cd23=${cd23}&cd24=${cd24}&cd25=${cd25}&cd30=${cd30}&cd5=${cd5}&cd6=${cd6}&cd7=${cd7}&cd21=${cd21}&cd22=${cd22}&cd62=${cd62}&cd26=${cd26}&cd54=${cd54}&cd55=${cd55}&cd27=${cd27}&cd28=${cd28}&cd29=${cd29}"}}
+			</script>
+		</amp-analytics>
+		
+			<amp-analytics type="quantcast" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:1px;height:1px" i-amphtml-layout="fixed">
+				<script type="application/json">
+					{
+						"vars": {
+							"pcode": "p-4ctCQwtnNBNs2",
+							"labels": ["AMPProject"]
+						}
+					}
+				</script>
+			</amp-analytics>
+		
+			<amp-analytics type="comscore" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:1px;height:1px" i-amphtml-layout="fixed">
+				<script type="application/json">
+					{
+						"vars": {
+							"c2": "6035443"
+						}
+					}
+				</script>
+			</amp-analytics>
+		
+			<amp-analytics type="chartbeat" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:1px;height:1px" i-amphtml-layout="fixed">
+				<script type="application/json">
+			 		{
+			 			"vars": {
+							"uid": "3413",
+			 				"domain": "montereyherald.com",
+			 				"sections": "News",
+			 				"authors": "Monterey County Herald"
+			 			}
+			 		}
+				</script>
+			</amp-analytics>
+		
+			<amp-analytics class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:1px;height:1px" i-amphtml-layout="fixed">
+				<script type="application/json">
+					{
+						"vars": {
+							"collectorHost": "www.i.matheranalytics.com",
+							"customerId": "ma23578",
+							"marketId": "239876509"
+						},
+						"triggers": {
+							"trackPageview": {
+								"on": "visible",
+								"extraUrlParams": {
+									"articleId": 687467,
+									"articlePublishTime": "2013-08-19T00:00:00Z",
+									"articleSource": "",
+									"articleUpdateTime": "2018-09-14T00:00:00Z",
+									"author": "Monterey County Herald",
+									"hierarchy": "News",
+									"page_type": "article",
+									"paragraph_count": 0,
+									"premium": "1",
+									"section": "News",
+									"userId": "",
+									"word_count": 294
+								},
+								"request": "trackPageview"
+							},
+							"performanceTimer": {
+								"on": "timer",
+								"timerSpec": {
+							  		"interval": 10,
+							  		"maxTimerLength": 9.9999999,
+							  		"immediate": false
+								},
+								"request": "performanceEvent"
+							},
+							"scrollPings": {
+								"on": "scroll",
+								"scrollSpec": {
+							  		"verticalBoundaries": [20, 40, 60, 80, 100]
+								},
+								"extraUrlParams": {
+							  		"pp_ev": "scroll"
+								},
+								"request": "trackPagePing"
+							},
+							"focusPings": {
+								"on": "visible",
+								"extraUrlParams": {
+							  		"pp_ev": "focus"
+								},
+								"visibilitySpec": {
+							  		"totalTimeMin": 10000,
+							  		"repeat": true
+								},
+								"request": "trackPagePing"
+							},
+							"hiddenPings": {
+								"on": "hidden",
+								"extraUrlParams": {
+							  		"pp_ev": "blur"
+								},
+								"visibilitySpec": {
+							  		"totalTimeMin": 10000,
+							  		"visiblePercentageMax": 0,
+							  		"repeat": true
+								},
+								"request": "trackPagePing"
+							}
+						},
+						"extraUrlParamsReplaceMap": {
+							"articleId": "artid",
+							"articlePublishTime": "artpubt",
+							"articleSource": "artsrc",
+							"articleUpdateTime": "artupt",
+							"author": "auth",
+							"hierarchy": "hier",
+							"mediaType": "mediat",
+							"pageType": "ptype",
+							"paragraphCount": "paracnt",
+							"premium": "prem",
+							"section": "sec",
+							"userId": "uid",
+							"wordCount": "wrdcnt"
+						},
+						"requests": {
+							"matherUrl": "https://${collectorHost}/i?",
+          					"basePrefix": "aid=v1&cd=${screenColorDepth}&cid=${customerId}&cs=${documentCharset}&ds=${scrollWidth}x${scrollHeight}&dtm=${timestamp}&duid=${clientId(_ml_id)}&lang=${browserLanguage}&mrk=${marketId}&p=amp&page=${title}&pid=${clientId(_ml_id)}-${pageViewId}&refr=${documentReferrer}&res=${screenWidth}x${screenHeight}&tid=${random}&vp=${viewportWidth}x${viewportHeight}&tv=ampmather-1.0.1&tvamp=${ampVersion}&tz=${timezoneCode}&tzoff=${timezone}&notvisible=${backgroundState}&url=${sourceUrl}&curl=${canonicalUrl}",
+          					"trackPageview": "${matherUrl}e=pv&${basePrefix}&pvdelay=${totalTime}",
+          					"performanceEvent": "${matherUrl}e=pe&${basePrefix}&pe.eventNum=${counter}&pe.start=${timerStart}&pe.redirCnt=${navRedirectCount}&pe.redirE=${redirectTime}&pe.navType=${navType}&pe.redirectEnd=${redirectTime}&pe.fetchS=${pageDownloadTime}&pe.domainE=${domainLookupTime}&pe.connE=${tcpConnectTime}&pe.respE=${serverResponseTime}&pe.domInter=${domInteractiveTime}&pe.domContentLoadedEventEnd=${contentLoadTime}&pe.loadE=${pageLoadTime}",
+          					"trackPagePing": "${matherUrl}e=pp&${basePrefix}&pp_may=${scrollTop}&pp_max=${scrollLeft}&pp_percenty=${verticalScrollBoundary}&pp_percentx=${horizontalScrollBoundary}&pp_engagedsecs=${totalEngagedTime}&pp_deltasecs=${incrementalEngagedTime}"
+						},
+						"transport": {
+							"beacon": false,
+							"xhrpost": false,
+							"image": true
+						}
+					}
+				</script>
+			</amp-analytics>
+		<amp-pixel src="https://pixel.wp.com/g.gif?v=ext&amp;blog=152288073&amp;post=687467&amp;tz=-8&amp;srv=www.montereyherald.com&amp;host=www.montereyherald.com&amp;rand=RANDOM&amp;ref=DOCUMENT_REFERRER" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:1px;height:1px" i-amphtml-layout="fixed"></amp-pixel><amp-analytics id="parsely" type="parsely" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:1px;height:1px" i-amphtml-layout="fixed"><script type="application/json">{"vars":{"apikey":"montereyherald.com"}}</script></amp-analytics>
+</body></html>

@@ -1,0 +1,1336 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 7]><html class="lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" lang="en" dir="ltr"><![endif]-->
+<!--[if gt IE 8]><!--><html lang="en" dir="ltr"><!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="RSS - #borderfire" href="https://www.eastcountymagazine.org/taxonomy/term/40454/feed" />
+<link rel="canonical" href="/borderfire" />
+<link rel="shortlink" href="/taxonomy/term/40454" />
+<link rel="shortcut icon" href="https://www.eastcountymagazine.org/sites/eastcountymagazine.org/files/favicon_0.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<title>#borderfire | East County Magazine</title>
+<style type="text/css" media="all">
+@import url("https://www.eastcountymagazine.org/modules/system/system.base.css?rno5eg");
+@import url("https://www.eastcountymagazine.org/modules/system/system.menus.css?rno5eg");
+@import url("https://www.eastcountymagazine.org/modules/system/system.messages.css?rno5eg");
+@import url("https://www.eastcountymagazine.org/modules/system/system.theme.css?rno5eg");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.eastcountymagazine.org/sites/all/modules/calendar/css/calendar_multiday.css?rno5eg");
+@import url("https://www.eastcountymagazine.org/modules/comment/comment.css?rno5eg");
+@import url("https://www.eastcountymagazine.org/sites/all/modules/date/date_api/date.css?rno5eg");
+@import url("https://www.eastcountymagazine.org/modules/field/theme/field.css?rno5eg");
+@import url("https://www.eastcountymagazine.org/sites/all/modules/logintoboggan/logintoboggan.css?rno5eg");
+@import url("https://www.eastcountymagazine.org/modules/node/node.css?rno5eg");
+@import url("https://www.eastcountymagazine.org/modules/poll/poll.css?rno5eg");
+@import url("https://www.eastcountymagazine.org/modules/search/search.css?rno5eg");
+@import url("https://www.eastcountymagazine.org/modules/user/user.css?rno5eg");
+@import url("https://www.eastcountymagazine.org/sites/all/modules/extlink/css/extlink.css?rno5eg");
+@import url("https://www.eastcountymagazine.org/sites/all/modules/views/css/views.css?rno5eg");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.eastcountymagazine.org/sites/all/modules/ctools/css/ctools.css?rno5eg");
+@import url("https://www.eastcountymagazine.org/sites/all/modules/panels/css/panels.css?rno5eg");
+@import url("https://www.eastcountymagazine.org/sites/all/modules/print/print_ui/css/print_ui.theme.css?rno5eg");
+@import url("https://www.eastcountymagazine.org/modules/taxonomy/taxonomy.css?rno5eg");
+@import url("https://www.eastcountymagazine.org/sites/all/modules/addtoany/addtoany.css?rno5eg");
+@import url("https://www.eastcountymagazine.org/sites/all/libraries/superfish/css/superfish.css?rno5eg");
+@import url("https://www.eastcountymagazine.org/sites/all/libraries/superfish/css/superfish-vertical.css?rno5eg");
+@import url("https://www.eastcountymagazine.org/sites/all/libraries/superfish/style/white.css?rno5eg");
+</style>
+<style type="text/css" media="screen">
+@import url("https://www.eastcountymagazine.org/sites/all/themes/adaptivetheme/at_core/css/at.settings.style.headings.css?rno5eg");
+@import url("https://www.eastcountymagazine.org/sites/all/themes/adaptivetheme/at_core/css/at.layout.css?rno5eg");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.eastcountymagazine.org/sites/all/themes/at_magazine/css/styles.base.css?rno5eg");
+@import url("https://www.eastcountymagazine.org/sites/all/themes/at_magazine/css/styles.settings.css?rno5eg");
+@import url("https://www.eastcountymagazine.org/sites/all/themes/at_magazine/css/styles.modules.css?rno5eg");
+@import url("https://www.eastcountymagazine.org/sites/eastcountymagazine.org/files/color/at_magazine-cd98e1c4/colors.css?rno5eg");
+@import url("https://www.eastcountymagazine.org/sites/all/themes/at_magazine/css/styles.custom.css?rno5eg");
+</style>
+<style type="text/css" media="screen">
+@import url("https://www.eastcountymagazine.org/sites/eastcountymagazine.org/files/adaptivetheme/at_magazine_files/at_magazine.default.layout.css?rno5eg");
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.eastcountymagazine.org/sites/eastcountymagazine.org/files/adaptivetheme/at_magazine_files/at_magazine.responsive.layout.css?rno5eg" media="only screen" />
+<style type="text/css" media="screen">
+@import url("https://www.eastcountymagazine.org/sites/eastcountymagazine.org/files/adaptivetheme/at_magazine_files/at_magazine.fonts.css?rno5eg");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.eastcountymagazine.org/sites/eastcountymagazine.org/files/adaptivetheme/at_magazine_files/at_magazine.menutoggle.css?rno5eg");
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.eastcountymagazine.org/sites/all/themes/at_magazine/css/responsive.custom.css?rno5eg" media="only screen" />
+<link type="text/css" rel="stylesheet" href="https://www.eastcountymagazine.org/sites/all/themes/at_magazine/css/responsive.smalltouch.portrait.css?rno5eg" media="only screen and (max-width:320px)" />
+<link type="text/css" rel="stylesheet" href="https://www.eastcountymagazine.org/sites/all/themes/at_magazine/css/responsive.smalltouch.landscape.css?rno5eg" media="only screen and (min-width:321px) and (max-width:580px)" />
+<link type="text/css" rel="stylesheet" href="https://www.eastcountymagazine.org/sites/all/themes/at_magazine/css/responsive.tablet.portrait.css?rno5eg" media="only screen and (min-width:581px) and (max-width:768px)" />
+<link type="text/css" rel="stylesheet" href="https://www.eastcountymagazine.org/sites/all/themes/at_magazine/css/responsive.tablet.landscape.css?rno5eg" media="only screen and (min-width:769px) and (max-width:1024px)" />
+<link type="text/css" rel="stylesheet" href="https://www.eastcountymagazine.org/sites/all/themes/at_magazine/css/responsive.desktop.css?rno5eg" media="only screen and (min-width:1025px)" />
+
+<!--[if IE 6]>
+<style type="text/css" media="screen">
+@import url("https://www.eastcountymagazine.org/sites/all/themes/at_magazine/css/ie-6.css?rno5eg");
+</style>
+<![endif]-->
+
+<!--[if lte IE 7]>
+<style type="text/css" media="screen">
+@import url("https://www.eastcountymagazine.org/sites/all/themes/at_magazine/css/ie-lte-7.css?rno5eg");
+</style>
+<![endif]-->
+
+<!--[if IE 8]>
+<style type="text/css" media="screen">
+@import url("https://www.eastcountymagazine.org/sites/all/themes/at_magazine/css/ie-8.css?rno5eg");
+</style>
+<![endif]-->
+
+<!--[if lte IE 9]>
+<style type="text/css" media="screen">
+@import url("https://www.eastcountymagazine.org/sites/all/themes/at_magazine/css/ie-lte-9.css?rno5eg");
+</style>
+<![endif]-->
+<script type="text/javascript" src="https://www.eastcountymagazine.org/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://www.eastcountymagazine.org/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://www.eastcountymagazine.org/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://www.eastcountymagazine.org/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://www.eastcountymagazine.org/misc/drupal.js?rno5eg"></script>
+<script type="text/javascript" src="https://www.eastcountymagazine.org/sites/all/modules/jcaption/jcaption.js?rno5eg"></script>
+<script type="text/javascript" src="https://www.eastcountymagazine.org/sites/all/modules/views_slideshow_ddblock/js/formoptions.js?rno5eg"></script>
+<script type="text/javascript" src="https://www.eastcountymagazine.org/sites/all/modules/extlink/js/extlink.js?rno5eg"></script>
+<script type="text/javascript" src="https://www.eastcountymagazine.org/sites/all/libraries/superfish/sfsmallscreen.js?rno5eg"></script>
+<script type="text/javascript" src="https://www.eastcountymagazine.org/sites/all/libraries/superfish/supposition.js?rno5eg"></script>
+<script type="text/javascript" src="https://www.eastcountymagazine.org/sites/all/libraries/superfish/jquery.hoverIntent.minified.js?rno5eg"></script>
+<script type="text/javascript" src="https://www.eastcountymagazine.org/sites/all/libraries/superfish/superfish.js?rno5eg"></script>
+<script type="text/javascript" src="https://www.eastcountymagazine.org/sites/all/libraries/superfish/supersubs.js?rno5eg"></script>
+<script type="text/javascript" src="https://www.eastcountymagazine.org/sites/all/modules/superfish/superfish.js?rno5eg"></script>
+<script type="text/javascript" src="https://www.eastcountymagazine.org/sites/all/themes/at_magazine/js/eq.js?rno5eg"></script>
+<script type="text/javascript" src="https://www.eastcountymagazine.org/sites/all/themes/at_magazine/js/eq-gp.js?rno5eg"></script>
+<script type="text/javascript" src="https://www.eastcountymagazine.org/sites/all/themes/adaptivetheme/at_core/scripts/scalefix.js?rno5eg"></script>
+<script type="text/javascript" src="https://www.eastcountymagazine.org/sites/all/themes/adaptivetheme/at_core/scripts/outside-events.js?rno5eg"></script>
+<script type="text/javascript" src="https://www.eastcountymagazine.org/sites/all/themes/adaptivetheme/at_core/scripts/menu-toggle.js?rno5eg"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"at_magazine","theme_token":"PQoMqKy8vcLrGvVAMwfhOyeikbLKArHwSfCarQaiK9U","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jcaption\/jcaption.js":1,"sites\/all\/modules\/views_slideshow_ddblock\/js\/formoptions.js":1,"sites\/all\/modules\/extlink\/js\/extlink.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/all\/themes\/at_magazine\/js\/eq.js":1,"sites\/all\/themes\/at_magazine\/js\/eq-gp.js":1,"sites\/all\/themes\/adaptivetheme\/at_core\/scripts\/scalefix.js":1,"sites\/all\/themes\/adaptivetheme\/at_core\/scripts\/outside-events.js":1,"sites\/all\/themes\/adaptivetheme\/at_core\/scripts\/menu-toggle.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/extlink\/css\/extlink.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/print\/print_ui\/css\/print_ui.theme.css":1,"modules\/taxonomy\/taxonomy.css":1,"sites\/all\/modules\/addtoany\/addtoany.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-vertical.css":1,"sites\/all\/libraries\/superfish\/style\/white.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.settings.style.headings.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.layout.css":1,"sites\/all\/themes\/at_magazine\/css\/styles.base.css":1,"sites\/all\/themes\/at_magazine\/css\/styles.settings.css":1,"sites\/all\/themes\/at_magazine\/css\/styles.modules.css":1,"sites\/all\/themes\/at_magazine\/color\/colors.css":1,"sites\/all\/themes\/at_magazine\/css\/styles.custom.css":1,"public:\/\/adaptivetheme\/at_magazine_files\/at_magazine.default.layout.css":1,"public:\/\/adaptivetheme\/at_magazine_files\/at_magazine.responsive.layout.css":1,"public:\/\/adaptivetheme\/at_magazine_files\/at_magazine.fonts.css":1,"public:\/\/adaptivetheme\/at_magazine_files\/at_magazine.menutoggle.css":1,"sites\/all\/themes\/at_magazine\/css\/responsive.custom.css":1,"sites\/all\/themes\/at_magazine\/css\/responsive.smalltouch.portrait.css":1,"sites\/all\/themes\/at_magazine\/css\/responsive.smalltouch.landscape.css":1,"sites\/all\/themes\/at_magazine\/css\/responsive.tablet.portrait.css":1,"sites\/all\/themes\/at_magazine\/css\/responsive.tablet.landscape.css":1,"sites\/all\/themes\/at_magazine\/css\/responsive.desktop.css":1,"sites\/all\/themes\/at_magazine\/css\/ie-6.css":1,"sites\/all\/themes\/at_magazine\/css\/ie-lte-7.css":1,"sites\/all\/themes\/at_magazine\/css\/ie-8.css":1,"sites\/all\/themes\/at_magazine\/css\/ie-lte-9.css":1}},"jcaption":{"jcaption_selectors":["img.caption"],"jcaption_alt_title":"alt","jcaption_requireText":1,"jcaption_copyStyle":1,"jcaption_removeStyle":1,"jcaption_removeClass":1,"jcaption_removeAlign":1,"jcaption_copyAlignmentToClass":0,"jcaption_copyFloatToClass":1,"jcaption_copyClassToClass":1,"jcaption_autoWidth":1,"jcaption_keepLink":0,"jcaption_styleMarkup":"","jcaption_animate":0,"jcaption_showDuration":"200","jcaption_hideDuration":"200"},"urlIsAjaxTrusted":{"\/search\/node":true,"\/borderfire":true,"\/borderfire?destination=taxonomy\/term\/40454":true},"superfish":[{"id":"1","sf":{"animation":{"opacity":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":false,"disableHI":false},"plugins":{"smallscreen":{"mode":"window_width","addSelected":false,"menuClasses":false,"hyperlinkClasses":false,"title":"Main menu"},"supposition":false,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}},{"id":"3","sf":{"animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","autoArrows":true,"dropShadows":true,"disableHI":false},"plugins":{"smallscreen":{"mode":"window_width","addSelected":false,"menuClasses":false,"hyperlinkClasses":false,"title":"East County Magazine"},"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}],"extlink":{"extTarget":"_blank","extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extIconPlacement":0,"extSubdomains":1,"extExclude":"(eastcountymedia\\.org)","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":"_blank","extAlertText":"This link will take you to an external web site.","mailtoClass":"mailto","mailtoLabel":"(link sends e-mail)","extUseFontAwesome":0},"adaptivetheme":{"at_magazine":{"layout_settings":{"bigscreen":"three-col-grail","tablet_landscape":"three-col-grail","tablet_portrait":"two-sidebars-left-stack","smalltouch_landscape":"one-col-vert","smalltouch_portrait":"one-col-stack"},"media_query_settings":{"bigscreen":"only screen and (min-width:1025px)","tablet_landscape":"only screen and (min-width:769px) and (max-width:1024px)","tablet_portrait":"only screen and (min-width:581px) and (max-width:768px)","smalltouch_landscape":"only screen and (min-width:321px) and (max-width:580px)","smalltouch_portrait":"only screen and (max-width:320px)"},"menu_toggle_settings":{"menu_toggle_tablet_portrait":"false","menu_toggle_tablet_landscape":"false"}}}});
+//--><!]]>
+</script>
+<!--[if lt IE 9]>
+<script src="https://www.eastcountymagazine.org/sites/all/themes/adaptivetheme/at_core/scripts/html5.js?rno5eg"></script>
+<![endif]-->
+</head>
+<body class="html not-front not-logged-in two-sidebars page-taxonomy page-taxonomy-term page-taxonomy-term- page-taxonomy-term-40454 site-name-hidden atr-7.x-3.x atv-7.x-3.2 site-name-east-county-magazine section-borderfire color-scheme-custom at-magazine bb-hs hl-l mb-ad rc-8 bs-l iat-r">
+  <div id="skip-link" class="nocontent">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page" class="page ssc-uc ssw-n ssa-l sss-n btc-uc btw-n bta-l bts-n ntc-n ntw-n nta-l nts-n ctc-n ctw-n cta-l cts-n ptc-n ptw-n pta-l pts-n at-mt container">
+ <!-- /menu bar top -->
+<header id="header" class="clearfix" role="banner">	
+<div id="logo"><a href="/"><img class="site-logo" src="https://www.eastcountymagazine.org/sites/eastcountymagazine.org/files/ECMlogo_1_0.png" alt="East County Magazine" /></a>	
+<!-- clock-->	
+<div style="position: relitive;  top: 5px;left: 90px;">
+<em>"Award-winning nonprofit media in the public interest, serving San Diego's inland region"</em></div><div style="position: absolute; top: 135px;right:20px;">
+<script language="Javascript">
+<!--
+/*
+Today's date script
+Visit java-scripts.net or 
+http://wsabstract.com for this script
+*/
+
+ var dayName = new Array ("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday")
+
+ var monName = new Array ("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December")
+
+ var now = new Date
+
+ document.write("" + dayName[now.getDay()] + ", " + monName[now.getMonth()] + " "+now.getDate() +", "+ now.getFullYear() +"")
+
+//-->
+</script></div><!--end clock-->
+</div></div>
+  </header>      <div id="menu-bar-wrapper" class="clearfix">
+      <div id="menu-bar" class="nav clearfix"><nav id="block-superfish-1" class="block block-superfish menu-wrapper menu-bar-wrapper clearfix odd first last block-count-1 block-region-menu-bar block-1 block-first">
+              <h2 class="element-invisible block-title">Main menu</h2>
+        
+    <ul id="superfish-1" class="menu sf-menu sf-secondary-menu sf-horizontal sf-style-none sf-total-items-21 sf-parent-items-11 sf-single-items-10"><li id="menu-5237-1" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/" class="sf-depth-1">Home</a></li><li id="menu-5231-1" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="/donate" class="sf-depth-1">Donate</a></li><li id="menu-5233-1" class="middle odd sf-item-3 sf-depth-1 sf-no-children"><a href="/about" title="" class="sf-depth-1">About/Contact</a></li><li id="menu-5234-1" class="middle even sf-item-4 sf-depth-1 sf-no-children"><a href="/wild-fire-alerts" title="" class="sf-depth-1">Subscribe</a></li><li id="menu-5228-1" class="middle odd sf-item-5 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/news" class="sf-depth-1 menuparent">News Center</a><ul><li id="menu-5258-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/news" class="sf-depth-2">ECM Top News</a></li><li id="menu-5256-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/news/east-county-round" class="sf-depth-2">East County Roundup</a></li><li id="menu-5257-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/news/ecm-world-news" class="sf-depth-2">ECM World Watch</a></li><li id="menu-5245-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/archives" title="" class="sf-depth-2">Archives</a></li></ul></li><li id="menu-5259-1" class="middle even sf-item-6 sf-depth-1 sf-total-children-10 sf-parent-children-1 sf-single-children-9 menuparent"><a href="/news-issues" class="sf-depth-1 menuparent">News issues</a><ul><li id="menu-5263-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/news/business-and-labor" class="sf-depth-2">Business and Labor</a></li><li id="menu-5264-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/news/crime-beat" class="sf-depth-2">CrimeBeat</a></li><li id="menu-5265-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/news/education" class="sf-depth-2">Education</a></li><li id="menu-5262-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/news/green-scene" class="sf-depth-2">Green Scene</a></li><li id="menu-5266-1" class="middle odd sf-item-5 sf-depth-2 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="/news/health" title="" class="sf-depth-2 menuparent">Health/Fitness</a><ul><li id="menu-5270-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/news/product-recalls" title="" class="sf-depth-3">Recalls and Safety</a></li><li id="menu-5793-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/covid-19-local-resources" title="Covid 19 Local Resources" class="sf-depth-3">Covid 19 Local Resources</a></li><li id="menu-5794-1" class="last odd sf-item-3 sf-depth-3 sf-no-children"><a href="/facebook-journalism-project-covid-19-reporting" title="" class="sf-depth-3">Facebook Journalism Project covid-19 reporting</a></li></ul></li><li id="menu-5267-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="/news/obituaries" class="sf-depth-2">Obituaries</a></li><li id="menu-5260-1" class="middle odd sf-item-7 sf-depth-2 sf-no-children"><a href="/news/politics" class="sf-depth-2">Politics</a></li><li id="menu-5268-1" class="middle even sf-item-8 sf-depth-2 sf-no-children"><a href="/news/weather" class="sf-depth-2">Weather</a></li><li id="menu-5320-1" class="middle odd sf-item-9 sf-depth-2 sf-no-children"><a href="/news/case-you-missed-news" title="" class="sf-depth-2">What’s New</a></li><li id="menu-5366-1" class="last even sf-item-10 sf-depth-2 sf-no-children"><a href="/news/case-you-missed-news" title="" class="sf-depth-2">Year in Review</a></li></ul></li><li id="menu-5241-1" class="middle odd sf-item-7 sf-depth-1 sf-total-children-7 sf-parent-children-1 sf-single-children-6 menuparent"><a href="/best-of-ec" class="sf-depth-1 menuparent">Best of East County</a><ul><li id="menu-5283-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/features/best-east-county" title="" class="sf-depth-2">Best Attractions</a></li><li id="menu-5284-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/features/best-east-county/best-photos-our-readers-and-staff" title="" class="sf-depth-2">Best Photos</a></li><li id="menu-5285-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/features/best-east-county/east-countys-best-videos" title="" class="sf-depth-2">Best Videos</a></li><li id="menu-5286-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/holidays-east-county-2015" title="" class="sf-depth-2">Holidays</a></li><li id="menu-5370-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/features/best-east-county/romance-east-county" title="" class="sf-depth-2">Romance</a></li><li id="menu-5312-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="/features/weekend-getaways" title="" class="sf-depth-2"> Weekend Getaways</a></li><li id="menu-5313-1" class="last odd sf-item-7 sf-depth-2 sf-total-children-13 sf-parent-children-0 sf-single-children-13 menuparent"><a href="https://www.eastcountymagazine.org/AprilFoolsDay" title="" class="sf-depth-2 menuparent">April Fool’s </a><ul><li id="menu-5799-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/april-1-2022-special-edition" title="" class="sf-depth-3">2022</a></li><li id="menu-5796-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/april-1-2021-special-edition" title="" class="sf-depth-3">2021</a></li><li id="menu-5790-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/april-1-2020-special-edition" title="" class="sf-depth-3">2020</a></li><li id="menu-5774-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="https://www.eastcountymagazine.org/april-1-2019-special-edition" title="2019" class="sf-depth-3">2019</a></li><li id="menu-5598-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/april-1-2018-special-edition" title="" class="sf-depth-3">2018</a></li><li id="menu-5506-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/april-1-2017-special-edition" title="" class="sf-depth-3">2017</a></li><li id="menu-5483-1" class="middle odd sf-item-7 sf-depth-3 sf-no-children"><a href="/april-1-2016-special-edition" title="April fools day 2016" class="sf-depth-3">2016</a></li><li id="menu-5384-1" class="middle even sf-item-8 sf-depth-3 sf-no-children"><a href="/april-1-2015-special-edition" title="" class="sf-depth-3">2015</a></li><li id="menu-5314-1" class="middle odd sf-item-9 sf-depth-3 sf-no-children"><a href="/features/best-east-county/april-1-2014-special-edition" title="" class="sf-depth-3">2014</a></li><li id="menu-5315-1" class="middle even sf-item-10 sf-depth-3 sf-no-children"><a href="/features/best-east-county/april-1-2013-special-edition" title="" class="sf-depth-3">2013</a></li><li id="menu-5316-1" class="middle odd sf-item-11 sf-depth-3 sf-no-children"><a href="/taxonomy/term/14827" title="" class="sf-depth-3">2012</a></li><li id="menu-5385-1" class="middle even sf-item-12 sf-depth-3 sf-no-children"><a href="/features/best-east-county/april-fools-day-2011" title="" class="sf-depth-3">2011</a></li><li id="menu-5505-1" class="last odd sf-item-13 sf-depth-3 sf-no-children"><a href="/features/best-east-county/special-edition-april-1-2010" title="" class="sf-depth-3">2010</a></li></ul></li></ul></li><li id="menu-5248-1" class="middle even sf-item-8 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/features/best-east-county/san-diego-bookshelf" class="sf-depth-1 menuparent">Bookshelf</a><ul><li id="menu-5317-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/features/best-east-county/san-diego-bookshelf" title="" class="sf-depth-2">All Bookshelf articles</a></li><li id="menu-5407-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/book-reviews" title="" class="sf-depth-2">Book Reviews</a></li><li id="menu-5318-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/features/best-east-county/san-diego-bookshelf/literary-events" title="" class="sf-depth-2">Literary events</a></li><li id="menu-5319-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/features/best-east-county/san-diego-bookshelf/other-literary-news" title="" class="sf-depth-2">Other literary news</a></li></ul></li><li id="menu-5230-1" class="middle odd sf-item-9 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="/columns/citizens-action-report" class="sf-depth-1 menuparent">Citizens Action</a><ul><li id="menu-5271-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/columns/citizens-action-report" class="sf-depth-2">Citizens Action Report</a></li><li id="menu-5272-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/0809soundoff" title="" class="sf-depth-2">Contact Officials</a></li><li id="menu-5273-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="/actioncenter" title="" class="sf-depth-2">Take Action Guide</a></li></ul></li><li id="menu-5232-1" class="middle even sf-item-10 sf-depth-1 sf-total-children-10 sf-parent-children-0 sf-single-children-10 menuparent"><a href="/resources" class="sf-depth-1 menuparent">Communities</a><ul><li id="menu-5274-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/communities/cities/el-cajon" class="sf-depth-2">El Cajon</a></li><li id="menu-5276-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/communities/cities/la-mesa" title="" class="sf-depth-2">La Mesa/Mt. Helix</a></li><li id="menu-5275-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/communities/cities/lemon-grove" class="sf-depth-2">Lemon Grove</a></li><li id="menu-5277-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/communities/cities/santee" title="" class="sf-depth-2">Santee/Lakeside</a></li><li id="menu-5278-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/communities/deserts" class="sf-depth-2">Desert areas</a></li><li id="menu-5279-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="/communities/mountains" class="sf-depth-2">Mountains</a></li><li id="menu-5687-1" class="middle odd sf-item-7 sf-depth-2 sf-no-children"><a href="/north-county-inland" title="" class="sf-depth-2">North County Inland</a></li><li id="menu-5381-1" class="middle even sf-item-8 sf-depth-2 sf-no-children"><a href="/communities/rural-communities" title="" class="sf-depth-2">Rural areas</a></li><li id="menu-5382-1" class="middle odd sf-item-9 sf-depth-2 sf-no-children"><a href="/resources" title="" class="sf-depth-2">Resources</a></li><li id="menu-5383-1" class="last even sf-item-10 sf-depth-2 sf-no-children"><a href="/communities/east-county-shopping-business-directory" title="" class="sf-depth-2">Shopping/Businesses</a></li></ul></li><li id="menu-5238-1" class="middle odd sf-item-11 sf-depth-1 sf-no-children"><a href="/meals_deals_and_steals" class="sf-depth-1">Coupons</a></li><li id="menu-5244-1" class="middle even sf-item-12 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/features/events" title="" class="sf-depth-1 menuparent">Events/Arts</a><ul><li id="menu-5294-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/columns/arts-and-music" class="sf-depth-2">Arts/Music</a></li><li id="menu-5293-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/calendar" class="sf-depth-2">Calendar</a></li><li id="menu-5322-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/features/best-east-county/festivals-month" title="" class="sf-depth-2">Festivals of the Month</a></li><li id="menu-5295-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/features/best-east-county/san-diego-bookshelf/literary-events" class="sf-depth-2">Literary Events</a></li></ul></li><li id="menu-5240-1" class="middle odd sf-item-13 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/features/food-wine" class="sf-depth-1 menuparent">Food &amp; Wine</a><ul><li id="menu-5367-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/features/food-wine" title="" class="sf-depth-2">Food &amp; Wine</a></li><li id="menu-5282-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/features/food-wine/best-happy-hours-east-county" title="" class="sf-depth-2">Best Happy Hours</a></li><li id="menu-5281-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/features/best-east-county/guide-fresh-local-foods" title="" class="sf-depth-2"> Fresh Local Foods</a></li><li id="menu-5280-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/columns/east-county-eater" class="sf-depth-2">Restaurant Reviews</a></li></ul></li><li id="menu-5250-1" class="middle even sf-item-14 sf-depth-1 sf-no-children"><a href="/news/green-scene" class="sf-depth-1">Green Scene</a></li><li id="menu-5469-1" class="middle odd sf-item-15 sf-depth-1 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/news/health" title="" class="sf-depth-1 menuparent">Health/Fitness</a><ul><li id="menu-5791-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/covid-19-local-resources" title="" class="sf-depth-2">Covid 19 Local Resources</a></li><li id="menu-5792-1" class="last even sf-item-2 sf-depth-2 sf-no-children"><a href="/facebook-journalism-project-covid-19-reporting" title="" class="sf-depth-2">Facebook Journalism Project covid-19 reporting</a></li></ul></li><li id="menu-5252-1" class="middle even sf-item-16 sf-depth-1 sf-no-children"><a href="/news/homes" class="sf-depth-1">Homes &amp; Gardens</a></li><li id="menu-5242-1" class="middle odd sf-item-17 sf-depth-1 sf-total-children-7 sf-parent-children-0 sf-single-children-7 menuparent"><a href="/people" class="sf-depth-1 menuparent">People/Views</a><ul><li id="menu-5288-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/columns" class="sf-depth-2">Columns</a></li><li id="menu-5287-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/editorials" class="sf-depth-2">Editorials</a></li><li id="menu-5289-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/features/latino-voices" class="sf-depth-2">Latino Voices</a></li><li id="menu-5403-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/features/people-power" title="" class="sf-depth-2">People Power</a></li><li id="menu-5290-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/features/refugee-voices" class="sf-depth-2">Refugee Voices</a></li><li id="menu-5291-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="/tribal-beat" class="sf-depth-2">Tribal Beat</a></li><li id="menu-5798-1" class="last odd sf-item-7 sf-depth-2 sf-no-children"><a href="/columns/animal-tales" title="" class="sf-depth-2">Animal Tales</a></li></ul></li><li id="menu-5310-1" class="middle even sf-item-18 sf-depth-1 sf-no-children"><a href="/news/politics" title="" class="sf-depth-1">Politics</a></li><li id="menu-5311-1" class="middle odd sf-item-19 sf-depth-1 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/east-county-magazine-live-radio-show" title="" class="sf-depth-1 menuparent">Radio</a><ul><li id="menu-5492-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/east-county-magazine-live-radio-show" title="About our Radio Show" class="sf-depth-2">About our Radio Show</a></li><li id="menu-5493-1" class="last even sf-item-2 sf-depth-2 sf-no-children"><a href="/east-county-magazine-live-radio-show/listen-podcasts" title="" class="sf-depth-2"> Listen to Podcasts</a></li></ul></li><li id="menu-5261-1" class="middle even sf-item-20 sf-depth-1 sf-no-children"><a href="/news/sports" title="San Diego and East County Sports" class="sf-depth-1">Sports</a></li><li id="menu-5251-1" class="last odd sf-item-21 sf-depth-1 sf-no-children"><a href="/news/wildfire-news" class="sf-depth-1">Wildfires &amp; Emergencies</a></li></ul>
+</nav>
+</div> <!-- /menu bar -->
+    </div>
+     <!-- Breadcrumbs -->
+   <!-- /message -->
+   <!-- /help -->
+
+   <!-- /secondary-content -->
+
+  
+  <div id="columns" class="at-mag-columns"><div class="columns-inner clearfix">
+    <div id="content-column"><div class="content-inner">
+
+       <!-- /highlight -->
+
+      
+      <section id="main-content">
+
+                  <header class="clearfix">
+                                      <h1 id="page-title">#borderfire</h1>
+                        
+                      </header>
+        
+        <section class="nodes"><article id="article-35896" class="node node-page node-promoted node-teaser article odd clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/power-lines-spark-fire-crosses-border-tecate" rel="bookmark">POWER LINES SPARK FIRE THAT CROSSES BORDER IN TECATE</a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/borderfire" class="active">#borderfire</a></li><li class="field-item odd"><a href="/taxonomy/term/3417">Tecate</a></li><li class="field-item even"><a href="/taxonomy/term/1394">Tecate fire</a></li><li class="field-item odd"><a href="/taxonomy/term/5652">border fire</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news">News</a></li><li class="field-item odd"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item even"><a href="/communities">Communities</a></li><li class="field-item odd"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><p><span style="font-family:arial,helvetica,sans-serif;"><img alt="" src="/sites/eastcountymagazine.org/files/resize/2021/July/BorderFire7-15-2021-400x308.png?258" style="width: 400px; height: 308px; border-width: 1px; border-style: solid; margin: 6px; float: left;" width="400" height="308" /></span></p>
+<p> </p>
+<p><span style="font-family:arial,helvetica,sans-serif;"><strong>Update 9:25 p.m.: The #BorderFire is now 30 acres and 50 percent contained.  Evacuation orders have been lifted and the temporary evacuation point is closed. </strong></span></p>
+<p><span style="font-family:arial,helvetica,sans-serif;">By Miriam Raftery</span></p>
+<p><span style="font-family:arial,helvetica,sans-serif;">Photos via CalFire and CalFire international partners</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">July 15, 2021 (Tecate) – Downed power lines in Mexico sparked the #BorderFire this afternoon, which crossed onto the U.S. side of the international boundary at Tecate, according to Cal Fire on Twitter. Forward spread has been stopped.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">The fire began near Tecate Mission Road, west of the Tecate Port of Entry The blaze burned 20 acres at a moderate rate of spread toward the northeast, </span></p>
+<p><span style="font-family:arial,helvetica,sans-serif;">An evacuation warning was issued for the community of Tecate and a temporary evacuation point was established at the Potrero Elementary School.  </span></p>
+<p> </p>
+<p><span style="font-family: arial, helvetica, sans-serif;"></span></p>
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/power-lines-spark-fire-crosses-border-tecate" rel="tag" title="POWER LINES SPARK FIRE THAT CROSSES BORDER IN TECATE">Read more<span class="element-invisible"> about POWER LINES SPARK FIRE THAT CROSSES BORDER IN TECATE</span></a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/35896%23comment-form">Log in</a> or <a href="/user/register?destination=node/35896%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+<article id="article-31516" class="node node-page node-promoted node-teaser article even clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/fire-mexico-could-cross-border-near-potrero" rel="bookmark">FIRE IN MEXICO COULD CROSS BORDER NEAR POTRERO</a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/borderfire" class="active">#borderfire</a></li><li class="field-item odd"><a href="/taxonomy/term/1394">Tecate fire</a></li><li class="field-item even"><a href="/taxonomy/term/5652">border fire</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news">News</a></li><li class="field-item odd"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item even"><a href="/communities">Communities</a></li><li class="field-item odd"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><p><span style="font-family:arial,helvetica,sans-serif;"><img alt="" src="/sites/eastcountymagazine.org/files/resize/2019/July/EastCountyAlert-GHD-4photos_3-222x265.png?635" style="width: 222px; height: 265px; border-width: 0px; border-style: solid; margin: 6px; float: left;" width="222" height="265" /></span><span style="font-family:arial,helvetica,sans-serif;"><img alt="" src="/sites/eastcountymagazine.org/files/resize/2019/July/BorderFire8-13-19-SDG%26E-325x196.jpg?910" style="width: 325px; height: 196px; border-width: 1px; border-style: solid; margin: 6px; float: left;" width="325" height="196" /></span></p>
+<p><span style="font-family:arial,helvetica,sans-serif;">By Miriam Raftery</span></p>
+<p><span style="font-family:arial,helvetica,sans-serif;">Photo: SDG&amp;E webcam</span></p>
+<p><span style="font-family:arial,helvetica,sans-serif;">Other photos:  <span style="font-size:16px;"><span style="background-color: rgb(255, 255, 255); color: rgb(29, 34, 40);">Steve Wingfield of Jamul</span></span></span></p>
+<p> </p>
+<p><strong>Update August 16:  The fire in Mexico has been renamed  #Border8Fire. It is now over 1,500 acres and is 30% contained. Cal Fire is preparing to send a strike team to assist firefighters in Mexico.</strong></p>
+<p><strong>Update August 15:  The fire is now 1,100 acres but still confined to Mexico. Cal Fire is monitoring the situation.</strong></p>
+<p><span style="font-family:arial,helvetica,sans-serif;">August 14, 201</span><span style="font-family:arial,helvetica,sans-serif;">9 (Tecate) – A fire burning in Mexico has scored over 250 acres in the Tecate area and has potential to cross the border near Potero.  Cal Fire has pre-treated fuels on the U.S. side of the border and will have crews remain on scene overnight at the fire, dubbed #BorderFire.  The blaze is within 1/8 of a mile from the international border Cal Fire reports.</span></p>
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/fire-mexico-could-cross-border-near-potrero" rel="tag" title="FIRE IN MEXICO COULD CROSS BORDER NEAR POTRERO">Read more<span class="element-invisible"> about FIRE IN MEXICO COULD CROSS BORDER NEAR POTRERO</span></a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/31516%23comment-form">Log in</a> or <a href="/user/register?destination=node/31516%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+<article id="article-31302" class="node node-page node-promoted node-teaser article odd clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/border-fire-south-dulzura-now-85-contained-100-acres-firefighters-aided-new-infrared-technology" rel="bookmark">BORDER FIRE SOUTH OF DULZURA NOW 85% CONTAINED AT 100 ACRES: FIREFIGHTERS AIDED BY NEW INFRARED TECHNOLOGY</a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/borderfire" class="active">#borderfire</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news">News</a></li><li class="field-item odd"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item even"><a href="/communities">Communities</a></li><li class="field-item odd"><a href="/communities/mountains">Mountains</a></li><li class="field-item even"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><div><span style="font-family:arial,helvetica,sans-serif;"><img alt="" src="/sites/eastcountymagazine.org/files/2019/July/border%20fire.png?709" style="width: 364px; height: 278px; border-width: 1px; border-style: solid; margin: 6px; float: left;" width="364" height="278" /></span></div>
+<div><span style="font-family:arial,helvetica,sans-serif;"><strong>Update July 15, 2019:  The Border Fire has been 100% contained after burning 100 acres on the U.S. side of the border, Cal Fire reports.</strong></span></div>
+<div> </div>
+<div><span style="font-family:arial,helvetica,sans-serif;">East County Wildfire &amp; Emergency Alert Service</span></div>
+<div> </div>
+<div><span style="font-family:arial,helvetica,sans-serif;">July 13, 2019 (San Diego’s East County) – The #BorderFire which charred over 650 acres in Mexico before jumping the international border yesterday in San Diego’s East County is now 85 percent contained, after burning 100 acres in the U.S.</span></div>
+<div><span style="font-family:arial,helvetica,sans-serif;">
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/border-fire-south-dulzura-now-85-contained-100-acres-firefighters-aided-new-infrared-technology" rel="tag" title="BORDER FIRE SOUTH OF DULZURA NOW 85% CONTAINED AT 100 ACRES: FIREFIGHTERS AIDED BY NEW INFRARED TECHNOLOGY">Read more<span class="element-invisible"> about BORDER FIRE SOUTH OF DULZURA NOW 85% CONTAINED AT 100 ACRES: FIREFIGHTERS AIDED BY NEW INFRARED TECHNOLOGY</span></a></li><li class="comment-comments"><a href="/border-fire-south-dulzura-now-85-contained-100-acres-firefighters-aided-new-infrared-technology#comments" title="Jump to the first comment of this posting.">3 comments</a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/31302%23comment-form">Log in</a> or <a href="/user/register?destination=node/31302%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+<article id="article-31288" class="node node-page node-promoted node-teaser article even clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/brush-fire-mexico-jumps-border-south-dulzura" rel="bookmark">BRUSH FIRE IN MEXICO JUMPS BORDER SOUTH OF DULZURA</a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/borderfire" class="active">#borderfire</a></li><li class="field-item odd"><a href="/cottonwoodfire">#CottonwoodFire</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news">News</a></li><li class="field-item odd"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item even"><a href="/communities">Communities</a></li><li class="field-item odd"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><p><span style="font-family:arial,helvetica,sans-serif;"><img alt="" src="/sites/eastcountymagazine.org/files/resize/2019/July/EastCountyAlert-GHD-4photos_0-222x265.png?674" style="width: 222px; height: 265px; margin: 6px; float: left;" width="222" height="265" /></span></p>
+<p><span style="font-family:arial,helvetica,sans-serif;"><strong>UPDATE AS OF 7:22 PM: <span style="font-size:16px;"><span style="background-color:#ffffff;"> </span><span style="color: rgb(20, 23, 26); white-space: pre-wrap;"><span style="background-color:#ffffff;">Fire is now 100 acres on the U.S. side, 650 acres total with 10% containment. The combination of ground and air resources has allowed for significant progress, and containment is likely to increase overnight.</span></span></span></strong></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">East County Wildfire &amp; Emergency Alert Service</span></p>
+<p><span style="font-family:arial,helvetica,sans-serif;">July 12, 2019 (Dulzura) – A brush fire that has charred over 100 acres in Mexico has crossed the international border and near Cottonwood Creek and Barrett Truck Trail south of Dulzura.  The blaze has charred around 10 acres on the U.S. side of thee border in rural San Diego County, according to Cal Fire.</span></p>
+<p><span style="font-family:arial,helvetica,sans-serif;">Patch.com reports 60 firefighters on scene including two air tankers, two helicopters, six engines, two dozers, two hand crews and a water tender.</span></p>
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/brush-fire-mexico-jumps-border-south-dulzura" rel="tag" title="BRUSH FIRE IN MEXICO JUMPS BORDER SOUTH OF DULZURA">Read more<span class="element-invisible"> about BRUSH FIRE IN MEXICO JUMPS BORDER SOUTH OF DULZURA</span></a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/31288%23comment-form">Log in</a> or <a href="/user/register?destination=node/31288%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+<article id="article-26038" class="node node-page node-promoted node-teaser article odd clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/border-fire-near-dulzura-75-contained" rel="bookmark">BORDER FIRE NEAR DULZURA IS 75% CONTAINED</a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/borderfire" class="active">#borderfire</a></li><li class="field-item odd"><a href="/taxonomy/term/5652">border fire</a></li><li class="field-item even"><a href="/border-fire-2017">Border Fire 2017</a></li><li class="field-item odd"><a href="/taxonomy/term/411">Dulzura</a></li><li class="field-item even"><a href="/taxonomy/term/8706">Dulzura fire</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item odd"><a href="/communities">Communities</a></li><li class="field-item even"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><p><span style="font-size:16px;"><span style="font-family: arial,helvetica,sans-serif;"><img alt="" src="/sites/eastcountymagazine.org/files/resize/2017/September/BorderFire2017-CalFire-378x215.jpg?183" style="border-width: 1px; border-style: solid; margin: 6px; float: left;" width="378" height="215" /></span></span></p>
+<p> </p>
+<p> </p>
+<p><span style="font-size:16px;"><span style="font-family: arial,helvetica,sans-serif;">By Miriam Raftery, East County Wildfire &amp; Emergency Alerts</span></span></p>
+<p><em><span style="font-size:16px;"><span style="font-family: arial,helvetica,sans-serif;">Photo, left:  Cal Fire, 9/2/2017</span></span></em></p>
+<p><em><span style="font-size:16px;"><span style="font-family: arial,helvetica,sans-serif;">Photo, below right: Paula Maness, 9/1/2017</span></span></em></p>
+<p><span style="font-size:16px;"><span style="font-family: arial,helvetica,sans-serif;">September 2, 2017 (Dulzura) – The Border Fire south of Dulzura is now 75 percent contained and has charred an estimated 130 acres, according to Cal Fire.</span></span></p>
+<p><span style="font-size:16px;"><span style="font-family: arial,helvetica,sans-serif;">The brush fire began yesterday along Highway 94 near Marron Valley Road.</span></span><span style="font-size:16px;"><span style="font-family: arial,helvetica,sans-serif;">It is currently spreading to the northeast and is not expected to impact populations. Firefighters will remain on scene constructing containment lines and  mopping up hot spots.</span></span></p>
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/border-fire-near-dulzura-75-contained" rel="tag" title="BORDER FIRE NEAR DULZURA IS 75% CONTAINED">Read more<span class="element-invisible"> about BORDER FIRE NEAR DULZURA IS 75% CONTAINED</span></a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/26038%23comment-form">Log in</a> or <a href="/user/register?destination=node/26038%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+<article id="article-26017" class="node node-page node-promoted node-teaser article even clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/brush-fire-dulzuras-bee-canyon" rel="bookmark">BRUSH FIRE IN DULZURA&#039;S BEE CANYON </a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/borderfire" class="active">#borderfire</a></li><li class="field-item odd"><a href="/border-fire-2017">Border Fire 2017</a></li><li class="field-item even"><a href="/taxonomy/term/8706">Dulzura fire</a></li><li class="field-item odd"><a href="/taxonomy/term/1114">Jamul fire</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news">News</a></li><li class="field-item odd"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item even"><a href="/communities">Communities</a></li><li class="field-item odd"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><div><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size: 16px;"><img alt="" src="/sites/eastcountymagazine.org/files/resize/2017/September/EastCountyAlerts-2sponsorlogos-266x316.png?838" style="border-width: 0px; border-style: solid; margin: 6px; float: left;" width="266" height="316" /></span></span></div>
+<div> </div>
+<div> </div>
+<div><span style="font-size:16px;"><span style="font-family: arial,helvetica,sans-serif;">East County Wildfire and Emergency Alerts </span></span></div>
+<p><span style="font-size:16px;"><span style="font-family: arial,helvetica,sans-serif;"><strong>Update 11:54 a.m.  </strong>The Sheriff advised residents through Alert San Diego that  the fire is in the Bee Canyon area of Dulzura. No evacuations have been advised but residents are urged to stay tuned to local media and make sure your mobile phone is registered with AlertSanDiego to receive evacuation notices, <a href="http://links.govdelivery.com:80/track?type=click&amp;enid=ZWFzPTEmbXNpZD0mYXVpZD0mbWFpbGluZ2lkPTIwMTcwOTAxLjc3NjMyNDYxJm1lc3NhZ2VpZD1NREItUFJELUJVTC0yMDE3MDkwMS43NzYzMjQ2MSZkYXRhYmFzZWlkPTEwMDEmc2VyaWFsPTE3MTA0Mjk5JmVtYWlsaWQ9ZWRpdG9yQGVhc3Rjb3VudHltYWdhemluZS5vcmcmdXNlcmlkPWVkaXRvckBlYXN0Y291bnR5bWFnYXppbmUub3JnJnRhcmdldGlkPSZmbD0mbXZpZD0mZXh0cmE9JiYm&amp;&amp;&amp;101&amp;&amp;&amp;http://www.ReadySanDiego.org">www.ReadySanDiego.org</a> and follow Cal Fire for updated fire information: <a href="http://links.govdelivery.com:80/track?type=click&amp;enid=ZWFzPTEmbXNpZD0mYXVpZD0mbWFpbGluZ2lkPTIwMTcwOTAxLjc3NjMyNDYxJm1lc3NhZ2VpZD1NREItUFJELUJVTC0yMDE3MDkwMS43NzYzMjQ2MSZkYXRhYmFzZWlkPTEwMDEmc2VyaWFsPTE3MTA0Mjk5JmVtYWlsaWQ9ZWRpdG9yQGVhc3Rjb3VudHltYWdhemluZS5vcmcmdXNlcmlkPWVkaXRvckBlYXN0Y291bnR5bWFnYXppbmUub3JnJnRhcmdldGlkPSZmbD0mbXZpZD0mZXh0cmE9JiYm&amp;&amp;&amp;102&amp;&amp;&amp;https://twitter.com/CALFIRESANDIEGO">https://twitter.com/CALFIRESANDIEGO</a></span></span></p>
+<p><span style="font-size:16px;"><span style="font-family: arial,helvetica,sans-serif;"><strong>Update 11:40 a.m. </strong> The fire is now 15 percent contained and has burned 120 acres, Cal Fire reports.</span></span></p>
+<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size: 16px;"><strong>Update 10:45 a.m. </strong> Fire is now 110 acres and still zero percent contained. SDG&amp;E's helicopter, several fixed wing aircraft and over 220 firefighters are among the resources at the scene.  </span></span></p>
+<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size: 16px;">September 1, 2017 (Dulzura) -- The #BorderFire burning in Dulzura has charred at least 50 acres of brush and is zero percent contained.  The blaze began at 5:40 a.m. near State Route 94 and Marron Valley Road. There are no road closures at this time. The fire is burning to the north and east.</span></span></p>
+<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size: 16px;">Resources committed include 20 fire engines, 10 hand crews, 7 water tenders, 3 bulldozers, and 3 Type II helicopters.</span></span></p>
+<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size: 16px;">You can view video and a map at Cal Fire's Twitter feed here:  <a href="https://twitter.com/CALFIRESANDIEGO">https://twitter.com/CALFIRESANDIEGO</a> </span></span></p>
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/brush-fire-dulzuras-bee-canyon" rel="tag" title="BRUSH FIRE IN DULZURA&#039;S BEE CANYON ">Read more<span class="element-invisible"> about BRUSH FIRE IN DULZURA&#039;S BEE CANYON </span></a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/26017%23comment-form">Log in</a> or <a href="/user/register?destination=node/26017%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+<article id="article-22729" class="node node-page node-promoted node-teaser article odd clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/officials-meet-potrero-residents-border-fire-concerns" rel="bookmark">OFFICIALS MEET WITH POTRERO RESIDENTS ON BORDER FIRE CONCERNS</a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/5652">border fire</a></li><li class="field-item odd"><a href="/borderfire" class="active">#borderfire</a></li><li class="field-item even"><a href="/taxonomy/term/2208">Potrero</a></li><li class="field-item odd"><a href="/taxonomy/term/150">Dianne Jacob</a></li><li class="field-item even"><a href="/hank-turner">Hank Turner</a></li><li class="field-item odd"><a href="/taxonomy/term/24275">Dan DeSousa</a></li><li class="field-item even"><a href="/tony-mecham">Tony Mecham</a></li><li class="field-item odd"><a href="/taxonomy/term/808">Cal-Fire</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item odd"><a href="/communities">Communities</a></li><li class="field-item even"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><p><img alt="" src="/sites/eastcountymagazine.org/files/2016/October/P1010675_0.JPG?113" style="width: 350px; height: 197px; border-width: 1px; border-style: solid; margin: 6px; float: left;" width="350" height="197" /></p>
+<p> </p>
+<p> </p>
+<p>By Miriam Raftery</p>
+<p>October 6, 2016 (Potrero)—Supervisor Dianne Jacob convened a meeting at the Potrero Library on September 27<sup>th</sup> ,  where officials from Cal Fire, the Sheriff’s department,County Animal Services and the Office of Emergency Services responded to concerns raised by residents during the Border Fire.</p>
+<p>Verizon, AT&amp;T and SDG&amp;E were also on hand with information on communications issues and power outages.</p>
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/officials-meet-potrero-residents-border-fire-concerns" rel="tag" title="OFFICIALS MEET WITH POTRERO RESIDENTS ON BORDER FIRE CONCERNS">Read more<span class="element-invisible"> about OFFICIALS MEET WITH POTRERO RESIDENTS ON BORDER FIRE CONCERNS</span></a></li><li class="comment-comments"><a href="/officials-meet-potrero-residents-border-fire-concerns#comments" title="Jump to the first comment of this posting.">5 comments</a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/22729%23comment-form">Log in</a> or <a href="/user/register?destination=node/22729%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+<article id="article-22522" class="node node-page node-promoted node-teaser article even clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/whitewash-county%E2%80%99s-border-fire-report-ignores-serious-concerns-raised-residents" rel="bookmark">WHITEWASH?   COUNTY’S BORDER FIRE REPORT IGNORES SERIOUS CONCERNS RAISED BY RESIDENTS</a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/5652">border fire</a></li><li class="field-item odd"><a href="/borderfire" class="active">#borderfire</a></li><li class="field-item even"><a href="/taxonomy/term/58">campo</a></li><li class="field-item odd"><a href="/taxonomy/term/2208">Potrero</a></li><li class="field-item even"><a href="/taxonomy/term/3886">Lake Morena</a></li><li class="field-item odd"><a href="/taxonomy/term/150">Dianne Jacob</a></li><li class="field-item even"><a href="/taxonomy/term/183">San Diego</a></li><li class="field-item odd"><a href="/taxonomy/term/1590">San Diego Sheriff</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news">News</a></li><li class="field-item odd"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item even"><a href="/communities">Communities</a></li><li class="field-item odd"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><p><img alt="" src="/sites/eastcountymagazine.org/files/resize/2016/September/BorderFire2016-sparks-RichardEdwards-350x263.JPG?126" style="width: 350px; height: 263px; border-width: 1px; border-style: solid; margin: 6px; float: left;" width="350" height="263" /></p>
+<p> </p>
+<p>By Miriam Raftery</p>
+<p><em>Photo by Richard Edwords: Harrowing ride along State Route 94 during Border Fire</em></p>
+<p> </p>
+<p>September 15, 2016  (San Diego’s East County) – The <a href="http://www.readysandiego.org/aar/Border-Fire-June-2016-AAR.pdf">County’s Border Fire 2016 After Action Report</a>  presents a review on the regional response to the Border Fire that ignores many serious complaints lodged by rural residents in the fire. The report was written entirely by official agencies and  does not include concerns raised by the public, leading rural planning officials,  residents and a community news editor to contend the county whitewashed their concerns.</p>
+<p> The blaze killed two people , destroyed five homes and left countless animals without care in triple-digit heat while residents were refused access  for days after the fire. While residents praise efforts of firefighters who worked valiantly to prevent worse losses, many feel betrayed by officials in the wake of the Border Fire report and other complaints that residents say have yielded little or no meaningful changes.</p>
+<p>The report omits entirely any mention of controversies over the deaths of Potrero residents Jim and Kyrie Keefe,  whose bodies were <a href="http://www.eastcountymagazine.org/two-bodies-found-potrero-property-burned-border-fire-where-injured-dog-was-found">found by community volunteers</a>.  Agencies praised themselves in the report, while omitting criticisms on issues such as <a href="http://www.eastcountymagazine.org/animals-dyingin-potrero-fire-service-refuses-access-aid-livestock-and-pets-evacuation-area">lack of  adequate care for animals </a>stranded in triple-digit heat and inadequate evacuation notifications -- in some cases, just yellow caution tape stuck on mailboxes, with no explanation or direct contact with residents in danger after their phone lines, cell towers and Internet service all  went down in communities such as Potrero and Lake Morena.</p>
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/whitewash-county%E2%80%99s-border-fire-report-ignores-serious-concerns-raised-residents" rel="tag" title="WHITEWASH?   COUNTY’S BORDER FIRE REPORT IGNORES SERIOUS CONCERNS RAISED BY RESIDENTS">Read more<span class="element-invisible"> about WHITEWASH?   COUNTY’S BORDER FIRE REPORT IGNORES SERIOUS CONCERNS RAISED BY RESIDENTS</span></a></li><li class="comment-comments"><a href="/whitewash-county%E2%80%99s-border-fire-report-ignores-serious-concerns-raised-residents#comments" title="Jump to the first comment of this posting.">4 comments</a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/22522%23comment-form">Log in</a> or <a href="/user/register?destination=node/22522%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+<article id="article-21950" class="node node-page node-promoted node-teaser article odd clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/rural-fire-sheriff%E2%80%99s-office-responds-border-fire-concerns" rel="bookmark">RURAL SHERIFF’S OFFICE RESPONDS TO BORDER FIRE CONCERNS</a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/5652">border fire</a></li><li class="field-item odd"><a href="/borderfire" class="active">#borderfire</a></li><li class="field-item even"><a href="/taxonomy/term/58">campo</a></li><li class="field-item odd"><a href="/taxonomy/term/2208">Potrero</a></li><li class="field-item even"><a href="/hank-turner">Hank Turner</a></li><li class="field-item odd"><a href="/taxonomy/term/1590">San Diego Sheriff</a></li><li class="field-item even"><a href="/jim-and-kyrie-keefe">Jim and Kyrie Keefe</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item odd"><a href="/communities">Communities</a></li><li class="field-item even"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><p><img alt="" src="/sites/eastcountymagazine.org/files/resize/2016/July/P1000924-300x169.JPG?733" style="width: 300px; height: 169px; border-width: 1px; border-style: solid; margin: 6px; float: left;" width="300" height="169" /></p>
+<p> </p>
+<p>By Miriam Raftery</p>
+<p>July 13, 2016 (San Diego’s East County) – Captain Hank Turner from the Sheriff’s Rural Substation in Campo has reached out to address concerns raised by residents at recent public meetings regarding issues that arose during the Border Fire.</p>
+<p>Those concerns have prompted two avenues for potential  reforms:  an internal investigation regarding a search for two missing people found dead 10 days after the fire, and an action report  on a broader set of issues, along with recommendations forchanges for the future.</p>
+<p>“I’ve lived in East County most of my life. I’m glad to be working out here; my kids go to school with the people out here, and if a fire hits, I’m not living in La Jolla,” Captain Turner told East County Magazine. “I’m living out here and I’m going to be working out here during the fires.”</p>
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/rural-fire-sheriff%E2%80%99s-office-responds-border-fire-concerns" rel="tag" title="RURAL SHERIFF’S OFFICE RESPONDS TO BORDER FIRE CONCERNS">Read more<span class="element-invisible"> about RURAL SHERIFF’S OFFICE RESPONDS TO BORDER FIRE CONCERNS</span></a></li><li class="comment-comments"><a href="/rural-fire-sheriff%E2%80%99s-office-responds-border-fire-concerns#comments" title="Jump to the first comment of this posting.">7 comments</a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/21950%23comment-form">Log in</a> or <a href="/user/register?destination=node/21950%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+<article id="article-21911" class="node node-page node-promoted node-teaser article even clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/potrero-residents-seek-help-shelter-place-organize-aid-neighbors-future-fires" rel="bookmark">POTRERO RESIDENTS SEEK HELP TO SHELTER IN PLACE, ORGANIZE TO AID NEIGHBORS IN FUTURE FIRES</a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/5652">border fire</a></li><li class="field-item odd"><a href="/borderfire" class="active">#borderfire</a></li><li class="field-item even"><a href="/taxonomy/term/2208">Potrero</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news">News</a></li><li class="field-item odd"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item even"><a href="/communities">Communities</a></li><li class="field-item odd"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><p><img alt="" src="/sites/eastcountymagazine.org/files/2016/July/P1000932_0.JPG?7" style="width: 300px; height: 169px; border-width: 1px; border-style: solid; margin: 7px; float: left;" width="300" height="169" /></p>
+<p> </p>
+<p> </p>
+<p>By Miriam Raftery</p>
+<p>July 6, 2016 (Potrero) –“How do we move forward now?”  Robert Buerer(photo,left), leader of the Potrero  Community Emergency Response (CERT) Team asked at  a Potrero Foundation disaster preparedness meeting on Saturday, July 3 in the aftermath of the Border Fire.</p>
+<p>He wants to expand a Neighbor to Neighbor program that’s arisen out of Neighborhood Watch.   Each neighborhood would have a team leader and phone tree to spread word about alerts and evacuation notices to  neighbors.  To prevent a recurrence of the tragic loss of a couple trapped during the Border Fire with a broken-down vehicle, the program would enable neighbors to learn if someone needs help to evacuate or find a haven for those who choose to shelter in place.</p>
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/potrero-residents-seek-help-shelter-place-organize-aid-neighbors-future-fires" rel="tag" title="POTRERO RESIDENTS SEEK HELP TO SHELTER IN PLACE, ORGANIZE TO AID NEIGHBORS IN FUTURE FIRES">Read more<span class="element-invisible"> about POTRERO RESIDENTS SEEK HELP TO SHELTER IN PLACE, ORGANIZE TO AID NEIGHBORS IN FUTURE FIRES</span></a></li><li class="comment-comments"><a href="/potrero-residents-seek-help-shelter-place-organize-aid-neighbors-future-fires#comments" title="Jump to the first comment of this posting.">1 comment</a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/21911%23comment-form">Log in</a> or <a href="/user/register?destination=node/21911%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+<article id="article-21888" class="node node-page node-promoted node-teaser article odd clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/memorial-planned-july-10-couple-who-died-border-fire" rel="bookmark">MEMORIAL PLANNED JULY 10 FOR COUPLE WHO DIED IN BORDER FIRE</a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/borderfire" class="active">#borderfire</a></li><li class="field-item odd"><a href="/taxonomy/term/2208">Potrero</a></li><li class="field-item even"><a href="/jim-keefe">Jim Keefe</a></li><li class="field-item odd"><a href="/kyrie-keefe">Kyrie Keefe</a></li><li class="field-item even"><a href="/barefoot-jim">Barefoot Jim</a></li><li class="field-item odd"><a href="/taxonomy/term/5652">border fire</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news">News</a></li><li class="field-item odd"><a href="/news/obituaries">Obituaries</a></li><li class="field-item even"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item odd"><a href="/communities">Communities</a></li><li class="field-item even"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><p><img alt="" src="/sites/eastcountymagazine.org/files/resize/2016/July/MemorialSignJim%26Kyrie-300x225.png?421" style="width: 300px; height: 225px; border-width: 1px; border-style: solid; margin: 6px; float: left;" width="300" height="225" /></p>
+<p> </p>
+<p> </p>
+<p>By  Miriam Raftery</p>
+<p><strong><em>Update July 6, 2016:  The Medical Examiner has confirmed the identity of James Peter Keefe,53 and also confirmed that the second body is that of his wife,but has not released her full name pending efforts to locate her relatives in Canada. </em></strong></p>
+<p><strong>Memorial fund established for Jim and Kyrie Keefe </strong></p>
+<p>July 3, 2016 (Potrero) –A memorial service is planned for July 10<sup>th</sup> at 11 a.m. to commemorate Jim Keefe and his wife, Kyrie.  The service will be held at 28020 State Route 94 in Potrero,  the site where the young couple lived.  Bodies believed to be theirs were found by volunteer searchers among boulders 50 to 70 yards behind their home after the Border Fire.</p>
+<p>“Let’s get together to honor them, talk to each other about what happened that tragic day, and salute two wonderful people who brightened our lives and made us smile. See their art, tell some stories on the mic, hear some music, walk the property, cry, hug,and laugh,” Claudia Millerbragg posted on the Potrero Town page on Facebook, adding that people should bring chairs.</p>
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/memorial-planned-july-10-couple-who-died-border-fire" rel="tag" title="MEMORIAL PLANNED JULY 10 FOR COUPLE WHO DIED IN BORDER FIRE">Read more<span class="element-invisible"> about MEMORIAL PLANNED JULY 10 FOR COUPLE WHO DIED IN BORDER FIRE</span></a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/21888%23comment-form">Log in</a> or <a href="/user/register?destination=node/21888%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+<article id="article-21876" class="node node-page node-promoted node-teaser article even clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/border-fire-survivors-share-concerns-meeting-supervisor-jacob-fire-and-sheriff-officials" rel="bookmark">BORDER FIRE SURVIVORS SHARE CONCERNS, OUTRAGE AT MEETING WITH SUPERVISOR JACOB,  FIRE AND SHERIFF OFFICIALS</a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/borderfire" class="active">#borderfire</a></li><li class="field-item odd"><a href="/taxonomy/term/5652">border fire</a></li><li class="field-item even"><a href="/taxonomy/term/150">Dianne Jacob</a></li><li class="field-item odd"><a href="/taxonomy/term/1590">San Diego Sheriff</a></li><li class="field-item even"><a href="/taxonomy/term/2208">Potrero</a></li><li class="field-item odd"><a href="/taxonomy/term/58">campo</a></li><li class="field-item even"><a href="/taxonomy/term/3886">Lake Morena</a></li><li class="field-item odd"><a href="/taxonomy/term/6972">Barrett Junction</a></li><li class="field-item even"><a href="/taxonomy/term/706">CAL FIRE</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news">News</a></li><li class="field-item odd"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item even"><a href="/communities">Communities</a></li><li class="field-item odd"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><p><img alt="" src="/sites/eastcountymagazine.org/files/2016/June/P1000914_0.JPG?499" style="width: 350px; height: 197px; border-width: 1px; border-style: solid; margin: 6px; float: left;" width="350" height="197" /></p>
+<p> </p>
+<p>By Miriam Raftery</p>
+<p>June 30, 2016 (San Diego’s East County) – Emotions ran high at a community meeting on Border Fire issues convened by Supervisor Dianne Jacob this morning at the Barrett Junction Café in Dulzura.</p>
+<p> Rural residents praised efforts of firefighters, but voiced frustrations and pointed criticisms over problems that arose including lack of adequate care for animals in the evacuated areas and at shelters. communications failures, and inadequate help to locate a missing couple found dead yesterday by volunteer searchers in Potrero.</p>
+<p>Jacob  converted a  previously planned coffee with the community event into a forum for the public to air concerns and for officials to respond.  Representatives from Cal Fire and the Sheriff’s Department turned out, but Animal Services did not.  “Not being here is not a good thing,” Jacob said of Animal Services, adding that she has heard many complaints from rural residents about both Animal Services and the Sheriff’s Department.</p>
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/border-fire-survivors-share-concerns-meeting-supervisor-jacob-fire-and-sheriff-officials" rel="tag" title="BORDER FIRE SURVIVORS SHARE CONCERNS, OUTRAGE AT MEETING WITH SUPERVISOR JACOB,  FIRE AND SHERIFF OFFICIALS">Read more<span class="element-invisible"> about BORDER FIRE SURVIVORS SHARE CONCERNS, OUTRAGE AT MEETING WITH SUPERVISOR JACOB,  FIRE AND SHERIFF OFFICIALS</span></a></li><li class="comment-comments"><a href="/border-fire-survivors-share-concerns-meeting-supervisor-jacob-fire-and-sheriff-officials#comments" title="Jump to the first comment of this posting.">4 comments</a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/21876%23comment-form">Log in</a> or <a href="/user/register?destination=node/21876%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+<article id="article-21873" class="node node-page node-promoted node-teaser article odd clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/emergency-meeting-alert-border-fire-survivors-thurs-8-am-barrett-cafe" rel="bookmark">EMERGENCY MEETING ALERT: BORDER FIRE SURVIVORS -THURS 8 AM AT BARRETT CAFE</a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/2208">Potrero</a></li><li class="field-item odd"><a href="/taxonomy/term/5652">border fire</a></li><li class="field-item even"><a href="/taxonomy/term/6972">Barrett Junction</a></li><li class="field-item odd"><a href="/borderfire" class="active">#borderfire</a></li><li class="field-item even"><a href="/dianne-jacob">Dianne  Jacob</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news">News</a></li><li class="field-item odd"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item even"><a href="/communities">Communities</a></li><li class="field-item odd"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><p><img alt="" src="/sites/eastcountymagazine.org/files/resize/2016/June/Jacob%2C%20Dianne-pensive-156x153.jpg?178" style="border-width: 1px; border-style: solid; margin: 6px; float: left;" height="153" width="156" /></p>
+<p> </p>
+<p>June 29, 2016 (Barrett Junction)--Supervisor Dianne Jacob has pulled together an emergency meeting in response to all the concerns raised by Border Fire survivors. The meeting will be held at 8:30 a.m. at the BarrettCafe, 1020 Barrett Lake Road in Dulzura.</p>
+<p>A note from her office states: "She will be there with Fire Officials, Sheriff's Department, Office of Emergency Services, Animal Services, BLM, Border Patrol to listen to residents' concerns andanswer questions. This meeting was scheduled already. Sup Jacob has quickly reformed it to include the very people who need to hear from residents there on the ground.  She is well aware of the concerns you've shared with her office."</p>
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/emergency-meeting-alert-border-fire-survivors-thurs-8-am-barrett-cafe" rel="tag" title="EMERGENCY MEETING ALERT: BORDER FIRE SURVIVORS -THURS 8 AM AT BARRETT CAFE">Read more<span class="element-invisible"> about EMERGENCY MEETING ALERT: BORDER FIRE SURVIVORS -THURS 8 AM AT BARRETT CAFE</span></a></li><li class="comment-comments"><a href="/emergency-meeting-alert-border-fire-survivors-thurs-8-am-barrett-cafe#comments" title="Jump to the first comment of this posting.">1 comment</a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/21873%23comment-form">Log in</a> or <a href="/user/register?destination=node/21873%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+<article id="article-21864" class="node node-page node-promoted node-teaser article even clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/county-takes-action-waive-fees-border-fire-surviviors-rebuild-also-provide-bins-debris" rel="bookmark">COUNTY TAKES ACTION TO WAIVE FEES FOR BORDER FIRE SURVIVIORS TO REBUILD, ALSO PROVIDE BINS FOR DEBRIS</a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/5652">border fire</a></li><li class="field-item odd"><a href="/borderfire" class="active">#borderfire</a></li><li class="field-item even"><a href="/taxonomy/term/2208">Potrero</a></li><li class="field-item odd"><a href="/taxonomy/term/58">campo</a></li><li class="field-item even"><a href="/taxonomy/term/3886">Lake Morena</a></li><li class="field-item odd"><a href="/border-fire-recovery">Border Fire recovery</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news">News</a></li><li class="field-item odd"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item even"><a href="/communities">Communities</a></li><li class="field-item odd"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><p><img alt="" src="/sites/eastcountymagazine.org/files/resize/2016/June/BorderFireDay2CalFire_0-361x202.jpg?342" style="border-width: 1px; border-style: solid; margin: 6px; float: left;" height="202" width="361" /></p>
+<p> </p>
+<p>East County News Service</p>
+<p>Photo: Day 2 of the Border Fire, Cal-Fire</p>
+<p>June 28,2016 (San Diego) -- The San Diego County Board of Supervisors voted unanimously Tuesday to help those who lost homes or buildings in the Border Fire. The County will waive fees for building permits and plan-check reviews. </p>
+<p>Fees will only be waived for structures that were legally permitted originally, prior to the fire. The Board’s Tuesday action would also distribute trash bins to people in the fire areas to help them clear debris.</p>
+<p>The Border Fire started June 19<sup>th</sup> and over the past 10 days has charred over 7,600 acres, destroyed five homes and 11 outbuildings. CAL FIRE reported Tuesday that the Border fire, which grew to 7,609 acres, was 92 percent contained.</p>
+<p>“It’s an absolute tragedy for anyone who has lost everything,” said Supervisor Dianne Jacob, whose district includes the Potrero, Campo and Lake Morena communities ravaged by the Border Fire.</p>
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/county-takes-action-waive-fees-border-fire-surviviors-rebuild-also-provide-bins-debris" rel="tag" title="COUNTY TAKES ACTION TO WAIVE FEES FOR BORDER FIRE SURVIVIORS TO REBUILD, ALSO PROVIDE BINS FOR DEBRIS">Read more<span class="element-invisible"> about COUNTY TAKES ACTION TO WAIVE FEES FOR BORDER FIRE SURVIVIORS TO REBUILD, ALSO PROVIDE BINS FOR DEBRIS</span></a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/21864%23comment-form">Log in</a> or <a href="/user/register?destination=node/21864%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+<article id="article-21855" class="node node-page node-promoted node-teaser article odd clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/photos-week-aftermath-border-fire" rel="bookmark">PHOTOS OF THE WEEK:  THE AFTERMATH OF THE BORDER FIRE</a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/borderfire" class="active">#borderfire</a></li><li class="field-item odd"><a href="/taxonomy/term/23576">Photos of the Week</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item odd"><a href="/features/best-east-county/best-photos-our-readers-and-staff">Best Photos from our Readers and Staff</a></li><li class="field-item even"><a href="/communities">Communities</a></li><li class="field-item odd"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><p><img alt="" src="/sites/eastcountymagazine.org/files/resize/2016/June/PotreroSign-300x201.jpg?288" style="width: 300px; height: 201px; border-width: 1px; border-style: solid; margin: 6px; float: left;" width="300" height="201" /></p>
+<p> </p>
+<p><span style="font-family:arial,helvetica,sans-serif;">By Jose A. Alvarez, County of San Diego Communications Office</span></p>
+<p><span style="font-family:arial,helvetica,sans-serif;">June 27, 2016 (Potrero/Campo) - The Border Fire started Sunday, June 19. Since then, it has burned more than 7,000 acres, destroyed five homes and 11 structures. These images, taken on June 23 in the Potrero and Campo communities, show the aftermath and the efforts taking place to help residents get back to their lives. </span></p>
+<p> </p>
+<p><span style="font-family:arial,helvetica,sans-serif;">View the full gallery at <a href="http://www.countynewscenter.com/the-aftermath-of-the-border-fire/">http://www.countynewscenter.com/the-aftermath-of-the-border-fire/</a> and scroll down for highlights.<br /></span></p>
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/photos-week-aftermath-border-fire" rel="tag" title="PHOTOS OF THE WEEK:  THE AFTERMATH OF THE BORDER FIRE">Read more<span class="element-invisible"> about PHOTOS OF THE WEEK:  THE AFTERMATH OF THE BORDER FIRE</span></a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/21855%23comment-form">Log in</a> or <a href="/user/register?destination=node/21855%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+<article id="article-21851" class="node node-page node-promoted node-teaser article even clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/border-fire-90-contained-9-fires-burn-statewide" rel="bookmark">BORDER FIRE 90% CONTAINED; 9 FIRES BURN STATEWIDE</a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/borderfire" class="active">#borderfire</a></li><li class="field-item odd"><a href="/potrerofire">#PotreroFire</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item odd"><a href="/communities">Communities</a></li><li class="field-item even"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><p><img alt="" src="/sites/eastcountymagazine.org/files/2016/June/firefighter.jpg?712" style="width: 210px; height: 324px; border-width: 1px; border-style: solid; margin: 6px; float: left;" width="210" height="324" /></p>
+<p> </p>
+<p><span style="font-family:arial,helvetica,sans-serif;">East County News Service</span></p>
+<p><span style="font-family:arial,helvetica,sans-serif;">June 27, 2016 (San Diego’s East County) -- Over 5,200 firefighters are battling nine large wildfires in California, Cal Fire advises. While the Border Fire in San Diego’s East County is now 80% contained after burning 7,609 acres, other major wildfires are scorching areas across California.</span></p>
+<p><span style="font-family:arial,helvetica,sans-serif;">The largest is the Erskine Fire in Kern County, which has charred over 45,000 acres and is now 40% contained, though evacuation orders remain in place. Several new fires broke out yesterday during high temperatures and low humidity.</span></p>
+<p><span style="font-family:arial,helvetica,sans-serif;">Below are the latest updates on fires statewide, with links to full details.<br /></span></p>
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/border-fire-90-contained-9-fires-burn-statewide" rel="tag" title="BORDER FIRE 90% CONTAINED; 9 FIRES BURN STATEWIDE">Read more<span class="element-invisible"> about BORDER FIRE 90% CONTAINED; 9 FIRES BURN STATEWIDE</span></a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/21851%23comment-form">Log in</a> or <a href="/user/register?destination=node/21851%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+<article id="article-21839" class="node node-page node-promoted node-teaser article odd clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/county-seeks-owner-dog-found-fire-burned-paws" rel="bookmark">COUNTY SEEKS OWNER OF DOG FOUND IN FIRE WITH BURNED PAWS</a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/502">dogs</a></li><li class="field-item odd"><a href="/taxonomy/term/15647">animal rescue</a></li><li class="field-item even"><a href="/borderfire" class="active">#borderfire</a></li><li class="field-item odd"><a href="/potrerofire">#PotreroFire</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news">News</a></li><li class="field-item odd"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item even"><a href="/communities">Communities</a></li><li class="field-item odd"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><p><img alt="" src="/sites/eastcountymagazine.org/files/resize/2016/June/little%20joe-225x300.jpg?534" style="width: 225px; height: 300px; border-width: 1px; border-style: solid; margin: 6px; float: left;" width="225" height="300" /></p>
+<p> </p>
+<p><span style="font-family:arial,helvetica,sans-serif;">East County News Service</span></p>
+<p><span style="font-family:arial,helvetica,sans-serif;">June 25, 2016 (San Diego’s East County) – The <a href="https://www.facebook.com/sddac/">County of San Diego Department of Animal Services</a> is still seeking the owner of this dog found with burned paws during the Border Fire.<br /></span></p>
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/county-seeks-owner-dog-found-fire-burned-paws" rel="tag" title="COUNTY SEEKS OWNER OF DOG FOUND IN FIRE WITH BURNED PAWS">Read more<span class="element-invisible"> about COUNTY SEEKS OWNER OF DOG FOUND IN FIRE WITH BURNED PAWS</span></a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/21839%23comment-form">Log in</a> or <a href="/user/register?destination=node/21839%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+<article id="article-21835" class="node node-page node-promoted node-teaser article even clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/need-help-after-fire" rel="bookmark">NEED HELP AFTER THE FIRE?</a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/borderfire" class="active">#borderfire</a></li><li class="field-item odd"><a href="/potrerofire">#PotreroFire</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news">News</a></li><li class="field-item odd"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item even"><a href="/communities">Communities</a></li><li class="field-item odd"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><p><img alt="" src="/sites/eastcountymagazine.org/files/2016/June/red%20guide.jpg?476" style="width: 200px; height: 208px; border-width: 1px; border-style: solid; margin: 6px; float: left;" width="200" height="208" /></p>
+<p> </p>
+<p><span style="font-family:arial,helvetica,sans-serif;">Source: County of San Diego</span></p>
+<p><span style="font-family:arial,helvetica,sans-serif;">For assistance reuniting with your pet, go to County Animal Services’ <a href="http://links.govdelivery.com:80/track?type=click&amp;enid=ZWFzPTEmbXNpZD0mYXVpZD0mbWFpbGluZ2lkPTIwMTYwNjI0LjYwNjg3NzkxJm1lc3NhZ2VpZD1NREItUFJELUJVTC0yMDE2MDYyNC42MDY4Nzc5MSZkYXRhYmFzZWlkPTEwMDEmc2VyaWFsPTE2ODczNTU4JmVtYWlsaWQ9ZWRpdG9yQGVhc3Rjb3VudHltYWdhemluZS5vcmcmdXNlcmlkPWVkaXRvckBlYXN0Y291bnR5bWFnYXppbmUub3JnJnRhcmdldGlkPSZmbD0mbXZpZD0mZXh0cmE9JiYm&amp;&amp;&amp;101&amp;&amp;&amp;http://www.sddac.com/lostandfound.asp">lost pet page</a>. (Also view a gallery of rescued animals <a href="http://www.countynewscenter.com/rescued-animals-of-border-fire/">here</a>.)  If you know of animals that need assistance, please contact County Animal Services at 619-236-2341.<br /></span></p>
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/need-help-after-fire" rel="tag" title="NEED HELP AFTER THE FIRE?">Read more<span class="element-invisible"> about NEED HELP AFTER THE FIRE?</span></a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/21835%23comment-form">Log in</a> or <a href="/user/register?destination=node/21835%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+<article id="article-21833" class="node node-page node-promoted node-teaser article odd clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/sdge-draws-praise-swift-response-outages-during-fire" rel="bookmark">SDG&amp;E DRAWS PRAISE FOR SWIFT RESPONSE TO OUTAGES DURING FIRE</a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/86">SDG&amp;E</a></li><li class="field-item odd"><a href="/borderfire" class="active">#borderfire</a></li><li class="field-item even"><a href="/taxonomy/term/2208">Potrero</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news">News</a></li><li class="field-item odd"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item even"><a href="/communities">Communities</a></li><li class="field-item odd"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><p><img alt="" src="/sites/eastcountymagazine.org/files/resize/sdgepotrero-300x231.png?939" style="width: 300px; height: 231px; border-width: 1px; border-style: solid; margin: 6px; float: left;" width="300" height="231" /></p>
+<p> </p>
+<p>By Miriam Raftery</p>
+<p>June 25, 2016 (San Diego’s East County) – During the Border Fire, SDG&amp;E rapidly mobilized resources that have been substantially beefed up since prior firestorms—getting electricity back on swiftly in burned-out communities sweltering in triple-digit heat.  For many rural residents,electricity also powers wells that provide water in and in some cases, equipment burned. </p>
+<p>But as of this morning, power has been fully restored in all areas impacted by the fire,according to SDG&amp;E’s outage map.</p>
+<p>“The SDG&amp;E crews have been amazing. They have not stopped since the fire swept through,” Potrero resident Jan Hedlun writes. “They have a camp up next to the Potrero Community Church and are working, working, working. The rate of speed they took to get most of us hooked up is wondrous. I watched them using a helicopter to move the poles over the ridge. Well coordinated crews.”</p>
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/sdge-draws-praise-swift-response-outages-during-fire" rel="tag" title="SDG&amp;E DRAWS PRAISE FOR SWIFT RESPONSE TO OUTAGES DURING FIRE">Read more<span class="element-invisible"> about SDG&amp;E DRAWS PRAISE FOR SWIFT RESPONSE TO OUTAGES DURING FIRE</span></a></li><li class="comment-comments"><a href="/sdge-draws-praise-swift-response-outages-during-fire#comments" title="Jump to the first comment of this posting.">1 comment</a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/21833%23comment-form">Log in</a> or <a href="/user/register?destination=node/21833%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+<article id="article-21832" class="node node-page node-promoted node-teaser article even clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/help-needed-residents-and-animals-campo-lake-morena" rel="bookmark">HELP NEEDED FOR RESIDENTS AND ANIMALS IN CAMPO, LAKE MORENA</a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/rapture-horse-rescue">Rapture Horse Rescue</a></li><li class="field-item odd"><a href="/taxonomy/term/13250">Deerhorn Valley Antler</a></li><li class="field-item even"><a href="/taxonomy/term/58">campo</a></li><li class="field-item odd"><a href="/taxonomy/term/2208">Potrero</a></li><li class="field-item even"><a href="/taxonomy/term/3886">Lake Morena</a></li><li class="field-item odd"><a href="/taxonomy/term/5652">border fire</a></li><li class="field-item even"><a href="/border-3-fire">Border 3 Fire</a></li><li class="field-item odd"><a href="/borderfire" class="active">#borderfire</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news">News</a></li><li class="field-item odd"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item even"><a href="/features/people-power">People Power</a></li><li class="field-item odd"><a href="/communities">Communities</a></li><li class="field-item even"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><p><img alt="" src="/sites/eastcountymagazine.org/files/resize/DeerhornAnimalRescuePotrero_0-425x240.png?557" style="width: 425px; height: 240px; border-width: 1px; border-style: solid; margin: 6px; float: left;" width="425" height="240" /></p>
+<p> </p>
+<p>By Miriam Raftery</p>
+<p><em>Photo:  Rapture's Horse Rescue joined efforts led by Deerhorn Valley Antler editor Kim Hamilton with help from local community members and businesses to bring supplies to Potrero</em></p>
+<p>June 25, 2016 (Campo/LakeMorena) – With the Border Fire now 70% contained, relief efforts continue.  Shontel Grivno at Rapture’s Horse Rescue Foundation sent us the following e-mail this morning asking for supplies of non-perishable foods, water  propane and animal feed for fire survivors, livestock and pets in the Campo/Lake Morena communities:</p>
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/help-needed-residents-and-animals-campo-lake-morena" rel="tag" title="HELP NEEDED FOR RESIDENTS AND ANIMALS IN CAMPO, LAKE MORENA">Read more<span class="element-invisible"> about HELP NEEDED FOR RESIDENTS AND ANIMALS IN CAMPO, LAKE MORENA</span></a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/21832%23comment-form">Log in</a> or <a href="/user/register?destination=node/21832%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+<article id="article-21828" class="node node-page node-promoted node-teaser article odd clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/border-fire-45-contained-evacuation-shelter-closes-friday" rel="bookmark">BORDER FIRE 45% CONTAINED; EVACUATION SHELTER CLOSES FRIDAY</a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/5652">border fire</a></li><li class="field-item odd"><a href="/borderfire" class="active">#borderfire</a></li><li class="field-item even"><a href="/taxonomy/term/58">campo</a></li><li class="field-item odd"><a href="/taxonomy/term/2208">Potrero</a></li><li class="field-item even"><a href="/taxonomy/term/3886">Lake Morena</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news">News</a></li><li class="field-item odd"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item even"><a href="/communities">Communities</a></li><li class="field-item odd"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><p><img alt="" src="/sites/eastcountymagazine.org/files/resize/BorderFireBurnCalFire_0-200x275.jpg?556" style="width: 200px; height: 275px; border-width: 1px; border-style: solid; margin: 7px; float: left;" width="200" height="275" /></p>
+<p>By Miriam Raftery</p>
+<p>June 24, 2016 (San Diego’s East County) – This morning Cal-Fire reports that the Border Fire is 45% contained after scorching 7,483 acres.  Five homes and 11 outbuildings were destroyed. </p>
+<p>The evacuation shelter at Los Coches Creek Middle School in El Cajon is closing today. All evacuated areas are now reopened, however some road closures remain in effect.  View full details from Cal Fire at: <a href="https://twitter.com/CALFIRESANDIEGO/status/746347587112828928">https://twitter.com/CALFIRESANDIEGO/status/746347587112828928</a></p>
+<p><strong><em>Appreciate our alerts?  Please donate to help us continue keeping you safe and informed during emergencies!  Click here to make a donation or a monthly pledge to help sustain our East County Alerts and wildfire  news reporting: <a href="http://www.eastcountymagazine.org/donate">http://www.eastcountymagazine.org/donate</a></em></strong></p>
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/border-fire-45-contained-evacuation-shelter-closes-friday" rel="tag" title="BORDER FIRE 45% CONTAINED; EVACUATION SHELTER CLOSES FRIDAY">Read more<span class="element-invisible"> about BORDER FIRE 45% CONTAINED; EVACUATION SHELTER CLOSES FRIDAY</span></a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/21828%23comment-form">Log in</a> or <a href="/user/register?destination=node/21828%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+<article id="article-21823" class="node node-page node-promoted node-teaser article even clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/residents-hear-updates-border-fire-thank-firefighters-and-voice-some-concerns" rel="bookmark">RESIDENTS HEAR UPDATES ON BORDER FIRE, THANK FIREFIGHTERS AND VOICE SOME CONCERNS</a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/borderfire" class="active">#borderfire</a></li><li class="field-item odd"><a href="/taxonomy/term/5652">border fire</a></li><li class="field-item even"><a href="/taxonomy/term/58">campo</a></li><li class="field-item odd"><a href="/taxonomy/term/3886">Lake Morena</a></li><li class="field-item even"><a href="/taxonomy/term/2208">Potrero</a></li><li class="field-item odd"><a href="/taxonomy/term/706">CAL FIRE</a></li><li class="field-item even"><a href="/taxonomy/term/152">El Cajon</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news">News</a></li><li class="field-item odd"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item even"><a href="/communities">Communities</a></li><li class="field-item odd"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><p><img alt="" src="/sites/eastcountymagazine.org/files/P1000883_0.JPG?840" style="width: 300px; height: 169px; border-width: 1px; border-style: solid; margin: 5px; float: left;" width="300" height="169" /></p>
+<p>By Miriam Raftery</p>
+<p>Photo: County Fire Chief Gary Croucher</p>
+<p>June 23, 2016 (El Cajon) --At a community meeting Thursday night at the Los Coches Creek Elementary School in El Cajon, fire officials gave a briefing on steps they took to battle the Border Fire, which since Sunday has burned close to 7,400 acres, destroying 5 homes and 11 outbuildings.  </p>
+<p>Residents voiced gratitude toward firefighters for  valiant efforts to save homes and lives, also acknowledging much that has improved since the 2003 and 2007 firestorms thanks to better investments in firefighting equipment and technology.</p>
+<p>But some voiced concerns over areas they hope to see improved-- notably helping children and young teens forced to evacuate when parents were away at work, slow communications early on about the fire’s progress, animals lacking food and water in the evacuation zone, and inadequate water at Lake Morena for firefighting aircraft due to the city of San Diego draining the reservoir too low.</p>
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/residents-hear-updates-border-fire-thank-firefighters-and-voice-some-concerns" rel="tag" title="RESIDENTS HEAR UPDATES ON BORDER FIRE, THANK FIREFIGHTERS AND VOICE SOME CONCERNS">Read more<span class="element-invisible"> about RESIDENTS HEAR UPDATES ON BORDER FIRE, THANK FIREFIGHTERS AND VOICE SOME CONCERNS</span></a></li><li class="comment-comments"><a href="/residents-hear-updates-border-fire-thank-firefighters-and-voice-some-concerns#comments" title="Jump to the first comment of this posting.">2 comments</a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/21823%23comment-form">Log in</a> or <a href="/user/register?destination=node/21823%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+<article id="article-21821" class="node node-page node-promoted node-teaser article odd clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/all-evacuation-orders-lifted-border-fire-area-residents-can-go-home" rel="bookmark">ALL EVACUATION ORDERS LIFTED: BORDER FIRE AREA RESIDENTS CAN GO HOME</a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/borderfire" class="active">#borderfire</a></li><li class="field-item odd"><a href="/taxonomy/term/5652">border fire</a></li><li class="field-item even"><a href="/taxonomy/term/3886">Lake Morena</a></li><li class="field-item odd"><a href="/taxonomy/term/58">campo</a></li><li class="field-item even"><a href="/taxonomy/term/2208">Potrero</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news">News</a></li><li class="field-item odd"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item even"><a href="/communities">Communities</a></li><li class="field-item odd"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><p><img alt="" src="/sites/eastcountymagazine.org/files/resize/cal%20fire%20logo_4-151x203.jpg?149" style="border-width: 1px; border-style: solid; margin: 6px; float: left;" height="203" width="151" /></p>
+<p> </p>
+<p> </p>
+<p>June 23, 2016 (San Diego) -- Cal Fire has announced this evening that all evacuation orders and warnings have been lifted.</p>
+<p>There will be three traffic control points restricting access to the fire burn area:</p>
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/all-evacuation-orders-lifted-border-fire-area-residents-can-go-home" rel="tag" title="ALL EVACUATION ORDERS LIFTED: BORDER FIRE AREA RESIDENTS CAN GO HOME">Read more<span class="element-invisible"> about ALL EVACUATION ORDERS LIFTED: BORDER FIRE AREA RESIDENTS CAN GO HOME</span></a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/21821%23comment-form">Log in</a> or <a href="/user/register?destination=node/21821%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+<article id="article-21817" class="node node-page node-promoted node-teaser article even clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/updated-road-closures-border-fire" rel="bookmark">UPDATED ROAD CLOSURES IN BORDER FIRE</a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/borderfire" class="active">#borderfire</a></li><li class="field-item odd"><a href="/taxonomy/term/5652">border fire</a></li><li class="field-item even"><a href="/taxonomy/term/3886">Lake Morena</a></li><li class="field-item odd"><a href="/taxonomy/term/58">campo</a></li><li class="field-item even"><a href="/taxonomy/term/2208">Potrero</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news">News</a></li><li class="field-item odd"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item even"><a href="/communities">Communities</a></li><li class="field-item odd"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><p align="center"> </p>
+<p><img alt="" src="/sites/eastcountymagazine.org/files/resize/2016/June/BorderFireThurs-450x296.png?500" style="width: 450px; height: 296px; border-width: 1px; border-style: solid; margin: 6px; float: left;" width="450" height="296" /></p>
+<p> </p>
+<p>East County Wildfire &amp; Emergency Alerts</p>
+<p>June 23, 2016 (San Diego's East County) -- Cal Fire and the County Office of Emergency Services have released the following updates on new and contining road closures due to the Border Fire.  Also, a large plume of smoke visible this afternoon is due largely to a backfire lit to protect communities.</p>
+<p>Below is the latest info on road closures: </p>
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/updated-road-closures-border-fire" rel="tag" title="UPDATED ROAD CLOSURES IN BORDER FIRE">Read more<span class="element-invisible"> about UPDATED ROAD CLOSURES IN BORDER FIRE</span></a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/21817%23comment-form">Log in</a> or <a href="/user/register?destination=node/21817%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+<article id="article-21808" class="node node-page node-promoted node-teaser article odd clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/lake-morena-campo-still-threatened-community-meeting-tonight-border-fire-issues" rel="bookmark"> LAKE MORENA, CAMPO STILL THREATENED; COMMUNITY MEETING TONIGHT ON BORDER FIRE ISSUES</a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/borderfire" class="active">#borderfire</a></li><li class="field-item odd"><a href="/taxonomy/term/58">campo</a></li><li class="field-item even"><a href="/taxonomy/term/3886">Lake Morena</a></li><li class="field-item odd"><a href="/taxonomy/term/2208">Potrero</a></li><li class="field-item even"><a href="/taxonomy/term/5652">border fire</a></li><li class="field-item odd"><a href="/taxonomy/term/183">San Diego</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news">News</a></li><li class="field-item odd"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item even"><a href="/communities">Communities</a></li><li class="field-item odd"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><p><span style="font-size:22px;"><img alt="" src="/sites/eastcountymagazine.org/files/resize/BorderFireTY-KerraElizMcAhren-287x288.png?327" style="width: 287px; height: 288px; border-width: 1px; border-style: solid; margin: 7px; float: left;" width="287" height="288" /></span></p>
+<p><span style="font-size:22px;"><strong>5 homes lost</strong></span></p>
+<p>By Miriam Raftery</p>
+<p>Photo: Facebook post by Kerra Elizabeth McAhren</p>
+<p>June 23, 2016 (San Diego’s East County) – This morning, the Border Fire is now 20% contained and has scorched 6,8450 acres as over 1,900 firefighters battle the blaze.  Five homes (of which 3 were secondary homes on the same property) and eleven outbuildings were destroyed, while one other home was damaged, Cal Fire confirms. Residents on the Campo-Lake Morena Neighborhood Watch page on Facebook have been posting eyewitness accounts, photos and videos as well as thank you messages for firefighters at <a href="https://www.facebook.com/groups/345408365593244/">https://www.facebook.com/groups/345408365593244/</a>.</p>
+<p>There will be a community meeting at the Los Coches Creek Middle School located at 9669 Dunbar Ln., El Cajon, CA at 7:00 pm today hosted by the Cal Fire IncidentManagement Team with an update on the Border Fire.  Representatives from agencies managing and supporting the incident as well as local dignitaries will provide a briefing and answer questions.  Public inquiries regarding the Community Meeting or Fire Information, please call 2-1-1.</p>
+<p>“The fire still remains a threat to the communities of Lake Morena Village, Campo as well as the outlying recreational assets as the fire continues to move north and northeast. This is still a dynamic and active fire, residents in the surrounding area of the fire should continue to be prepared to evacuate if need be,” Cal Fire’s latest update reads.</p>
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/lake-morena-campo-still-threatened-community-meeting-tonight-border-fire-issues" rel="tag" title=" LAKE MORENA, CAMPO STILL THREATENED; COMMUNITY MEETING TONIGHT ON BORDER FIRE ISSUES">Read more<span class="element-invisible"> about  LAKE MORENA, CAMPO STILL THREATENED; COMMUNITY MEETING TONIGHT ON BORDER FIRE ISSUES</span></a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/21808%23comment-form">Log in</a> or <a href="/user/register?destination=node/21808%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+<article id="article-21807" class="node node-page node-promoted node-teaser article even clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/five-homes-lost-border-fire-blaze-20-contained" rel="bookmark">FIVE HOMES LOST IN BORDER FIRE; BLAZE 20% CONTAINED</a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/5652">border fire</a></li><li class="field-item odd"><a href="/borderfire" class="active">#borderfire</a></li><li class="field-item even"><a href="/taxonomy/term/58">campo</a></li><li class="field-item odd"><a href="/taxonomy/term/3886">Lake Morena</a></li><li class="field-item even"><a href="/taxonomy/term/2208">Potrero</a></li><li class="field-item odd"><a href="/taxonomy/term/967">Lakeside fire</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news">News</a></li><li class="field-item odd"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item even"><a href="/communities">Communities</a></li><li class="field-item odd"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><div class="xrm-editable-html xrm-attribute">
+<div class="xrm-attribute-value">
+<p><img alt="" src="https://pbs.twimg.com/media/Clmeq-hVEAA992s.jpg" style="width: 304px; height: 171px; border-width: 1px; border-style: solid; margin: 6px; float: left;" /></p>
+<p>East County News Service</p>
+<p> </p>
+<p>June 22, 2016, 8 p.m. (San Diego's East County ) -- Cal Fire reports that the Border Fire is 6,723 acres and 20 percent contained. Five homes total were destroyed; two of the homes were primary dwelling units and three homes were second dwelling units/guest houses. No information is avalable yet on the locations of homes that burned.</p>
+<p>1900 firefighters are assigned to battle the blaze, including crews from Lakeside Fire (photo, left) who worked to cut a firebreak today.</p>
+<p>The Potrero Branch Library will re-open on Thursday, June 23, from 9 a.m. to 6 p.m. as a Cool Zone. No data or WiFi service will be available at the library. Cool Zones can help you beat the heat. A complete list can be found <a href="http://sandiego.networkofcare.org/content/client/4/Cool-Zones-2016-Updated.pdf"><strong><u>here</u></strong></a>.</p>
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/five-homes-lost-border-fire-blaze-20-contained" rel="tag" title="FIVE HOMES LOST IN BORDER FIRE; BLAZE 20% CONTAINED">Read more<span class="element-invisible"> about FIVE HOMES LOST IN BORDER FIRE; BLAZE 20% CONTAINED</span></a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/21807%23comment-form">Log in</a> or <a href="/user/register?destination=node/21807%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+<article id="article-21804" class="node node-page node-promoted node-teaser article odd clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/evacuation-orders-lifted-western-potrero" rel="bookmark">EVACUATION ORDERS LIFTED FOR WESTERN POTRERO</a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/2208">Potrero</a></li><li class="field-item odd"><a href="/borderfire" class="active">#borderfire</a></li><li class="field-item even"><a href="/taxonomy/term/5652">border fire</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news">News</a></li><li class="field-item odd"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item even"><a href="/communities">Communities</a></li><li class="field-item odd"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><p><img alt="" src="/sites/eastcountymagazine.org/files/resize/EastCountyAlerts-2sponsorlogos_2-250x298.png?421" style="width: 250px; height: 298px; border-width: 1px; border-style: solid; margin: 6px; float: left;" width="250" height="298" /></p>
+<p>East County Wildfire &amp; Emergency Alerts</p>
+<p>June 22, 2016 (Potrero) --CAL FIRE reports that an evacuation order has been lifted for the following areas for some Potrero residents at 4 p.m. and for the general public at 6 p.m.:</p>
+<ul>
+<li>West of Potrero Valley Road at Potrero Valley</li>
+<li>West of Potrero General Store at 25125 State Route 94, including the north and south sides of State Route 94</li>
+<li>Potrero County Park</li>
+</ul>
+<p>Residents who live in this area will be allowed back in with photo identification. ll other evacuation orders and warnings remain in effect.</p>
+<p>CAL FIRE also reported the following road closures:</p>
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/evacuation-orders-lifted-western-potrero" rel="tag" title="EVACUATION ORDERS LIFTED FOR WESTERN POTRERO">Read more<span class="element-invisible"> about EVACUATION ORDERS LIFTED FOR WESTERN POTRERO</span></a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/21804%23comment-form">Log in</a> or <a href="/user/register?destination=node/21804%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+<article id="article-21802" class="node node-page node-promoted node-teaser article even clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/animals-dyingin-potrero-fire-service-refuses-access-aid-livestock-and-pets-evacuation-area" rel="bookmark">ANIMALS DYING IN POTRERO,OFFICIALS REFUSE ACCESS TO AID  LIVESTOCK AND PETS IN EVACUATION AREA</a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/borderfire" class="active">#borderfire</a></li><li class="field-item odd"><a href="/taxonomy/term/5652">border fire</a></li><li class="field-item even"><a href="/taxonomy/term/2208">Potrero</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news">News</a></li><li class="field-item odd"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item even"><a href="/communities">Communities</a></li><li class="field-item odd"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><p><img alt="" src="/sites/eastcountymagazine.org/files/resize/2017/April/LittleJoe-CountyAnimalServices-308x319.png?389" style="border-width: 1px; border-style: solid; margin: 6px; float: left;" height="319" width="308" /></p>
+<p> </p>
+<p> </p>
+<p>By Miriam Raftery</p>
+<p><em>Photo courtesy County Animal Services:  Dog rescued from Border Fire by reporter Joe Little from ECM news partner 10 News on Highway 94 in Potrero.  The County is seeking the owner of the dog, which suffered four burned paws.</em></p>
+<p>June 22,2016 (Potrero) – A humanitarian crisis is occurring in Potrero, where fire and law enforcement authorities continue to deny access to residents seeking to bring in feed and water for pets and livestock that are dying  of neglect in triple-digit heat within the evacuation area for the Border Fire.</p>
+<p>Within the past hour, Colin Richard posted this message on the Potrero Town Feed on Facebook:</p>
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/animals-dyingin-potrero-fire-service-refuses-access-aid-livestock-and-pets-evacuation-area" rel="tag" title="ANIMALS DYING IN POTRERO,OFFICIALS REFUSE ACCESS TO AID  LIVESTOCK AND PETS IN EVACUATION AREA">Read more<span class="element-invisible"> about ANIMALS DYING IN POTRERO,OFFICIALS REFUSE ACCESS TO AID  LIVESTOCK AND PETS IN EVACUATION AREA</span></a></li><li class="comment-comments"><a href="/animals-dyingin-potrero-fire-service-refuses-access-aid-livestock-and-pets-evacuation-area#comments" title="Jump to the first comment of this posting.">3 comments</a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/21802%23comment-form">Log in</a> or <a href="/user/register?destination=node/21802%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+<article id="article-21801" class="node node-page node-promoted node-teaser article odd clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/chicken-farmer-devastated-losses-again" rel="bookmark">CHICKEN FARMER DEVASTATED BY LOSSES--AGAIN</a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/borderfire" class="active">#borderfire</a></li><li class="field-item odd"><a href="/taxonomy/term/5652">border fire</a></li><li class="field-item even"><a href="/taxonomy/term/2208">Potrero</a></li><li class="field-item odd"><a href="/potrero-chicken-ranch">Potrero chicken ranch</a></li><li class="field-item even"><a href="/cebe-farms">Cebe Farms</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news">News</a></li><li class="field-item odd"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item even"><a href="/communities">Communities</a></li><li class="field-item odd"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><p><img alt="" src="/sites/eastcountymagazine.org/files/resize/2017/April/BorderFire2016-CalFireDay2-200x300.jpg?889" style="width: 200px; height: 300px; border-width: 1px; border-style: solid; margin: 6px; float: left;" width="200" height="300" /></p>
+<p> </p>
+<p>By Miriam Raftery</p>
+<p><em>Photo, left: Cal Fire firefighter douses hot spots during Border Fire</em></p>
+<p>June 22, 2016 (Potrero)—Joe Cebe, Sr. lost everything at his chicken farm in Ramona during the 2003 Cedar fire.   He suffered more losses in the 2007 firestorms, when his Potrero ranch operations were disrupted.  Now during the Border Fire, he’s suffered devastating losses at the Cebe Farms facility in Potrero.  T his time, thousands of chickens died not from fire, but from bureaucratic decisions by fire officials  that left  100,000 chickens largely deprived of water and food for days  amid triple-digit heat.</p>
+<p>“We’re running on a wing and a prayer,” Sebe told East County Magazine in an exclusive interview this morning.  He estimates at least 20% of the flock has been lost thus far. Power remains out, his water tanks are empty, and  Cal Fire initially denied a request to power up an emergency generator, he says, adding that he is currently still awaiting permission to bring in trucks with feed and more water for the surviving birds.</p>
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/chicken-farmer-devastated-losses-again" rel="tag" title="CHICKEN FARMER DEVASTATED BY LOSSES--AGAIN">Read more<span class="element-invisible"> about CHICKEN FARMER DEVASTATED BY LOSSES--AGAIN</span></a></li><li class="comment-comments"><a href="/chicken-farmer-devastated-losses-again#comments" title="Jump to the first comment of this posting.">6 comments</a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/21801%23comment-form">Log in</a> or <a href="/user/register?destination=node/21801%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+<article id="article-21800" class="node node-page node-promoted node-teaser article even clearfix" role="article">
+
+  
+        <header>
+              <h1 class="node-title">
+          <a href="/need-help-large-animals-or-pets-during-fire-here-are-updated-resources" rel="bookmark">NEED HELP WITH LARGE ANIMALS OR PETS DURING THE FIRE?  HERE ARE UPDATED RESOURCES</a>
+        </h1>
+          </header>
+    
+  
+  <div class="node-content">
+  <div class="field field-name-taxonomy-vocabulary-5 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/borderfire" class="active">#borderfire</a></li><li class="field-item odd"><a href="/border-fire-large-anmals">Border Fire large anmals</a></li><li class="field-item even"><a href="/border-fire-pets">Border fire pets</a></li></ul></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-hidden view-mode-teaser"><ul class="field-items"><li class="field-item even"><a href="/news">News</a></li><li class="field-item odd"><a href="/news/wildfire-news">Wildfire News</a></li><li class="field-item even"><a href="/communities">Communities</a></li><li class="field-item odd"><a href="/communities/rural-communities">Rural communities</a></li></ul></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even"><p><img alt="" src="/sites/eastcountymagazine.org/files/goathornspixabay_0.jpg?485" style="width: 275px; height: 183px; border-width: 1px; border-style: solid; margin: 6px; float: left;" width="275" height="183" /></p>
+<p> </p>
+<p>By Miriam Raftery</p>
+<p>June 22,2016 (San Diego’s East County) – If you’re evacuating from the Border Fire, be aware that the Circle T Ranch is filled to capacity. The County  advises that large animal shelters are available at the Boulevard Customs and Border Protection station on 2463 Ribbonwood Rd. in Boulevard and has provided contact numbers for help to evacuate pets and livestock.</p>
+<p>In addition, several private ranch owners have notified East County Magazine that they have facilities to take in large animals.</p>
+<p>The San Diego Humane Society has worked with the Red Cross to set up a pet-friendly shelter in conjunction with the family evacuation shelter at Los Coches Middle School on 9669 Dunbar Lane in El Cajon. </p>
+</div></div></div>  </div>
+
+<br />
+<div id="messages"><div class="messages warning"><h2 class="element-invisible">Error message</h2>Support community news in the public interest! As nonprofit news, we rely on donations from the public to fund our reporting -- not special interests. Please donate to sustain East County Magazine's local reporting and/or wildfire alerts at <A HREF="https://www.EastCountyMedia.org/donate">https://www.eastcountymedia.org/donate</A> to help us keep people safe and informed across our region.</div></div> <!-- /message -->
+<br />
+
+      <nav class="clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/need-help-large-animals-or-pets-during-fire-here-are-updated-resources" rel="tag" title="NEED HELP WITH LARGE ANIMALS OR PETS DURING THE FIRE?  HERE ARE UPDATED RESOURCES">Read more<span class="element-invisible"> about NEED HELP WITH LARGE ANIMALS OR PETS DURING THE FIRE?  HERE ARE UPDATED RESOURCES</span></a></li><li class="comment_forbidden last"><span><a href="/user/login?destination=node/21800%23comment-form">Log in</a> or <a href="/user/register?destination=node/21800%23comment-form">register</a> to post comments</span></li></ul></nav>
+  
+
+
+  
+
+
+</article>
+</section><h2 class="element-invisible">Pages</h2><div class="item-list item-list-pager"><ul class="pager"><li class="pager-current even first">1</li><li class="pager-item odd"><a title="Go to page 2" href="/borderfire?page=1">2</a></li><li class="pager-next even"><a title="Go to next page" href="/borderfire?page=1">next ›</a></li><li class="pager-last odd last"><a title="Go to last page" href="/borderfire?page=1">last »</a></li></ul></div> <!-- /content -->
+
+      </section> <!-- /main-content -->
+
+       <!-- /content-aside -->
+
+    </div></div> <!-- /content-column -->
+
+    <div class="region region-sidebar-first sidebar"><div class="region-inner clearfix"><div id="block-search-form" class="block block-search no-title odd first block-count-3 block-region-sidebar-first block-form block-first" role="search">
+  <div class="block-inner clearfix">
+                <div class="block-content content no-title">
+      <div class="block-content-inner clearfix">
+        <form action="/borderfire" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-Zag0HD_pvKwMgLYvJP8gh953AXxeZpo89soEDAlPA04" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>      </div>
+    </div>
+  </div>
+</div>
+<div id="block-block-460" class="block block-block no-title even block-count-4 block-region-sidebar-first block-460">
+  <div class="block-inner clearfix">
+                <div class="block-content content no-title">
+      <div class="block-content-inner clearfix">
+        <p><a href="https://www.eastcountymagazine.org/local-covid-19-resources-center"><img alt="" src="/sites/eastcountymagazine.org/files/2020/blocks/CovidResources-GHDNewAdClick.png" style="width: 200px; height: 170px;" width="200" height="170" /></a></p>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="block-block-17" class="block block-block no-title odd block-count-5 block-region-sidebar-first block-17">
+  <div class="block-inner clearfix">
+                <div class="block-content content no-title">
+      <div class="block-content-inner clearfix">
+        <p><a href="https://www.eastcountymagazine.org/donate"><img alt="" src="/images/donatebutton.jpg" style="width: 150px; height: 50px;" width="150" height="50" /></a></p>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="block-block-480" class="block block-block no-title even block-count-6 block-region-sidebar-first block-480">
+  <div class="block-inner clearfix">
+                <div class="block-content content no-title">
+      <div class="block-content-inner clearfix">
+        <p><a href="https:///www.SDFireFoundation.org"><img alt="" src="/sites/eastcountymagazine.org/files/2022/block/SDFFAd.png?935" style="width: 200px; height: 161px;" width="200" height="161" /></a></p>
+      </div>
+    </div>
+  </div>
+</div>
+<section id="block-comment-recent" class="block block-comment odd block-count-7 block-region-sidebar-first block-recent" role="navigation">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Recent comments</h2>
+            <div class="block-content content">
+      <div class="block-content-inner clearfix">
+        <div class="item-list"><ul><li class="even first"><a href="/comment/49513#comment-49513">Florida Governor Ron DeSantis bans Black Studies!</a>&nbsp;<span>3 days 16 hours ago</span></li><li class="odd"><a href="/comment/49512#comment-49512">the link below is the solution</a>&nbsp;<span>3 days 18 hours ago</span></li><li class="even"><a href="/comment/49511#comment-49511">this is a start</a>&nbsp;<span>3 days 18 hours ago</span></li><li class="odd"><a href="/comment/49510#comment-49510">http://www.eastcountymagazine.org/pine-valley-motorcyclist-dies-</a>&nbsp;<span>3 days 19 hours ago</span></li><li class="even"><a href="/comment/49509#comment-49509">CalMatters is being purposely obtuse, </a>&nbsp;<span>4 days 44 min ago</span></li><li class="odd"><a href="/comment/49508#comment-49508">Tyre Nichols Funeral Held in Memphis Today!</a>&nbsp;<span>4 days 15 hours ago</span></li><li class="even"><a href="/comment/49507#comment-49507">The US must have its enemies, you know.</a>&nbsp;<span>4 days 21 hours ago</span></li><li class="odd"><a href="/comment/49506#comment-49506">more grandstanding </a>&nbsp;<span>5 days 15 hours ago</span></li><li class="even"><a href="/comment/49505#comment-49505">here we go again</a>&nbsp;<span>5 days 15 hours ago</span></li><li class="odd last"><a href="/comment/49504#comment-49504">Black women certainly have a right to roar,</a>&nbsp;<span>5 days 16 hours ago</span></li></ul></div>      </div>
+    </div>
+  </div>
+</section>
+<section id="block-user-login" class="block block-user even block-count-8 block-region-sidebar-first block-login" role="form">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">User login</h2>
+            <div class="block-content content">
+      <div class="block-content-inner clearfix">
+        <form action="/borderfire?destination=taxonomy/term/40454" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username or e-mail <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="even first"><a href="/user/register" title="Create a new user account.">Create new account</a></li><li class="odd last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li></ul></div><input type="hidden" name="form_build_id" value="form-e8ZB3ro9wNRhdr3BWmVRLgxvZMK7wfOZyGj0ngqFo8U" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+    </div>
+  </div>
+</section>
+<div id="block-block-112" class="block block-block no-title odd block-count-9 block-region-sidebar-first block-112">
+  <div class="block-inner clearfix">
+                <div class="block-content content no-title">
+      <div class="block-content-inner clearfix">
+        <p><a href="/features/best-east-county/weddings-east-county"><img alt="Weddings in East County" src="/sites/eastcountymagazine.org/files/sm-weddings-button.png" width="200" height="164" /></a></p>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="block-block-304" class="block block-block no-title even block-count-10 block-region-sidebar-first block-304">
+  <div class="block-inner clearfix">
+                <div class="block-content content no-title">
+      <div class="block-content-inner clearfix">
+        <p><a href="http://eastcountymagazine.org/features/food-wine/best-happy-hours-east-county"><img alt="" src="/sites/eastcountymagazine.org/files/2017/Blocks/Radiologo1-croppedtight_0.png?279" style="width: 200px; height: 71px;" width="200" height="71" /></a></p>
+      </div>
+    </div>
+  </div>
+</div>
+<nav id="block-menu-menu-communitylinks" class="block block-menu odd last block-count-11 block-region-sidebar-first block-menu-communitylinks" role="navigation">
+  <div class="block-inner clearfix">
+    
+          <h2 class="block-title">Community Links</h2>
+    
+    <div class="block-content content">
+      <div class="block-content-inner clearfix">
+        <ul class="menu clearfix"><li class="first leaf menu-depth-1 menu-item-230"><a href="/business" title="">Business Associations</a></li><li class="leaf menu-depth-1 menu-item-247"><a href="/community_organizations" title="Community Organizations">Community Organizations</a></li><li class="leaf menu-depth-1 menu-item-237"><a href="/government" title="County and City Governments">County and City Governments</a></li><li class="leaf menu-depth-1 menu-item-226"><a href="http://www.eastcountysports.com" title="">East County Sports</a></li><li class="leaf menu-depth-1 menu-item-223"><a href="/immigration" title="">Immigration and Citizenship</a></li><li class="leaf menu-depth-1 menu-item-229"><a href="/media" title="">Media Resources</a></li><li class="leaf menu-depth-1 menu-item-236"><a href="/neighborhoods" title="Neighborhoods">Neighborhoods</a></li><li class="leaf menu-depth-1 menu-item-245"><a href="/parks" title="Parks and Environmental Resources">Parks and Environmental Resources</a></li><li class="leaf menu-depth-1 menu-item-224"><a href="/police" title="">Police and Sheriff Contacts</a></li><li class="leaf menu-depth-1 menu-item-220"><a href="/seniors" title="">Senior Services</a></li><li class="leaf menu-depth-1 menu-item-231"><a href="/traffic" title="">Traffic Links</a></li><li class="leaf menu-depth-1 menu-item-222"><a href="/utilities" title="">Utilities</a></li><li class="leaf menu-depth-1 menu-item-221"><a href="/veterans" title="">Veterans &amp; Military</a></li><li class="leaf menu-depth-1 menu-item-253"><a href="/visitors" title="Visitors &amp; Tourism">Visitors &amp; Tourism</a></li><li class="leaf menu-depth-1 menu-item-299"><a href="/webcams" title="WEBCAMS IN EAST COUNTY &amp; SAN DIEGO&#039;S EASTERN REGION">Webcams in East County &amp; San Diego&#039;s Eastern Region</a></li><li class="leaf menu-depth-1 menu-item-228"><a href="/wildfire" title="">Wildfire Information</a></li><li class="last leaf menu-depth-1 menu-item-227"><a href="/youth" title="">Youth Resources</a></li></ul>      </div>
+    </div>
+
+      </div>
+</nav>
+</div></div>    <div class="region region-sidebar-second sidebar"><div class="region-inner clearfix"><div id="block-block-464" class="block block-block no-title odd first block-count-12 block-region-sidebar-second block-464 block-first">
+  <div class="block-inner clearfix">
+                <div class="block-content content no-title">
+      <div class="block-content-inner clearfix">
+        <p><a href="/facebook-journalism-project-covid-19-reporting"><img alt="" src="/sites/eastcountymagazine.org/files/resize/2020/blocks/FJPGrantLogoForSection-200x74.png?685" style="width: 200px; height: 74px;" width="200" height="74" /></a></p>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="block-block-274" class="block block-block no-title even block-count-13 block-region-sidebar-second block-274">
+  <div class="block-inner clearfix">
+                <div class="block-content content no-title">
+      <div class="block-content-inner clearfix">
+        <p><a href="https://www.facebook.com/pages/East-County-Magazine/524328380924611" title="https://www.facebook.com/pages/East-County-Magazine/524328380924611"><img alt="" src="/sites/eastcountymagazine.org/files/2020/blocks/FacebookJoinUs.png?184" style="margin: 6px; width: 200px; height: 53px; float: left;" width="200" height="53" /></a></p>
+      </div>
+    </div>
+  </div>
+</div>
+<nav id="block-superfish-3" class="block block-superfish odd block-count-14 block-region-sidebar-second block-3">
+  <div class="block-inner clearfix">
+    
+          <h2 class="block-title">East County Magazine</h2>
+    
+    <div class="block-content content clearfix">
+      <div class="block-content-inner clearfix">
+        <ul id="superfish-3" class="menu sf-menu sf-menu-topright sf-vertical sf-style-white sf-total-items-5 sf-parent-items-0 sf-single-items-5"><li id="menu-5462-3" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="http://www.calendarwiz.com/calendars/calendar.php?crd=eastcountymagazine" title="View our calendar" class="sf-depth-1">View our calendar</a></li><li id="menu-5466-3" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="/wild-fire-alerts" title="Sign up for Wildfire Alerts and Free News Letter" class="sf-depth-1">Sign up for free newsletter</a></li><li id="menu-5463-3" class="middle odd sf-item-3 sf-depth-1 sf-no-children"><a href="/wild-fire-alerts" title="Sign up for Wildfire Alerts and Free News Letter" class="sf-depth-1">Sign up for wildfire alerts</a></li><li id="menu-5464-3" class="middle even sf-item-4 sf-depth-1 sf-no-children"><a href="/east-county-magazine-live-radio-show" title="Listen to our radio show" class="sf-depth-1">Listen to our radio show</a></li><li id="menu-5465-3" class="last odd sf-item-5 sf-depth-1 sf-no-children"><a href="/rss.xml" title="Subscribe to our RSS feed" class="sf-depth-1">Subscribe to our RSS feed</a></li></ul>      </div>
+    </div>
+
+      </div>
+</nav>
+<div id="block-block-458" class="block block-block no-title even block-count-15 block-region-sidebar-second block-458">
+  <div class="block-inner clearfix">
+                <div class="block-content content no-title">
+      <div class="block-content-inner clearfix">
+        <p><a href="/these-restaurants-east-county-are-offering-take-out-andor-delivery"><img alt="" src="/sites/eastcountymagazine.org/files/2021/block/RestaurantGuideSmall.png" style="width: 198px; height: 161px;" width="198" height="161" /></a></p>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="block-block-459" class="block block-block no-title odd block-count-16 block-region-sidebar-second block-459">
+  <div class="block-inner clearfix">
+                <div class="block-content content no-title">
+      <div class="block-content-inner clearfix">
+        <p><a href="/our-guide-local-farms-and-farm-fresh-products-sold-directly-consumers"><img alt="" src="/sites/eastcountymagazine.org/files/2021/block/FarmGuideSmall.png?809" style="width: 197px; height: 118px;" width="197" height="118" /></a></p>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="block-block-23" class="block block-block no-title even block-count-17 block-region-sidebar-second block-23">
+  <div class="block-inner clearfix">
+                <div class="block-content content no-title">
+      <div class="block-content-inner clearfix">
+        <p><a href="/meals_deals_and_steals"><img alt="Hot Coupons" src="/sites/eastcountymagazine.org/files/resize/2018/blocks/coupons2018-200x257.png?227" style="width: 200px; height: 257px; float: left;" width="200" height="257" /></a></p>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="block-block-280" class="block block-block no-title odd block-count-18 block-region-sidebar-second block-280">
+  <div class="block-inner clearfix">
+                <div class="block-content content no-title">
+      <div class="block-content-inner clearfix">
+        <p><a href="/wildfire-disaster-tips"><img alt="" src="/sites/eastcountymagazine.org/files/2013/blocks/emergencybox.png" style="width: 200px; height: 131px;" width="200" height="131" /></a></p>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="block-block-429" class="block block-block no-title even last block-count-19 block-region-sidebar-second block-429">
+  <div class="block-inner clearfix">
+                <div class="block-content content no-title">
+      <div class="block-content-inner clearfix">
+        <p><a href="/support-ecm-while-shopping-amazon"><img alt="Support ECM while Shopping on Amazon" src="/sites/eastcountymagazine.org/files/2019/blocks/amazon-logo.jpg" style="width: 200px;" width="200" height="133" /></a></p>
+      </div>
+    </div>
+  </div>
+</div>
+</div></div>
+  </div></div> <!-- /columns -->
+
+   <!-- /tertiary-content -->
+
+  
+  
+  
+
+      <footer id="footer"><div id="footer-inner" class="clearfix">
+
+      
+       <!-- /footer region -->
+
+      <a href="/taxonomy/term/40454/feed" class="feed-icon" title="Subscribe to RSS - #borderfire"><img class="image-style-none" src="https://www.eastcountymagazine.org/misc/feed.png" width="16" height="16" alt="Subscribe to RSS - #borderfire" /></a> <!-- /feed icons -->
+
+    </div></footer> <!-- /footer/footer-inner -->
+  
+</div> <!-- /page -->
+  </body>
+</html>

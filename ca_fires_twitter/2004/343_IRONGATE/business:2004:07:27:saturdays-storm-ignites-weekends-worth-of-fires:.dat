@@ -1,0 +1,1711 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+		<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-title" content="Medford News, Weather, Sports, Breaking News | Mail Tribune - ">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://www.mailtribune.com/xmlrpc.php">
+			<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans&amp;family=Literata">
+	
+		 <link rel="shortcut icon" href="https://www.mailtribune.com/wp-content/themes/med/images/favicon_mailtribune.ico" />
+	<script type="text/javascript"> var conceptpage_category; var concept_dfp_array;</script><script>var articleType = '';</script><script>var dfpType = '';</script><script>var pageTargeting = ["saturday&#8217;s storm ignites weekend&#8217;s worth of fires",""];</script><script type="text/javascript">var dfpType = 'article';var category_dfp_array = [];
+var concept_dfp_array = ["business","news"];
+var concept_main = 'business';
+var tag_dfp_array = [];
+var articleTags = [];
+var articleUUID = '498B8408-1E3B-4CCD-AAD7-BEC38C2291E3';
+var articleType = "Metered";[{"Type": "Article","Expression": window.articleType == "Metered"}]</script><meta name="title" content="Saturday's storm ignites weekend's worth of fires"/>
+
+  
+ <meta name="author" content="ANITA BURKE,Mail Tribune ">
+ <meta name="twitter:creator" content="ANITA BURKE,Mail Tribune">
+
+
+
+<meta name="description" content="Firefighters worked Monday to rein in a series of small fires sparked by Saturday&#039;s thunderstorm and kept watch for undiscovered smoldering fires.
+ Oregon Department of Forestry crews battled one such...">
+
+    <meta property="og:title" content="Saturday&#039;s storm ignites weekend&#039;s worth of fires" />
+
+                <meta property="og:description" content="Firefighters worked Monday to rein in a series of small fires sparked by Saturday&#039;s thunderstorm and kept watch for undiscovered smoldering fires.
+ Oregon Department of Forestry crews battled one such...">
+
+    
+
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.mailtribune.com/business/2004/07/27/saturdays-storm-ignites-weekends-worth-of-fires/">
+<script type="text/javascript">var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+  var gads = document.createElement('script');
+  gads.async = true;
+  gads.type = 'text/javascript';
+  var useSSL = 'https:' == document.location.protocol;
+  gads.src = (useSSL ? 'https:' : 'http:') +
+    '//securepubads.g.doubleclick.net/tag/js/gpt.js';
+  var node = document.getElementsByTagName('script')[0];
+  node.parentNode.insertBefore(gads, node);
+})();
+
+
+window.googletag = window.googletag || {cmd: []};
+googletag.cmd.push(function() {
+  /*
+  Resolutions:
+    Desktop:    1152x768 (will only show for desktop)
+    iPad:     1024x768 (will show for iPad and desktop)
+    Mobile:   0x0 (Ad will always show no matter resolution unless bigger size specified above)
+  */
+
+
+ var adspotSite = '/22257034194/MTRIB';
+ var adspot_pageType = '';
+ var adspot_path = '';
+ 
+ var regexArticleLevels = /\/(.*)\/\d{4}\/\d{2}\/\d{2}\/(.*)\//g;
+
+ var regex2levels = /\/(.*)\/(.*)\/(.*)\//g;
+ var regex3levels = /\/(.*)\/(.*)\/(.*)\/(.*)\//g;
+ var path =  window.location.pathname;
+ var subst1levels = `/$1`;
+ var subst2levels = `/$1/$2`;
+ var substArticlelevels = `/$1`;
+
+
+ var twolevels = path.search(regex2levels) >= 0;
+ var threelevels = path.search(regex3levels) >= 0;
+ var articlelevels = path.search(regexArticleLevels) >= 0;
+ 
+ console.log ('DFP:: ad site id is : ', adspotSite);
+ console.log ('DFP:: Two Levels is : ', twolevels);
+ console.log ('DFP:: Three Levels is : ', threelevels);
+ console.log ('DFP:: article Level is : ', articlelevels);
+ console.log ('DFP:: replace2Levels: ', path.replace(regex2levels, subst1levels) );
+ console.log ('DFP:: replace3Levels: ', path.replace(regex3levels, subst2levels) );
+ console.log ('DFP:: replaceArticleLevels: ', path.replace(regexArticleLevels, substArticlelevels) );
+
+
+ if (twolevels == true && threelevels == false){
+   var adspot_path = path.replace(regex2levels, subst1levels);
+   var adspot_pageType = 'section';
+ }
+ else if (threelevels == true){
+   var adspot_path = path.replace(regex3levels, subst2levels);
+ }
+  else if (articlelevels == true){
+   var adspot_path = path.replace(regexArticleLevels, substArticlelevels);
+   var adspot_pageType = 'article';
+ }
+ else{
+   var adspot_path = path;
+ }
+console.log ('DFP:: starting path value is ', adspot_path);
+console.log ('DFP:: pagetype value is ', adspot_pageType);
+
+
+ // some adspot paths are custom
+ switch(adspot_path) {
+ 	case '/':
+ 		adspot_path = '/Home';
+ 		break;
+ 	case '/oregon-outdoors/':
+ 		adspot_path = '/Oregon-Outdoors';
+ 		break;
+ 	case '/watch/green-living/':
+ 		adspot_path = '/watch-listen/green-living';
+ 		break;
+ 	case '/watch/jp-the-dog-guy/':
+ 		adspot_path = '/JP';
+ 		break;
+ 	default:
+ 		console.log ('no custom adspot mapping..');
+ 		adspot_path = '';
+ 	}
+ 
+ 
+ /* adspotSite + adspot_path  */
+ console.log ('DFP::  targeting site is: ', adspotSite);
+ console.log ('DFP::  targeting path is: ', adspot_path);
+ console.log ('DFP::  final adInfo is: ', adspotSite + adspot_path);
+
+
+
+
+var windowWidth = window.innerWidth;
+
+
+var isTablet = navigator.userAgent.match(/iPad|Android/i);
+  if (windowWidth < 667 || !!isTablet) {
+    googletag.defineSlot(adspotSite + '/Mobile' + adspot_path, [[[300, 100], [320, 50]]], 'ddb_home_premium').addService(googletag.pubads());
+    googletag.defineSlot(adspotSite + '/Mobile' + adspot_path, [[300, 250],[300, 100], [320, 50]], 'ddb_300x250_pos_1').addService(googletag.pubads());
+    googletag.defineSlot(adspotSite + '/Mobile' + adspot_path, [[300, 250],[300, 100], [320, 50]], 'ddb_300x250_pos_2').addService(googletag.pubads());
+    googletag.defineSlot(adspotSite + '/Mobile' + adspot_path, [[300, 250],[300, 100], [320, 50]], 'ddb_300x250_pos_3').addService(googletag.pubads());
+    googletag.defineSlot(adspotSite + '/Mobile' + adspot_path, [[300, 250],[300, 100], [320, 50]], 'ddb_300x250_pos_4').addService(googletag.pubads());
+    googletag.defineSlot(adspotSite + '/Mobile' + adspot_path, [[300, 250],[300, 100], [320, 50]], 'ddb_300x250_pos_5').addService(googletag.pubads());
+    googletag.defineSlot(adspotSite + '/Mobile' + adspot_path, [[300, 100], [320, 50]], 'ddb_300x250_pos_6').addService(googletag.pubads());
+
+    googletag.defineSlot(adspotSite + '/Mobile' + adspot_path, [[320, 50]], 'ddb_728x90_pos_1').addService(googletag.pubads());
+    googletag.defineSlot(adspotSite + '/Mobile' + adspot_path, [[320, 50]], 'ddb_728x90_pos_2').addService(googletag.pubads());
+    googletag.defineSlot(adspotSite + '/Mobile' + adspot_path, [[320, 50]], 'ddb_728x90_pos_3').addService(googletag.pubads());
+    googletag.defineSlot(adspotSite + '/Mobile' + adspot_path, [[320, 50]], 'ddb_728x90_pos_4').addService(googletag.pubads());
+    
+	googletag.defineSlot(adspotSite + '/Mobile' + adspot_path, [[160, 600]], 'skyscraper').addService(googletag.pubads());
+
+	googletag.defineSlot(adspotSite + '/Mobile' + adspot_path, [[1,1]], 'ddb_1x1').addService(googletag.pubads());
+
+  
+  } else {
+    googletag.defineSlot(adspotSite + '/Web' + adspot_path, [[1570, 300], [1570, 30], [970, 250], [970, 90]], 'ddb_home_premium').addService(googletag.pubads());
+    googletag.defineSlot(adspotSite + '/Web' + adspot_path, [[300, 250]], 'ddb_300x250_pos_1').addService(googletag.pubads());
+    googletag.defineSlot(adspotSite + '/Web' + adspot_path, [[300, 250],[300, 600]], 'ddb_300x250_pos_2').addService(googletag.pubads());
+    googletag.defineSlot(adspotSite + '/Web' + adspot_path, [[300, 250]], 'ddb_300x250_pos_3').addService(googletag.pubads());
+    googletag.defineSlot(adspotSite + '/Web' + adspot_path, [[300, 250]], 'ddb_300x250_pos_4').addService(googletag.pubads())
+    googletag.defineSlot(adspotSite + '/Web' + adspot_path, [[300, 250]], 'ddb_300x250_pos_5').addService(googletag.pubads());
+    googletag.defineSlot(adspotSite + '/Web' + adspot_path, [[300, 250]], 'ddb_300x250_pos_6').addService(googletag.pubads());
+    googletag.defineSlot(adspotSite + '/Web' + adspot_path, [[300, 250]], 'ddb_300x250_pos_7').addService(googletag.pubads());
+    googletag.defineSlot(adspotSite + '/Web' + adspot_path, [[300, 250]], 'ddb_300x250_pos_8').addService(googletag.pubads());
+    googletag.defineSlot(adspotSite + '/Web' + adspot_path, [[728, 90], [970, 250], [970, 90]], 'ddb_728x90_pos_1').addService(googletag.pubads());
+    googletag.defineSlot(adspotSite + '/Web' + adspot_path, [[728, 90], [970, 250], [970, 90]], 'ddb_728x90_pos_2').addService(googletag.pubads());
+    googletag.defineSlot(adspotSite + '/Web' + adspot_path, [[728, 90], [970, 250], [970, 90]], 'ddb_728x90_pos_3').addService(googletag.pubads());   
+    googletag.defineSlot(adspotSite + '/Web' + adspot_path, [[728, 90], [970, 250], [970, 90]], 'ddb_728x90_pos_4').addService(googletag.pubads());  
+    googletag.defineSlot(adspotSite + '/Web' + adspot_path, [[728, 90], [970, 250], [970, 90]], 'ddb_728x90_pos_5').addService(googletag.pubads());  
+    
+    
+    googletag.defineSlot(adspotSite + '/Web' + adspot_path, [300, 1280], 'ddb_leftWall_desktop').addService(googletag.pubads());
+    googletag.defineSlot(adspotSite + '/Web' + adspot_path, [300, 1280], 'ddb_rightWall_desktop').addService(googletag.pubads());
+    
+    googletag.defineSlot(adspotSite + '/Web' + adspot_path, [[1,1]], 'ddb_1x1_desktop').addService(googletag.pubads());
+
+  }
+
+  var galleryslot_1 = googletag.defineSlot(adspotSite + '/Web' + adspot_path, [[300, 250]], 'Photogallery-1').addService(googletag.pubads());
+  var galleryslot_2 = googletag.defineSlot(adspotSite + '/Web' + adspot_path, [[300, 250]], 'Photogallery-2').addService(googletag.pubads());
+  
+  googletag.pubads().enableSingleRequest();
+
+  setTimeout(function(){
+    googletag.pubads().refresh([galleryslot_1], {changeCorrelator: false});
+    googletag.pubads().refresh([galleryslot_2], {changeCorrelator: false});
+  }, 2000);
+  
+         // Page-level targeting.
+if (concept_dfp_array != "") {
+     googletag.pubads().setTargeting('slug', concept_dfp_array);
+ console.log ('DFP::  targeting page with slug keyword: ', concept_dfp_array);
+}
+googletag.pubads().setCentering(true);
+
+/* googletag.pubads().collapseEmptyDivs();  */
+  googletag.enableServices();
+});  </script><title>Saturday&#8217;s storm ignites weekend&#8217;s worth of fires &#8211; Medford News, Weather, Sports, Breaking News | Mail Tribune</title>
+<style type='text/css'> :root {
+                --color-site-primary: #00567f;
+                --color-site-accent: #be0000;
+            }</style><style type='text/css'> html, body { font-family: Open Sans, sans-serif !important;} form#login { font-family: Open Sans, sans-serif !important; } .header-region { background-color: #121212; } @font-face { font-family: Open Sans, Literata; src: url(https://fonts.googleapis.com/css2?family=Open+Sans&family=Literata); } .hamburger-menu #top-main-menu { width: 400pxpx ; } .teaser-body.frontpagecategoryblock, .teaser-body.frontpagefeaturedtop, .section-teaser .teaser__leadin { color: #212121; } a, .concept-page a { color: #121212; text-decoration: none !important; } .search_page_container a { color: #121212; text-decoration: none !important; } a:hover span.teaser__headline-marker, div#top-bar a:hover, div#right-sidebar a:hover { color: #920502; text-decoration: none !important; } .main-navigation a.nav-link:hover { color: #eeeeee !important; } #top-bar, #top-bar .bg-primary { background-color: #444444 !important; } div#top-bar a:hover { color: #cccccc; } #footer-menu .bg-primary { background-color: #252525 !important; } .footer-menu a { color: #dedede; } .footer-menu a:hover { color: #6d6d6d; } img.footer_logo_image { max-height: 70px; } #wrapper-navbar .main-navigation.navbar { background-color: #444444 !important; } nav.main-navigation li a { color: #bfbfbf !important; } .btn-primary, .btn-secondary, .btn, .main-nav-search input#searchsubmit { background-color: #636363;, border-color: #636363; } i.fa.fa-window-close { color: #636363; } #sidebarMenu li a { font-size: ; font-family: Open Sans, sans-serif; } .sidebarMenu { background-color: #ffffff} #sidebarMenu li a, #sidebarMenu hr.sidebarMenuLine, .sidebarMenuCloseButton { color: #1e0745; } .widget-title, .frontpagefeaturedtop, .every_board .teaser__headline span { color: #121212; font-family: Open Sans:800, sans-serif; } .content-area .entry-header .entry-title, .search_page_title { font-size: ; } .section-teaser .entry-title h2.teaser__headline { font-size: ; } .section-teaser .category_overlay { background-color: #1e0745; color: #ffffff; } .frontpage-category-title { font-size: ; font-family: Open Sans:800, sans-serif;} .frontpage-slider .teaser__headline-marker, .frontpagefeaturedtop .teaser__headline-marker { font-size: ; } .article-page .article__headline { font-size: 32px; font-family: Open Sans:800, sans-serif; } .entry-title.frontpagecategoryblock, .entry-title.frontpagecategoryblock h2, article.teaser.frontpagecategorylistrest .teaser__headline { font-size: ; } article.teaser.frontpagecategorylisttop .teaser__headline { font-size: ; } article.teaser.frontpagecategorylistrest .teaser__headline { font-size: ; } .above_footer_widget_area { background-color: #ffffff; color: #000000; } #wrapper-footer { background-color: #252525;} .content-area.entry-content, .article__body .article-restofcontent { font-family: Open Sans, sans-serif;} .article__body .article-restofcontent { color: #000000;} span.article__body.article__leadin { color: #000000; font-family: Open Sans, sans-serif;} .teaser-body.frontpagecategoryblock, .teaser-body.frontpagefeaturedtop { font-size: 15px; } .section-teaser .teaser-body { font-size: ; } .article__body .article-restofcontent { font-size: ; } .article-date { font-family: Open Sans, sans-serif;} div#wrapper-navbar { max-width: 100%; margin: auto; } nav.main-navigation, nav.main-navigation li a { font-family: Open Sans, sans-serif; font-size: ; } .container, .breakingnews-top { max-width: 1024px !important ; } @media (min-width: 1050px) { a.navbar-brand.custom-logo-link { width: 150px ; } } form#login { background-color: #ffffff ; color: #000000; border: 1px solid #000000; } div#top-bar, div#top-bar a { font-family: Open Sans, sans-serif; font-size: ; color: #ffffff; } .sidemenuTrigger, .sideMenuTrigger.mobile, .hamburger-menu button#dropdownMenuButton { font-family: Open Sans, sans-serif; font-size: ; color: #ffffff; } .footer-menu { font-family: Open Sans, sans-serif; } .footer-menu .footer-heading { font-size: ; color: #ffffff; } .footer-menu a { font-size: ; } .footer-logo-contactinfo { font-size: ; font-family: Open Sans, sans-serif; color: #dedede; } .footer-social-media-icon a { color: #dedede; font-size: 18px; } .footer_copyright { color: #dedede; font-size: ; } article.breaking-section, article.breaking_fullLength { background-color: #e76f01; } .breaking_title, .breaking-teaser, .breaking-teaser .teaser-article-date, .breaking-teaser a, article.breaking_fullLength, article.breaking_fullLength a, .section-teaser.breaking-teaser a:hover { color: white; } .teaser-thin-teaser-category { color: #1e0745; } article.thin-teaser { background-color: #dddddd; } .frontpagecategoryblock.teaser-category, .teaser-frontpage-category-main-category { color: #2e009b } .teaser-frontpage-category-side.opinion .teaser-frontpage-category-side-author, .frontpage-category-main.opinion .teaser-frontpage-category-main-author { color: #935401 } div#top-bar { position: fixed; width: 100%;width: -moz-available; width: -webkit-fill-available;z-index: 10;box-shadow: 0px 1px 10px rgba(0,0,0,0.3); padding: 0 2em;} @media all and (max-width: 478px) {.header-region {padding-top: 58px;}.sidebarMenu {padding-top: 58px;}} @media all and (min-width: 479px) {.header-region {padding-top: 58px;}.sidebarMenu {padding-top: 58px;}} @media all and (min-width: 504px) {.header-region {padding-top: 58px;}.sidebarMenu {padding-top: 58px;}} @media all and (min-width: 768px) {.header-region {padding-top: 58px;}.sidebarMenu {padding-top: 58px;}} @media all and (min-width: 888px) {.header-region {padding-top: 58px;}.sidebarMenu {padding-top: 58px;}} @media all and (min-width: 992px) {.header-region {padding-top: 58px;}.sidebarMenu {padding-top: 58px;}}</style><meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//www.mailtribune.com' />
+<link rel='dns-prefetch' href='//cdn.jwplayer.com' />
+<link rel='dns-prefetch' href='//loader-cdn.azureedge.net' />
+<link rel='dns-prefetch' href='//static.ew.med.navigacloud.com' />
+<link rel='dns-prefetch' href='//code.jquery.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.mailtribune.com/wp-includes/css/dist/block-library/style.min.css?ver=1669399218780' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='https://www.mailtribune.com/wp-content/themes/everyware-theme-base-1/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-theme-style-css'  href='https://www.mailtribune.com/wp-content/themes/everyware-theme-base-1/css/base-theme.css?ver=1669399218780' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css'  href='https://www.mailtribune.com/wp-content/themes/med/css/main-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='understrap-css'  href='https://www.mailtribune.com/wp-content/themes/everyware-theme-base-1/css/understrap.min.css?ver=1669399218780' type='text/css' media='all' />
+<link rel='stylesheet' id='med-style-css'  href='https://static.ew.med.navigacloud.com/wp-content/themes/med/assets/css/style.css?ver=1669399218780' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='https://www.mailtribune.com/wp-content/themes/med/slick/slick.css?ver=1669399218780' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css'  href='https://www.mailtribune.com/wp-content/themes/med/slick/slick-theme.css?ver=1669399218780' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='https://www.mailtribune.com/wp-content/themes/med/style.css?ver=1669399218780' type='text/css' media='all' />
+<link rel='stylesheet' id='base-theme-css'  href='https://www.mailtribune.com/wp-content/themes/med/css/base-theme.min.css?ver=1669399218780' type='text/css' media='all' />
+<script type='text/javascript' src='https://code.jquery.com/jquery-3.3.1.min.js?ver=3.3.1' id='jquery-js'></script>
+<script type='text/javascript' id='login-modal-js-extra'>
+/* <![CDATA[ */
+var ajax_login_object = {"ajaxurl":"https:\/\/www.mailtribune.com\/wp-admin\/admin-ajax.php","redirecturl":"https:\/\/www.mailtribune.com","loadingmessage":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.mailtribune.com/wp-content/themes/med/js/login-modal.js?ver=1669399218780' id='login-modal-js'></script>
+<script type='text/javascript' src='https://cdn.jwplayer.com/libraries/TTvSrw6o.js?ver=1669399218780' id='video-js'></script>
+<script type='text/javascript' src='https://loader-cdn.azureedge.net/prod/rosebud/loader.min.js?ver=20220305' id='engage-loader-js'></script>
+<script type='text/javascript' src='https://www.mailtribune.com/wp-content/themes/med/js/engage_prod_mmt.js?ver=20220305' id='engage-js'></script>
+<script type='text/javascript' src='https://static.ew.med.navigacloud.com/wp-content/themes/med/assets/js/head.js?ver=1669399218780' id='med-head-js-js'></script>
+<link rel="https://api.w.org/" href="https://www.mailtribune.com/wp-json/" />
+<link rel="canonical" href="https://www.mailtribune.com/business/2004/07/27/saturdays-storm-ignites-weekends-worth-of-fires/" />
+<link rel='shortlink' href='https://www.mailtribune.com/?p=135755' />
+<link rel="alternate" type="application/json+oembed" href="https://www.mailtribune.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mailtribune.com%2Fbusiness%2F2004%2F07%2F27%2Fsaturdays-storm-ignites-weekends-worth-of-fires%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.mailtribune.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mailtribune.com%2Fbusiness%2F2004%2F07%2F27%2Fsaturdays-storm-ignites-weekends-worth-of-fires%2F&#038;format=xml" />
+<!-- Privacy policy at http://tag.brandcdn.com/privacy -->
+<script type="text/javascript" src="//tag.brandcdn.com/autoscript/rosebudmedia_vfzsrmvrouvsvda9/rosebudmedia.js"></script>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '3948096345294327');
+fbq('track', 'PageView');
+</script>
+<noscript><img alt="fb pixel" height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=3948096345294327&ev=PageView&noscript=1" /></noscript>
+<!-- End Facebook Pixel Code -->
+<meta name="facebook-domain-verification" content="cmygvzb4z10mhx3b6iif4624db2hkl" /><script src='https://prod.ew.med.navigacloud.com/?dm=57c9b89633572b02cc3fff738d631684&amp;action=load&amp;blogid=2&amp;siteid=1&amp;t=1008397300&amp;back=https%3A%2F%2Fwww.mailtribune.com%2Fbusiness%2F2004%2F07%2F27%2Fsaturdays-storm-ignites-weekends-worth-of-fires%2F' type='text/javascript'></script><script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-191547271-1', 'auto');
+ga('send', 'pageview');
+</script>		<style type="text/css" id="wp-custom-css">
+			#ddb_728x90_pos_1, #ddb_728x90_pos_2, #ddb_728x90_pos_3, #ddb_728x90_pos_4, 
+#ddb_728x90_pos_5{    background: none !important;
+    padding: 0px;
+    box-shadow: none;
+    margin-bottom: 2px;
+}
+
+
+
+#ddb_300x250_pos_1, #ddb_300x250_pos_2, #ddb_300x250_pos_3, #ddb_300x250_pos_4, #ddb_300x250_pos_5 {   
+    padding-left: 15px !important;
+}
+
+.advertisement::before {
+    color: #999;
+    content: "ADVERTISEMENT";
+
+    font-size: 0.5rem;
+    /*     float: left; */
+    /* height: 15px; */
+    padding-top: -5px;
+    margin-top: -10px;
+    margin-left: 3px;
+}
+
+.advertisement {
+        padding: 15px 15px 15px;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        background: #ededed;
+        margin-left: -5px;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-shadow: inset 0px 11px 8px -10px #CCC, inset 0px -11px 8px -10px #CCC;
+        box-shadow: inset 0px 11px 8px -10px #CCC, inset 0px -11px 8px -10px #CCC; }
+        @media (min-width: 768px) {
+  .advertisement {
+            margin-left: 0;
+            -webkit-box-shadow: none;
+            box-shadow: none;
+            background: #fff;
+            margin-bottom: 15px; } }
+
+
+.every_board .advertisement::before {
+    color: #999;
+    content: "ADVERTISEMENT";
+
+    font-size: 0.5rem;
+    /*     float: left; */
+    /* height: 15px; */
+    padding-top: -5px;
+    margin-top: -10px;
+    margin-left: 3px;
+}
+
+.xrendered_board_widget, div.ew-most-read-google-analytics  {
+    background-color: #fff;
+    box-shadow: 0 0 4px 0 rgba(0,0,0,.15);
+    margin: 15px auto;
+	min-height:450px;
+}
+
+.widget_title, .ew-most-read-google-analytics__title  {
+    margin: 0;
+    padding: 10px 15px 5px;
+    color: #121212;
+    font-family: Open Sans;
+    font-size: 18px;
+    line-height: 20px;
+    letter-spacing: .5px;
+    text-align: left;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+
+.ew-most-read-google-analytics__header {
+    border-bottom: 2px solid #fff;
+    margin-bottom: 5px;
+	/* this is a blue bar in stylesheets already, need to edit */
+}
+
+.board-widget-slider .slick-slider .slick-arrow {
+    background: rgba(0,0,0,.32);
+	width: 32px;
+}
+
+@media (min-width: 768px) {
+   #ocobjectswidget-35, #ocobjectswidget-44 > div > article:first-of-type {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column; }
+    #ocobjectswidget-35, #ocobjectswidget-44 > div > article:first-of-type .teaser-image a {
+      width: 100%;
+      display: block; }
+       #ocobjectswidget-35, #ocobjectswidget-44 > div > article:first-of-type .teaser-image a img {
+        width: 100%; }
+     #ocobjectswidget-35, #ocobjectswidget-44 > div > article:first-of-type .teaser-content .entry-title {
+      padding: 15px 0 0; }
+       #ocobjectswidget-35, #ocobjectswidget-44 > div > article:first-of-type .teaser-content .entry-title .teaser__headline .teaser__headline-marker {
+        font-size: 0.9375rem; } }
+
+.every_board .frontpage-primary-news .rendered_board_widget:first-child article.frontpage-category-main:first-child .teaser-content .entry-title .teaser__headline .teaser__headline-marker {
+    font-size: 1.30rem !important;
+    line-height: 1.32rem;
+    text-shadow: none;
+    color: #2e2e2e;
+} 
+
+#ddb_home_premium { background:none;
+margin:0px;
+padding:10px;
+box-shadow:unset;
+}
+
+.article__byline-name:after {
+content: "|";
+	padding-right:6px;
+	padding-left:6px;
+}
+
+#weather-bar a img {max-height:100%;}
+#weather-bar { padding: 5px 15px !important;
+justify-content: flex-end;
+}
+
+#wrapper-footer {
+  z-index: 1;
+}
+
+.article-gallery-grid__item--big .article-gallery-grid__item__video #video-jwp {
+position: absolute;
+width: 100%;
+height: 100%;
+padding-bottom: 0;}
+
+
+
+/* calendar page */ 
+.page-id-115  aside.social-share-tiles {
+    display: none !important;
+}
+.page-id-115 .btn-group-justified {
+    display: none !important;
+}
+.page-id-115 #main-body > div > div.col-xs-12.col-sm-2 {
+max-width:120px; }
+.page-id-115 #main-body > div > div.col-xs-12.col-sm-10 {
+     flex: 0 0 100%; 
+     max-width: 100%; }
+.page-id-115 main {
+    background: white;
+}
+
+/* Naviga JWPlayer Fixes */
+.article-gallery-grid__item--big .article-gallery-grid__item__video #video-jwp {
+position: absolute;
+width: 100%;
+height: 100%;
+padding-bottom: 0;}
+
+
+
+.jw-shelf-widget .jw-related-more {display:none !important;}
+
+
+.jw-shelf-widget .jw-related-control {
+    background:rgba(0,0,0,.32) !important;
+    width: 32px !important;
+}
+.jw-shelf-widget .jw-related-control-left {
+    left: 10 !important;
+}
+.jw-shelf-widget .jw-related-control {
+    height: 40px !important;
+    width: 25px !important;
+    z-index: 10 !important;
+    background: #2e2e2e;
+    border-radius: 14% !important;
+	
+}
+
+.jw-svg-icon {fill: #fff !important;
+height: 20px !important;
+	
+    }
+
+.jw-shelf-widget .jw-related-shelf-contents {
+    padding: 4px 1px !important;
+    position: relative;
+}
+
+.jw-shelf-widget .jw-related-shelf-item .jw-related-shelf-item-title { 
+font-size: 0.8125rem !important;
+    font-family: "Open Sans", sans-serif !important;
+    text-decoration: none !important;
+    line-height: 1rem !important;
+    font-weight: 600 !important;
+}
+
+.jw-shelf-widget  {
+width: 104% !important;
+float: left !important;
+position: relative !important;
+	margin-left: -14px !important;
+}
+
+.jw-shelf-widget .jw-related-control {
+margin-top: 15px !important;
+	background-color: transparent  z-index: 50 !important;
+}
+
+.jw-shelf-widget .jw-svg-icon-play {
+opacity:100 !important;
+	position:absolute !important;
+	left: 0 !important;
+	width: 12% !important;
+	height: 18px !important;
+  margin:0 !important;
+	top: auto !important;
+	border: 2px solid #fff;
+	background-color:rgba(0, 0, 0, 0.6);
+}
+
+.teaser.video-teaser .teaser-image span {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    bottom: 0;
+    left: 0;
+    width: 20px;
+    height: 20px;
+    border: 2px solid #fff;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    font-size: 0.4375rem;
+}
+
+.article-gallery-grid__item--big { 
+    padding-bottom: 56.25% !important;
+}
+
+
+.teaser.video-teaser {display:none }
+
+/* weather page */ 
+.page-id-1802 .social-share-tiles {
+    display: none !important;
+}
+.page-id-1802 .btn-group-justified {
+    display: none !important;
+}
+.page-id-1802 #main-body > div > div.col-xs-12.col-sm-2 {
+max-width:23px; }
+.page-id-1802 #main-body > div > div.col-xs-12.col-sm-10 {
+     flex: 0 0 100%; 
+     max-width: 100%; }
+.page-id-1802 main {
+    background: white;
+}
+
+
+#sidebarMenu {
+    z-index: 20;
+}
+
+
+
+/* General Typography Fixes 11-2021 */
+.menu-item {
+    white-space: nowrap;
+}
+/* Subscribe punch out 10-2021 */
+#menu-item-1586 > a {
+	color: #fff !important;
+	font-size: 1rem !important;
+}
+.subscribeMenuButton {
+    display: block;
+    height: 40px;
+    background-color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 5px 25px;
+	flex-basis: auto !important;
+	 justify-content: center !important;
+}
+.subscribeMenuButton a {
+	color: #007cba !important;
+	opacity: 1 !important;
+}
+/* Alert Bar Updates for Subscribe Button 11-2021 */
+.general-alert__badge {
+	display:none;
+}
+.general-alert__message .general-alert__close {
+	display:none;
+}
+.general-alert__bar .general-alert__close {
+	display:none;
+}
+.general-alert--open .general-alert__bar {
+	height:30px;
+}
+.general-alert__bar .container {
+	justify-content: left;
+}
+.general-alert--open .general-alert__bar .container {
+	justify-content: left;
+}
+.general-alert__bar__toggle span {
+	font-size: 0.690rem;
+}
+.general-alert__bar__toggle {
+		margin-left: 20px;
+}
+/* change story padding. -mm  */ 
+@media (min-width: 1900px) {
+    .article-page .article__part--main {
+      padding-left: 1.4rem !important;
+      padding-right: 1.4rem !important; } }
+
+/* Remove Mega menu story preview from Obits in Main Menu - May2022 - MM  */ 
+#menu-item-1677 .main-menu__teasers {
+    display: none !important;
+}
+
+/* Remove Mega menu story preview from E-Edition in Main Menu - May2022 - MM  */ 
+#menu-item-1682 .main-menu__teasers {
+    display: none !important;
+}
+
+/* Fix Menu drop downs - May2022 - MM  */ 
+#sidebarMenu li .sub-menu {
+   display: block !important;
+}
+
+#sidebarMenu #menu-hamburger-menu > li .sub-menu li a {
+font-size:.8rem !important;
+	    padding: 0px 0px 0px 40px !important;
+}
+#sidebarMenu #menu-hamburger-menu > li .sub-menu li a:hover {
+font-weight: 900 !important;
+}
+
+#sidebarMenu ul {
+    overflow-y: unset !important;
+    overflow-x: unset !important;
+}
+
+#sidebarMenu #menu-hamburger-menu > li > a {
+    font-weight: 800 !important;
+    background-color: #00354e !important; 
+}
+/* Change BG color of side bar articles - May2022 - MM  */ 
+article.thin-teaser {
+	background-color: #f1f1f159 !important;
+}
+/* add style for blue buttons jan2023- MM  */ 
+.mt-button-mm {
+	padding:3px;
+	margin:3px;
+	box-shadow:inset 0px 1px 0px 0px #54a3f7;
+	background:linear-gradient(to bottom, #0094d9 5%, #00577f 100%);
+	background-color:#0094d9;
+	border-radius:3px;
+	border:1px solid #124d77;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-size:1.125rem;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #00577f;
+}
+.mt-button-mm:hover {
+	background:linear-gradient(to bottom, #0061a7 5%, #007dc1 100%);
+	background-color:#0061a7;
+}
+.mt-button-mm:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+
+/* Fix BG Color in sidebar top stories. - May2022 - MM  */ 
+.ew-most-read-google-analytics{    
+    background-color: #fff !important;
+    box-shadow: 0 0 4px 0 rgb(0 0 0 / 15%) !important;
+    margin: 15px auto !important;
+    padding: 5px 15px !important;
+}
+/* Fix bottom padding in sidebar happening now - MM  */ 
+#ocobjectswidget-47
+{padding-bottom: 15px }
+
+/* On Mobile, Fix for text over main top stoy headline text over image. - MM July.21.2022  */ 
+/* ERD 2022-11-29 | Comment out to fix styling issue SF-00404383
+@media all and (min-width:0px) and (max-width: 420px) {
+
+.every_board .frontpage-primary-news .rendered_board_widget:first-child article.frontpage-category-main:first-child .teaser-content .entry-title .teaser__headline .teaser__headline-marker {
+    
+    text-shadow: 2px 3px 3px black!important;
+    color: #ffffff!important; }
+}
+*/
+/*See More Link */
+@media (max-width: 575.98px) {
+    a.oregon-outdoors-mobile {
+      top: 15%!important;
+  }}
+@media (min-width: 576px) and (max-width: 767.98px) {
+    a.oregon-outdoors-mobile {
+      top: 17%!important;
+  } }		</style>
+		</head>
+
+<body class="article-template article-template-single-article article-template-single-article-php single single-article postid-135755">
+
+
+
+	<input type="hidden" id="security" name="security" value="5a2340d18a" /><input type="hidden" name="_wp_http_referer" value="/business/2004/07/27/saturdays-storm-ignites-weekends-worth-of-fires/" /><form id="login" action="login" method="post">
+	<h1 class="login-modal-title">Log In</h1>
+	<hr class="login-modal-line">
+    <p class="status"></p>
+    <label id="login-modal-username" for="username"><i class="fa fa-user"></i></label>
+    <input id="username" type="text" name="username" placeholder="Username">
+    <label id="login-modal-password" for="password"><i class="fa fa-lock"></i></label>
+    <input id="password" type="password" name="password" placeholder="Password">
+    <a class="lost" href="/wp-login.php?action=lostpassword">Reset Password</a>
+    <input class="login-modal-button btn btn-primary submit" type="submit" value="Login" name="submit">
+    <a class="close" href="#"><i class="fa fa-window-close" aria-hidden="true"></i></a>
+    <input type="hidden" id="security" name="security" value="5a2340d18a" /><input type="hidden" name="_wp_http_referer" value="/business/2004/07/27/saturdays-storm-ignites-weekends-worth-of-fires/" />
+</form><div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v10.0" nonce="wCoL1xVC"></script>
+
+
+<div id="sidebarMenu" class="sidebarMenu"><ul id="menu-hamburger-menu" class="list-group list-group-flush"><li class="search-bar"><form action="/" method="get">
+    <input class="search-field" type="text" name="s" id="search" value="" />
+    <button type="button" onclick="searchBarAction(this)">
+        <img class="search-btn" type="image" alt="Search" src="https://www.mailtribune.com/wp-content/themes/med/images/icons/sbg-search-dark.svg"/>
+    </button>
+</form></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-161"><a href="https://www.mailtribune.com/news/">News</a><hr class="sidebarMenuLine">
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4054"><a href="https://www.mailtribune.com/news/top-stories/">Top Stories</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4478"><a href="https://www.mailtribune.com/news/happening-now/">Happening Now</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4053"><a href="https://www.mailtribune.com/news/business/">Business</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-144084"><a href="/news/coronavirus/">Covid</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4055"><a href="https://www.mailtribune.com/news/crime-courts-and-emergencies/">Crime, Courts and Emergencies</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4050"><a href="https://www.mailtribune.com/news/education/">Education</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4051"><a href="https://www.mailtribune.com/news/environment/">Environment</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4049"><a href="https://www.mailtribune.com/news/government-and-politics/">Government and Politics</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4056"><a href="https://www.mailtribune.com/news/mail-tribune-100/">Mail Tribune 100</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-144096"><a href="/since-you-asked/">Since You Asked</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4052"><a href="https://www.mailtribune.com/news/state-news/">State News</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-7892"><a href="https://www.mailtribune.com/news/ripple-effects/">Ripple Effects</a><hr class="sidebarMenuLine"></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-160"><a href="https://www.mailtribune.com/sports/">Sports</a><hr class="sidebarMenuLine">
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4057"><a href="https://www.mailtribune.com/sports/prep-sports/">Prep Sports</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4058"><a href="https://www.mailtribune.com/sports/college-sports/">College Sports</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4530"><a href="https://www.mailtribune.com/sports/professional/">Professional</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4060"><a href="https://www.mailtribune.com/sports/community-sports/">Community Sports</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4062"><a href="https://www.mailtribune.com/sports/on-par/">On Par</a><hr class="sidebarMenuLine"></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2716"><a target="_blank" rel="noopener" href="https://www.legacy.com/obituaries/mailtribune/">Obits</a><hr class="sidebarMenuLine">
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2717"><a target="_blank" rel="noopener" href="https://www.legacy.com/obituaries/mailtribune/">Obits</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2718"><a target="_blank" rel="noopener" href="https://www.soobituaries.com/adportal/obits/index.html">Place an Obit</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89616"><a target="_blank" rel="noopener" href="https://www.soobituaries.com/adportal/obits/listings.html">Archive Obituaries</a><hr class="sidebarMenuLine"></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-79705"><a href="https://medfordmailtribune-or.newsmemory.com/">E-Edition</a><hr class="sidebarMenuLine">
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84570"><a href="https://www.mailtribune.com/comics/">Comics</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84571"><a href="https://www.mailtribune.com/puzzles/">Puzzles</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157320"><a href="https://www.mailtribune.com/tv-tempo-guide/">TV TEMPO – Local Channel Guide</a><hr class="sidebarMenuLine"></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157319"><a href="https://www.mailtribune.com/weekly-ads/">Weekly Ads</a><hr class="sidebarMenuLine"></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-157480"><a href="/contests">Contests</a><hr class="sidebarMenuLine"></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2721"><a href="https://www.mailtribune.com/watch/">Video</a><hr class="sidebarMenuLine">
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4065"><a href="https://www.mailtribune.com/watch/jp-the-dog-guy/">JP The Dog Guy</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4066"><a href="https://www.mailtribune.com/watch/jwytyke/">JWYTYKE</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4067"><a href="https://www.mailtribune.com/oregon-outdoors/">Oregon Outdoors</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4068"><a href="https://www.mailtribune.com/watch/rosebud-commentary/">RoseBud Commentary</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4069"><a href="https://www.mailtribune.com/watch/rosebud-money/">RoseBud Money</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4070"><a href="https://www.mailtribune.com/watch/rosebud-superstars/">RoseBud SuperStars</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4074"><a href="https://www.mailtribune.com/watch/for-the-love-of-food/">For the Love of Food</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-113672"><a href="https://www.mailtribune.com/watch/life-is-so-good/">Life is SO Good</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4075"><a href="https://www.mailtribune.com/watch/socialists/">The SociaList</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4076"><a href="https://www.mailtribune.com/watch/tdim/">TDIM</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4077"><a href="https://www.mailtribune.com/watch/tmtwj/">TMTWJ</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-125389"><a href="https://www.mailtribune.com/watch/wwcd/">WWCD</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-125375"><a href="https://www.mailtribune.com/watch/ohl-video-series/">Oregon Healthy Living</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-7850"><a href="https://www.mailtribune.com/watch/green-living/">Green Living</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-7851"><a href="https://www.mailtribune.com/watch/best-among-us/">Best Among Us</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-34579"><a href="https://www.mailtribune.com/watch/best-of-the-best/">Best of the Best</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134007"><a href="/in-their-own-words-governor-candidates/">Candidates for Governor</a><hr class="sidebarMenuLine"></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2736"><a href="https://www.mailtribune.com/tempo/">Tempo</a><hr class="sidebarMenuLine">
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4078"><a href="https://www.mailtribune.com/tempo/performances/">Performances</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4079"><a href="https://www.mailtribune.com/events/">Events</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4080"><a href="https://www.mailtribune.com/tempo/theater/">Theater</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4081"><a href="https://www.mailtribune.com/tempo/dining/">Dining</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4082"><a href="https://www.mailtribune.com/tempo/nightlife/">Nightlife</a><hr class="sidebarMenuLine"></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2742"><a href="https://www.mailtribune.com/life/">Life</a><hr class="sidebarMenuLine">
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4083"><a href="https://www.mailtribune.com/lifestyle/food/">Food</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-11411"><a href="https://www.mailtribune.com/lifestyle/the-whole-dish/">The Whole Dish</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4085"><a href="https://www.mailtribune.com/lifestyle/home-and-garden/">Home and Garden</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4086"><a href="https://www.mailtribune.com/lifestyle/health/">Health</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4087"><a href="https://www.mailtribune.com/lifestyle/faith/">Faith</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4088"><a href="https://www.mailtribune.com/lifestyle/anniversaries/">Anniversaries</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4089"><a href="https://www.mailtribune.com/lifestyle/weddings/">Weddings</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4090"><a href="https://www.mailtribune.com/lifestyle/100th-birthday/">100th Birthday</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4091"><a href="https://www.mailtribune.com/lifestyle/milestone-achievements/">Milestone  Achievements</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4092"><a href="https://www.mailtribune.com/lifestyle/columnist-for-a-day/">Columnist for a Day</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4093"><a href="https://www.mailtribune.com/lifestyle/healthy-aging/">Healthy Aging</a><hr class="sidebarMenuLine"></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2754"><a href="https://www.mailtribune.com/opinion/">Opinion</a><hr class="sidebarMenuLine">
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4094"><a href="https://www.mailtribune.com/opinion/editorials/">Editorials</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4095"><a href="https://www.mailtribune.com/opinion/letter-to-the-editor/">Letter to the Editor</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4096"><a href="https://www.mailtribune.com/opinion/columns/">Columns</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-63716"><a href="https://www.mailtribune.com/opinion/guest-opinion/">Guest Opinion</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5041"><a href="/letter-to-the-editor/2018/05/11/letters-to-the-editor/">Submit Your Letter</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7642"><a href="https://www.mailtribune.com/opinion/officials/">Officials</a><hr class="sidebarMenuLine"></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2760"><a href="https://www.mailtribune.com/oregon-outdoors/">Oregon Outdoors</a><hr class="sidebarMenuLine"></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2761"><a href="https://www.mailtribune.com/podcasts/">Podcasts</a><hr class="sidebarMenuLine">
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4098"><a href="https://www.mailtribune.com/podcasts/happiness-in-progress/">Happiness in Progress</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4099"><a href="https://www.mailtribune.com/podcasts/the-whole-dish/">The Whole Dish</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4100"><a href="https://www.mailtribune.com/podcasts/the-literary-gardener/">The Literary Gardener</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4101"><a href="https://www.mailtribune.com/podcasts/the-insider/">The Insider</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4102"><a href="https://www.mailtribune.com/archive/">Archive</a><hr class="sidebarMenuLine"></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2767"><a href="https://www.mailtribune.com/weather/">Weather</a><hr class="sidebarMenuLine"></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2768"><a href="https://www.soclassifiedsmarket.com/marketplace/?_ga=2.88173723.146979132.1613378950-990575445.1601396590">Classifieds</a><hr class="sidebarMenuLine">
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2769"><a href="https://www.soclassifiedsmarket.com/marketplace/?_ga=2.88173723.146979132.1613378950-990575445.1601396590">Classifieds</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2770"><a href="https://www.soclassifiedsmarket.com/marketplace/category/Employment">Jobs</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2771"><a href="https://www.soclassifiedsmarket.com/marketplace/category/Automotive?_ga=2.16869305.146979132.1613378950-990575445.1601396590">Autos</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2772"><a href="https://www.soclassifiedsmarket.com/marketplace/category/Real%20Estate?_ga=2.9650357.146979132.1613378950-990575445.1601396590">Real Estate</a><hr class="sidebarMenuLine"></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2773"><a href="/">More</a><hr class="sidebarMenuLine">
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4103"><a href="https://www.mailtribune.com/photos/">Photos</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4104"><a href="https://www.mailtribune.com/calendar/">Calendar</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4105"><a href="https://www.mailtribune.com/tv-tempo/">TV Tempo</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4106"><a href="https://www.mailtribune.com/news/videos/">Videos</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4107"><a href="https://www.mailtribune.com/magazine/">Special Sections</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4108"><a href="https://www.mailtribune.com/contests/">Contests</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-44054"><a href="https://www.mailtribune.com/submit-your-announcements/">Submit your announcements</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4109"><a href="https://www.mailtribune.com/so-good-herb/">Southern Oregon Good Herb</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2782"><a href="http://blogs.esouthernoregon.com/">Blogs</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4110"><a href="https://www.mailtribune.com/oregon-healthy-living/">Oregon Healthy Living</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2720"><a href="http://mailtribune.dailydealbuilder.com/">Local Deals</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2784"><a href="https://sogiftcards.com/">Sip &#038; Savor</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4111"><a href="https://www.mailtribune.com/rosebud-events/">RoseBud Events</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2786"><a href="https://www.mailtribune.com/weather/">Weather</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4113"><a href="https://www.mailtribune.com/so-famous-cannabis/">SO Famous  Cannabis</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7021"><a href="/archive/2018/05/18/advertise-with-us/">Advertise</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4114"><a href="https://www.mailtribune.com/our-valley/">Our Valley</a><hr class="sidebarMenuLine"></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6563"><a href="https://www.mailtribune.com/newsletter/">Newsletter</a><hr class="sidebarMenuLine"></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2793"><a href="https://www.mailtribune.com/terms-of-service/">Legal</a><hr class="sidebarMenuLine">
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2794"><a href="https://www.mailtribune.com/privacy-policy/">Privacy Policy &#038; Cookie Policy</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2795"><a href="https://www.mailtribune.com/terms-of-service/">Terms &#038; Conditions</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2796"><a href="https://www.mailtribune.com/copyright/">Copyright Notice</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2797"><a href="https://www.mailtribune.com/about-us/">About Us</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136835"><a href="https://www.mailtribune.com/employment/">Employment</a><hr class="sidebarMenuLine"></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2798"><a href="https://www.mailtribune.com/contact-us/">Contact Us</a><hr class="sidebarMenuLine"></li>
+</ul>
+</li>
+<li class="social-icons"><ul id="social-icons-list"><li><a href="https://twitter.com/mailtribune"><img src="https://www.mailtribune.com/wp-content/themes/med/images/icons/twitter.svg" alt="Twitter icon"></a></li><li><a href="https://www.youtube.com/user/MailTribunenews"><img src="https://www.mailtribune.com/wp-content/themes/med/images/icons/youtube.svg" alt="Youtube icon"></a></li><li><a href="https://www.facebook.com/mailtribune"><img src="https://www.mailtribune.com/wp-content/themes/med/images/icons/facebook.svg" alt="Facebook icon"></a></li><li><a href="https://www.instagram.com/mtnewsroom/"><img src="https://www.mailtribune.com/wp-content/themes/med/images/icons/instagram.svg" alt="Instagram icon"></a></li></ul></li></ul></div>
+<div id="sidemenuDim" class="closed" onclick="toggleDropdown()"></div><div class="top-bar-region">
+    <div class="flex">
+        <div id="hambuger-menu-btn-wrapper" onclick="toggleNav()">
+            <div id="hambuger-menu-btn">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+        <div id="branding">
+                                                <a class="navbar-brand" rel="home" href="https://www.mailtribune.com/" title="Medford News, Weather, Sports, Breaking News | Mail Tribune">
+                        <img src="https://www.mailtribune.com/wp-content/themes/med/images/mailtribune_logo_w.svg">
+                    </a>
+                                    </div>
+
+        <nav id="main-navigation" class="navigation"><ul id="main-menu" class="main-navigation"><li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-117"><a href="https://www.mailtribune.com/news/">News</a>
+<ul class="sub-menu sub-menu--top-stories">	<li class="main-menu__teasers">
+		<div class="container">
+		<h3>News</h3>
+							<div class="main-menu__teaser">
+					<a href="https://www.mailtribune.com/general-alert/2023/01/27/mail-tribune-to-cease-operations/">
+													<img src="https://imengine.public.prod.med.navigacloud.com/?uuid=403ff3ce-8b54-59a0-a6eb-64305981bd75&function=hardcrop&type=preview&source=false&width=384&height=216">
+													<h2 class="teaser__headline">
+		<span class="teaser__headline-marker">Mail Tribune to cease operations Friday - 1/13/2023
+								</span>
+	</h2>
+
+					</a>
+				</div>
+							<div class="main-menu__teaser">
+					<a href="https://www.mailtribune.com/dining/2023/01/13/talent-taproom-brims-with-cider-beer-food-fun/">
+													<img src="https://imengine.public.prod.med.navigacloud.com/?uuid=c9243695-a764-5be4-8615-5af459dce858&function=hardcrop&type=preview&source=false&width=384&height=216">
+													<h2 class="teaser__headline">
+		<span class="teaser__headline-marker">Talent taproom brims with cider, beer, food, fun
+								</span>
+	</h2>
+
+					</a>
+				</div>
+							<div class="main-menu__teaser">
+					<a href="https://www.mailtribune.com/mail-tribune/2023/01/13/mail-tribune-100-jan-13-1923/">
+													<img src="https://imengine.public.prod.med.navigacloud.com/?uuid=A100FFF1-CBCB-4DF9-BCC0-8B601773F718&function=hardcrop&type=preview&source=false&width=384&height=216">
+													<h2 class="teaser__headline">
+		<span class="teaser__headline-marker">Mail Tribune 100, Jan. 13, 1923
+								</span>
+	</h2>
+
+					</a>
+				</div>
+					</div>
+	</li>
+<li><ul class="container sub-menu-inner">
+	<li id="menu-item-3882" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-3882"><a href="https://www.mailtribune.com/news/top-stories/">Top Stories</a></li>
+	<li id="menu-item-4479" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4479"><a href="https://www.mailtribune.com/news/happening-now/">Happening Now</a></li>
+	<li id="menu-item-3881" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-3881"><a href="https://www.mailtribune.com/news/business/">Business</a></li>
+	<li id="menu-item-144083" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-144083"><a href="/news/coronavirus/">Covid</a></li>
+	<li id="menu-item-3883" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-3883"><a href="https://www.mailtribune.com/news/crime-courts-and-emergencies/">Crime, Courts and Emergencies</a></li>
+	<li id="menu-item-3878" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-3878"><a href="https://www.mailtribune.com/news/education/">Education</a></li>
+	<li id="menu-item-3879" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-3879"><a href="https://www.mailtribune.com/news/environment/">Environment</a></li>
+	<li id="menu-item-3877" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-3877"><a href="https://www.mailtribune.com/news/government-and-politics/">Government and Politics</a></li>
+	<li id="menu-item-144097" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-144097"><a href="/since-you-asked/">Since You Asked</a></li>
+	<li id="menu-item-3880" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-3880"><a href="https://www.mailtribune.com/news/state-news/">State News</a></li>
+	<li id="menu-item-3884" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-3884"><a href="https://www.mailtribune.com/news/mail-tribune-100/">Mail Tribune 100</a></li>
+</li></ul></ul>
+</li>
+<li id="menu-item-118" class="green menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-118"><a href="https://www.mailtribune.com/sports/">Sports</a>
+<ul class="sub-menu sub-menu--top-stories">	<li class="main-menu__teasers">
+		<div class="container">
+		<h3>Sports</h3>
+							<div class="main-menu__teaser">
+					<a href="https://www.mailtribune.com/prep-sports/2023/01/12/fitting-sendoff-for-fall-supremacy/">
+													<img src="https://imengine.public.prod.med.navigacloud.com/?uuid=20036ea7-3081-5411-ba17-1bfc0127c1dc&function=hardcrop&type=preview&source=false&width=384&height=216">
+													<h2 class="teaser__headline">
+		<span class="teaser__headline-marker">Fitting sendoff for fall supremacy
+								</span>
+	</h2>
+
+					</a>
+				</div>
+							<div class="main-menu__teaser">
+					<a href="https://www.mailtribune.com/prep-sports/2023/01/12/prep-roundup-challengers-push-win-streak-to-8/">
+													<img src="https://imengine.public.prod.med.navigacloud.com/?uuid=f2209e48-0bf8-581c-8452-9e5f07067dfd&function=hardcrop&type=preview&source=false&width=384&height=216">
+													<h2 class="teaser__headline">
+		<span class="teaser__headline-marker">PREP ROUNDUP: Challengers push win streak to 8
+								</span>
+	</h2>
+
+					</a>
+				</div>
+							<div class="main-menu__teaser">
+					<a href="https://www.mailtribune.com/college-sports/2023/01/11/sou-names-berk-brown-as-new-head-football-coach/">
+													<img src="https://imengine.public.prod.med.navigacloud.com/?uuid=4ae05b6c-0354-53fc-80ce-2ebe6e466867&function=hardcrop&type=preview&source=false&width=384&height=216">
+													<h2 class="teaser__headline">
+		<span class="teaser__headline-marker">SOU names Berk Brown as new head football coach
+								</span>
+	</h2>
+
+					</a>
+				</div>
+					</div>
+	</li>
+<li><ul class="container sub-menu-inner">
+	<li id="menu-item-3885" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-3885"><a href="https://www.mailtribune.com/sports/prep-sports/">Prep Sports</a></li>
+	<li id="menu-item-3886" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-3886"><a href="https://www.mailtribune.com/sports/college-sports/">College Sports</a></li>
+	<li id="menu-item-4480" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-4480"><a href="https://www.mailtribune.com/sports/professional/">Professional</a></li>
+	<li id="menu-item-3888" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-3888"><a href="https://www.mailtribune.com/sports/community-sports/">Community Sports</a></li>
+	<li id="menu-item-3889" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-3889"><a href="https://www.mailtribune.com/sports/sports-photos/">Sports Photos</a></li>
+	<li id="menu-item-139142" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-139142"><a href="/on-par/">On Par</a></li>
+</li></ul></ul>
+</li>
+<li id="menu-item-3891" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-has-children menu-item-3891"><a href="https://www.mailtribune.com/opinion/">Opinion</a>
+<ul class="sub-menu sub-menu--top-stories">	<li class="main-menu__teasers">
+		<div class="container">
+		<h3>Opinion</h3>
+							<div class="main-menu__teaser">
+					<a href="https://www.mailtribune.com/letter-to-the-editor/2023/01/13/letters-jan-13-3/">
+													<img src="https://imengine.public.prod.med.navigacloud.com/?uuid=2146cbab-f10d-5bb5-b89d-85f29ee02661&function=hardcrop&type=preview&source=false&width=384&height=216">
+													<h2 class="teaser__headline">
+		<span class="teaser__headline-marker">Letters, Jan. 13 
+								</span>
+	</h2>
+
+					</a>
+				</div>
+							<div class="main-menu__teaser">
+					<a href="https://www.mailtribune.com/editorials/2023/01/08/survey-oregonians-support-forest-projects/">
+													<img src="https://imengine.public.prod.med.navigacloud.com/?uuid=6889e902-5d09-5403-a1d0-fcabf5807f36&function=hardcrop&type=preview&source=false&width=384&height=216">
+													<h2 class="teaser__headline">
+		<span class="teaser__headline-marker">Survey: Oregonians support forest projects
+								</span>
+	</h2>
+
+					</a>
+				</div>
+							<div class="main-menu__teaser">
+					<a href="https://www.mailtribune.com/guest-opinion/2023/01/08/why-we-should-pass-the-afghan-adjustment-act/">
+													<img src="https://imengine.public.prod.med.navigacloud.com/?uuid=3281a6a0-3324-594b-9770-d313747d6063&function=hardcrop&type=preview&source=false&width=384&height=216">
+													<h2 class="teaser__headline">
+		<span class="teaser__headline-marker">Why we should pass the Afghan Adjustment Act
+								</span>
+	</h2>
+
+					</a>
+				</div>
+					</div>
+	</li>
+<li><ul class="container sub-menu-inner">
+	<li id="menu-item-63712" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-63712"><a href="https://www.mailtribune.com/opinion/editorials/">Editorials</a></li>
+	<li id="menu-item-3893" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-3893"><a href="https://www.mailtribune.com/opinion/letter-to-the-editor/">Letter to the Editor</a></li>
+	<li id="menu-item-3894" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-3894"><a href="https://www.mailtribune.com/opinion/columns/">Columns</a></li>
+	<li id="menu-item-63714" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-63714"><a href="https://www.mailtribune.com/opinion/guest-opinion/">Guest Opinion</a></li>
+	<li id="menu-item-5042" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5042"><a href="/letter-to-the-editor/2018/05/11/letters-to-the-editor/">Submit Your Letter</a></li>
+</li></ul></ul>
+</li>
+<li id="menu-item-3897" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-has-children menu-item-3897"><a href="https://www.mailtribune.com/tempo/">Tempo</a>
+<ul class="sub-menu sub-menu--top-stories">	<li class="main-menu__teasers">
+		<div class="container">
+		<h3>Tempo</h3>
+							<div class="main-menu__teaser">
+					<a href="https://www.mailtribune.com/dining/2023/01/13/talent-taproom-brims-with-cider-beer-food-fun/">
+													<img src="https://imengine.public.prod.med.navigacloud.com/?uuid=c9243695-a764-5be4-8615-5af459dce858&function=hardcrop&type=preview&source=false&width=384&height=216">
+													<h2 class="teaser__headline">
+		<span class="teaser__headline-marker">Talent taproom brims with cider, beer, food, fun
+								</span>
+	</h2>
+
+					</a>
+				</div>
+							<div class="main-menu__teaser">
+					<a href="https://www.mailtribune.com/tempo/2023/01/12/live-rogue-valley-music-mlk-day-celebrations-more-jan-13/">
+													<img src="https://imengine.public.prod.med.navigacloud.com/?uuid=a5cde438-e7fb-5c91-9d04-7f189e7c6dde&function=hardcrop&type=preview&source=false&width=384&height=216">
+													<h2 class="teaser__headline">
+		<span class="teaser__headline-marker">Live Rogue Valley music,  MLK Day celebrations&amp; more: Jan. 13
+								</span>
+	</h2>
+
+					</a>
+				</div>
+							<div class="main-menu__teaser">
+					<a href="https://www.mailtribune.com/tempo/2023/01/12/rogue-valley-art-galleries-jan-13/">
+													<img src="https://imengine.public.prod.med.navigacloud.com/?uuid=11271d4f-3d8e-5339-9e22-71976fa1280b&function=hardcrop&type=preview&source=false&width=384&height=216">
+													<h2 class="teaser__headline">
+		<span class="teaser__headline-marker">Rogue Valley art galleries: Jan. 13
+								</span>
+	</h2>
+
+					</a>
+				</div>
+					</div>
+	</li>
+<li><ul class="container sub-menu-inner">
+	<li id="menu-item-3898" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-3898"><a href="https://www.mailtribune.com/tempo/performances/">Performances</a></li>
+	<li id="menu-item-3899" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-3899"><a href="https://www.mailtribune.com/events/">Events</a></li>
+	<li id="menu-item-137333" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-137333"><a href="/tempo/theater/">Theater</a></li>
+	<li id="menu-item-137334" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-137334"><a href="/tempo/dining/">Dining</a></li>
+	<li id="menu-item-137335" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-137335"><a href="/tempo/nightlife/">Nightlife</a></li>
+	<li id="menu-item-157323" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157323"><a href="https://www.mailtribune.com/tv-tempo-guide/">TV TEMPO – Local Channel Guide</a></li>
+</li></ul></ul>
+</li>
+<li id="menu-item-123523" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-has-children menu-item-123523"><a href="https://www.mailtribune.com/top-videos/">Videos</a>
+<ul class="sub-menu sub-menu--top-stories">	<li class="main-menu__teasers">
+		<div class="container">
+		<h3>Videos</h3>
+							<div class="main-menu__teaser">
+					<a href="https://www.mailtribune.com/life-is-so-good/2023/01/11/jackson-creek-pizza-has-been-serving-up-the-pie-for-20-years/">
+													<img src="https://imengine.public.prod.med.navigacloud.com/?uuid=f3258575-7695-5c5e-992a-fbf33f994096&function=hardcrop&type=preview&source=false&width=384&height=216">
+													<h2 class="teaser__headline">
+		<span class="teaser__headline-marker">Jackson Creek Pizza has been serving up the pie for 20 years
+								</span>
+	</h2>
+
+					</a>
+				</div>
+							<div class="main-menu__teaser">
+					<a href="https://www.mailtribune.com/happening-now/2023/01/09/adam-rich-former-eight-is-enough-child-star-dies-at-54/">
+													<img src="https://imengine.public.prod.med.navigacloud.com/?uuid=435e93b2-02b9-511f-bb44-450b5162ec0f&function=hardcrop&type=preview&source=false&width=384&height=216">
+													<h2 class="teaser__headline">
+		<span class="teaser__headline-marker">Adam Rich, former 'Eight Is Enough' child star, dies at 54
+								</span>
+	</h2>
+
+					</a>
+				</div>
+							<div class="main-menu__teaser">
+					<a href="https://www.mailtribune.com/happening-now/2023/01/06/us-approves-alzheimers-drug-that-modestly-slows-disease/">
+													<img src="https://imengine.public.prod.med.navigacloud.com/?uuid=22d38852-c0b2-51da-bee5-85e1f0b85a72&function=hardcrop&type=preview&source=false&width=384&height=216">
+													<h2 class="teaser__headline">
+		<span class="teaser__headline-marker">US approves Alzheimer's drug that modestly slows disease
+								</span>
+	</h2>
+
+					</a>
+				</div>
+					</div>
+	</li>
+<li><ul class="container sub-menu-inner">
+	<li id="menu-item-123524" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-123524"><a href="https://www.mailtribune.com/watch/jp-the-dog-guy/">JP The Dog Guy</a></li>
+	<li id="menu-item-123525" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-123525"><a href="https://www.mailtribune.com/watch/jwytyke/">JWYTYKE</a></li>
+	<li id="menu-item-123526" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-123526"><a href="https://www.mailtribune.com/oregon-outdoors/">Oregon Outdoors</a></li>
+	<li id="menu-item-123527" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-123527"><a href="https://www.mailtribune.com/watch/rosebud-commentary/">RoseBud Commentary</a></li>
+	<li id="menu-item-123528" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-123528"><a href="https://www.mailtribune.com/watch/rosebud-money/">RoseBud Money</a></li>
+	<li id="menu-item-123529" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-123529"><a href="https://www.mailtribune.com/watch/rosebud-superstars/">RoseBud SuperStars</a></li>
+	<li id="menu-item-123530" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-123530"><a href="https://www.mailtribune.com/watch/so-famous-ae/">SO Famous A&#038;E</a></li>
+	<li id="menu-item-123531" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-123531"><a href="https://www.mailtribune.com/so-famous-cannabis/">SO Famous  Cannabis</a></li>
+	<li id="menu-item-123532" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-123532"><a href="https://www.mailtribune.com/watch/so-famous-fitness/">SO Famous Fitness</a></li>
+	<li id="menu-item-123541" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-123541"><a href="https://www.mailtribune.com/watch/life-is-so-good/">Life is SO Good</a></li>
+	<li id="menu-item-123533" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-123533"><a href="https://www.mailtribune.com/watch/for-the-love-of-food/">For the Love of Food</a></li>
+	<li id="menu-item-123534" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-123534"><a href="https://www.mailtribune.com/watch/socialists/">The SociaList</a></li>
+	<li id="menu-item-123535" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-123535"><a href="https://www.mailtribune.com/watch/tdim/">TDIM</a></li>
+	<li id="menu-item-123536" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-123536"><a href="https://www.mailtribune.com/watch/tmtwj/">TMTWJ</a></li>
+	<li id="menu-item-123537" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-123537"><a href="https://www.mailtribune.com/watch/wwcd/">WWCD</a></li>
+	<li id="menu-item-125374" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-125374"><a href="https://www.mailtribune.com/watch/ohl-video-series/">Oregon Healthy Living</a></li>
+	<li id="menu-item-123538" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-123538"><a href="https://www.mailtribune.com/watch/green-living/">Green Living</a></li>
+	<li id="menu-item-123539" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-123539"><a href="https://www.mailtribune.com/watch/best-among-us/">Best Among Us</a></li>
+	<li id="menu-item-123540" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-123540"><a href="https://www.mailtribune.com/watch/best-of-the-best/">Best of the Best</a></li>
+	<li id="menu-item-134006" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134006"><a href="/in-their-own-words-governor-candidates/">Candidates for Governor</a></li>
+	<li id="menu-item-139141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-139141"><a href="/on-par/">On Par</a></li>
+</li></ul></ul>
+</li>
+<li id="menu-item-3900" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-has-children menu-item-3900"><a href="https://www.mailtribune.com/lifestyle/">Life</a>
+<ul class="sub-menu sub-menu--top-stories">	<li class="main-menu__teasers">
+		<div class="container">
+		<h3>Life</h3>
+							<div class="main-menu__teaser">
+					<a href="https://www.mailtribune.com/lifestyle/2023/01/11/tips-for-finding-help-as-we-get-older/">
+													<img src="https://imengine.public.prod.med.navigacloud.com/?uuid=e39ebe84-85af-5823-97b4-e55c3a1f01e3&function=hardcrop&type=preview&source=false&width=384&height=216">
+													<h2 class="teaser__headline">
+		<span class="teaser__headline-marker">Tips for finding help as we get older
+								</span>
+	</h2>
+
+					</a>
+				</div>
+							<div class="main-menu__teaser">
+					<a href="https://www.mailtribune.com/home-and-garden/2023/01/08/plan-for-success-with-planting-calendar-for-vegetable-gardens/">
+													<img src="https://imengine.public.prod.med.navigacloud.com/?uuid=2d4a9527-efd6-59df-ae6d-2f7e7384563e&function=hardcrop&type=preview&source=false&width=384&height=216">
+													<h2 class="teaser__headline">
+		<span class="teaser__headline-marker">Plan for success with planting calendar for vegetable gardens
+								</span>
+	</h2>
+
+					</a>
+				</div>
+							<div class="main-menu__teaser">
+					<a href="https://www.mailtribune.com/top-stories/2023/01/08/did-i-mention-im-a-bass-player/">
+													<img src="https://imengine.public.prod.med.navigacloud.com/?uuid=2fa14383-ee52-5903-bb1f-42ed764c24a5&function=hardcrop&type=preview&source=false&width=384&height=216">
+													<h2 class="teaser__headline">
+		<span class="teaser__headline-marker">Did I mention I'm a bass player?
+								</span>
+	</h2>
+
+					</a>
+				</div>
+					</div>
+	</li>
+<li><ul class="container sub-menu-inner">
+	<li id="menu-item-3901" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-3901"><a href="https://www.mailtribune.com/lifestyle/food/">Food</a></li>
+	<li id="menu-item-11419" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-11419"><a href="https://www.mailtribune.com/lifestyle/the-whole-dish/">The Whole Dish</a></li>
+	<li id="menu-item-137336" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-137336"><a href="/lifestyle/home-and-garden/">Home and Garden</a></li>
+	<li id="menu-item-137337" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-137337"><a href="/lifestyle/health/">Health</a></li>
+	<li id="menu-item-137338" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-137338"><a href="/lifestyle/100th-birthday/">100th Birthday!</a></li>
+	<li id="menu-item-137339" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-137339"><a href="/lifestyle/milestone-achievements/">Milestone Achievements</a></li>
+	<li id="menu-item-137341" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-137341"><a href="/lifestyle/columnist-for-a-day/">Columnist-For-A-Day</a></li>
+</li></ul></ul>
+</li>
+<li id="menu-item-1677" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1677"><a target="_blank" rel="noopener" href="https://www.legacy.com/obituaries/mailtribune/">Obits</a>
+<ul class="sub-menu sub-menu--top-stories">	<li class="main-menu__teasers">
+		<div class="container">
+		<h3>Obits</h3>
+							<div class="main-menu__teaser">
+					<a href="https://www.mailtribune.com/general-alert/2023/01/27/mail-tribune-to-cease-operations/">
+													<img src="https://imengine.public.prod.med.navigacloud.com/?uuid=403ff3ce-8b54-59a0-a6eb-64305981bd75&function=hardcrop&type=preview&source=false&width=384&height=216">
+													<h2 class="teaser__headline">
+		<span class="teaser__headline-marker">Mail Tribune to cease operations Friday - 1/13/2023
+								</span>
+	</h2>
+
+					</a>
+				</div>
+							<div class="main-menu__teaser">
+					<a href="https://www.mailtribune.com/letter-to-the-editor/2023/01/13/letters-jan-13-3/">
+													<img src="https://imengine.public.prod.med.navigacloud.com/?uuid=2146cbab-f10d-5bb5-b89d-85f29ee02661&function=hardcrop&type=preview&source=false&width=384&height=216">
+													<h2 class="teaser__headline">
+		<span class="teaser__headline-marker">Letters, Jan. 13 
+								</span>
+	</h2>
+
+					</a>
+				</div>
+							<div class="main-menu__teaser">
+					<a href="https://www.mailtribune.com/dining/2023/01/13/talent-taproom-brims-with-cider-beer-food-fun/">
+													<img src="https://imengine.public.prod.med.navigacloud.com/?uuid=c9243695-a764-5be4-8615-5af459dce858&function=hardcrop&type=preview&source=false&width=384&height=216">
+													<h2 class="teaser__headline">
+		<span class="teaser__headline-marker">Talent taproom brims with cider, beer, food, fun
+								</span>
+	</h2>
+
+					</a>
+				</div>
+					</div>
+	</li>
+<li><ul class="container sub-menu-inner">
+	<li id="menu-item-1679" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1679"><a target="_blank" rel="noopener" href="https://www.soobituaries.com/adportal/obits/index.html">Place an Obit</a></li>
+	<li id="menu-item-1678" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1678"><a target="_blank" rel="noopener" href="https://www.legacy.com/obituaries/mailtribune/">Obituaries</a></li>
+	<li id="menu-item-89614" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89614"><a target="_blank" rel="noopener" href="https://www.soobituaries.com/adportal/obits/listings.html">Archived Obituaries</a></li>
+</li></ul></ul>
+</li>
+<li id="menu-item-1682" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1682"><a href="https://medfordmailtribune-or.newsmemory.com/">E-Edition</a>
+<ul class="sub-menu sub-menu--top-stories">	<li class="main-menu__teasers">
+		<div class="container">
+		<h3>E-Edition</h3>
+							<div class="main-menu__teaser">
+					<a href="https://www.mailtribune.com/general-alert/2023/01/27/mail-tribune-to-cease-operations/">
+													<img src="https://imengine.public.prod.med.navigacloud.com/?uuid=403ff3ce-8b54-59a0-a6eb-64305981bd75&function=hardcrop&type=preview&source=false&width=384&height=216">
+													<h2 class="teaser__headline">
+		<span class="teaser__headline-marker">Mail Tribune to cease operations Friday - 1/13/2023
+								</span>
+	</h2>
+
+					</a>
+				</div>
+							<div class="main-menu__teaser">
+					<a href="https://www.mailtribune.com/letter-to-the-editor/2023/01/13/letters-jan-13-3/">
+													<img src="https://imengine.public.prod.med.navigacloud.com/?uuid=2146cbab-f10d-5bb5-b89d-85f29ee02661&function=hardcrop&type=preview&source=false&width=384&height=216">
+													<h2 class="teaser__headline">
+		<span class="teaser__headline-marker">Letters, Jan. 13 
+								</span>
+	</h2>
+
+					</a>
+				</div>
+							<div class="main-menu__teaser">
+					<a href="https://www.mailtribune.com/dining/2023/01/13/talent-taproom-brims-with-cider-beer-food-fun/">
+													<img src="https://imengine.public.prod.med.navigacloud.com/?uuid=c9243695-a764-5be4-8615-5af459dce858&function=hardcrop&type=preview&source=false&width=384&height=216">
+													<h2 class="teaser__headline">
+		<span class="teaser__headline-marker">Talent taproom brims with cider, beer, food, fun
+								</span>
+	</h2>
+
+					</a>
+				</div>
+					</div>
+	</li>
+<li><ul class="container sub-menu-inner">
+	<li id="menu-item-87929" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87929"><a href="https://www.mailtribune.com/comics/">Comics</a></li>
+	<li id="menu-item-87930" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87930"><a href="https://www.mailtribune.com/puzzles/">Puzzles</a></li>
+	<li id="menu-item-157322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157322"><a href="https://www.mailtribune.com/tv-tempo-guide/">TV TEMPO – Local Channel Guide</a></li>
+</li></ul></ul>
+</li>
+<li id="menu-item-157321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157321"><a href="https://www.mailtribune.com/weekly-ads/">Weekly Ads</a></li>
+</ul></nav>
+
+        <div id="weather-bar">
+            <a href="/weather">
+                <img src="https://www.mailtribune.com/wp-content/themes/med/images/accuweatherSunny.svg" alt=""/>
+                <span class="temperature"></span>
+            </a>
+        </div>
+
+        <div id="watch-bar">
+            <a href="/watch">
+                <img src="https://www.mailtribune.com/wp-content/themes/med/images/icons/sbg-video_g.svg" alt="Watch"/>
+                <span>Watch</span>
+            </a>
+        </div>
+
+                    <div class="main-nav-search">
+                <form action="/" method="get">
+    <input class="search-field" type="text" name="s" id="search" value="" />
+    <button type="button" onclick="searchBarAction(this)">
+        <img class="search-btn" type="image" alt="Search" src="https://www.mailtribune.com/wp-content/themes/med/images/icons/sbg-search-dark.svg"/>
+    </button>
+</form>
+            </div>
+        
+     <div id="login-bar watch-bar" onclick="toggleLogin()" style="width: 60px;
+    padding: 15px 8px;">
+    <span class="engage-login-button" id="MG2loginbutton" style="display:none;"><img src="https://www.mailtribune.com/wp-content/themes/med/images/sbg-account-symbol.svg" alt="Login"/></span>
+    <span class="engage-logged-in-button" id="MG2loggedinbutton" style="display:none;"><img src="https://www.mailtribune.com/wp-content/themes/med/images/sbg-profile-icon_hover3.svg" alt="Logged In"/></span>
+                <div class="top-bar-right-menu">
+                        <div id="top-login-menu-contain" class="top-login-menu"><ul id="top-login-menu" class="dropdown-menu dropdown-menu-right closed"><li class="engage-item"><a href="#" style="display:none" id="MG2logout"  data-mg2-action="logout"><strong>Logout</strong></a></li><li class="engage-item"><a href="#" style="display:none" id="MG2login"  data-mg2-action="activation"><strong>Log in</strong></a></li><li class="engage-item"><a href="#" style="display:none" id="MG2activation"  data-mg2-action="activation"><strong>Activate</strong></a></li><li class="engage-item"><a href="https://subscribe.mailtribune.com/" style="display:none" id="MG2Subscribe"><strong>Subscribe</strong></a></li><li class="engage-item"><a href="https://myaccount.mailtribune.com/"display:none" id="MG2MyAccount"><strong>My account</strong></a></li></ul></div>
+                    </div>
+        </div>
+</div>
+    
+
+
+
+    </div>
+</div>
+
+ <div class="header-region-widget">
+    <aside id="ocobjectswidget-36" class="widget widget_ocobjectswidget"><div class="general-alert" uuid="e9cab24e-0999-45ad-acef-0f5aa95fc9d9">
+    <div class="general-alert__message">
+        <div class="container">
+            <div class="general-alert__message__img">
+                                    <img src="https://imengine.public.prod.med.navigacloud.com/?uuid=403ff3ce-8b54-59a0-a6eb-64305981bd75&function=hardcrop&type=preview&source=false&width=600">
+                            </div>
+            <div class="general-alert__message__body">
+                <div><span class="general-alert__badge general-alert__badge--inverted">General alert</span></div>
+                <h3>Mail Tribune to cease operations Friday - 1/13/2023</h3>
+                <p></p>
+                <a href="https://www.mailtribune.com/general-alert/2023/01/27/mail-tribune-to-cease-operations/">View Article<i class="fa fa-chevron-right"></i></a>
+            </div>
+            <div class="general-alert__close"><i class="fas fa-times"></i></div>
+        </div>
+    </div>
+    <div class="general-alert__bar">
+        <div class="container">
+            <div class="general-alert__bar__header">
+                <span class="general-alert__badge">GENERAL ALERT</span>
+                <p>Mail Tribune to cease operations Friday - 1/13/2023</p>
+            </div>
+            <div class="general-alert__bar__toggle">
+                <span class="general-alert__bar__toggle--closed">SHOW MORE<i class="fa fa-chevron-down"></i></span>
+                <span class="general-alert__bar__toggle--open">SHOW LESS<i class="fa fa-chevron-up"></i></span>
+            </diV>
+        </div>
+        <div class="general-alert__close"><i class="fas fa-times"></i></div>
+    </div>
+</div>
+</aside>
+</div>
+
+	
+	<!--Ad Code for Leaderboard Ad above Footer-->
+	<!-- ***************************************************** -->
+<!-- **************  END Header Region ******************* -->
+<!-- ***************************************************** -->
+
+<div class="wrapper" id="index-wrapper">
+    <div class="container" id="content" tabindex="-1" data-wp-ajax="https://www.mailtribune.com/wp-admin/admin-ajax.php"
+         data-infinite-level="article" data-infinite-q="Business">
+        <div class="row">
+            <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
+                <!-- Do the left sidebar check and opens the everyware-theme-base-1 div -->
+                
+
+
+<div class="col-lg-8 col-md-12 content-area" id="everyware-theme-base-1">
+                
+    <div class="container">
+        <div id="main-body">
+            	<div id="navPageId">498B8408-1E3B-4CCD-AAD7-BEC38C2291E3</div>
+	<article id="navArticleBody" class="article-page" data-uuid="498B8408-1E3B-4CCD-AAD7-BEC38C2291E3">
+		<div class="article__part--main col-12 px-md-4 px-xl-5 pt-4 pb-5" >
+
+			<div class="row">
+				<div class="col-12">
+					<h1 id="navArticleTitle" class="article__headline">
+						Saturday&#039;s storm ignites weekend&#039;s worth of fires
+					</h1>
+
+					<div class="article-byline  navArticleAuthor">
+						<div class="article-byline__left">
+																						<div class="article__byline-info">
+								    <span class="article__byline-name">By
+								        ANITA BURKE,Mail Tribune
+                                    </span>
+                                    								</div>
+							
+							<div class="article-date navArticleDate">
+																	<span class="article-pubdate">
+																				Jul 27, 2004 12:00 AM</span>
+								 
+							</div>
+						</div>
+
+						<div class="article-change-font-size">
+							<button onclick="fontSizeToggle();" data-size="normal">
+								<span>A</span>
+								<span>A</span>
+							</button>
+						</div>
+					</div>
+
+					
+				</div>
+			</div>
+
+			<div class="row justify-content-md-around">
+
+				<div class="col-sm-12 col-md-auto pr-md-0 article-social-media-wrapper">
+					<div id="article-social-media" class="article-social-media">
+						<a href="https://www.facebook.com/sharer.php?u=https://www.mailtribune.com/business/2004/07/27/saturdays-storm-ignites-weekends-worth-of-fires/" target="_blank">
+							<div class="article-social-media__icon article-social-media__icon--facebook">
+								<i class="fab fa-facebook-square"></i>
+							</div>
+						</a>
+						<a href="https://twitter.com/intent/tweet?url=https://www.mailtribune.com/business/2004/07/27/saturdays-storm-ignites-weekends-worth-of-fires/">
+							<div class="article-social-media__icon article-social-media__icon--twitter">
+								<i class="fab fa-twitter"></i>
+							</div>
+						</a>
+						<a href="mailto:?subject=Saturday%27s%20storm%20ignites%20weekend%27s%20worth%20of%20fires&amp;body=Here%20is%20a%20mailtribune.com%20article%20that%20you%20might%20like%0A%0Ahttps://www.mailtribune.com/business/2004/07/27/saturdays-storm-ignites-weekends-worth-of-fires/">
+							<div class="article-social-media__icon article-social-media__icon--email">
+								<i class="fas fa-envelope"></i>
+							</div>
+						</a>
+					</div>
+				</div>
+
+				<div class="col pl-md-4 pl-xl-5">
+					<div class="article-restofcontent">
+						            <!-- Blank because headline is in article-page.twig -->
+                <p class="article__body">Firefighters worked Monday to rein in a series of small fires sparked by Saturday's thunderstorm and kept watch for undiscovered smoldering fires.</p>
+                <p class="article__body">Oregon Department of Forestry crews battled one such sleeper fire Monday near Horn Gulch, about two miles southwest of Ashland, said Dennis Turco, a fire prevention specialist with the department.</p>
+                <p class="article__body">The fire was discovered Sunday and had burned an acre by Monday, he said.</p>
+                <p class="article__body">We're getting a good handle on it, Turco said.</p>
+                <p class="article__body">On Monday, Forest Service crews mopped up three small fires in the Ashland watershed. The largest burned about half an acre, said Charlie Phenix, a fire staff officer for the Rogue River and Siskiyou national forests.</p>
+                <p class="article__body">— Forest Service firefighters also continued to check on a doused fire that burned 17 acres on the Middle Fork of the Applegate River last week, Phenix said.</p>
+                <p class="article__body">The fire, believed to be human caused, started Thursday, he said. Crews patrolled the area looking for hot spots Monday. The fire is under investigation, he said.</p>
+                <p class="article__body">Oregon crews knocked out seven fires Sunday that Saturday's storm ignited. The largest of those burned three-quarters of an acre near Pilot Rock, Turco said.</p>
+                <p class="article__body">Saturday's storm brought 102 lightning strikes to Southern Oregon and 700 to Northern California, fire officials said. Only 11 fires have been discovered in Oregon, but it sparked 25 fires across the state line.</p>
+                <p class="article__body">The largest lightning-caused fire there was the Irongate fire, about 17 miles northeast of Yreka. It had burned 2,400 acres in grass, brush and scattered timber but was 90 percent contained by Monday afternoon, said Kevin Colburn, a fire information officer with the California Department of Forestry.</p>
+                <p class="article__body">About a dozen homes and some campsites at the south end of Irongate Reservoir had been evacuated, but the evacuation order was lifted at noon Monday, Colburn said.</p>
+                <p class="article__body">A reconnaissance flight from Medford surveyed lightning-prone areas near Ashland, Butte Falls and Prospect on Monday morning but found no new fires. Additional flights were set for Monday afternoon and this morning.</p>
+                <p class="article__body">A Sunday night thunderstorm started eight fires in Northern California, but all were quickly contained, he said. The largest burned about 5 acres near the town of Mount Shasta.</p>
+                <p class="article__body">No additional storms were predicted in Southern Oregon this week, the National Weather Service reported. Areas east of the Cascades could get hit next weekend as moisture moves into the region.</p>
+                <p class="article__body">Reach reporter Anita Burke at 776-4485, or e-mail .</p>
+    
+					</div>
+
+					
+										<div class="in-article-ad hidden" data-ad-frequency=4>
+						<div id="ddb_300x250_pos_3" class="box advertisement">
+							<script type="text/javascript">
+								if (googletag !== undefined) {
+									googletag.cmd.push(function () {
+										googletag.display("ddb_300x250_pos_3");
+									})
+								}
+							</script>
+						</div>
+					</div>
+					
+					
+				</div>
+			</div>
+		</div>
+		<div class="article__part--footer col-12 py-4"></div>
+	</article>
+
+        </div>
+    </div>
+    
+
+                <!-- Do the right sidebar check -->
+                
+</div><!-- #closing the everyware-theme-base-1 container from /global-templates/left-sidebar-check.php -->
+
+
+
+  
+	<div class="col-lg-4 col-md-12 widget-area" id="right-sidebar" role="complementary"><div class="position-sticky">		<div id="ddb_300x250_pos_1" class="ddb_300x250_pos_1 advertisement"><script type="text/javascript">if (googletag !== undefined) {googletag.cmd.push(function() { googletag.display("ddb_300x250_pos_1"); })}</script></div><aside id="ocobjectswidget-47" class="widget widget_ocobjectswidget"><div class="widget_title_div"><h3 class="widget_title">Happening Now</h3></div><article class="teaser thin-teaser left teaser--standard" data-uuid="e88d6beb-81fd-4a2e-b916-d0000542ca0b" data-comment-id="">
+    <div class="container">
+    	<div class="row">
+
+            <div class="teaser-image thin-teaser col-md-4 col-5">
+                <a href="https://www.mailtribune.com/happening-now/2023/01/12/sou-president-gets-feedback-on-realignment-plan/">
+                                                                        <img src="https://imengine.public.prod.med.navigacloud.com/?uuid=cbb5e595-c324-5b85-a2d0-ffd6cae2ea4a&function=hardcrop&type=preview&source=false&width=730&height=411">
+
+                                    </a>
+            </div>
+
+            <div class="teaser-content col-md-8 col-7">
+                <div class="row">
+                                            <div class="teaser-thin-teaser-category">
+                                                    </div>
+                                                                <div class="teaser-thin-teaser-time">
+                                                            4 weeks ago
+                                                    </div>
+                                    </div>
+                <a href="https://www.mailtribune.com/happening-now/2023/01/12/sou-president-gets-feedback-on-realignment-plan/"><div class="entry-title thin-teaser">	<h2 class="teaser__headline">
+		<span class="teaser__headline-marker">SOU president gets feedback on realignment plan
+								</span>
+	</h2>
+</div></a>
+                <div class="teaser-body thin-teaser">
+                                                                <span class="teaser-thin-teaser-author">
+                                                                                                By Kevin Opsahl
+                                                                                    </span>
+                                    </div>
+            </div>
+        
+        </div>
+    </div>
+</article><article class="teaser thin-teaser left teaser--standard" data-uuid="a8bee9c2-674b-4e5b-bbc5-bc9ece1b5afc" data-comment-id="">
+    <div class="container">
+    	<div class="row">
+
+            <div class="teaser-image thin-teaser col-md-4 col-5">
+                <a href="https://www.mailtribune.com/happening-now/2023/01/12/oregon-will-begin-processing-2022-state-income-tax-returns-jan-23/">
+                                                                        <img src="https://imengine.public.prod.med.navigacloud.com/?uuid=00a32343-763e-5e86-9bfb-336cecf8aec7&function=hardcrop&type=preview&source=false&width=730&height=411">
+
+                                    </a>
+            </div>
+
+            <div class="teaser-content col-md-8 col-7">
+                <div class="row">
+                                            <div class="teaser-thin-teaser-category">
+                                                    </div>
+                                                                <div class="teaser-thin-teaser-time">
+                                                            4 weeks ago
+                                                    </div>
+                                    </div>
+                <a href="https://www.mailtribune.com/happening-now/2023/01/12/oregon-will-begin-processing-2022-state-income-tax-returns-jan-23/"><div class="entry-title thin-teaser">	<h2 class="teaser__headline">
+		<span class="teaser__headline-marker">Oregon will begin processing 2022 state income tax returns Jan. 23
+								</span>
+	</h2>
+</div></a>
+                <div class="teaser-body thin-teaser">
+                                                        </div>
+            </div>
+        
+        </div>
+    </div>
+</article><article class="teaser thin-teaser left teaser--standard" data-uuid="9c54ed69-6c48-4fdb-9bbc-a62e1a89476b" data-comment-id="">
+    <div class="container">
+    	<div class="row">
+
+            <div class="teaser-image thin-teaser col-md-4 col-5">
+                <a href="https://www.mailtribune.com/crime-courts-and-emergencies/2023/01/12/emergency-services-jan-12-2/">
+                                                                        <img src="https://imengine.public.prod.med.navigacloud.com/?uuid=936a006a-68be-567e-a926-16f740af0810&function=hardcrop&type=preview&source=false&width=730&height=411">
+
+                                    </a>
+            </div>
+
+            <div class="teaser-content col-md-8 col-7">
+                <div class="row">
+                                            <div class="teaser-thin-teaser-category">
+                                                    </div>
+                                                                <div class="teaser-thin-teaser-time">
+                                                            4 weeks ago
+                                                    </div>
+                                    </div>
+                <a href="https://www.mailtribune.com/crime-courts-and-emergencies/2023/01/12/emergency-services-jan-12-2/"><div class="entry-title thin-teaser">	<h2 class="teaser__headline">
+		<span class="teaser__headline-marker">Emergency services, Jan. 12
+								</span>
+	</h2>
+</div></a>
+                <div class="teaser-body thin-teaser">
+                                                        </div>
+            </div>
+        
+        </div>
+    </div>
+</article></aside><section class="ew-most-read-google-analytics ew-most-read-google-analytics__container"><article class="teaser thin-teaser left teaser--standard" data-uuid="E8CDD35F-011D-4ADC-890F-62023CB2A553" data-comment-id=""><div class="container"><div class="row"><div class="teaser-image thin-teaser col-md-4 col-5"><a href="https://www.mailtribune.com/archive/2007/04/22/who-is-downtown-dan/"><img src="https://imengine.public.prod.med.navigacloud.com/?uuid=0B3779D6-442C-4B36-8095-AA9022B995E8&function=hardcrop&type=preview&source=false&width=730&height=411"></a></div><div class="teaser-content col-md-8 col-7"><div class="row"><div class="teaser-thin-teaser-category"></div><div class="teaser-thin-teaser-time">
+                                                            16 years ago
+                                                    </div></div><a href="https://www.mailtribune.com/archive/2007/04/22/who-is-downtown-dan/"><div class="entry-title thin-teaser"><h2 class="teaser__headline"><span class="teaser__headline-marker">Who is Downtown Dan?
+								</span></h2></div></a><div class="teaser-body thin-teaser"></div></div></div></div></article><article class="teaser thin-teaser left teaser--standard" data-uuid="40893B9F-D4B3-4A30-B084-6015329B9523" data-comment-id=""><div class="container"><div class="row"><div class="teaser-image thin-teaser col-md-4 col-5"><a href="https://www.mailtribune.com/archive/2012/12/11/police-id-actors-son-in-suspected-heroin-death/"></a></div><div class="teaser-content col-md-8 col-7"><div class="row"><div class="teaser-thin-teaser-category"></div><div class="teaser-thin-teaser-time">
+                                                            10 years ago
+                                                    </div></div><a href="https://www.mailtribune.com/archive/2012/12/11/police-id-actors-son-in-suspected-heroin-death/"><div class="entry-title thin-teaser"><h2 class="teaser__headline"><span class="teaser__headline-marker">Police ID actor's son in suspected heroin death
+								</span></h2></div></a><div class="teaser-body thin-teaser"></div></div></div></div></article><article class="teaser thin-teaser left teaser--standard" data-uuid="edebba92-b555-4b25-a7f5-79cb8a996c37" data-comment-id=""><div class="container"><div class="row"><div class="teaser-image thin-teaser col-md-4 col-5"><a href="https://www.mailtribune.com/crime-courts-and-emergencies/2021/08/11/man-sentenced-in-connection-with-beating-death/"><img src="https://imengine.public.prod.med.navigacloud.com/?uuid=2f466a53-0a79-5af8-8a1e-37aac9880981&function=hardcrop&type=preview&source=false&width=730&height=411"></a></div><div class="teaser-content col-md-8 col-7"><div class="row"><div class="teaser-thin-teaser-category"></div><div class="teaser-thin-teaser-time">
+                                                            1 year ago
+                                                    </div></div><a href="https://www.mailtribune.com/crime-courts-and-emergencies/2021/08/11/man-sentenced-in-connection-with-beating-death/"><div class="entry-title thin-teaser"><h2 class="teaser__headline"><span class="teaser__headline-marker">Man sentenced in connection with beating death
+								</span></h2></div></a><div class="teaser-body thin-teaser"><span class="teaser-thin-teaser-author">
+                                                                                                By Vickie Aldous
+                                                                                    </span></div></div></div></div></article></section><div id="ddb_300x250_pos_2" class="ddb_300x250_pos_2 advertisement"><script type="text/javascript">if (googletag !== undefined) {googletag.cmd.push(function() { googletag.display("ddb_300x250_pos_2"); })}</script></div><aside id="twitter_widget-3" class="widget widget_twitter_widget"><h3 class="widget-title">Twitter</h3><a class="twitter-timeline" data-width="350" data-height="500" data-dnt="true" data-theme="light" data-chrome="noscrollbar nofooter noborders" href="https://twitter.com/mailtribune?ref_src=twsrc%5Etfw">Loading tweets by mailtribune...</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></aside><aside id="custom_html-7" class="widget_text widget widget_custom_html"><h3 class="widget-title">STAY CONNECTED</h3><div class="textwidget custom-html-widget"><div class="index_socialBtnGrp__2LlV"><a class="index_socialBtn__1tFq index_facebookLike__3joL" style="margin-right:15px !important" href="https://www.facebook.com/mailtribune" target="_blank" aria-label="Like us on Facebook" rel="noopener"><img class="index_socialIcon__2fvY" src="/wp-content/themes/med/images/icons/facebook.svg" alt="Facebook Icon"><div class="index_socialTxt__35kw index_text__1aNu">Like Us</div></a><div class="index_socialBtn__1tFq index_twitterFollow__2g3n" aria-label="Follow us on Twitter"><img class="index_socialIcon__2fvY" src="/wp-content/themes/med/images/icons/twitter.svg" alt="Twitter Icon"><div class="index_socialTxt__35kw index_text__1aNu">Follow Us</div></div></div>
+<div class="index_linkGrp__2I6Q index_text__1aNu"><div class=""><a href="/copyright/">© 2022
+		Mail Tribune</a></div><div class="index_linkList__1Pbb"><a href="/privacy-policy/" target="" rel="noopener">Privacy</a> <a href="/terms-of-service/" target="" rel="noopener">Terms</a></div></div></div></aside></div></div><!-- #right-sidebar -->
+
+            </div>
+        </div>
+     <!-- .row -->
+     
+        	<!--Ad Code for leaderboard ad above footer-->
+    <div class="row">
+			<div id="ddb_728x90_pos_1" class="footerAd advertisement col-md-12">
+			<script type="text/javascript">
+				if (googletag !== undefined) {
+					googletag.cmd.push(function() { googletag.display("ddb_728x90_pos_1"); })
+				}
+			</script>
+		</div>
+    </div>
+	
+        <!-- .row -->
+        <div class="row">
+
+                </div>
+    </div><!-- Container end -->
+</div><!-- Wrapper end -->
+
+
+
+	<!--Ad Code for leaderboard ad above footer-->
+			<div id="ddb_728x90_pos_1" class="footerAd advertisement col-md-12">
+			<script type="text/javascript">
+				if (googletag !== undefined) {
+					googletag.cmd.push(function() { googletag.display("ddb_728x90_pos_1"); })
+				}
+			</script>
+		</div>
+	
+	<!--Ad Code for leaderboard ad above footer-->
+	
+		<div class="wrapper" id="wrapper-footer">
+	<div class="container-fluid">
+		<div class="row">
+
+		
+					<div class="col-md-12 col-12" id="footer-menu">
+		
+							<nav>
+		
+					
+		<div class="footer-menus">
+			<div class="container-fluid">
+				<div class="row">
+															<div class="col-md-12 col-12">
+										<div class="footer-first-menu footer-menu">
+													<div class="footer-first-menu-heading footer-heading"><p>© 2022 Mail Tribune</p></div> 
+						
+						<div class="menu-footer-menu-1-container"><ul id="Footer Menu - 1" class=""><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1740 nav-item"><a title="Privacy &amp; Cookie Policy" href="https://www.mailtribune.com/privacy-policy/" class="nav-link">Privacy &#038; Cookie Policy</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1741 nav-item"><a title="Terms &amp; Conditions" href="https://www.mailtribune.com/terms-of-service/" class="nav-link">Terms &#038; Conditions</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1742 nav-item"><a title="Copyright Notice" href="https://www.mailtribune.com/copyright/" class="nav-link">Copyright Notice</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1743 nav-item"><a title="About Us" href="https://www.mailtribune.com/about-us/" class="nav-link">About Us</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136840 nav-item"><a title="Employment" href="https://www.mailtribune.com/employment/" class="nav-link">Employment</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1744 nav-item"><a title="Contact Us" href="https://www.mailtribune.com/contact-us/" class="nav-link">Contact Us</a></li>
+</ul></div>
+					
+						</div>		
+					</div>
+				
+				
+				
+				
+				</div>			</div>		</div>
+		</nav>		</div>
+
+					
+							<div class="footer-main col-md-12">
+			
+			<div class="row">
+				
+									<div class="footer-data-center col-md-4 offset-md-4">
+						<div class="row">
+				
+				
+									<div class="footer-social-media col-md-12 center">
+													<span class="footer-social-media-icon facebook"><a href="https://www.facebook.com/mailtribune"><i class="fa fa-facebook-f"></i></a></span>
+																			<span class="footer-social-media-icon instagram"><a href="https://www.instagram.com/mtnewsroom/"><i class="fa fa-instagram"></i></a></span>
+																			<span class="footer-social-media-icon youtube"><a href="https://www.youtube.com/user/MailTribunenews"><i class="fa fa-youtube"></i></a></span>
+																			<span class="footer-social-media-icon twitter"><a href="https://twitter.com/mailtribune"><i class="fa fa-twitter"></i></a></span>
+											</div>
+					
+
+										</div>
+					</div>
+				
+			</div>	
+
+			</div>
+
+					
+		
+			</div>
+		</div>
+
+		</div>	</div></div><div id='ddb_1x1_desktop'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('ddb_1x1_desktop'); });
+  </script>
+</div>
+	        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-191547271-1']);
+            _gaq.push(['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+        <script type='text/javascript' src='https://www.mailtribune.com/wp-content/themes/everyware-theme-base-1/js/understrap.min.js?ver=1669399218780' id='understrap-js'></script>
+<script type='text/javascript' src='https://www.mailtribune.com/wp-content/themes/med/js/content.js' id='content-js'></script>
+<script type='text/javascript' src='https://www.mailtribune.com/wp-content/themes/med/js/video-slider.js' id='video-slider-js'></script>
+<script type='text/javascript' src='https://www.mailtribune.com/wp-content/themes/med/js/watch-video.js' id='watch-video-js'></script>
+<script type='text/javascript' src='https://www.mailtribune.com/wp-content/themes/med/js/infinite-scroll.js' id='infinite-js'></script>
+<script type='text/javascript' src='https://www.mailtribune.com/wp-content/themes/med/js/menus.js' id='menus-js'></script>
+<script type='text/javascript' src='https://www.mailtribune.com/wp-content/themes/med/js/video-module-slider.js' id='video-module-slider-js'></script>
+<script type='text/javascript' id='med-body-js-js-extra'>
+/* <![CDATA[ */
+var infomaker = {"ajaxurl":"https:\/\/www.mailtribune.com\/ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://static.ew.med.navigacloud.com/wp-content/themes/med/assets/js/body.js?ver=1669399218780' id='med-body-js-js'></script>
+<script type='text/javascript' src='https://static.ew.med.navigacloud.com/wp-content/themes/med/assets/js/article.js?ver=1669399218780' id='med-article-js-js'></script>
+<script type='text/javascript' src='https://www.mailtribune.com/wp-content/themes/med/slick/slick.js?ver=1669399218780' id='slick-js'></script>
+<script type='text/javascript' src='https://www.mailtribune.com/wp-content/themes/med/slick/slick-theme.js?ver=1669399218780' id='slick-theme-js'></script>
+<script type='text/javascript' src='https://www.mailtribune.com/wp-content/themes/med/js/breaking.js?ver=1669399218780' id='breaking-js'></script>
+<script type='text/javascript' src='https://www.mailtribune.com/wp-includes/js/wp-embed.min.js?ver=1669399218780' id='wp-embed-js'></script>
+
+	<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1869943001" async></script></body>
+</html>
+

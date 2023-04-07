@@ -1,0 +1,1110 @@
+<!-- opalstack webcobrand v2.0 20200304 -->
+<!doctype html>
+	<script type="application/ld+json" id="pageinfo">
+	  {
+		"@context": "http://schema.org",
+		"@type": "NewsArticle",
+		"headline": "Reno Fire and Smoke",
+		"url": "https://data.rgj.com/fires/",
+		"canonical_url": "https://data.rgj.com/fires/",
+		"thumbnailUrl": "https://data.rgj.com/media/uploads/fires.jpg",
+		"articleSection": "data central",
+		"creator": ["DOT"],
+		"keywords": ["ssts:data central:Fire and Smoke"],
+		"metadata": "{\"type\": \"feature\",  \"url\":\"https://data.rgj.com/fires/\", \"image_url\": \"https://data.rgj.com/media/uploads/fires.jpg\"}"
+	
+	  }
+	</script>
+	
+	<!--[if IE 8]><html class="no-js lt-ie10 lt-ie9" lang="en"><![endif]--><!--[if IE 9]><html class="no-js lt-ie10" lang="en"><![endif]--><!--[if gt IE 10]><!--><html class="no-js" lang="en" ><!--<![endif]--><head prefix="og: http://ogp.me/ns#"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwQPV1JVGwYDVVlVDwED",licenseKey:"b7ac0e2ada",applicationID:"53187804"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(20),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(21),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(9),t(8),"addEventListener"in window&&t(5),c.xhrWrappable&&t(10),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(9),s=t(8),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",g="pushState",y=t("loader");y.features.stn=!0,t(7),"addEventListener"in window&&t(5);var x=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof x&&(this.bstStart=y.now())}),o.on(w,function(t,n){var e=t[0];e instanceof x&&i("bst",[e,n,this.bstStart,y.now()])}),a.on(m,function(t,n,e){this.bstStart=y.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,y.now(),this.bstType])}),s.on(m,function(){this.bstStart=y.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,y.now(),"requestAnimationFrame"])}),o.on(g+p,function(t){this.time=y.now(),this.startPath=location.pathname+location.hash}),o.on(g+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t("wrap-function")(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){function r(t,n,e){var r=t[n];"function"==typeof r&&(t[n]=function(){var t=i(arguments),n={};o.emit(e+"before-start",[t],n);var a;n[m]&&n[m].dt&&(a=n[m].dt);var s=r.apply(this,t);return o.emit(e+"start",[t,a],s),s.then(function(t){return o.emit(e+"end",[null,t],s),t},function(t){throw o.emit(e+"end",[t],s),t})})}var o=t("ee").get("fetch"),i=t(21),a=t(20);n.exports=o;var s=window,c="fetch-",f=c+"body-",u=["arrayBuffer","blob","json","text","formData"],d=s.Request,l=s.Response,p=s.fetch,h="prototype",m="nr@context";d&&l&&p&&(a(u,function(t,n){r(d[h],n,f),r(l[h],n,f)}),r(s,"fetch",c),o.on(c+"end",function(t,n){var e=this;if(n){var r=n.headers.get("content-length");null!==r&&(e.rxSize=r),o.emit(c+"done",[null,n],e)}else o.emit(c+"done",[t],e)}))},{}],7:[function(t,n,e){var r=t("ee").get("history"),o=t("wrap-function")(r);n.exports=r;var i=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;i&&i.pushState&&i.replaceState&&(a=i),o.inPlace(a,["pushState","replaceState"],"-")},{}],8:[function(t,n,e){var r=t("ee").get("raf"),o=t("wrap-function")(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],9:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t("wrap-function")(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],10:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,g,"fn-",s)}function i(t){y.push(t),h&&(b?b.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t("wrap-function")(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",g=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];n.exports=u;var x=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],11:[function(t,n,e){function r(t){if(!i(t))return null;var n=window.NREUM;if(!n.loader_config)return null;var e=(n.loader_config.accountID||"").toString()||null,r=(n.loader_config.agentID||"").toString()||null,s=(n.loader_config.trustKey||"").toString()||null;if(!e||!r)return null;var c=a.generateCatId(),f=a.generateCatId(),u=Date.now(),d=o(c,f,u,e,r,s);return{header:d,guid:c,traceId:f,timestamp:u}}function o(t,n,e,r,o,i){var a="btoa"in window&&"function"==typeof window.btoa;if(!a)return null;var s={v:[0,1],d:{ty:"Browser",ac:r,ap:o,id:t,tr:n,ti:e}};return i&&r!==i&&(s.d.tk=i),btoa(JSON.stringify(s))}function i(t){var n=!1,e=!1,r={};if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(r=NREUM.init.distributed_tracing,e=!!r.enabled),e)if(t.sameOrigin)n=!0;else if(r.allowed_origins instanceof Array)for(var o=0;o<r.allowed_origins.length;o++){var i=s(r.allowed_origins[o]);if(t.hostname===i.hostname&&t.protocol===i.protocol&&t.port===i.port){n=!0;break}}return e&&n}var a=t(18),s=t(13);n.exports={generateTracePayload:r,shouldGenerateTrace:i}},{}],12:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<p;r++)t.removeEventListener(l[r],this.listener,!1);n.aborted||(e.duration=s.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==n.status&&(n.status=0):a(this,t),e.cbTime=this.cbTime,d.emit("xhr-done",[t],t),c("xhr",[n,e,this.startTime]))}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return w(r)}function i(t,n){var e=f(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.parsedOrigin=f(n),t.sameOrigin=t.parsedOrigin.sameOrigin}function a(t,n){t.params.status=n.status;var e=o(n,t.lastSize);if(e&&(t.metrics.rxSize=e),t.sameOrigin){var r=n.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(13),u=t(11).generateTracePayload,d=t("ee"),l=["load","error","abort","timeout"],p=l.length,h=t("id"),m=t(16),w=t(15),v=window.XMLHttpRequest;s.features.xhr=!0,t(10),t(6),d.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,n.loadCaptureCalled=!1,t.addEventListener("load",function(e){a(n,t)},!1),m&&(m>34||m<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),d.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),d.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var e=u(this.parsedOrigin);e&&e.header&&(n.setRequestHeader("newrelic",e.header),this.dt=e)}),d.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=w(r);i&&(e.txSize=i)}this.startTime=s.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{d.emit("internal-error",[e])}catch(r){}}};for(var a=0;a<p;a++)n.addEventListener(l[a],this.listener,!1)}),d.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),d.on("xhr-load-added",function(t,n){var e=""+h(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),d.on("xhr-load-removed",function(t,n){var e=""+h(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),d.on("addEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&d.emit("xhr-load-added",[t[1],t[2]],n)}),d.on("removeEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&d.emit("xhr-load-removed",[t[1],t[2]],n)}),d.on("fn-start",function(t,n,e){n instanceof v&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=s.now()))}),d.on("fn-end",function(t,n){this.xhrCbStart&&d.emit("xhr-cb-time",[s.now()-this.xhrCbStart,this.onload,n],n)}),d.on("fetch-before-start",function(t){var n,e=t[1]||{};"string"==typeof t[0]?n=t[0]:t[0]&&t[0].url&&(n=t[0].url),n&&(this.parsedOrigin=f(n),this.sameOrigin=this.parsedOrigin.sameOrigin);var r=u(this.parsedOrigin);if(r&&r.header){var o=r.header;if("string"==typeof t[0]){var i={};for(var a in e)i[a]=e[a];i.headers=new Headers(e.headers||{}),i.headers.set("newrelic",o),this.dt=r,t.length>1?t[1]=i:t.push(i)}else t[0]&&t[0].headers&&(t[0].headers.append("newrelic",o),this.dt=r)}})}},{}],13:[function(t,n,e){var r={};n.exports=function(t){if(t in r)return r[t];var n=document.createElement("a"),e=window.location,o={};n.href=t,o.port=n.port;var i=n.href.split("://");!o.port&&i[1]&&(o.port=i[1].split("/")[0].split("@").pop().split(":")[1]),o.port&&"0"!==o.port||(o.port="https"===i[0]?"443":"80"),o.hostname=n.hostname||e.hostname,o.pathname=n.pathname,o.protocol=i[0],"/"!==o.pathname.charAt(0)&&(o.pathname="/"+o.pathname);var a=!n.protocol||":"===n.protocol||n.protocol===e.protocol,s=n.hostname===document.domain&&n.port===e.port;return o.sameOrigin=a&&(!n.hostname||s),"/"===o.pathname&&(r[t]=o),o}},{}],14:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(20),s=t(21),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,n])}},{}],15:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],16:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],17:[function(t,n,e){function r(t,n){var e=t.getEntries();e.forEach(function(t){"first-paint"===t.name?a("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&a("timing",["fcp",Math.floor(t.startTime)])})}function o(t){if(t instanceof c&&!u){var n,e=Math.round(t.timeStamp);n=e>1e12?Date.now()-e:s.now()-e,u=!0,a("timing",["fi",e,{type:t.type,fid:n}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var i,a=t("handle"),s=t("loader"),c=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){i=new PerformanceObserver(r);try{i.observe({entryTypes:["paint"]})}catch(f){}}if("addEventListener"in document){var u=!1,d=["click","keydown","mousedown","pointerdown","touchstart"];d.forEach(function(t){document.addEventListener(t,o,!1)})}}},{}],18:[function(t,n,e){function r(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(n=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(n=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<16;i++)o.push(t().toString(16));return o.join("")}n.exports={generateUuid:r,generateCatId:o}},{}],19:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],20:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],21:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],22:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([x,e,r,a]),a}}function p(t,n){g[t]=m(t).concat(n)}function h(t,n){var e=g[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return g[t]||[]}function w(t){return d[t]=d[t]||o(e)}function v(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var g={},y={},x={on:p,addEventListener:p,removeEventListener:h,emit:e,get:w,listeners:m,context:n,buffer:v,abort:a,aborted:!1};return x}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(20),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=b.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(20),u=t("ee"),d=t(19),l=window,p=l.document,h="addEventListener",m="attachEvent",w=l.XMLHttpRequest,v=w&&w.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:w,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var g=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1158.min.js"},x=w&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:g,features:{},xhrWrappable:x,userAgent:d};t(14),t(17),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(22)},{}],"wrap-function":[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(21),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}]},{},["loader",2,12,4,3]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"b7ac0e2ada","agent":"","transactionName":"NARUbRdVVhdSBk0MWQ1OcEwLV0wNXAsWElMBPkVNBFpcBUEBZgRGExIYTwxRTxcJBlYHRAIPUmYSRlkUQwBL","applicationID":"53187804","errorBeacon":"bam.nr-data.net","applicationTime":105}</script>
+	<script type="text/javascript">var gciAnalyticsUAID = 'PREN-TEALIUM-TLHDATACENTRAL';</script>
+	<script type="text/javascript">    
+		var getGUPUserWithJSONP = (function loadJSONP(window, document) {
+			var currentDate = new Date(),
+				name = '_' + currentDate.getTime(),
+				url = 'https://user.rgj.com/PREN-GUP/user/?callback=' + name,
+				head = document.head || document.getElementsByTagName( 'head' )[0],
+				main_script = document.createElement('script');
+			main_script.type = 'text/javascript';
+			return function(callback) {
+				script = main_script.cloneNode();
+				script.src = url;
+				window[name] = function(data) {
+					callback.call(window,data);
+					head.removeChild(script);
+					script = null;
+					delete window[name];
+				};
+				head.appendChild(script);
+			};
+		})(window, document);
+		getGUPUserWithJSONP(function(userData) {
+			window.gciAnalytics = window.gciAnalytics || {};
+			window.gciAnalytics.user = userData;
+			
+			var gciAnalyticsTag = document.createElement('script'),
+				firstScriptTag = document.getElementsByTagName('script')[0];
+		
+			gciAnalyticsTag.src = 'https://www.gannett-cdn.com/dc/gciAnalytics.js';
+			firstScriptTag.parentNode.insertBefore(gciAnalyticsTag, firstScriptTag);
+		});
+	</script>
+        
+<script type="text/javascript" src="//www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="https://www.gannett-cdn.com/partner/vendor/pbjsandwich-v1.min.js"></script><script type="text/javascript">
+    // POLYFILLS (Array.prototype.map, Array.prototype.reduce, Array.prototype.find)
+    if(!Array.prototype.reduce){Object.defineProperty(Array.prototype,"reduce",{value:function(e){if(this===null){throw new TypeError("Array.prototype.reduce called on null or undefined")}if(typeof e!=="function"){throw new TypeError(e+" is not a function")}var d=Object(this);var a=d.length>>>0;var b=0;var c;if(arguments.length==2){c=arguments[1]}else{while(b<a&&!(b in d)){b++}if(b>=a){throw new TypeError("Reduce of empty array with no initial value")}c=d[b++]}while(b<a){if(b in d){c=e(c,d[b],b,d)}b++}return c}})}if(!Array.prototype.find){Object.defineProperty(Array.prototype,"find",{value:function(b){if(this==null){throw new TypeError('"this" is null or not defined')}var f=Object(this);var a=f.length>>>0;if(typeof b!=="function"){throw new TypeError("predicate must be a function")}var c=arguments[1];var d=0;while(d<a){var e=f[d];if(b.call(c,e,d,f)){return e}d++}return undefined}})}if(!Array.prototype.map){Array.prototype.map=function(i,h){var b,a,c;if(this==null){throw new TypeError("this is null or not defined")}var e=Object(this);var f=e.length>>>0;if(typeof i!=="function"){throw new TypeError(i+" is not a function")}if(arguments.length>1){b=h}a=new Array(f);c=0;while(c<f){var d,g;if(c in e){d=e[c];g=i.call(b,d,c,e);a[c]=g}c++}return a}};
+</script><script type="text/javascript">
+
+    var dataToSend = [], prebid;
+
+    prebid = {"colossusssp": {"enabled": true, "adPointId": 6745978, "placements": {"poster_scroll": {"placement_id": 21752}, "poster": {"placement_id": 21751}, "high_impact": {"placement_id": 21750}, "leaderboard_btf": {"placement_id": 21753}, "poster_front": {"placement_id": 21751}}}, "all_bids_cutoff": 4, "rivr": {"clientAuthToken": "Z2FubmV0dDpWa0AmN2NhdVhFT0J6TXxnZmhxLw==", "enabled": false, "scriptUrl": "https://ocean.rivrai.com/rivraddon.js", "clientId": "gannett", "usp": false}, "index": {"placements": {"poster_scroll": {"siteid": 196732, "id": 8}, "poster_gallery": {"siteid": 196730, "id": 6}, "poster_front": {"siteid": 196729, "id": 5}, "poster": {"siteid": 196728, "id": 4}, "leaderboard_atf": {"siteid": 196726, "id": 2}, "high_impact": {"siteid": 196725, "id": 1}, "poster_gallery_companion": {"siteid": 196731, "id": 7}, "leaderboard_btf": {"siteid": 196727, "id": 3}}, "enabled": false, "adPointId": 3357003, "identity_lib": {"scriptUrl": "https://js-sec.indexww.com/ht/p/184808-190681299057122.js", "timeout": 200}, "usp": false}, "targeting": {"keys": ["adid", "deal"], "generic": true}, "rubicon": {"account": "11324", "enabled": true, "zoneId": "1516076", "zones": {"atf": {"life": 156952, "money": 156956, "travel": 156966, "sports": 156960, "weather": 159204, "tech": 156962, "opinion": 217164, "home": 156954, "news": 156958, "ros": 1516076}, "btf": {"life": 159192, "money": 159196, "travel": 159202, "sports": 156964, "weather": 159206, "tech": 159200, "opinion": 217166, "home": 159194, "news": 159198, "ros": 1516076}}, "siteId": "37664", "adPointId": 3342134, "usp": true}, "openx": {"domain": "gannett-d.openx.net", "enabled": true, "multisize": true, "adPointId": 3355968, "usp": false, "placements": [{"life": 538809219, "money": 538809222, "travel": 538809226, "sports": 538809208, "opinion": 538809230, "home": 538809201, "news": 538809203, "ros": 538809232, "size": "300x250"}, {"life": 538809224, "money": 538809220, "travel": 538809227, "sports": 538809207, "opinion": 538809231, "home": 538809202, "news": 538809204, "ros": 538809234, "size": "300x600"}, {"home": 538809200, "ros": 538809235, "size": "970x250"}, {"ros": 540401032, "size": "728x90"}]}, "criteo": {"multisize": true, "enabled": true, "adPointId": 3347031, "placements": [{"id": 580850, "size": "728x90"}, {"id": 580848, "size": "300x250"}, {"id": 580849, "size": "300x600"}, {"id": 580856, "size": "970x250"}], "usp": false}, "config": {"syncBlacklistImage": ["colossusssp"], "syncBlacklistIframe": ["colossusssp"], "maxRequestsPerOrigin": 1, "syncsPerBidder": 50, "iframeSync": "*", "syncDelay": 7000, "timeoutBuffer": 400, "useBidCache": true}, "staq": {"url": "headerbidding.staqdata.com", "connId": "6872", "enabled": false, "usp": false}, "symbol": "pbjs", "aol": {"bidkey": "aolbid", "network": "10315.1", "enabled": true, "multisize": false, "server": "adserver.adtechus.com", "adPointId": 3351817, "usp": false, "placements": [{"id": 4113915, "size": "728x90"}, {"id": 4113916, "size": "300x250"}, {"id": 4113917, "size": "300x600"}], "bidfloor": "0.0"}, "triplelift": {"multisize": false, "enabled": true, "adPointId": 2615974, "placements": [{"id": "USCP_300x600_desktop", "size": "300x600"}, {"id": "USCP_970x250_desktop", "size": "970x250"}], "usp": false}, "scriptUrl": "https://www.gannett-cdn.com/partner/vendor/pbjsandwich-v1.min.js", "a9": {"account": "3062", "enabled": false, "placements": [{"width": 320, "height": 50, "id": "3x5", "size": "320X50"}, {"width": 300, "height": 250, "id": "300x250", "size": "300x250"}]}, "trustx": {"enabledPlacements": ["poster_scroll"], "floor": 3, "enabled": true, "multisize": true, "adPointId": 6745584, "usp": true, "placements": [{"uid": "3592", "size": "300x250"}, {"uid": "3592", "size": "300x600"}]}, "consumable": {"networkId": 9969, "enabled": true, "multisize": true, "siteId": 1035847, "adPointId": 9330414, "usp": false, "placements": [{"size": "300x250", "unitId": 4601, "unitName": "cnsmbl-audio-300x250-slider", "zoneIds": [188951]}, {"size": "300x600", "unitId": 4603, "unitName": "cnsmbl-audio-300x600", "zoneIds": [188950]}, {"size": "728x90", "unitId": 4604, "unitName": "cnsmbl-audio-728x90-slider", "zoneIds": [188954]}, {"size": "970x250", "unitId": 4605, "unitName": "cnsmbl-audio-responsive", "zoneIds": [188952]}]}, "appnexus": {"usp": true, "enabled": true, "multisize": true, "placements": [{"ros": 15674483, "size": "728x90"}, {"life": 10668951, "money": 10668955, "travel": 10668989, "sports": 10668977, "tech": 10668984, "home": 10668948, "opinion": 10668963, "news": 10668959, "ros": 10668969, "size": "970x250"}, {"life": 10668952, "money": 10668956, "travel": 10668990, "sports": 10668978, "tech": 10668986, "home": 10668949, "opinion": 10668964, "news": 10668960, "ros": 10668971, "size": "300x250"}, {"home": 10668950, "ros": 10668973, "size": "300x600"}, {"life": 10668953, "money": 10668957, "travel": 10668991, "sports": 10668980, "tech": 10668987, "opinion": 10668966, "news": 10668961, "ros": 10668975, "size": "300x1050"}, {"life": 10668954, "money": 10668958, "travel": 10668992, "sports": 10668982, "tech": 10668988, "opinion": 10668967, "news": 10668962, "ros": 10668976, "size": "preroll"}], "adPointId": 3353552}, "sonobi": {"enabled": true, "adPointId": 3353351, "usp": false}, "sizes": [{"width": 3, "height": 3}, {"width": 300, "height": 250}, {"width": 300, "height": 600}, {"width": 300, "height": 1050}, {"width": 728, "height": 90}, {"width": 970, "height": 250}], "enabled": true, "timeout": 1600, "pubmatic": {"account": "57752", "group": "2", "enabled": true, "adPointId": 2616245, "usp": true, "slots": ["ATF@728x90", "BTF@728x90", "ATF@300x250", "BTF@300x250", "ATF@300x600", "ROS@970x250", "ROS@300x1050"]}};
+
+    function getbids(divId, adUnit, adSizes) {
+        var adSize, adSizeStr, bids = [], section = 'ros',
+            location = (adUnit.indexOf('_btf') !== -1) ? 'btf' : 'atf';
+
+        adSize = getMaxSize(adSizes, prebid.sizes);
+        if(!adSize) return bids;
+        adSizeStr =  adSize[0] + 'x' + adSize[1];
+
+        // Sonobi settings
+        if (prebid.sonobi.enabled) {
+            bids.push({
+                bidder: 'sonobi',
+                params: {
+                    ad_unit: adUnit
+                }
+            });
+        }
+
+        // A9 settings
+        if (prebid.a9.enabled) {
+            a9Bid = setupA9(prebid.a9, adSizes);
+            if(a9Bid) bids.push(a9Bid);
+        }
+
+        // Criteo settings
+        if (prebid.criteo.enabled) {
+            // Moved aol to it's own function, as we needed to determine the largest size available for aol placements
+            criteoBid = _setupCriteo(prebid.criteo, adSizes);
+            if(criteoBid) bids.push(criteoBid);
+            
+        }
+
+        // Rubicon settings
+        if (prebid.rubicon.enabled) {
+            bids.push({
+                bidder: 'rubicon',
+                params: {
+                    accountId: prebid.rubicon.account,
+                    siteId: prebid.rubicon.siteId,
+                    zoneId: prebid.rubicon.zoneId,
+                    inventory: {
+                        domain: document.location.hostname,
+                        section: section
+                    }
+                }
+            });
+        }
+
+        // AppNexus settings
+        var appNexus = prebid.appnexus || prebid.appNexus;
+        if (appNexus.enabled) {
+            appNexusBid = setupAppNexus(appNexus, adSizes, section);
+            if(appNexusBid) bids.push(appNexusBid);
+        }
+
+        // OpenX settings
+        var openX = prebid.openx ||  prebid.openX;
+        if (openX.enabled) {
+            // Moved aol to it's own function, as we needed to determine the largest size available for aol placements
+            openXBid = setupOpenX(openX, adSizes, section);
+            if(openXBid) bids.push(openXBid);
+        }
+
+        // IndexExchange settings
+        var index = prebid.indexExchange || prebid.index;
+        if (index.enabled) {
+            // Moved aol to it's own function, as we needed to determine the largest size available for aol placements
+            indexBids = setupIndex(index, adUnit, adSizes);
+
+            if(indexBids) {
+                indexBids.forEach(function (indexBid) {
+                    bids.push(indexBid);
+                });
+            }
+        }
+
+        // Pubmatic settings
+        var pubMatic = prebid.pubmatic || prebid.pubMatic;
+        if (pubMatic.enabled || pubMatic.enabled) {
+            var slot = location.toUpperCase() + '@' + adSizeStr,
+                rosSlot = 'ROS@' + adSizeStr,
+                adSlot = (pubMatic.slots.indexOf(slot) > -1) ? slot : (pubMatic.slots.indexOf(rosSlot) > -1) ? rosSlot : null;
+
+            if (adSlot) {
+                bids.push({
+                    bidder: 'pubmatic',
+                    params: {
+                        publisherId: pubMatic.account,
+                        adSlot: adSlot
+                    }
+                });
+            }
+        }
+
+        // Aol settings
+        if (prebid.aol.enabled) {
+            // Moved aol to it's own function, as we needed to determine the largest size available for aol placements
+            aolBid = setupAol(prebid.aol, adUnit, adSizes);
+            if(aolBid) bids.push(aolBid);
+        }
+
+        return bids;
+    }
+
+    function setupA9(config, sizes) {
+        var placement,
+            sizeStr = getLargestPlacementSize(config.placements, sizes);
+
+        // Match up the largest available size with the placement
+        placement = config.placements.find(function(placement) {
+            return placement.size === sizeStr;
+        });
+
+        if(placement) {
+            return {
+                bidder: 'amazon',
+                params: {
+                    amazonId: config.account,
+                    size: placement.id,
+                    height: placement.height,
+                    width: placement.width
+                }
+            };
+        }
+    }
+
+    function setupAol(config, adUnit, sizes) {
+        var placement,
+            sizeStr = getLargestPlacementSize(config.placements, sizes);
+
+        // Match up the largest available size with the placement
+        placement = config.placements.find(function(placement) {
+            return placement.size === sizeStr;
+        });
+
+        if(placement) {
+            return {
+                bidder: 'aol',
+                params: {
+                    placement: placement.id,
+                    network: config.network,
+                    alias: adUnit,
+                    server: config.server,
+                    sizeId: placement.size
+                }
+            };
+        }
+    }
+
+    function _setupCriteo(config, sizes) {
+        var placement,
+            sizeStr = getLargestPlacementSize(config.placements, sizes);
+
+        // Match up the largest available size with the placement
+        placement = config.placements.find(function(placement) {
+            return placement.size === sizeStr;
+        });
+
+        if(placement) {
+            return {
+                bidder: 'criteo',
+                params: {
+                    zoneId: placement.id
+                }
+            };
+        }
+    }
+
+    function setupAppNexus(config, sizes, section) {
+        var placements, placementId,
+            sizeStr = getLargestPlacementSize(config.placements, sizes);
+
+        // Match up the largest available size with the placement
+        placements = config.placements.find(function(placement) {
+            return placement.size === sizeStr;
+        });
+        if(placements) {
+            // Get the section/ROS placement id based on this size
+            placementId = placements[section] || placements.ros;
+            if(placementId) {
+                return {
+                    bidder: 'appnexusAst',
+                    params: {
+                        placementId: placementId
+                    }
+                };
+            }
+        }
+    }
+
+    function setupOpenX(config, sizes, section) {
+        var placements, placementId,
+            sizeStr = getLargestPlacementSize(config.placements, sizes);
+
+        // Match up the largest available size with the placement
+        placements = config.placements.find(function(placement) {
+            return placement.size === sizeStr;
+        });
+        if(placements) {
+            // Get the section/ROS placement id based on this size
+            placementId = placements[section] || placements.ros;
+            if(placementId) {
+                return {
+                    bidder: 'openx',
+                    params: {
+                        unit: placementId,
+                        delDomain: config.domain
+                    }
+                };
+            }
+        }
+    }
+
+    function setupIndex(config, adUnit, sizes) {
+        var placement,
+            key = adUnit.split('/')[2],
+            bids = [];
+
+        if(!key) return;
+
+        // Use key to get placement
+        placement = config.placements[key];
+
+        if(placement) {
+            sizes.forEach(function (size) {
+                bids.push({
+                    bidder: 'indexExchange',
+                    params: {
+                        siteId: placement.siteid,
+                        size: [size[0], size[1]]
+                    }
+                });
+            });
+        }
+        return bids;
+    }
+
+    function getLargestPlacementSize(placements, sizes) {
+        var thePlacement = null;
+        placements.reduce(function(memo, placement) {
+            var total, match,
+                size = placement.size.split('x');
+
+            // Change the sizes string values to integers
+            size = size.map(function(str) {
+                return parseInt(str, 10);
+            });
+
+            // Find a match in the ad slots sizes array
+            match = sizes.find(function(slotSize) {
+                return slotSize[0] === size[0] && slotSize[1] === size[1] ;
+            });
+
+            if(!match) return memo;
+
+            total = match[0] + match[1];
+            if (total > memo) {
+                thePlacement = placement;
+                return total;
+            }
+            return memo;
+        }, 0);
+
+        return (thePlacement) ? thePlacement.size : false;
+    }
+
+    function getMaxSize(sizes) {
+        var adSize;
+
+        if(sizes.length > 1) {
+            // if larger size
+            sizes.reduce(function(memo, size) {
+                var total = size[0] + size[1];
+                if (total > memo) {
+                    adSize = size;
+                    return total;
+                }
+                return memo;
+            }, 0);
+        } else {
+            // If single size return it
+            adSize = sizes[0];
+        }
+
+        return adSize;
+    }
+
+    function cobrandCallForAd(divId, adUnit, adSizes, customTargeting) {
+        adSizes= adSizes || [[300,250], [300,600]];
+        dataToSend.push ({
+            code: divId,
+            mediaTypes: {
+                banner: {
+                    sizes: adSizes
+                }
+            },
+            bids: getbids(divId, adUnit, adSizes) || []
+        });
+        customTargeting= customTargeting || {};
+        window.googletag.cmd.push(function() {
+            var slotRef= window.googletag.defineSlot(adUnit, adSizes, divId).addService(window.googletag.pubads());
+            for (var name in customTargeting) {
+                if (customTargeting.hasOwnProperty(name)) {
+                    slotRef.setTargeting(name, customTargeting[name]);
+                }
+            }
+            window.googletag.display(divId);
+        });
+    }
+
+</script>
+<style type="text/css" media="screen">
+
+    .gcp-container {
+        margin-top:10px;
+        width:100%;
+    }
+
+    .gcp-cards {
+        margin: 0 auto;
+        width:990px;
+    }
+
+    .gcp-left {
+        float:left;
+        width:675px;
+    }
+
+    .gcp-right {
+        float:right;
+        padding-top: 15px;
+        width: 300px;
+    }
+
+    .gcp-right .story-ribbon-content {
+        border: none;
+    }
+
+    .gcp-body {
+        background: rgb(246,246,246) url('https://www.gannett-cdn.com/static/images/patterns/noise_f6f6f6.png') repeat top left;
+        margin: 0;
+        font-size: 1.4em;
+        line-height: 1.4;
+        font-family: Arial, sans-serif;
+    }
+
+    .gcp-sponsored-by-text {
+        float: left;
+        font-size: 14px;
+        height: 30px;
+        line-height: 28px;
+        margin: 0 5px 0 0;
+    }
+
+    .gcp-footer {
+        width:970px;
+        margin:40px auto;
+        color: rgb(153,153,153);
+        font-size: 12px;
+        padding-left: 235px;
+    }
+
+    .gcp-footer-link {
+        color: rgb(102,102,102);
+        text-decoration: none;
+    }
+
+    .gcp-adplacement {
+        padding: 15px 0 15px 0;
+    }
+
+    .gcp-leaderboard-admodule {
+        padding-left: 125px;
+    }
+
+    .gcp-iframe {
+        width:100%;
+        height:40px;
+        overflow:hidden;
+    }
+
+    .gcp-clear {
+        clear:both;
+    }
+
+</style>
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="author" content="Reno Gazette-Journal">
+    <link rel="icon" href="https://www.gannett-cdn.com/sites/rgj/images/favicon.png">
+    <title> July Complex Update for 7-25-20 July Complex 2020 Wildfire and Smoke Map  | rgj.com</title>
+    <meta charset="utf-8">
+    <meta name="google" content="notranslate">
+    <meta name="ROBOTS" content="INDEX, FOLLOW" />
+    
+    <meta property="og:site_name" content="Reno Gazette-Journal" />
+    <meta property="og:url" content="https://data.rgj.com/fires/incident/article/6881/52708/" />
+    <meta property="og:title" content="July Complex Update for 7-25-20 July Complex 2020 Wildfire and Smoke Map"/>
+    <meta property="og:description" content="&amp;amp;#183;No further updates will be provided for this incident unless an..."/>
+    <meta property="og:image" content="https://data.rgj.com/media/uploads/fires.jpg"/>
+    <meta property="og:type"   content="article" />
+    <meta name="subsection" content="data central:fire and smoke">
+	
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="Reno Gazette-Journal">
+    
+    <meta name="twitter:title" content="July Complex Update for 7-25-20 July Complex 2020 Wildfire and Smoke Map">
+    <meta name="twitter:description" content="&amp;amp;#183;No further updates will be provided for this incident unless an...">
+    <meta name="twitter:image" content="http://data.rgj.com/media/uploads/fires.jpg">
+
+    <meta name="description" content="&amp;amp;#183;No further updates will be provided for this incident unless an...">
+    <meta name="msvalidate.01" content="3563EF3060E40B6850FD651C1910CAC8" />
+    
+<meta name="keywords" content="Wildfire, Fires, Smoke, National Wildfire Coordinating Group, NOAA, USGS">
+<meta name="viewport" content="width=580" />
+
+    <meta name="keywords" content="Fire and Smoke, Reno, Washoe County, Nevada, NV, Reno Gazette-Journal, data, database, school, education, crime, election results, storm, hurricane, tornado, flood, wildfires, air quality, earthquake, gridlock, bridge, hospital, census, acs, salary, unemployment, rgj, rgj.com">
+	
+    <script src="/static/bootstrap/docs/assets/js/vendor/jquery.min.js"></script>
+     <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" rel="stylesheet"> <script crossorigin="anonymous" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    
+    
+    <script src="/static/js/underscore-min.js"></script>
+    <script src="/static/js/dcs.js"></script>
+    <style>div.socbubox {text-align: right; width: 100%; margin: 0; resize: both; margin: 0px; pading: 0px;} ul.socbu {list-style: none;} ul.socbu li {list-style-type: none; display: block; float: right; margin-left: 10px;} </style>
+    <link rel="stylesheet" type="text/css" href="/static/css/custom_mf_tlh_cob.css" />
+    
+<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.2.1/mapbox-gl.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.2.1/mapbox-gl.css' rel='stylesheet' />
+<script type="text/javascript">
+    function UrlExists(url){var http = new XMLHttpRequest(); http.open('HEAD', url, false); http.send(); return http.status!=404;}
+    var emptyjson = {"type":"FeatureCollection", "features":[]};
+    var today = new Date();var y = today.getFullYear().toString();var m = today.getMonth().toString();var d = today.getDate().toString();var h = today.getHours().toString();var mi = today.getMinutes().toString();var rn = y+m+d+h+mi;
+    var rnna = rn;
+    document.write('\x3Cscript type="text/javascript" src="/media/wildfire/active/latest_fire.js?v='+rnna+'">\x3C/script>');
+    document.write('\x3Cscript type="text/javascript" src="/media/wildfire/active/latest_smoke.js?v='+rnna+'">\x3C/script>');
+    document.write('\x3Cscript type="text/javascript" src="/media/wildfire/active/fire.js?v='+rnna+'">\x3C/script>');
+    document.write('\x3Cscript type="text/javascript" src="/media/storm/wwah/warnings.js?v='+rnna+'">\x3C/script>');
+    document.write('\x3Cscript type="text/javascript" src="/media/storm/wwah/wwa.js?v='+rnna+'">\x3C/script>');
+    
+    
+
+</script>
+
+<style>
+h4.kicker {font-size: 0.9em; font-weight:900; color: #666; margin-bottom:0px; margin-top: 10px; }
+.mapTitle {font-size: 1.2em; font-family: sans-serif; font-weight: 900; margin-bottom: 15px; color: #316A54}
+
+.ar {text-align: right;}
+.al {text-align: left;}
+.ac {text-align: center;}
+
+.inci h3 {font-size: 1.2em; font-weight: 900; color: #666;}
+.media .ibox .ibox-title h2 {font-size: 1.5em; font-weight: 900; color: #666;}
+.base img, .overview img, #btnContacts, .text-muted {display: none; visibility: hidden;}
+.phv img {width: 100%;}
+.media .container {padding: 0px; margin: 0px;}
+
+.feed-element {display: block; margin-bottom: 5px; padding-bottom: 5px; border-bottom: 0.5px dotted #CCC;}
+.feed-element a.feed-headline {font-size: 1.1em; font-weight: 600;}
+.feed-teaser {font-weight: 200; margin-left: 20px;}
+
+.ibox-content a img {width: 100%;}
+
+
+
+
+
+.legend { position: absolute; z-index: 999; background-color: #fff; border-radius: 3px; box-shadow: 0 1px 2px rgba(0,0,0,0.10); font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif; bottom: 33px; left: 10px; padding: 10px; }
+.legend h4 { font-size: 1.1em; font-weight: 900; margin: 0 0 10px; }
+.legend div span {border-radius: 50%;display: inline-block;height: 10px;margin-right: 5px;width: 10px;border: 1px solid #ccc;}
+.legend div img {width: 20px;}
+
+@media (max-width: 767px) {
+    .legend {position: relative; width: 98%; margin:34px 0px 0px 0px; background-color: #fff; border-radius: 3px; box-shadow: 0 1px 2px rgba(0,0,0,0.10); font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif; padding: 10px;}
+    .legend h4, .legend div im {display: none}
+    .legend div {display:inline-block; margin-right: 5px;}
+    .uscntymap {height: 45vh; z-index: 0;}
+}
+
+/* div.mapboxgl-popup-content { width: 400px; display: inline-block; padding: 20px 10px 10px 10px; } */
+#mapmenu {background: #fff;position: absolute;z-index: 1;top: 10px;right: 10px;border-radius: 3px;width: auto;border: 1px solid rgba(0,0,0,0.4);font-family: 'Open Sans', sans-serif;}
+#mapmenu a {font-size: 13px;color: #404040;display: block;margin: 0;padding: 0;padding: 10px;text-decoration: none;border-bottom: 1px solid rgba(0,0,0,0.25);text-align: center;}
+#mapmenu a:last-child {border: none;}
+#mapmenu a:hover {background-color: #f8f8f8;color: #404040;}
+#mapmenu a.active {background-color: #3887be;color: #ffffff;}
+#mapmenu a.active:hover {background: #3074a4;}
+
+.csIcon {background-image: url('/static//markers/original/tourism/citysquare.png'); background-size: cover; width: 32px; height: 37px; cursor: pointer; }
+.IconWildfireNWCG {background-image: url("/media/wildfire/icon/marker_fire.png"); background-size: cover; width: 28px; height: 28px; cursor: pointer; }
+.IconPresfireNWCG {background-image: url("/media/wildfire/icon/marker_rx.png"); background-size: cover; width: 28px; height: 28px; cursor: pointer; }
+.IconBurnNWCG {background-image: url("/media/wildfire/icon/marker_baer.png"); background-size: cover; width: 28px; height: 28px; cursor: pointer; }
+.IconOtherNWCG {background-image: url("/media/wildfire/icon/marker_other.png"); background-size: cover; width: 28px; height: 28px; cursor: pointer; }
+.IconFireUSGS {background-image: url("/media/wildfire/active/fire.png"); background-size: cover; width: 32px; height: 37px; cursor: pointer; }
+.IconFireNOAA {background-image: url("/media/wildfire/active/fire-red-n-l.png"); background-size: cover; width: 32px; height: 37px; cursor: pointer; }
+
+</style>
+
+    
+</head>
+<body class="gcp-body">
+    <iframe class="gcp-iframe" src="https://www.rgj.com/services/cobrand/header/" scrolling="no" frameborder=0></iframe>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=1577257929153383";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
+    <script>window.twttr = (function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0],    t = window.twttr || {};  if (d.getElementById(id)) return t;  js = d.createElement(s);  js.id = id;  js.src = "https://platform.twitter.com/widgets.js";  fjs.parentNode.insertBefore(js, fjs);  t._e = [];  t.ready = function(f) {    t._e.push(f);  };  return t;}(document, "script", "twitter-wjs"));</script>
+    <div class="container-fluid">
+		<div class="row">
+			<div id="tdatapagewrapper" class="col-xs-12 col-sm-12 border">
+            
+				
+				
+				<div style="position: relative;">
+					<div class="socbubox" style="">
+						<ul class="socbu">
+							
+							<li><a class="twitter-share-button" href="https://data.rgj.com/fires/incident/article/6881/52708/" data-size="Default">Tweet</a></li>
+							<li><div class="fb-share-button" data-href="https://data.rgj.com/fires/incident/article/6881/52708/" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdata.rgj.com%2Ffires%2Fincident%2Farticle%2F6881%2F52708%2F&amp;src=sdkpreparse">Share</a></div></li>
+							
+						</ul>
+					</div> 
+					
+				</div>
+				<div class="row">
+					<div class="col-xs-12">
+						
+						<div class="bcwrapper row breadcrumbbox">
+							<ol class="breadcrumb">
+								<li class="breadcrumb-item"><a href="/">Data Central</a></li>
+								<li class="breadcrumb-item"><a href="/fires">Fire and Smoke</a></li>
+								
+								
+								
+								
+							</ol>
+						</div>  
+						
+					
+
+
+<h4 class="kicker">Hazard Mapping System: Fire and Smoke</h4>
+<h1 class="db-page-title db-serif" style="margin-top: 5px;">July Complex 2020: July Complex Update for 7-25-20</h1>
+
+<div class="row">
+    <div class="col-xs-12">
+        <div class="panel panel-default">
+            <div class="panel-heading hidden"><h3 class="panel-title">Article</h3></div>
+            <div class="panel-body media">
+                <nav aria-label="..."><ul class="pager" style="margin: 0px;"><li class="next"><a href="/fires/incident/6881/july-complex-2020/"><span aria-hidden="true">&larr;</span> Back to July Complex 2020 page</a></li></ul></nav>
+                <div class="container ibox" id="Content"><div class="ibox-title"><h2>July Complex Update for 7-25-20</h2><small class="text-muted">July Complex 2020 Wildfire<br/>News - 4 min. ago</small></div><div class="ibox-content" id="IncidentContent"><div class="row"><div class="col-md-12"><p><b>July Complex Fire Update</b> <br> </br></p> <p> July 25, 2020 - 11:00 a.m. </p> <p> California Interagency Incident Management Team 12 </p> <p> Mike Nobles, Incident Commander </p> <p> <br/></p> <p> <br/></p> <p> Information Center: 530-208-5615 </p> <p> Hours of Operation: 7 a.m. - 9 p.m. </p> <p><b> <br/></b> </p> <p><b>Special notes: </b>On July 24, the California Interagency Incident Management Team 12 (CIIMT12) assumed command of the July Complex (Caldwell, Allen and Dalton Fires). The IMT brings a high level of skill to address increasing complexity. </p> <p><i>There may be increased fire behavior today; smoke, including possible columns, may be visible for many miles around the fires.</i> </p> <p><b>Weather: </b>Hot, dry and unstable conditions persist today, with temperature highs of 86-88F. Humidity will be 18-20%. Winds in the morning from the northeast at 4-6 mph with gusts to 10mph, becoming west 4-7 mph in the afternoon. Evening winds should remain light. The warming trend continues into Sunday, with temperatures 89-91F and a chance of thunderstorms. There is a FIRE WEATHER WATCH in effect Monday with potential for abundant lighting on dry fuels. </p> <p><b>Current Situation: </b>There is high demand for resources in Northern California due to multiple fires, however, personnel and equipment continue to arrive at the July Complex. Fire managers are looking for opportunities to safely engage the fires while prioritizing firefighter and public safety and protecting values at risk. Life safety will always remain the number one priority. COVID-19 mitigations are being taken to limit exposure risks to firefighters and the public, per CDC guidelines. </p> <p>Since the start of the Caldwell, Allen, and Dalton Fires, downdraft winds from passing thunder cells have caused unpredictable and erratic fire behavior. Fire was active yesterday, with smoke visible from all directions. Fire crews and aircraft worked to slow fire spread, create new control lines, and enforce existing ones. Fire may be active again today as the inversion breaks. Hot and unstable conditions could contribute to plume development and short-range spotting. Fire is expected to remain fuel-driven with backing and flanking behavior. There could be some short, active runs. Aircraft may perform water drops over the fire today. </p> <p><a><b><i>Caldwell Fire:</i></b></a> The Caldwell Fire remains active, growing to 11,860 acres and is 0% contained. Fire was particularly active on the west and southwest yesterday. The Caldwell Fire is burning in rough and difficult to access terrain; this makes it challenging to safely engage. Today, firefighters will create both direct (at the fire\'s edge) and indirect (away from the fire\'s edge) control line to limit fire spread. Crews will build control line utilizing existing road and trail systems, building from the Lava Beds National Monument Visitor Center southwest and from the 10 Rd going back west toward the lava fields. The fire is approximately 5 miles from the Medicine Lake area. Structure protection resources are available should they be needed.    </p> <p><b><i>Allen Fire:</i></b> The Allen Fire is estimated at 948 acres with 60% containment. Yesterday, hand crews and dozers successfully created control line around much of the fire area. Today, firefighters will construct additional control line and perform mop-up (extinguish or remove burning material, fell snags/dangerous trees, remove logs so they will not roll downhill, etc.). </p> <p><b><i>Dalton Fire:</i></b> The Dalton Fire is approximately 1367 acres and 0% contained. Crews on the Dalton Fire will work to complete line construction and mop-up in order to secure the fire\'s edge. </p> <p><i>As of tonight, there will be a night operational period on the July Complex. Overnight crews will monitor fire edges and engage in suppression efforts as safety permits. Primary efforts will be on the Caldwell Fire.</i> </p> <p><b>Closures and Evacuations</b>: There is a <b><i>mandatory evacuation</i></b> in place for the Medicine Lake Recreation Area as the Caldwell Fire threatens to cross Roads 97 and 49 and limit orderly exit. Fire has not reached the campgrounds but is growing in that direction. </p> <p>For information regarding evacuations, go to the Modoc County Sheriff\'s Facebook or Website: <a href="http://www.modocsheriff.us/?fbclid=IwAR1UegvqAE1-PMhFijEqKQ6PRIHqfHShCicyqrCmYprn2qKlE6o_PdCBwxE">www.modocsheriff.us</a> </p> <p><b>For More Information:                                                                          </b> </p> <p><b>Inciweb:     </b><a href="https://inciweb.nwcg.gov/incident/6881/">https://inciweb.nwcg.gov/incident/6881/</a> <b>              Facebook:                                    </b>facebook.com/ModocNF </p> <p><b>Twitter:     </b>@ModocNF                                  <b>Fire Info Line:      </b>530-208-5615                                          <b>Email: </b>mdffireinfo@gmail.com </p> <p><b><u>July Complex Statistics</u></b><b>   Start Date:  </b>July 22, 2020      <b>Location:  </b>Near Canby, CA, on Moboc NF       <b>Size:  </b>11,860 (Caldwell), 948 (Allen), 1367 (Dalton) </p> <p><b>Percent Contained:  </b>0% (Caldwell), 60% (Allen), 80% (Dalton)     <b>Cause:  </b>Lightning </p> <p><b>Resources: </b>660 personnel, 27 engines, 18 dozers, 10 water tenders, 7 type 1 helicopters, 6 Type 2 helicopters, 2 Type 3 helicopters </p></div></div></div></div>
+                
+                
+                <nav aria-label="..."><ul class="pager" style="margin: 0px;"><li class="next"><a href="/fires/incident/6881/july-complex-2020/"><span aria-hidden="true">&larr;</span> Back to July Complex 2020 page</a></li></ul></nav>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="row">
+    <div class="col-xs-12">
+        <div class="alert alert-warning" role="alert">Fire data is updated hourly based upon input from incident intelligence sources, GPS data, infrared (IR) imagery from fixed wing and satellite platforms.</div>
+        <div class="panel panel-default">
+            <div class="panel-heading"><h3 class="panel-title">Map</h3></div>
+            <div class="panel-body">
+                <div class="col-xs-12" style="padding-left: 0; padding-right: 0; position: relative;">
+                    <nav id="mapmenu"></nav>
+                    <div id="firetrackingmap" style="height: 40vh; border: 1px solid #999;"></div>
+                    <div class="legend">
+                        <div><img src="/media/wildfire/icon/marker_fire.png" width="36px"> Wildfire</div>
+                        <div><img src="/media/wildfire/icon/marker_rx.png" width="36px"> Prescribed Fire (NWCG)</div>
+                        <div><img src="/media/wildfire/icon/marker_baer.png" width="36px"> Burned Area Response (NWCG)</div>
+                        <div><img src="/media/wildfire/icon/marker_other.png" width="36px"> Other (NWCG)</div>
+                        <div class="hidden"><img src="/media/wildfire/active/fire.png" width="36px"> Fire (USGS)</div>
+                        <div><span style='background-color: #510182;'></span> Red Flag Warning</div>
+                        <div><span style='background-color: #f7c86a;'></span> Fire Weather Watch</div>
+                        <div class="hidden"><img src="/media/wildfire/active/fire-red-n-l.png" width="36px"> Fire (NOAA)</div>
+                        <div><span style='background-color: #e00000;'></span> Fire (NOAA)</div>
+                        <div><span style='background-color: #c07b36;'></span> Smoke</div>
+                    </div>
+                </div>
+                <div class="alignright small">Source: The National Wildfire Coordinating Group (NWCG), Geospatial Multi-Agency Coordination Wildland Fire Support/USGS, NOAA Office of Satellite and Product Operations</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    td.wrap {word-break: break-word	;}
+</style>
+<div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
+        <div class="panel panel-default hidden ">
+            <div class="panel-heading"><h3 class="panel-title">Reported fires from NWCG and CAL FIRE</h3></div>
+            <div class="panel-body">
+                <div class="list-group">
+                    <table class="table table-bordered table-condensed" width="100%">
+                        <thead><tr><th>Name</th><th>Status</th><th>Contained</th><th>Size (Acres)</th><th>Summary</th></tr></thead>
+                        <tbody>
+                            
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+        <div class="panel panel-default ">
+            <div class="panel-heading"><h3 class="panel-title">More</h3></div>
+            <div class="panel-body">
+                <div class="list-group">
+                    <a href="/rolling-storm-damage-report/" class="list-group-item"><h4 class="list-group-item-heading">Rolling Storm Damage Reports</h4><p class="list-group-item-text">As storms strike, this interactive map is your guide to impacts and damage reports coming into National Weather Service stations nationwide.</p></a><a href="/tornado-archive/" class="list-group-item"><h4 class="list-group-item-heading">A history of twisters: Tornadoes in Florida since 1950s</h4><p class="list-group-item-text">This interactive map, which contains data from January 1950, pinpoints where a cyclone touched down and traces its path of destruction. For more recent tornadoes, clicking deeper provides more details, damage estimates and whether someone was injured or killed in the storm.</p></a><a href="/river-water-level/" class="list-group-item"><h4 class="list-group-item-heading">Real-time Streamflow Map: River Water Level </h4><p class="list-group-item-text">Current data typically are recorded at 15- to 60-minute intervals.</p></a><a href="/excessive-rainfall-forecast/" class="list-group-item"><h4 class="list-group-item-heading">Excessive Rainfall Forecast</h4><p class="list-group-item-text">Weather Prediction Center forecasts the probability that rainfall will exceed flash flood guidance within 25 miles of a point.</p></a><a href="/heat-index-forecast/" class="list-group-item"><h4 class="list-group-item-heading">Maximum Heat Index Forecast</h4><p class="list-group-item-text">Maximum heat index forecast for next 7 days. Updated daily from May 1 through Sept. 30</p></a><a href="/drought/" class="list-group-item"><h4 class="list-group-item-heading">Drought Monitor and History</h4><p class="list-group-item-text">Data shows the location and intensity of drought across the country.</p></a><a href="/wildfire-history/" class="list-group-item"><h4 class="list-group-item-heading">Wildfire History</h4><p class="list-group-item-text">See a map of wildfires since 2017</p></a><a href="/air-quality-index/" class="list-group-item"><h4 class="list-group-item-heading">Air Quality Index (AQI) Forecasts and Current Conditions</h4><p class="list-group-item-text">The Air Quality Index (AQI) translates air quality data into numbers and colors that help people understand when to take action to protect their health.</p></a><a href="/storm/" class="list-group-item"><h4 class="list-group-item-heading">Storm Tracker and Model Mixer</h4><p class="list-group-item-text">A hurricane watcher&#x27;s guide to the latest track and model forecasts. This storm tracker contains data from 1851.</p></a>
+                </div>
+            </div>
+        </div>
+        			<div style="width: 100%;"><div style="display:table; margin: 0 auto;">
+			<div style="display:none" id="gcp-poster_front-ad" class="gcp-adplacement"><script type="text/javascript">
+                cobrandCallForAd('gcp-poster_front-ad', '/7103/nv-reno-C1011/poster_front/data-central/fire-and-smoke', [[300,600]], {});
+            </script></div>
+			</div></div>
+
+
+    </div>
+</div>
+
+
+<script type="text/javascript">
+
+    function ClusterNOAA(a) {
+        var popupContent = '<div><table><tr><td><div class="mapTitle">Source: '+a['properties']['sl']+' Satellite '+ a['properties']['sr']+'</div></td></tr></table></div>';
+        return popupContent;
+    }
+
+    function onGonFeature(feature) {
+      var popupContent = '<div class="mapTitle">Source: '+feature.properties.sl+' Satellite , Density:'+ feature.properties.dn +'</div>';
+      return popupContent;
+    }
+
+    function onEvacFeature(feature) {
+      if (feature.properties.Evac_Status == 'Mandatory_Evac') {var wd = 'Mandatory Evacuation';}
+      else if (feature.properties.Evac_Status == 'Vol_Evac') {var wd = 'Voluntary Evacuation';}
+      var popupContent = '<div class="mapTitle">'+wd+'</div><div>Issued on '+ feature.properties.Time_Issued + ' '+ feature.properties.Date_Issued +'</div>';
+      return popupContent;
+    }
+
+    function onPASEvacFeature(feature) {
+      if (feature.properties.ZONE_STATUS == '3') {var wd = 'Mandatory Evacuation';}
+      else if (feature.properties.ZONE_STATUS == '2') {var wd = 'Voluntary Evacuation';}
+      var popupContent = '<div class="mapTitle">'+wd+' - '+feature.properties.ZONE_NAME+'</div>';
+      return popupContent;
+    }
+
+    function onLuciaEvacFeature(feature) {
+      var popupContent = '<div class="mapTitle">Evacuation Zone '+feature.properties.alert_level+'</div><table class="table table-bordered table-condensed"><tbody>';
+        popupContent += '<tr><td class="ar">Incident Name</td><td class="al">'+feature.properties.incident_name+'</td></tr>';
+        popupContent += '<tr><td class="ar">Status</td><td class="al">'+feature.properties.status+'</td></tr>';
+        popupContent += '<tr><td class="ar">Affected Areas</td><td class="al">'+feature.properties.affected_areas+'</td></tr>';
+        if (feature.properties.incident_command != 'null') {popupContent += '<tr><td class="ar">Incident Command</td><td class="al">'+feature.properties.incident_command+'</td></tr>';}
+        if (feature.properties.externalcomments != 'null') {popupContent += '<tr><td colspan="2" class="al">'+feature.properties.summary+'</td></tr>';}
+        popupContent += '</tbody></table></div>';
+      return popupContent;
+    }
+
+    function onTuolumneEvacFeature(feature) {
+      var popupContent = '<div class="mapTitle">'+feature.properties.zonedesignation+'</div><table class="table table-bordered table-condensed"><tbody>';
+        if (feature.properties.externalcomments != 'null') {popupContent += '<tr><td colspan="2" class="al">'+feature.properties.externalcomments+'</td></tr>';}
+        popupContent += '</tbody></table></div>';
+      return popupContent;
+    }
+
+    function onGenEvacFeature(feature) {
+      var popupContent = '<div class="mapTitle">Evacuation Zone</div>';
+      return popupContent;
+    }
+
+    function onGeomacFeature(feature) {
+      var popupContent = '<div class="mapTitle">'+feature.properties.IncidentName+'</div>';
+        popupContent += '<div class="">Source: '+feature.properties.FeatureCategory+' - National Interagency Fire Center</div>';
+      return popupContent;
+    }
+
+    function onWWAFeature(feature) {
+      var popupContent = '<div class="mapTitle">'+feature.properties.wtype+'</div>';
+        popupContent += '<div class="desc">'+feature.properties.name+' '+feature.properties.description+'</div>';
+      return popupContent;
+    }
+
+    function onNWCGiPntFeature(feature) {
+    if (feature.properties.IncidentTypeCategory === 'WF'){ var itp = 'Wildfire'; } else {var itp = 'Other';}
+      var popupContent = '<div class="mapTitle">'+feature.properties.IncidentName+'</div><div><table class="table table-bordered table-condensed"><tbody>';
+        popupContent += '<tr><td class="ar">Type</td><td class="al">'+itp+'</td></tr>';
+        popupContent += '<tr><td class="ar">Fire Behavior</td><td class="al">'+feature.properties.FireBehaviorGeneral+'</td></tr>';
+        if (feature.properties.DailyAcres != 'null'){  popupContent += '<tr><td class="ar">Size (Acres)</td><td class="al">'+feature.properties.DailyAcres+'</td></tr>'; }
+        if (feature.properties.PercentContained != 'null'){  popupContent += '<tr><td class="ar">Contained</td><td class="al">'+feature.properties.PercentContained+'%</td></tr>'; }
+        if (feature.properties.POOCity != 'null'){  popupContent += '<tr><td class="ar">City</td><td class="al">'+feature.properties.POOCity+'</td></tr>'; }
+        if (feature.properties.POOCounty != 'null'){  popupContent += '<tr><td class="ar">County</td><td class="al">'+feature.properties.POOCounty+'</td></tr>'; }
+        popupContent += '<tr><td class="ar">State</td><td class="al">'+feature.properties.POOState+'</td></tr>';
+        if (feature.properties.POOLandownerCategory != ''){  popupContent += '<tr><td class="ar">Land Ownership</td><td class="al">'+feature.properties.POOLandownerCategory+'</td></tr>'; }
+        if (feature.properties.IncidentShortDescription != 'null'){ popupContent += '<tr><td colspan="2" class="al">'+feature.properties.IncidentShortDescription+'</td></tr>';}
+        popupContent += '</tbody></table></div><div class="">Source: The National Wildfire Coordinating Group</div>';
+      return popupContent;
+    }
+
+    function onFEMAiPntFeature(feature) {
+    if (feature.properties.IncidentTypeCategory === 'WF'){ var itp = 'Wildfire'; } else {var itp = 'Other';}
+      var popupContent = '<div class="mapTitle">'+feature.properties.IncidentName+'</div><div><table class="table table-bordered table-condensed"><tbody>';
+        popupContent += '<tr><td class="ar">Type</td><td class="al">'+itp+'</td></tr>';
+        popupContent += '<tr><td class="ar">Fire Discovery DateTime</td><td class="al">'+Date(feature.properties.FireDiscoveryDateTime)+'</td></tr>';
+        if (feature.properties.DailyAcres != 'null'){  popupContent += '<tr><td class="ar">Size (Acres)</td><td class="al">'+feature.properties.DailyAcres+'</td></tr>'; }
+        if (feature.properties.PercentContained != 'null'){  popupContent += '<tr><td class="ar">Contained</td><td class="al">'+feature.properties.PercentContained+'%</td></tr>'; }
+        if (feature.properties.POOCounty != 'null'){  popupContent += '<tr><td class="ar">County</td><td class="al">'+feature.properties.POOCounty+'</td></tr>'; }
+        popupContent += '<tr><td class="ar">State</td><td class="al">'+feature.properties.POOState+'</td></tr>';
+        popupContent += '</tbody></table></div><div class="">Source: FEMA Wildfire Hazard Overview Dashboard</div>';
+      return popupContent;
+    }
+
+    function onNICFiPntFeature(feature) {
+    if (feature.properties.IncidentTypeCategory === 'WF'){ var itp = 'Wildfire'; } else {var itp = 'Other';}
+      var popupContent = '<div class="mapTitle">'+feature.properties.IncidentName+'</div><div><table class="table table-bordered table-condensed"><tbody>';
+        popupContent += '<tr><td class="ar">Type</td><td class="al">'+itp+'</td></tr>';
+        if (feature.properties.FireBehaviorGeneral != 'null'){popupContent += '<tr><td class="ar">Fire Behavior</td><td class="al">'+feature.properties.FireBehaviorGeneral+'</td></tr>';}
+        popupContent += '<tr><td class="ar">Size (Acres)</td><td class="al">'+feature.properties.DailyAcres+'</td></tr>';
+        if (feature.properties.PercentContained != 'null'){popupContent += '<tr><td class="ar">Contained</td><td class="al">'+feature.properties.PercentContained+'%</td></tr>';}
+        if (feature.properties.POOCity != 'null'){  popupContent += '<tr><td class="ar">City</td><td class="al">'+feature.properties.POOCity+'</td></tr>'; }
+        if (feature.properties.POOCounty != 'null'){  popupContent += '<tr><td class="ar">County</td><td class="al">'+feature.properties.POOCounty+'</td></tr>'; }
+        popupContent += '<tr><td class="ar">State</td><td class="al">'+feature.properties.POOState+'</td></tr>';
+        if (feature.properties.POOLandownerCategory != ''){  popupContent += '<tr><td class="ar">Land Ownership</td><td class="al">'+feature.properties.POOLandownerCategory+'</td></tr>'; }
+        if (feature.properties.IncidentShortDescription != 'null'){ popupContent += '<tr><td colspan="2" class="al">'+feature.properties.IncidentShortDescription+'</td></tr>';}
+        popupContent += '</tbody></table></div><div class="">Source: National Interagency Fire Center</div>';
+      return popupContent;
+    }
+    function onInciPntFeature(feature) {
+      var popupContent = '<div class="mapTitle">'+feature.properties.name+'</div><div><table class="table table-bordered table-condensed"><tbody>';
+        popupContent += '<tr><td class="ar">Type</td><td class="al">'+feature.properties.type+'</td></tr>';
+        popupContent += '<tr><td class="ar">Updated</td><td class="al">'+feature.properties.updated+'</td></tr>';
+        popupContent += '<tr><td class="ar">Size</td><td class="al">'+feature.properties.size+'</td></tr>';
+        popupContent += '<tr><td class="ar">Contained</td><td class="al">'+feature.properties.contained+'%</td></tr>';
+        popupContent += '<tr><td class="ar">State</td><td class="al">'+feature.properties.state+'</td></tr>';
+        if (feature.properties.summary === 'None'){ var fpsum = ''; } else { fpsum = feature.properties.summary; }
+        if (feature.properties.url){popupContent += '<tr><td colspan="2" class="al">'+fpsum+' <a href="/fires'+feature.properties.url+feature.properties.slug+'/" class="btn btn-xs btn-default"><span class="glyphicon glyphicon-plus"></span> More</a></td></tr>';}else{popupContent += '<tr><td colspan="2" class="al">'+fpsum+'</td></tr>';}
+        popupContent += '</tbody></table></div><div class="">Source: InciWeb/The National Wildfire Coordinating Group</div>';
+      return popupContent;
+    }
+
+    function onInciCaFireFeature(feature) {
+      var popupContent = '<div class="mapTitle">'+feature.properties.name+'</div><div><table class="table table-bordered table-condensed"><tbody>';
+        popupContent += '<tr><td class="ar">Type</td><td class="al">'+feature.properties.type+'</td></tr>';
+        popupContent += '<tr><td class="ar">Updated</td><td class="al">'+feature.properties.updated+'</td></tr>';
+        popupContent += '<tr><td class="ar">Size</td><td class="al">'+feature.properties.size+'</td></tr>';
+        popupContent += '<tr><td class="ar">Contained</td><td class="al">'+feature.properties.contained+'%</td></tr>';
+        popupContent += '<tr><td class="ar">State</td><td class="al">'+feature.properties.state+'</td></tr>';
+        if (feature.properties.summary === 'None'){ var fpsum = ''; } else { fpsum = feature.properties.summary; }
+        popupContent += '<tr><td colspan="2" class="al">'+fpsum+' <a href="/fires'+feature.properties.url+feature.properties.slug+'/" class="btn btn-xs btn-default"><span class="glyphicon glyphicon-plus"></span> More</a></td></tr>';
+        popupContent += '</tbody></table></div><div class="">Source: California Department of Forestry & Fire Protection</div>';
+      return popupContent;
+    }
+
+    function onCoRoadClosure(feature) {
+      var popupContent = '<div class="mapTitle">'+feature.properties.name+'</div><div>';
+        popupContent += '<span class="bold gray">'+feature.properties.description+'</span>';
+        popupContent += '</div><div class="ar small">Source: Colorado Dept. of Transportation</div>';
+      return popupContent;
+    }
+
+    function onOregonEvacFeature(feature) {
+        if (feature.properties.Fire_Evacuation_Level == 1) {var elev = 'Level 1: Be Ready (Prepare to Evacuate)'; var ec = '#43920D'; } else if (feature.properties.Fire_Evacuation_Level == 2) {var elev = 'Level 2: Be Set (Prepare to leave at a moment\'s notice)'; var ec = '#BA8911';} else if (feature.properties.Fire_Evacuation_Level == 3) {var elev = 'Level 3: Go (Leave immediately)'; var ec = '#BA2811';} else {var elev = ''; var ec = '#666';}
+        var popupContent = ''
+        if (feature.properties.Fire_Name == null | feature.properties.Fire_Name == 'null') {}else {popupContent += '<div class="mapTitle">'+feature.properties.Fire_Name+'</div><div>';}
+        popupContent += '<span class="bold gray" style="color: '+ec+'; font-size: 1.1em;">Evacuation '+elev+'</span>';
+        popupContent += '<table class="table table-condensed"><tbody>'
+        if (feature.properties.County == null | feature.properties.County == 'null') {}else {popupContent += '<tr><td class="ar">County</td><td class="al">'+feature.properties.County+'</td></tr>';}
+        if (feature.properties.Evac_Area_Name == null | feature.properties.Evac_Area_Name == 'null') {}else {popupContent += '<tr><td class="ar">Area Name</td><td class="al">'+feature.properties.Evac_Area_Name+'</td></tr>';}
+        popupContent += '</tbody></table></div><div class="ar small">Source: State of Oregon</div>';
+      return popupContent;
+    }
+
+    
+
+    var InciPntJSON = {"type":"FeatureCollection","features":[ 
+    ]}
+
+    var InciCaFireJSON = {"type":"FeatureCollection","features":[
+    ]}
+
+    var csloc = {"type":"FeatureCollection", "features":[{"type":"Feature","ct":"Point","properties":{"name":"Reno, NV", "pmk":"REN", "GEO_ID":"32031","TIME":"","knt":"", "icon":"/static//markers/original/tourism/citysquare.png", "bgc":""},"description":{"stormtype":""},"geometry":{"type":"Point","coordinates":[-119.8137,39.5293]} } ]};
+
+
+mapboxgl.accessToken = 'pk.eyJ1IjoieXB5dW4iLCJhIjoiY2oxcW4ybWhxMDBkMjJxcGVhbDV5cnpzYyJ9.oFQSnOc57xCR7A51OR6-3w';
+//ct: None - article
+var map = new mapboxgl.Map({container: 'firetrackingmap', style: 'mapbox://styles/ypyun/ck0flqufl2k1x1cpmupm5sl2y', center:  [-121.477, 41.699], zoom: 12, attributionControl: false, });
+map.addControl(new mapboxgl.AttributionControl({ compact: true, customAttribution:['<a href="https://mapicons.mapsmarker.com/" target="_blank">Map Icons Collection</a> '] }));
+
+
+
+ 
+//var evacJSON = '/media/wildfire/cafire/vcs_evac.json';
+//var NRECevacJSON = '/media/wildfire/cafire/nrec_evac.json';
+
+map.on('load', function () {
+    var layers = map.getStyle().layers;
+    var firstSymbolId;
+    for (var i = 0; i < layers.length; i++) { if (layers[i].type === 'symbol') { firstSymbolId = layers[i].id; break; } }
+
+
+
+//    map.addLayer({ "id": "WW", "type": "fill", "source": { "type": "geojson", "data":WW }, "paint": {'fill-color': "#000"/*{type: 'identity', property: 'bgc'}*/, 'fill-opacity':0.9,  'fill-outline-color': '#CCC', }, "filter": ["==", "$type", "Polygon"]}, firstSymbolId);
+//                  "filter":["all", [["==", "$type", "Polygon"],["in", "wtype", "Red Flag Warning", "Fire Weather Watch"] ] }, firstSymbolId); 8f0303  f7c86a 510182
+
+    map.addLayer({ "id": "WWAred", "type": "fill", "source": { "type": "geojson", "data":WWA }, "paint": {'fill-color': "#510182", 'fill-opacity':0.3,  'fill-outline-color': '#CCC', }, "filter":["==", "wtype", "Red Flag Warning"]}, firstSymbolId);
+    map.addLayer({ "id": "WWAfire", "type": "fill", "source": { "type": "geojson", "data":WWA }, "paint": {'fill-color': "#f7c86a", 'fill-opacity':0.3,  'fill-outline-color': '#CCC', }, "filter":["==", "wtype", "Fire Weather Watch"]}, firstSymbolId);
+
+    map.on('click', 'WWAred', function (e) {new mapboxgl.Popup({ offset: 14 }).setLngLat(e.lngLat).setHTML(onWWAFeature(e.features[0])).addTo(map);});
+    map.on('click', 'WWAfire', function (e) {new mapboxgl.Popup({ offset: 14 }).setLngLat(e.lngLat).setHTML(onWWAFeature(e.features[0])).addTo(map);});
+
+
+    map.addLayer({ "id": "GeoMACSmoke", "type": "fill", "source": { "type": "geojson", "data":WFhms_smokeSON }, "paint": {'fill-color': "#c07b36", 'fill-opacity':0.3,  'fill-outline-color': '#c07b36', }}, firstSymbolId);
+    map.on('click', 'GeoMACSmoke', function (e) {new mapboxgl.Popup({ offset: 14 }).setLngLat(e.lngLat).setHTML(onGonFeature(e.features[0])).addTo(map);});
+
+  // add a clustered GeoJSON source for powerplant
+    map.addSource('SourceNOAA', { 'type': 'geojson', 'data': WFhms_fireSON, 'cluster': true, 'clusterRadius': 30, 'clusterMaxZoom': 8 });
+    map.addLayer({
+        id: "clusters", type: "circle", source: "SourceNOAA", filter: ["has", "point_count"],
+        paint: { // Use step expressions (https://docs.mapbox.com/mapbox-gl-js/style-spec/#expressions-step)
+            "circle-color": ["step",["get", "point_count"],"#f73b3b", 50, "#eb1c1c", 150, "#b50000" ],
+            "circle-radius": ["step", ["get", "point_count"], 20,50,30,150,40],
+            "circle-opacity": 0.4
+        }
+    },firstSymbolId);
+    map.addLayer({ id: "cluster-count", type: "symbol", source: "SourceNOAA", filter: ["has", "point_count"], layout: {"text-field": "{point_count_abbreviated}","text-font": ["DIN Offc Pro Medium", "Arial Unicode MS Bold"], "text-size": 12 } });
+    map.addLayer({ id: "unclustered-point", type: "circle", source: "SourceNOAA", filter: ["!", ["has", "point_count"]], paint: {"circle-color": "#b50000", "circle-radius": 5, "circle-stroke-width": 1, "circle-stroke-color": "#CCC",} });
+    // inspect a cluster on click
+    map.on('click', 'clusters', function (e) {
+        var features = map.queryRenderedFeatures(e.point, { layers: ['clusters'] });
+        var clusterId = features[0].properties.cluster_id;
+        map.getSource('SourceNOAA').getClusterExpansionZoom(clusterId, function (err, zoom) {
+            if (err)
+                return;
+            map.easeTo({center: features[0].geometry.coordinates, zoom: zoom });
+        });
+    });
+
+
+    
+//    map.addLayer({ "id": "GeoMACPerimeter", "type": "fill", "source": { "type": "geojson", "data":wildfire }, "paint": {'fill-color': "#630101", 'fill-opacity':0.7,  'fill-outline-color': '#333', }, "filter": ["==", "$type", "Polygon"]}, firstSymbolId);
+
+
+
+
+
+
+    
+    map.loadImage('/media/wildfire/icon/marker_fire.png', function(error, image) {if (error) throw error; map.addImage('nwcgWF', image); });
+    map.loadImage('/media/wildfire/icon/marker_rx.png', function(error, image) {if (error) throw error; map.addImage('nwcgRX', image); });
+    map.loadImage('/media/wildfire/icon/marker_other.png', function(error, image) {if (error) throw error; map.addImage('nwcgCX', image); });
+
+    map.addSource('nwcg_geojson', {type: 'geojson', data: '/media/wildfire/active/nwcg.geojson?v='+rnna });
+//    map.addLayer({ "id": "NWCGLayer", "type": "fill", "source":"nwcg_geojson", "filter":["==","IncidentTypeCategory","WF"],  "paint": {'fill-color': "#FC4D4D", 'fill-opacity':0.6,  'fill-outline-color': '#000000', }}, firstSymbolId);
+    map.addLayer({"id": "NWCGLayerW", "type": "symbol", "source": "nwcg_geojson", "filter":["==","IncidentTypeCategory","WF"],  "layout": {"visibility":"visible", "icon-image": 'nwcgWF', 'icon-allow-overlap':true, 'icon-ignore-placement':true, "text-allow-overlap": true},});
+    map.addLayer({"id": "NWCGLayerR", "type": "symbol", "source": "nwcg_geojson", "filter":["==","IncidentTypeCategory","RX"],  "layout": {"visibility":"visible", "icon-image": 'nwcgRX', 'icon-allow-overlap':true, 'icon-ignore-placement':true, "text-allow-overlap": true},});
+    map.addLayer({"id": "NWCGLayerC", "type": "symbol", "source": "nwcg_geojson", "filter":["==","IncidentTypeCategory","CX"],  "layout": {"visibility":"visible", "icon-image": 'nwcgCX', 'icon-allow-overlap':true, 'icon-ignore-placement':true, "text-allow-overlap": true},});
+    map.on('click', 'NWCGLayerW', function (e) {new mapboxgl.Popup({ offset: 12 }).setLngLat(e.lngLat).setHTML(onNWCGiPntFeature(e.features[0])).addTo(map);});
+    map.on('click', 'NWCGLayerR', function (e) {new mapboxgl.Popup({ offset: 12 }).setLngLat(e.lngLat).setHTML(onNWCGiPntFeature(e.features[0])).addTo(map);});
+    map.on('click', 'NWCGLayerC', function (e) {new mapboxgl.Popup({ offset: 12 }).setLngLat(e.lngLat).setHTML(onNWCGiPntFeature(e.features[0])).addTo(map);});
+
+    
+
+    map.addSource('NICF_geojson', {type: 'geojson', data: '/media/wildfire/nifc.json?v='+rnna });
+    map.addLayer({"id": "NICFlayer", "type": "symbol", "source": "NICF_geojson", "filter":["==","IncidentTypeCategory","WF"],  "layout": {"visibility":"visible", "icon-image": 'nwcgWF', 'icon-allow-overlap':true, 'icon-ignore-placement':true, "text-allow-overlap": true},});
+    map.on('click', 'NICFlayer', function (e) {new mapboxgl.Popup({ offset: 12 }).setLngLat(e.lngLat).setHTML(onNICFiPntFeature(e.features[0])).addTo(map);});
+
+    
+
+
+    
+
+    InciPntJSON.features.forEach(function(marker) { // create a HTML element for each feature
+        if (marker.geometry.type == 'Point'){
+            var el = document.createElement('div');
+            if (marker.properties.type === 'Wildfire'){el.className = 'IconWildfireNWCG';}
+            else if (marker.properties.type === 'Prescribed Fire'){el.className = 'IconPresfireNWCG';}
+            else if (marker.properties.type === 'Burned Area Response'){el.className = 'IconBurnNWCG';}
+            else {el.className = 'IconOtherNWCG';}
+          // make a marker for each feature and add to the map // add popups
+            new mapboxgl.Marker(el).setLngLat(marker.geometry.coordinates).setPopup(new mapboxgl.Popup({ offset: 14 }).setHTML(onInciPntFeature(marker))).addTo(map);
+        }
+    });
+
+    InciCaFireJSON.features.forEach(function(marker) { // create a HTML element for each feature
+        if (marker.geometry.type == 'Point'){
+            var el = document.createElement('div');
+            if (marker.properties.type === 'Wildfire'){el.className = 'IconWildfireNWCG';}
+            else if (marker.properties.type === 'Prescribed Fire'){el.className = 'IconPresfireNWCG';}
+            else if (marker.properties.type === 'Burned Area Response'){el.className = 'IconBurnNWCG';}
+            else {el.className = 'IconOtherNWCG';}
+          // make a marker for each feature and add to the map // add popups
+            new mapboxgl.Marker(el).setLngLat(marker.geometry.coordinates).setPopup(new mapboxgl.Popup({ offset: 14 }).setHTML(onInciCaFireFeature(marker))).addTo(map);
+        }
+    });
+
+    map.addSource('fema_wildfire', {type: 'geojson', data: '/media/wildfire/active/fema.geojson?v='+rnna });
+    map.addLayer({"id": "FEMALayerW", "type": "symbol", "source": "fema_wildfire", "filter":["==","IncidentTypeCategory","WF"], "filter":["<=","FireDiscoveryAge",7],  "layout": {"visibility":"visible", "icon-image": 'nwcgWF', 'icon-allow-overlap':true, 'icon-ignore-placement':true, "text-allow-overlap": true},});
+    map.addLayer({"id": "FEMALayerR", "type": "symbol", "source": "fema_wildfire", "filter":["==","IncidentTypeCategory","RX"],  "layout": {"visibility":"visible", "icon-image": 'nwcgRX', 'icon-allow-overlap':true, 'icon-ignore-placement':true, "text-allow-overlap": true},});
+    map.addLayer({"id": "FEMALayerC", "type": "symbol", "source": "fema_wildfire", "filter":["==","IncidentTypeCategory","CX"],  "layout": {"visibility":"visible", "icon-image": 'nwcgCX', 'icon-allow-overlap':true, 'icon-ignore-placement':true, "text-allow-overlap": true},});
+    map.on('click', 'FEMALayerW', function (e) {new mapboxgl.Popup({ offset: 12 }).setLngLat(e.lngLat).setHTML(onFEMAiPntFeature(e.features[0])).addTo(map);});
+    map.on('click', 'FEMALayerR', function (e) {new mapboxgl.Popup({ offset: 12 }).setLngLat(e.lngLat).setHTML(onFEMAiPntFeature(e.features[0])).addTo(map);});
+    map.on('click', 'FEMALayerC', function (e) {new mapboxgl.Popup({ offset: 12 }).setLngLat(e.lngLat).setHTML(onFEMAiPntFeature(e.features[0])).addTo(map);});
+//    csloc.features.forEach(function(marker) { var el = document.createElement('div'); el.className = 'csIcon'; new mapboxgl.Marker(el).setLngLat(marker.geometry.coordinates).setPopup(new mapboxgl.Popup({ offset: 14 })).addTo(map); });
+});
+
+
+map.addControl(new mapboxgl.NavigationControl(), 'top-left');
+
+
+var BounceLine = null;
+
+if (BounceLine) {
+var bounds = new mapboxgl.LngLatBounds();
+BounceLine.forEach(function(Tpolygon) { Tpolygon.forEach(function(Tline){ Tline.forEach(function(Tpoint){bounds.extend(Tpoint); }) }) });
+map.fitBounds(bounds, { padding: 120 });
+}
+
+
+</script>
+
+
+					</div> 
+				</div> 
+			</div>  
+			<div style="width: 100%;" class="hidden-xs">
+				<div class="gcp-leaderboard-admodule" style="display:table; margin: 0 auto;"><div style="display:none" id="gcp-leaderboard_btf-ad" class="gcp-adplacement"><script type="text/javascript">cobrandCallForAd('gcp-leaderboard_btf-ad', '/7103/nv-reno-C1011/leaderboard_btf/data-central/fire-and-smoke', [[728,90]], {});</script></div></div>
+			</div>
+        </div>
+    </div> 
+    <footer class="small aligncenter"> All rights reserved. Users of this site agree to the <a class="gcp-footer-link" target="_top" href="http://cm.rgj.com/terms">Terms of Service</a>, <a class="gcp-footer-link"target="_top" href="http://cm.rgj.com/privacy">Privacy Notice</a>, <a class="gcp-footer-link"target="_top" href="http://cm.rgj.com/privacy-policy">Your California Privacy Rights</a>, <a class="gcp-footer-link"target="_top" href="http://cm.rgj.com/cookie-policy">Cookie Policy</a> and <a class="gcp-footer-link" target="_top" href="http://cm.rgj.com/privacy/#ad_choices">Ad Choices</a></footer>
+
+	
+	
+
+	<section class="gcp-cards">
+		<div class="gcp-container hidden-xs">
+			<div class="gcp-left">
+				<div id="customcontainer"></div>
+			</div>
+			<div class="gcp-right"></div>
+		</div>
+		<div class="gcp-clear"></div>
+		<div class="gcp-leaderboard-admodule"></div>
+		<!-- Prebid Config Section START --><!-- Make sure this is inserted before your GPT tag -->
+		<script type="text/javascript">
+			var PREBID_TIMEOUT = 700,
+				priceBrackets = {
+					buckets : [{
+						precision: 2,
+						min: 0,
+						max: 5,
+						increment: 0.01
+					},
+					{
+						precision: 2,
+						min: 5,
+						max: 10,
+						increment: 0.05
+					},
+					{
+						precision: 2,
+						min: 10,
+						max: 20,
+						increment: 0.10
+					},
+					{
+						precision: 2,
+						min: 20,
+						max: 50,
+						increment: 0.25
+					},
+					{
+						precision: 2,
+						min: 50,
+						max: 100,
+						increment: 1
+					}]
+				};
+		
+				var pbjs = pbjs || {};
+				pbjs.que = pbjs.que || [];
+			
+				pbjs.que.push(function() {
+					// Map inx to indexExchange, DFP is setup to use indexExchange key/values
+					pbjs.aliasBidder('ix', 'indexExchange');
+			
+					pbjs.setPriceGranularity(priceBrackets);
+					pbjs.enableSendAllBids();
+				});
+		</script><!-- Prebid Config Section END --><!-- Prebid Boilerplate Section START. No Need to Edit. -->
+		<script>
+			var googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+			googletag.cmd.push(function() {
+			  googletag.pubads().disableInitialLoad();
+			});
+		
+			pbjs.que.push(function() {
+				pbjs.addAdUnits(dataToSend);
+				pbjs.requestBids({
+				  bidsBackHandler: sendAdserverRequest
+				});
+			});
+		
+			function sendAdserverRequest() {
+				if (pbjs.adserverRequestSent) return;
+				pbjs.adserverRequestSent = true;
+				googletag.cmd.push(function() {
+					pbjs.que.push(function() {
+					pbjs.setTargetingForGPTAsync();
+					googletag.pubads().refresh();
+		
+					var targetingParams = pbjs.getAdserverTargeting();
+					var container = document.getElementById('container');
+					container.innerHTML = JSON.stringify(targetingParams, null, 2);
+					});
+				});
+			}
+		
+			function checkForEmail(str) {
+				// We are doing a super generic check for the @ sign, just to make sure we catch everything
+				return (str.match(/@/gi)) ? true : false;
+			}
+		
+			setTimeout(function() {
+			  sendAdserverRequest();
+			}, PREBID_TIMEOUT);
+		
+			window.googletag.cmd.push(function() {
+				window.googletag.pubads().enableSingleRequest();
+		
+				// Check for email in the url, and disable ad calls if one is found
+				if(!checkForEmail(document.location.href)) {
+					window.googletag.enableServices();
+				}
+			});
+		</script>
+	</section>
+</body>
+</html>

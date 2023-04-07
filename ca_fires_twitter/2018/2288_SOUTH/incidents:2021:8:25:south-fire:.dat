@@ -1,0 +1,939 @@
+
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie9 oldie" lang="en"> <![endif]-->
+<!--[if (gt IE 9)]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head>
+    <!--
+        California State Template
+        Version 5.0.6
+
+        Based on Twitter Bootstrap
+    -->
+
+
+
+    <meta charset="UTF-8">
+    <title>South Fire Incident Report</title>
+    <meta name="Author" content="California Department of Forestry and Fire Protection (CAL FIRE)" />
+            <link rel="canonical" href="https://www.fire.ca.gov/incidents/2021/8/25/south-fire/" />
+ 
+    
+    <script>var whiteList = "frap.fire.ca.gov,osfm.fire.ca.gov,bof.fire.ca.gov,fmtf.fire.ca.gov,burnpermit.fire.ca.gov,webmaster@fire.ca.gov,fire.ca.gov,mailto:april.mangels@fire.ca.gov,mailto:Ivy.Williams@fire.ca.gov,www.fire.ca.gov,http://eepurl.com/dIgZEr,http://www.cdph.ca.gov/covid19,https://www.readyforwildfire.org,https://fire.us8.list-manage.com,https://twitter.com/CAL_FIRE?ref_src=twsrc%5Etfw,https://twitter.com/CAL_FIRE?ref_src=twsrc%5Etfw,https://plan.readyforwildfire.org/,";</script>
+
+    
+<!-- head content, for all pages -->
+<!-- Use highest compatibility mode -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<!-- for Blackberry, AvantGo -->
+<meta name="MobileOptimized" content="320">
+<!-- for Windows mobile -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
+<!--
+Step 3
+Select a color scheme:
+-->
+
+        <link rel="stylesheet" href="/dist/css/fullscheme-sacramento.min.css?v=32E6A98F202B23E647F7E5A4BC27C47DCA4C816F8E770936DD20ECFAFE32E5E0">
+
+
+
+
+<!-- selectivizr.com, emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8 -->
+<!--[if (lt IE 9) & (!IEMobile)]>
+<script src="/scripts/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!-- For iPad 3-->
+<link rel="apple-touch-icon" sizes="144x144" href="/images/template2014/apple-touch-icon-144x144.png">
+<!-- For iPhone 4 -->
+<link rel="apple-touch-icon" sizes="114x114" href="/images/template2014/apple-touch-icon-114x114.png">
+<!-- For iPad 1-->
+<link rel="apple-touch-icon" sizes="72x72" href="/images/template2014/apple-touch-icon-72x72.png">
+<!-- For iPhone 3G, iPod Touch and Android -->
+<link rel="apple-touch-icon" href="/images/template2014/apple-touch-icon-57x57.png">
+<!-- For Nokia -->
+<link rel="shortcut icon" href="/images/template2014/apple-touch-icon-57x57.png">
+<!-- For everything else -->
+
+
+
+
+
+<!-- Activate ClearType for Mobile IE -->
+<!--[if IE]>
+<meta http-equiv="cleartype" content="on">
+<<!doctype html>
+<html lang="en" endif="">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="FABCA-EXGL3-UQAP2-RUYJ7-ZSCU5",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"FABCA-EXGL3-UQAP2-RUYJ7-ZSCU5",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="eybtajaybbtaajqacqaaadiaabr6cqpp-f-331d5c7ed-clienttons-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"34","ak.cp":"1079038","ak.ai":parseInt("642666",10),"ak.ol":"0","ak.cr":89,"ak.ipv":6,"ak.proto":"http/1.1","ak.rid":"643a082","ak.r":31690,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"2603:3024:1808:6600::","ak.cport":52318,"ak.gh":"23.33.238.173","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1675706863","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==Jw0N7Ai3PYwQUVaxgbP94WHgD0D0+3/+OZu8bblRnMteedbBV4SzWeyxEZKVtbr6BhvHAvL+kVkB/meKUmwmKTuOaJPejm6t/pWl4gPXXZKlp5VCCRIb3drjTQY1K8aptAh9I6qpRAqUSjKT7iAKrGd/BTw8JdvEL5KQOAK+PYydx714eaCSPDwSZ6TnPoluBj4CCn6ybdOk0S+ZGovjHwrav01fwqrBNiS/0l1QV+im4remIxqrdUT+f8mTMm6GZxyMZUhx0CdCXaPXoVi3Dh3kkaOsUO6nNTtzgXp/Rg/PDEra1Jm6S0VYqPMHs+kiRN5Fre9W25zGBjjukvtb/d3OIK2Q1xUfzc4y2ZBySOfKRLM1M/wZ8zmcSOA7srGh+mr1+LegSSBGfjjQ9FAGU4IfvJsnA4XPHw/VtrSlgB4=","ak.pv":"13","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+
+</body>
+</html>
+<![endif]-->
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="/scripts/libs/html5shiv.min.js"></script>
+  <script src="/scripts/libs/respond.min.js"></script>
+<![endif]-->
+<!-- Include Google Analytics -->
+
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+
+        
+        _gaq.push(['_setAccount', 'UA-12131957-10']); // Step 4: your google analytics profile code, either from your own google account, or contact eServices to have one set up for you
+        _gaq.push(['_gat._anonymizeIp']);
+        _gaq.push(['_setDomainName', '.ca.gov']);
+        _gaq.push(['_trackPageview']);
+        
+
+    _gaq.push(['b._setAccount', 'UA-3419582-2']); // statewide analytics - do not remove or change
+    _gaq.push(['b._setDomainName', '.ca.gov']);
+    _gaq.push(['b._trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+
+<script src="/dist/js/inline.min.js?v=32E6A98F202B23E647F7E5A4BC27C47DCA4C816F8E770936DD20ECFAFE32E5E0"></script>
+<script defer src="/dist/js/defer.min.js?v=32E6A98F202B23E647F7E5A4BC27C47DCA4C816F8E770936DD20ECFAFE32E5E0"></script>
+
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="FABCA-EXGL3-UQAP2-RUYJ7-ZSCU5",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"FABCA-EXGL3-UQAP2-RUYJ7-ZSCU5",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="eybtajaybbtaajqacqaaadiaabr6cqpp-f-331d5c7ed-clienttons-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"34","ak.cp":"1079038","ak.ai":parseInt("642666",10),"ak.ol":"0","ak.cr":89,"ak.ipv":6,"ak.proto":"http/1.1","ak.rid":"643a082","ak.r":31690,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"2603:3024:1808:6600::","ak.cport":52318,"ak.gh":"23.33.238.173","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1675706863","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==Jw0N7Ai3PYwQUVaxgbP94WHgD0D0+3/+OZu8bblRnMteedbBV4SzWeyxEZKVtbr6BhvHAvL+kVkB/meKUmwmKTuOaJPejm6t/pWl4gPXXZKlp5VCCRIb3drjTQY1K8aptAh9I6qpRAqUSjKT7iAKrGd/BTw8JdvEL5KQOAK+PYydx714eaCSPDwSZ6TnPoluBj4CCn6ybdOk0S+ZGovjHwrav01fwqrBNiS/0l1QV+im4remIxqrdUT+f8mTMm6GZxyMZUhx0CdCXaPXoVi3Dh3kkaOsUO6nNTtzgXp/Rg/PDEra1Jm6S0VYqPMHs+kiRN5Fre9W25zGBjjukvtb/d3OIK2Q1xUfzc4y2ZBySOfKRLM1M/wZ8zmcSOA7srGh+mr1+LegSSBGfjjQ9FAGU4IfvJsnA4XPHw/VtrSlgB4=","ak.pv":"13","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+
+<body class="sacramento">
+    
+    <header role="banner" id="header" class="global-header nav-full-width-icons fixed">
+        <div role="navigation" id="skip-to-content"><a class="sr-only sr-only-focusable" aria-label="Skip to Main Content" href="#main-content">Skip to Main Content</a></div>
+        <!-- Location Bar -->
+        <div class="location-settings section section-standout collapse collapsed " id="locationSettings">
+    <div class="container p-y">
+        <button type="button" class="close" data-toggle="collapse" data-target="#locationSettings" aria-expanded="false" aria-controls="locationSettings" aria-label="Close">
+            <span aria-hidden="true" data-do-not-translate="">&times;</span>
+        </button>
+
+        <div class="form-group form-inline">
+            <label for="locationZipCode">Saving your location allows us to provide you with more relevant information.</label>
+            <input type="input" class="form-control" id="locationZipCode" placeholder="Zip Code">
+            <button type="button" class="btn btn-primary">Set Location</button>
+        </div>
+    </div>
+</div>
+
+        <!-- Translation Header -->
+        
+<div id="translation-header" role="alert" class="section section-standout collapsed collapse site-settings translation-header">
+    <div class="container p-y">
+        <button type="button" class="close" data-toggle="collapse" data-target="#translation-header" aria-expanded="false" aria-controls="translation-header" aria-label="Close" role="tab"><span aria-hidden="true">×</span></button>
+        <h5>Select a Language</h5>
+        <ul id="primary-languages-list" class="top-level-nav row">
+            <li class="primary-language nav-item col-md-6 col-lg-4 col-xl-3">
+                <a href="#" class="select-language" onclick="setPreferredLanguage('es'); return false;" data-do-not-translate="">Español</a>
+            </li>
+            <li class="primary-language nav-item col-md-6 col-lg-4 col-xl-3">
+                <a href="#" class="select-language" onclick="setPreferredLanguage('zh-CN'); return false;" data-do-not-translate="">简体中文）</a>
+            </li>
+            <li class="primary-language nav-item col-md-6 col-lg-4 col-xl-3">
+                <a href="#" class="select-language" onclick="setPreferredLanguage('zh-TW'); return false;" data-do-not-translate="">中國傳統的）</a>
+            </li>
+            <li class="primary-language nav-item col-md-6 col-lg-4 col-xl-3">
+                <a href="#" class="select-language" onclick="setPreferredLanguage('vi'); return false;" data-do-not-translate="">Tiếng Việt</a>
+            </li>
+            <li class="primary-language nav-item col-md-6 col-lg-4 col-xl-3">
+                <a href="#" class="select-language" onclick="setPreferredLanguage('tl'); return false;" data-do-not-translate="">Tagalog (Filipino)</a>
+            </li>
+            <li class="primary-language nav-item col-md-6 col-lg-4 col-xl-3">
+                <a href="#" class="select-language" onclick="setPreferredLanguage('ko'); return false;" data-do-not-translate="">한국인</a>
+            </li>
+            <li class="primary-language nav-item col-md-6 col-lg-4 col-xl-3">
+                <a href="#" class="select-language" onclick="setPreferredLanguage('ar'); return false;" data-do-not-translate="">عربي</a>
+            </li>
+            <li class="primary-language nav-item col-md-6 col-lg-4 col-xl-3">
+                <a href="#" class="select-language" onclick="setPreferredLanguage('ru'); return false;" data-do-not-translate="">русский</a>
+            </li>
+            <li class="primary-language nav-item col-md-6 col-lg-4 col-xl-3">
+                <a href="#" class="select-language" onclick="setPreferredLanguage('ja'); return false;" data-do-not-translate="">日本</a>
+            </li>
+            <li class="primary-language nav-item col-md-6 col-lg-4 col-xl-3">
+                <a href="#" class="select-language" onclick="setPreferredLanguage('pl'); return false;" data-do-not-translate="">Polskie</a>
+            </li>
+            <li class="primary-language nav-item col-md-6 col-lg-4 col-xl-3">
+                <a href="#" class="select-language" onclick="setPreferredLanguage('fr'); return false;" data-do-not-translate="">français</a>
+            </li>
+            <li class="primary-language nav-item col-md-6 col-lg-4 col-xl-3">
+                <a href="#" class="select-language" onclick="setPreferredLanguage('pt'); return false;" data-do-not-translate="">Português (Portugal, Brasil)</a>
+            </li>
+            <li class="primary-language nav-item col-md-6 col-lg-4 col-xl-3">
+                <a href="#" class="select-language" onclick="setPreferredLanguage('ht'); return false;" data-do-not-translate="">Kreyòl ayisyen</a>
+            </li>
+        </ul>
+        <ul id="secondary-languages-list"></ul>
+    </div>
+</div>
+
+<script>
+    var baseLanguage = 'en';
+    function setPreferredLanguage(language) {
+        var search = window.location.search.replace(/([?&])lang=[^&#]+(&|$)/g, "$1").replace(/\?$/, "");
+
+        if (language === baseLanguage) {
+            document.cookie = 'CAL_FIRE_Translate_To=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/';
+        } else {
+            var d = new Date();
+            d.setTime(d.getTime() + (365 * 24 * 60 * 60 * 1000));
+
+            document.cookie = 'CAL_FIRE_Translate_To=' + language + '; expires=' + d.toUTCString() + '; path=/';
+            search += (search.length > 0 ? '&' : '?') + 'lang=' + language;
+        }
+
+        if (search !== window.location.search) {
+            if (search.length > 0) window.location.search = search;
+            else window.location = window.location.origin + window.location.pathname + window.location.hash;
+        } else window.location.reload();
+    }
+
+    document.addEventListener("click", function (e) {
+        if (e.target.matches(".translation-header-toggle")) {
+            toggleTranslationHeader();
+        }
+    });
+
+</script>
+
+        <!-- Settings Bar -->
+        <div class="site-settings section section-standout collapse collapsed" role="alert" id="siteSettings">
+    <div class="container  p-y">
+        <button type="button" class="close" data-toggle="collapse" data-target="#siteSettings" aria-expanded="false" aria-controls="siteSettings" aria-label="Close"><span aria-hidden="true" data-do-not-translate="">&times;</span></button>
+        <div class="btn-group btn-group-justified-sm" role="group" aria-label="contrastMode">
+            <div class="btn-group"><button type="button" class="btn btn-primary disableHighContrastMode">Default</button></div>
+            <div class="btn-group"><button type="button" class="btn btn-primary enableHighContrastMode">High Contrast</button></div>
+        </div>
+        <div class="btn-group" role="group" aria-label="textSizeMode">
+            <div class="btn-group"><button type="button" class="btn btn-primary resetTextSize">Reset</button></div>
+            <div class="btn-group"><button type="button" class="btn btn-primary increaseTextSize"><span class="hidden-xs">Increase Font Size</span><span class="visible-xs">Font <small class="ca-gov-icon-plus-line"></small></span></button></div>
+            <div class="btn-group"><button type="button" class="btn btn-primary decreaseTextSize"><span class="hidden-xs">Decrease Font Size</span><span class="visible-xs">Font <small class="ca-gov-icon-minus-line"></small></span></button></div>
+        </div>
+
+    </div>
+</div>
+        <!-- Utility Header -->
+        
+        <!-- Utility header branding (goes with full width navigation with icons) -->
+<div class="utility-header">
+    <div class="container">
+                    <div class="header-cagov-logo"><a href="https://ca.gov"><span class="sr-only">CA.gov</span><img src="/media/1097/header_cagov.png?height=48" class="pos-rel" alt="ca.gov" aria-hidden="true" /></a></div>
+                    <div class="header-organization-banner"><a href="/"><img src="/media/1098/logo-transparency.png?height=48" alt="Cal Fire Department of Forestry and Fire Protection"></a></div>
+
+
+        <div class="settings-links">
+            <ul class="utility-links">
+
+
+                <li><button id="translation-btn" data-toggle="collapse" href="#translation-header" aria-expanded="false"><span class="ca-gov-icon-globe" aria-hidden="true"></span> Translate</button></li>
+                <li><button id="settings-btn" data-toggle="collapse" href="#siteSettings" aria-expanded="false"><span class="ca-gov-icon-gear" aria-hidden="true"></span> Settings</button></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+        <!-- Branding -->
+        
+        <!-- Mobile Controls -->
+        
+
+<!-- mobile navigation controls -->
+
+<div class="mobile-controls">
+    <span class="mobile-control-group mobile-header-icons">
+        <!-- Add more mobile controls here. These will be on the right side of the mobile page header section -->
+    </span>
+    <div class="mobile-control-group main-nav-icons">
+            <button class="mobile-control toggle-search">
+                <span class="ca-gov-icon-search hidden-print" aria-hidden="true"></span><span class="sr-only">Search</span>
+            </button>
+        <button id="nav-icon3" class="mobile-control toggle-menu" aria-expanded="false" aria-controls="navigation" data-toggle="collapse" data-target="#navigation" role="tab" aria-selected="false">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span class="sr-only">Menu</span>
+        </button>
+    </div>
+</div>
+
+        <div class="navigation-search">
+            <nav id="navigation" class="main-navigation dropdown auto-highlight">
+    <ul id="nav_list" class="top-level-nav">
+        <li class="nav-item">
+            <a href="/incidents/" class="has-sub first-level-link"><span class="ca-gov-icon-fire"></span>Incidents</a>
+                <div class="sub-nav">
+                    <div>
+                        <ul class="second-level-nav">
+                            <li><a href="/incidents/" class="second-level-link">Incidents</a></li>
+                                <li>
+                                    <a href="/incidents/2023/" class="second-level-link">
+                                        2023
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/incidents/2022/" class="second-level-link">
+                                        2022
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/incidents/2021/" class="second-level-link">
+                                        2021
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/incidents/2020/" class="second-level-link">
+                                        2020
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/incidents/2019/" class="second-level-link">
+                                        2019
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/incidents/2018/" class="second-level-link">
+                                        2018
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/incidents/2017/" class="second-level-link">
+                                        2017
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/incidents/2016/" class="second-level-link">
+                                        2016
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/incidents/2015/" class="second-level-link">
+                                        2015
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/incidents/2014/" class="second-level-link">
+                                        2014
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/incidents/2013/" class="second-level-link">
+                                        2013
+                                    </a>
+                                </li>
+                        </ul>
+                    </div>
+                </div>
+        </li>
+        <li class="nav-item">
+            <a href="/about-us/" class="has-sub first-level-link"><span class="ca-gov-icon-capitol"></span>About Us</a>
+                <div class="sub-nav">
+                    <div>
+                        <ul class="second-level-nav">
+                            <li><a href="/about-us/" class="second-level-link">About Us</a></li>
+                                <li>
+                                    <a href="/about-us/executive-staff/" class="second-level-link">
+                                        Executive Staff
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/about-us/45-day-report/" class="second-level-link">
+                                        45-Day Report
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/about-us/multiyear-strategic-plan/" class="second-level-link">
+                                        Multiyear Strategic Plan
+                                    </a>
+                                </li>
+                        </ul>
+                    </div>
+                </div>
+        </li>
+        <li class="nav-item">
+            <a href="/careers/" class="first-level-link"><span class="ca-gov-icon-shield"></span>Careers</a>
+        </li>
+        <li class="nav-item">
+            <a href="/programs/" class="has-sub first-level-link"><span class="ca-gov-icon-flowchart"></span>Programs</a>
+                <div class="sub-nav">
+                    <div>
+                        <ul class="second-level-nav">
+                            <li><a href="/programs/" class="second-level-link">Programs</a></li>
+                                <li>
+                                    <a href="https://bof.fire.ca.gov" class="second-level-link">
+                                        Board of Forestry and Fire Protection
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://frap.fire.ca.gov" class="second-level-link">
+                                        Fire &amp; Resource Assessment Program
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://osfm.fire.ca.gov" class="second-level-link">
+                                        Office of the State Fire Marshal
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/programs/communications/" class="second-level-link">
+                                        Communications
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/programs/fire-protection/" class="second-level-link">
+                                        Fire Protection
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/programs/resource-management/" class="second-level-link">
+                                        Resource Management
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/programs/r-v-e-t-s/" class="second-level-link">
+                                        R.V.E.T.S
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/programs/eeo/" class="second-level-link">
+                                        EEO
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/programs/professional-standards-program/" class="second-level-link">
+                                        Professional Standards Program
+                                    </a>
+                                </li>
+                        </ul>
+                    </div>
+                </div>
+        </li>
+        <li class="nav-item">
+            <a href="/grants/" class="has-sub first-level-link"><span class="ca-gov-icon-handshake"></span>Grants</a>
+                <div class="sub-nav">
+                    <div>
+                        <ul class="second-level-nav">
+                            <li><a href="/grants/" class="second-level-link">Grants</a></li>
+                                <li>
+                                    <a href="/grants/wildfire-prevention/" class="second-level-link">
+                                        Wildfire Prevention
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/grants/california-forest-improvement-program-cfip/" class="second-level-link">
+                                        California Forest Improvement Program (CFIP)
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/grants/forest-health/" class="second-level-link">
+                                        Forest Health
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/grants/forest-legacy/" class="second-level-link">
+                                        Forest Legacy
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/grants/urban-and-community-forestry-grant-programs/" class="second-level-link">
+                                        Urban and Community Forestry Grant Programs
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://frap.fire.ca.gov/research-monitoring/forest-health-research-grants/" class="second-level-link">
+                                        Forest Health Research Program
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/programs/resource-management/climate-change-and-energy/wood-products-and-bioenergy/" class="second-level-link">
+                                        Business and Workforce Development
+                                    </a>
+                                </li>
+                        </ul>
+                    </div>
+                </div>
+        </li>
+        <li class="nav-item">
+            <a href="/resources/" class="has-sub first-level-link"><span class="ca-gov-icon-location"></span>Resources</a>
+                <div class="sub-nav">
+                    <div>
+                        <ul class="second-level-nav">
+                            <li><a href="/resources/" class="second-level-link">Resources</a></li>
+                                <li>
+                                    <a href="/resources/hired-equipment/" class="second-level-link">
+                                        Hired Equipment
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/resources/sb-and-dvbe-program/" class="second-level-link">
+                                        SB and DVBE Program
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/resources/equipment-programs/" class="second-level-link">
+                                        Equipment Programs
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/resources/cal-fire-contacts/" class="second-level-link">
+                                        CAL FIRE Contacts
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/resources/california-public-records-act/" class="second-level-link">
+                                        California Public Records Act
+                                    </a>
+                                </li>
+                        </ul>
+                    </div>
+                </div>
+        </li>
+        <li class="nav-item">
+            <a href="/stats-events/" class="first-level-link"><span class="ca-gov-icon-bar-chart"></span>Stats &amp; Events</a>
+        </li>
+
+            <li class="nav-item" id="nav-item-search">
+                <a href="/serp" class="first-level-link">
+                    <span class="ca-gov-icon-search" aria-hidden="true"></span>Search
+                </a>
+            </li>
+    </ul>
+</nav>
+
+            <div id="head-search" class="search-container">
+                
+<form class="search_form" action="https://cse.google.com/cse/">
+    <!-- the form action will be changed using javascript -->
+    <div class="textfield-container">
+        <label for="search_local_textfield-1c516f6d-5bd9-4229-9787-bd919543b8f1" accesskey="s" class="hidden">Search this site: </label>
+        <input type="text"
+               name="q"
+               id="search_local_textfield-1c516f6d-5bd9-4229-9787-bd919543b8f1"
+               class="search-textfield"
+               size="35"
+               autocomplete="off"
+               value="Search Site..."
+               onfocus="if (this.value == 'Search Site...') this.value = ''"
+               onblur="if (this.value == '') this.value = 'Search Site...'" />
+
+        <input type="hidden" class="search-cof" name="cof" value="" /> <!-- this value will be set using javascript -->
+        <input type="hidden" name="ie" value="UTF-8" />
+        <input type="hidden" name="nojs" value="1" />
+
+    </div>
+    <div class="submit-container">
+        <button type="submit"><span class="ca-gov-icon-search"><span class="sr-only">Search</span></span></button>
+    </div>
+    <button type="button" class="close-search" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
+</form>
+
+            </div>
+        </div>
+    </header>
+
+    <div id="main-content" class="main-content">
+        <div role="navigation" id="skip-to-navigation"><a class="sr-only sr-only-focusable" aria-label="Skip to Navigation" href="#navigation">Skip to Navigation</a></div>
+        <main class="main-primary">
+            
+<div class="incident-details">
+
+    
+
+
+<div class="section incident-logos">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="incident-heading col-xl-12 col-lg-12">
+                <h1>South Fire Incident</h1>
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+
+
+<div class="section incident-jump-links">
+    <div class="container">
+        <div id="jump-link-nav" class="accordion">
+            <header id="incident-jump-links__header" class="d-flex align-items-center justify-content-between" data-toggle="collapse" data-target="#anchor-links" role="button" aria-expanded="false" aria-controls="anchor-links">
+                <span class="d-block">On this page</span>
+            </header>
+            <ul id="anchor-links" class="collapse jump-links-bar" aria-labelledby="incident-jump-links__header" data-parent="#jump-link-nav" role="navigation">
+                <li class="active">
+                    <a href="#incident-status-updates">Cooperators &amp; Personnel</a>
+                </li>
+                                    <li>
+                        <a href="#evacuation-map">Evacuations</a>
+                    </li>
+                                    <li>
+                        <a href="#incident-damages-losses">Damages</a>
+                    </li>
+                                    <li>
+                        <a href="#incident-contacts">Contacts</a>
+                    </li>
+                                    <li>
+                        <a href="#incident-resources-assigned">Resources</a>
+                    </li>
+                                                                            </ul>
+        </div>
+    </div>
+</div>
+
+    
+
+<link rel="stylesheet" href="https://js.arcgis.com/4.20/esri/themes/light/main.css">
+<script defer src="https://js.arcgis.com/4.20/"></script>
+<style>
+    #esri-map {
+        height: 400px;
+        width: 100%;
+    }
+    .iframe-map, .iframe-map-conatiner {
+        height: 400px;
+        width: 100%;
+    }
+    @media screen and (min-width: 400px){
+        #esri-map {
+            height: 600px;
+        }
+        .iframe-map, .iframe-map-conatiner {
+            height: 600px;
+        }
+    }
+</style>
+<div id="incident-overview" class="section incident-overview">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6">
+                <div id="esri-map"></div>
+            </div>
+            <div class="col-lg-6">
+                <div class="row">
+                    <div class="icon-with-data col-sm">
+                        <span class="incident-icon">
+                            <img src="/images/custom-icons/Acres-Burned.svg" alt="drawing of trees on fire" />
+                        </span>
+                        <p class="h4">680 Acres</p>
+                        <p> &nbsp;</p>
+                    </div>
+                                        <div class="icon-with-data col-sm">
+                        <div class="percentage-ring">
+                            
+                            <svg width="100%" height="100%" viewBox="0 0 40 40">
+                                <title>Pie chart showing the percentage contained</title>
+                                <circle class="donut-hole" cx="20" cy="20" r="15.9155" fill="#fff"></circle>
+                                <circle class="donut-ring" cx="20" cy="20" r="15.9155" fill="transparent" stroke="#de3843" stroke-width="6"></circle>
+                                <circle class="donut-segment" cx="20" cy="20" r="15.9155" fill="transparent" stroke="#609ebd" stroke-width="6" stroke-dasharray="100, 100" stroke-dashoffset="0"></circle>
+                            </svg>
+                            <div class="icon-label">100%</div>
+                        </div>
+                        <p class="h4">Contained</p>
+                        <p>&nbsp;</p>
+                    </div>
+                    <div class="icon-with-data col-sm">
+                        <span class="incident-icon">
+                            <img src="/images/custom-icons/Incidents.svg" alt="drawing of a fire" />
+                        </span>
+                        <p class="h4">Finalized</p>
+                        <p>Active for 7 days &nbsp;</p>
+                    </div>
+                    <div class="icon-with-data col-sm">
+                        <span class="incident-icon">
+                            <img src="/images/custom-icons/California.svg" alt="drawing of california with a bear and a star" />
+                        </span>
+                        <p class="h4">1 County</p>
+                        <p>San Bernardino &nbsp;</p>
+                    </div>
+                </div>
+                <div>
+                    <table class="table table-striped">
+                        <tr><th>Last Updated</th><td>10/12/22 8:45 AM</td></tr>
+                        <tr><th>Date Started</th><td>08/25/21 4:11 PM</td></tr>
+<tr><th>Date Contained</th><td>09/02/21 3:25PM</td></tr>                        <tr><th>Location Information</th><td>North of Glen Helen, east of Sierra Ave. and Lytle Creek Rd. west of the 15 Fwy.</td></tr>
+                        <tr><th>Lat/Long</th><td>[34.186147, -117.440263]</td></tr>
+                        <tr><th>Administrative Unit</th><td>San Bernardino National Forest</td></tr>
+                        
+                        
+                        <tr><th>Reports</th><td><a href='/incidents/2021/8/25/south-fire/updates/'>Click here for prior status reports</a></td></tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+
+    // Full mobile browser detection: http://detectmobilebrowsers.com/
+    window.mobilecheck = function () {
+        var check = false;
+        (function (a) { if (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i.test(a) || /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0, 4))) check = true; })(navigator.userAgent || navigator.vendor || window.opera);
+        return check;
+    };
+
+    document.addEventListener("DOMContentLoaded", function (event) {
+        require(["esri/Map", "esri/views/MapView", "esri/Graphic", "esri/layers/GraphicsLayer", "esri/layers/MapImageLayer", "esri/widgets/Home", "esri/widgets/Fullscreen", "esri/layers/VectorTileLayer", "esri/layers/FeatureLayer", "esri/intl"],
+            function (Map, MapView, Graphic, GraphicsLayer, MapImageLayer, Home, Fullscreen, VectorTileLayer, FeatureLayer, intl) {
+                intl.setLocale('en');
+
+                // Construct Map
+                var map = new Map({
+                    basemap: "topo-vector"
+                });
+
+                // Construct MapView
+                var view = new MapView({
+                    container: "esri-map",
+                    map: map,
+                    center: [-117.440263, 34.186147],
+                    zoom: 9,
+                    highlightOptions: { color: [255, 255, 0, 1], haloOpacity: .75, fillOpacity: 0.25 }
+                });
+
+                var incidentLayer = new GraphicsLayer({ id: "incidents", title: "Incidents", visible: true });
+
+                // Construct UI Components
+                var fullscreen = new Fullscreen({ view: view });
+
+                // Add External Layers to the Map
+                        map.add(new FeatureLayer({ url: "https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/Current_WildlandFire_Perimeters/FeatureServer/0", visible: true }), 0);
+                map.add(incidentLayer, 10);
+
+                // Add UI Components to the View
+                view.ui.move("zoom", "top-left");
+
+                if (!window.mobilecheck()) {
+                    view.ui.add(fullscreen, "top-left");
+                }
+
+                // Add UI Events to the View
+                view.on("mouse-wheel", function(event) {
+                    event.stopPropagation();
+                });
+
+                // Mobile Specific
+                if (!window.mobilecheck()) {
+                    view.popup.dockOptions.position = "bottom-left";
+                }
+
+                // Construct the Incident Pin
+                var pointGraphic = new Graphic({
+                    geometry: { type: "point", longitude: -117.440263, latitude: 34.186147 },
+                    symbol: { type: "picture-marker", url: '/images/inactive.png', height: '32px', width: '28px' }
+                });
+
+                incidentLayer.graphics.add(pointGraphic);
+            }
+        );
+    });
+
+</script>
+
+
+    
+
+    <div class="section incident-status">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <h2 id="incident-status-updates">Status Updates</h2>
+                </div>
+                <div class="col-md-8">
+<p>Evacuation Warnings - North of Glen Helen, east of Sierra Ave./Lytle Creek Rd. west of the 15 Fwy.</p>                                    </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    
+
+
+<div id="incident-damages-losses" class="section incident-damages-and-losses">
+    <div class="container">
+        <div class="one-column">
+            <h2 class="text-center">Damages and Losses</h2>
+                        <p class="text-center">Confirmed Damage to Property, Injuries, and Fatalities</p>
+        </div>
+                <div class="data-icon-list">
+            <div class="icon-with-data">
+                <span class="incident-icon">
+                    <img src="/images/custom-icons/damaged2.svg" alt="drawing of a damaged building" />
+                </span>
+                <p class="h4">28 Structures Damaged</p>
+                <p>Residential, Commercial and Other</p>
+            </div>
+                        <div class="icon-with-data">
+                <span class="incident-icon">
+                    <img src="/images/custom-icons/Structures-Destroyed.svg" alt="drawing of a building on fire" />
+                </span>
+                <p class="h4">9 Structures Destroyed</p>
+                <p>Residential, Commercial and Other</p>
+            </div>
+                                </div>
+            </div>
+</div>
+
+    
+
+
+<div id="incident-contacts" class="section incident-contacts">
+    <div class="container">
+                    <div class="row">
+                                    <div class="col-lg-6">
+                        <h3>Agency Information</h3>
+                        <table class="table table-striped">
+                            <tbody>
+                                    <tr>
+                                        <td>
+                                            <div class="table-hightlight">San Bernardino National Forest </div>
+                                            <div></div>
+                                            <div></div>
+                                                <div><a href="https://twitter.com/SanBernardinoNF">https://twitter.com/SanBernardinoNF</a></div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <div class="table-hightlight">San Bernardino NF link to Inciweb: </div>
+                                            <div></div>
+                                            <div></div>
+                                                <div><a href=" https://inciweb.nwcg.gov/incident/7822/"> https://inciweb.nwcg.gov/incident/7822/</a></div>
+                                        </td>
+                                    </tr>
+
+                            </tbody>
+                        </table>
+                    </div>
+
+            </div>
+    </div>
+</div>
+
+    
+
+
+<div id="incident-resources-assigned" class="section incident-equipment">
+    <div class="container">
+        <div class="one-column">
+            <h2 class="text-center">Resources Assigned</h2>
+                        <p>CAL FIRE owns and operates over 3,000 fire and emergency response and resource protection vehicles. In support of its ground forces, the CAL FIRE emergency response air program includes 23 Grumman S-2T 1,200 gallon airtankers, 12 UH-1H Super Huey helicopters, 9 CALFIRE Hawks, and 16 OV-10A airtactical. From 13 air attack and 10 helitack bases located statewide, aircraft can reach most fires within 20 minutes.</p>
+        </div>
+        <div class="data-icon-list mt-4">
+                                                                <div class="icon-with-data">
+                    <span class="incident-icon">
+                        <img src="/images/custom-icons/Personnel.svg" alt="drawing of a firefighter" />
+                    </span>
+                    <p class="h4">275 Personnel</p>
+                    <p></p>
+                </div>
+                    </div>
+    </div>
+</div>
+
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+</div>
+
+        </main>
+    </div>
+
+    
+<!-- Global Footer -->
+<footer id="footer" class="global-footer">
+    <div class="container">
+        <div class="row">
+            <div class="three-quarters">
+                <ul class="footer-links">
+                        <li><a href="#skip-to-content">Back to Top</a></li>
+                                    <li>
+                                        <a href=/accessibility/>Accessibility</a>
+                                    </li>
+                                    <li>
+                                        <a href=/media/mqteom1d/web-accessibility-cert.pdf>Web Accessibility Cert (PDF)</a>
+                                    </li>
+                                    <li>
+                                        <a href=/conditions-of-use/>Conditions of Use</a>
+                                    </li>
+                                    <li>
+                                        <a href=/privacy-policy/>Privacy Policy</a>
+                                    </li>
+                                    <li>
+                                        <a href=/site-map/>Site Map</a>
+                                    </li>
+
+                </ul>
+            </div>
+            <div class="quarter text-right">
+                <ul class="socialsharer-container">
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- Copyright Statement -->
+    <div class="copyright">
+        <div class="container">
+            Copyright &copy;2023 State of California
+        </div>
+    </div>
+</footer>
+<!-- Extra Decorative Content -->
+<div class="decoration-last">&nbsp;</div>
+
+
+<!-- Begin Constant Contact Active Forms -->
+<script> var _ctct_m = "c04cc0daea7c242500a41f4653fff447"; </script>
+<script id="signupScript" src="//static.ctctcdn.com/js/signup-form-widget/current/signup-form-widget.min.js" async defer></script>
+<!-- End Constant Contact Active Forms -->
+
+    
+<aside id="speedbump-popup" class="popup" role="dialog" aria-modal="true" aria-labelledby="popupTitle">
+    <div class="popup-bg"></div>
+    <div class="popup-container">
+        <div class="popup-header">
+            <h4 id="popupTitle" class="popupTitle">You are now leaving CAL FIRE</h4>
+        </div>
+        <div class="popup-content">
+            This link leads to an external site which may provide additional information.
+The Department of Forestry and Fire Protection cannot attest to the accuracy of a non-CAL FIRE site.
+        </div>
+        <div class="popup-btn-container">
+            <a href="#" class="popup-close-btn btn btn-secondary" aria-label="Cancel and stay on Cal Fire's website">Cancel</a>&nbsp;
+            <a href="#" class="popup-continue-btn btn btn-standout clickable" data-tracking-label="Continue" aria-label="Continue to the next website and leave Cal Fire's website">Continue</a>
+        </div>
+    </div>
+</aside>
+
+</body>
+</html>

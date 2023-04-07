@@ -1,0 +1,5748 @@
+
+
+
+
+
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+    
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml" xml:lang="en" lang="en">
+
+<head>
+  
+  <meta name="viewport" content="width=1000">
+
+  
+  <meta name="layout" content="Blog Post" />
+  
+    <meta name="oid" content="18425387" />
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="imagetoolbar" content="no" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+  
+  
+  
+  <link rel="stylesheet" type="text/css" href="/foundation/styles/reset.css?cb=1097718f0f79a2bdaffc0e5414e428a6" />
+  <link rel="stylesheet" type="text/css" href="/styles/defaults.css?cb=1097718f0f79a2bdaffc0e5414e428a6" />
+  <link rel="stylesheet" type="text/css" href="/styles/components.css?cb=1097718f0f79a2bdaffc0e5414e428a6" />
+  <link rel="stylesheet" type="text/css" href="/styles/publication.css?cb=1097718f0f79a2bdaffc0e5414e428a6" />
+
+  
+
+  
+  
+
+  
+  
+    <script src="/foundation/fontawesome/js/brands.min.js" async></script>
+    <script src="/foundation/fontawesome/js/solid.min.js" async></script>
+    <script src="/foundation/fontawesome/js/regular.min.js" async></script>
+    <script src="/foundation/fontawesome/js/fontawesome.min.js" async></script>
+    <script src="/foundation/fontawesome/js/light.min.js" async></script>
+    <script src="/foundation/fontawesome/js/duotone.min.js" async></script>
+  
+
+  <style type="text/css">
+    /* Foundation Convenience Styles */
+    /* For programmatic usage only! */
+    .clear { clear: both }
+    .hidden { display: none }
+    .lower { text-transform: lowercase }
+    .upper { text-transform: uppercase }
+
+    /* Foundation Conditional Display Classes */
+    .briefOnly     {  }    /* override in components.css */
+    .longOnly      {  }    /* override in components.css */
+  </style>
+
+  
+    <link rel="stylesheet" type="text/css" href="/foundation/grids/iapetus-10-zone.css" />
+  
+
+  <!--[if lte IE 6]>
+    <link rel="stylesheet" type="text/css" href="/styles/ie6.css" />
+  <![endif]-->
+  <!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="/styles/ie7.css" />
+  <![endif]-->
+  <!--[if IE 8]>
+    <link rel="stylesheet" type="text/css" href="/styles/ie8.css" />
+  <![endif]-->
+  <!--[if gte IE 9]>
+      <link rel="stylesheet" type="text/css" href="/styles/ie9-plus.css">
+  <![endif]-->
+
+  <link rel="stylesheet" href="/styles/print.css" type="text/css" media="print" />
+
+  
+  
+    
+    
+      <link rel="alternate" type="application/rss+xml" title="North Coast Journal RSS: Whole Site" href="https://www.northcoastjournal.com/humboldt/Rss.xml" />
+    
+    
+      <link rel="alternate" type="application/rss+xml" title="North Coast Journal RSS: News Section" href="https://www.northcoastjournal.com/humboldt/Rss.xml?oid=2124543" />
+    
+    
+      <link rel="alternate" type="application/rss+xml" title="North Coast Journal RSS: News Blog" href="https://www.northcoastjournal.com/humboldt/Rss.xml?oid=2125004" />
+      
+        <link rel="alternate" type="application/rss+xml" title="North Coast Journal RSS: News Blog: " href="https://www.northcoastjournal.com/humboldt/Rss.xml?category=2125004&amp;topic=oid%3A2190807" />
+      
+    
+
+    
+    
+      <link rel="alternate" type="application/rss+xml" title="North Coast Journal RSS: Comments on News Blog" href="https://www.northcoastjournal.com/humboldt/Rss.xml?id=comments&amp;oid=2125004" />
+      
+        <link rel="alternate" type="application/rss+xml" title="North Coast Journal RSS: Comments on News Blog: " href="https://www.northcoastjournal.com/humboldt/Rss.xml?category=2125004&amp;id=comments&amp;topic=oid%3A2190807" />
+      
+    
+  
+
+  
+
+  
+    <script>window.__FBAPIv__ = 'v3.2'</script>
+  
+
+  
+    
+      <!--[if lte IE 8]>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/es5-shim/4.5.7/es5-shim.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/json3/3.3.2/json3.min.js"></script>
+      <![endif]-->
+      
+      <script>
+        if (!window.Promise) document.write('<scr'+'ipt src="https://cdnjs.cloudflare.com/ajax/libs/native-promise-only/0.8.1/npo.src.js"></scr'+'ipt>')
+      </script>
+    
+    
+    
+    
+    <script src="/foundation/scripts/common.js?cb=39100d3a58664e80f736cc246e047a9f"></script>
+  
+    
+    
+    
+    
+    
+    
+    <script src="/foundation/scripts/desktop-bundle.js?cb=39100d3a58664e80f736cc246e047a9f"></script>
+    
+  
+
+  
+    
+    <link rel="stylesheet" href="/foundation/styles/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen" />
+  
+
+  <script>
+    Foundation.documentReady.then(function () {
+        jQuery("a.zoomable").fancybox({"type": "image", "titlePosition": "over"});
+    });
+  </script>
+
+  
+  
+  
+
+  
+    
+    <script>
+    // Smooth scrolling to anchors on the same page.
+    setupGlide();
+    </script>
+  
+
+  <script>
+  // Modify user's own profile links to go to correct URL.
+  fixupProfileLinks("https:\/\/www.northcoastjournal.com\/humboldt\/Profile", "https:\/\/posting.northcoastjournal.com\/humboldt\/MyProfile");
+  </script>
+  
+  
+  
+
+  
+  
+    <meta name="google-signin-client_id" content="973622169120-iigv7pcbb7qct5m4uegf2lv8a0k6i303.apps.googleusercontent.com">
+  
+
+    
+  
+
+  
+  
+
+  <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+          <script>window.googletag = window.googletag || {cmd: []};</script>
+          <script>
+            googletag.cmd.push(function() {
+              Foundation = Foundation || {};
+              Foundation.Ad = Foundation.Ad || {};
+              Foundation.Ad.slots = Foundation.Ad.slots || {};
+                  Foundation.Ad.slots['div-gpt-ad-leaderboard_1'] = googletag.defineSlot('/1046892/leaderboard_1', [728, 90], 'div-gpt-ad-leaderboard_1').addService(googletag.pubads());
+                  Foundation.Ad.slots['div-gpt-ad-mediumrectangle_1'] = googletag.defineSlot('/1046892/mediumrectangle_1', [300, 250], 'div-gpt-ad-mediumrectangle_1').addService(googletag.pubads());
+                  Foundation.Ad.slots['div-gpt-ad-mediumrectangle_2'] = googletag.defineSlot('/1046892/mediumrectangle_2', [300, 250], 'div-gpt-ad-mediumrectangle_2').addService(googletag.pubads());
+                  Foundation.Ad.slots['div-gpt-ad-mediumrectangle_3'] = googletag.defineSlot('/1046892/mediumrectangle_3', [300, 250], 'div-gpt-ad-mediumrectangle_3').addService(googletag.pubads());
+                  Foundation.Ad.slots['div-gpt-ad-halfpage_1'] = googletag.defineSlot('/1046892/halfpage_1', [300, 600], 'div-gpt-ad-halfpage_1').addService(googletag.pubads());
+                  Foundation.Ad.slots['div-gpt-ad-skyscraper_1'] = googletag.defineSlot('/1046892/skyscraper_1', [160, 600], 'div-gpt-ad-skyscraper_1').addService(googletag.pubads());
+                  Foundation.Ad.slots['div-gpt-ad-pencil_1'] = googletag.defineSlot('/1046892/pencil_1', [940, 45], 'div-gpt-ad-pencil_1').addService(googletag.pubads());
+                  Foundation.Ad.slots['div-gpt-ad-web_skin'] = googletag.defineSlot('/1046892/web_skin', [1590, 600], 'div-gpt-ad-web_skin').addService(googletag.pubads());
+                  googletag.pubads().setTargeting('template', ["Post"]);
+                  googletag.pubads().setTargeting('media', ["screen"]);
+                  googletag.pubads().setTargeting('section', ["news"]);
+                  googletag.pubads().setTargeting('category', ["NewsBlog"]);
+                  googletag.pubads().setTargeting('oid', ["18425387"]);
+                  googletag.pubads().setTargeting('topic', ["community","emergency"]);
+                  googletag.pubads().setTargeting('tags', ["Slater Fire","Devil Fire","Del Norte","Oregon","Happy Camp","Gasquet"]);
+                  googletag.pubads().setTargeting('placement', ["High Impact"]);
+              googletag.pubads().collapseEmptyDivs();
+                googletag.enableServices();
+              Foundation.Ad.refresh = function (id) {
+                if (id && Foundation.Ad.slots[id]) {
+                  // Clean up ad container.
+                  jQuery('#' + id).css({width: '', height: ''});
+                  // Refresh slot.
+                  googletag.pubads().refresh([Foundation.Ad.slots[id]]);
+                }
+                else {
+                  // Clean up all ad containers.
+                  jQuery('[data-content-type="ad"]').css({width: '', height: ''});
+                  // Refresh all (refreshable) slots.  Wish I could use Object.values().
+                  var slots = [];
+                  for (var id in Foundation.Ad.slots) {
+                    if (Foundation.Ad.slots[id].refresh) {
+                      slots.push(Foundation.Ad.slots[id]);
+                    }
+                  }
+                  googletag.pubads().refresh(slots);
+                }
+              };
+              // Refresh on foundation:ad:refresh jQuery event.
+              Foundation.Ad.refreshlockout = false;
+              jQuery(document).on("foundation:ad:refresh", function(event) {
+                if (Foundation.Ad.refreshlockout == false) {
+                  Foundation.Ad.refreshlockout = true;
+                  window.setTimeout(function () {
+                    Foundation.Ad.refreshlockout = false;
+                  }, 2500);
+                  Foundation.Ad.refresh();
+                }
+              });
+              // Mark slots refreshable by default.
+              for (var id in Foundation.Ad.slots) {
+                if (!('refresh' in Foundation.Ad.slots[id])) {
+                  Foundation.Ad.slots[id].refresh = true;
+                }
+              }
+            });
+          </script>
+
+
+
+
+
+
+<link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700|PT+Sans+Narrow:400,70&display=swap" rel="stylesheet">
+
+<meta name="google-site-verification" content="_0NgafndIp4c0Z7vAmH9u6shKrSxEkL4grX526yiscg" />
+
+<script data-ad-client="ca-pub-8152130569450312" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  
+  
+  
+  
+  
+
+
+  
+  
+
+
+  
+  <link rel="shortcut icon" href="/favicon.ico" />
+  <meta name="title" content="Slater, Devil Fires Continue to Grow | News Blog" />
+  <meta name="description" content="The Slater Fire, which straddles the Oregon-California border and spans south to Happy Camp, and the Devil Fire to the east continued to grow yesterday...." />
+  <meta name="keywords" content="Slater Fire, Devil Fire, Del Norte, Oregon, Happy Camp, Gasquet, Community, Emergency" />
+  <title>Slater, Devil Fires Continue to Grow | News Blog</title>
+
+  
+  
+    <meta name="date" content="2020-09-14 15:36:00" />
+  
+
+  
+  
+  
+    <meta name="author" content="Kimberly Wear">
+  
+
+  
+  
+  <meta name="news_keywords" content="slater fire, devil fire, del norte, oregon, happy camp, gasquet, community, emergency" />
+
+  
+  
+
+  
+  
+    
+  
+  
+    <link rel="image_src" href="https://media2.fdncms.com/northcoast/imager/u/slideshow/18425397/2020_09_14-07.49.37.784-cdt.jpeg" />
+    <meta name="thumbnail" content="https://media2.fdncms.com/northcoast/imager/u/slideshow/18425397/2020_09_14-07.49.37.784-cdt.jpeg" />
+  
+
+  
+    
+      <link rel="canonical" href="https://www.northcoastjournal.com/NewsBlog/archives/2020/09/14/slater-devil-fires-continue-to-grow" />
+      <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.northcoastjournal.com/NewsBlog/archives/2020/09/14/slater-devil-fires-continue-to-grow" />
+    
+
+    
+    
+    
+  
+
+  
+    
+      <meta property="og:url" content="https://www.northcoastjournal.com/NewsBlog/archives/2020/09/14/slater-devil-fires-continue-to-grow" />
+    
+  
+
+  
+    <meta property="fb:app_id" content="385853514827957" />
+  
+
+  
+  <meta property="og:site_name" content="North Coast Journal" />
+  <meta property="og:title" content="Slater, Devil Fires Continue to Grow" />
+
+   
+  
+    
+
+    
+    
+
+    
+    
+
+    <meta property="og:image" content="https://media2.fdncms.com/northcoast/imager/u/slideshow/18425397/2020_09_14-07.49.37.784-cdt.jpeg" />
+
+    
+      <meta property="og:image:width" content="616" />
+      <meta property="og:image:height" content="401" />
+    
+  
+
+  
+  
+    <meta property="og:description" content="The Slater Fire, which straddles the Oregon-California border and spans south to Happy Camp, and the Devil Fire to the east continued to grow yesterday...." />
+  
+
+  
+  
+
+  
+  
+    <meta property="og:type" content="article" />
+  
+
+  
+  
+
+    
+    
+
+    
+    
+    
+
+    
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:image" content="https://media2.fdncms.com/northcoast/imager/u/slideshow/18425397/2020_09_14-07.49.37.784-cdt.jpeg">
+
+    
+    
+
+    
+      <meta name="twitter:creator" content="@kimberly_wear">
+    
+
+    <meta name="twitter:site" content="@ncj_of_humboldt">
+    <meta name="twitter:title" content="Slater, Devil Fires Continue to Grow">
+    <meta name="twitter:description" content="The Slater Fire, which straddles the Oregon-California border and spans south to Happy Camp, and the Devil Fire to the east continued to grow yesterday....">
+  
+
+  
+  
+  <!--
+    <PageMap>
+      <DataObject type="foundation">
+        <Attribute name="oid">18425387</Attribute>
+        <Attribute name="class">Content</Attribute>
+        <Attribute name="lastmodified">20220822021540</Attribute>
+        <Attribute name="creationdate">20200914152326</Attribute>
+      </DataObject>
+
+      
+        
+          <DataObject type="document">
+            <Attribute name="releasedatetime">20200914153600</Attribute>
+            <Attribute name="releasedate">20200914</Attribute>
+            <Attribute name="releaseepoch">1600122960</Attribute>
+            <Attribute name="title">Slater, Devil Fires Continue to Grow</Attribute>
+            <Attribute name="author">3886599</Attribute>
+            <Attribute name="authorname">Kimberly Wear</Attribute>
+            <Attribute name="authorsortname">Wear, Kimberly</Attribute>
+          </DataObject>
+        
+
+        
+      
+    </PageMap>
+  -->
+
+
+  
+  
+  
+  
+    
+    <script type="application/ld+json">
+          {
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id":"https:\/\/www.northcoastjournal.com\/NewsBlog\/archives\/2020\/09\/14\/slater-devil-fires-continue-to-grow"
+            },
+            "headline": "Slater, Devil Fires Continue to Grow",
+            
+              "description": "The Slater Fire, which straddles the Oregon-California border and spans south to Happy Camp, and the Devil Fire to the east continued to grow yesterday.",
+            
+            "image": {
+              "url": "https:\/\/media2.fdncms.com\/northcoast\/imager\/u\/original\/18425397\/2020_09_14-07.49.37.784-cdt.jpeg",
+              "width": 2550,
+              "height": 1662,
+              "@type": "ImageObject"
+            },
+            "datePublished": "2020-09-14T15:36:00",
+            "dateModified": "2022-08-22T02:15:40",
+            
+              
+              "author": {
+                "name": "Kimberly Wear",
+                "url": "https:\/\/www.northcoastjournal.com\/author\/kimberly-wear",
+                "@type": "Person"
+              },
+            
+            "publisher": {
+              "name": "North Coast Journal",
+              
+                
+                
+                
+                
+                
+                "logo": {
+                  "url": "https:\/\/www.northcoastjournal.com\/imager\/b\/square2x\/808579\/916a\/social-share.png",
+                  "width": 250,
+                  "height": 250,
+                  "@type": "ImageObject"
+                },
+              
+              "@type": "Organization"
+            },
+            "@context": "https://schema.org",
+            "@type": "NewsArticle"
+          }
+        </script>
+  
+
+
+</head>
+
+
+
+
+
+  <body id="Post" class="BlogPost Iapetus10Zone news NewsBlog">
+
+
+
+<div id="fb-root"></div>
+
+
+  <script>
+    (function () {
+        var app = new Foundation.Facebook.Application();
+        app.receiveAuthNotifications();
+        app.receiveLikeNotifications();
+    })();
+  </script>
+
+
+
+
+  <script>
+    (function () {
+      var googAuth = Foundation.Google.loadGoogleOauth().then(function(){
+        //if(window.console) console.log("Foundation.Google.loadGoogleOauth OAuth initialized.")
+      }.bind(this), function(){
+        if(window.console) console.log("Foundation.Google.loadGoogleOauth OAuth didn't init.")
+      })
+    })()
+  </script>
+    
+
+<!-- Leader -->
+<div id="gridLeader">
+  
+</div><!-- end gridLeader -->
+
+<div id="gridClamp">
+  <!-- Header -->
+  <div id="gridHeader">
+    
+
+
+
+
+  
+  
+
+  
+  
+  
+
+  
+
+    
+      <div id="MobileDetect" class="GlobalHeader BlogPost " style="display:none">
+        
+        
+          Switch to the <a href="https://m.northcoastjournal.com/NewsBlog/archives/2020/09/14/slater-devil-fires-continue-to-grow" rel="nofollow alternate" media="handheld">mobile version</a> of this page.
+        
+      </div>
+    
+
+    <script>
+      
+      function setRedirectHash() {
+        if (location.hash) {
+          jQuery("#MobileDetect a[media='handheld']").each(function() {
+            var link = jQuery(this);
+            link.attr('href', link.attr('href').split('#')[0] + location.hash);
+          });
+        }
+      }
+      setRedirectHash();
+
+      new Foundation.MobileDetectComponent("MobileDetect", true);
+    </script>
+  
+
+
+
+<div id="LoginIconsSearch" class="GlobalHeader BlogPost ">
+  
+  
+  
+  
+  
+    
+    <ul data-view="loggedin" style="display:none">
+      <li><strong data-label="username">Username</strong> / </li>
+      <li><a href="https://posting.northcoastjournal.com/humboldt/Profile/MySettings"><b>Edit Settings</b></a> / </li>
+      <li><a href="https://posting.northcoastjournal.com/humboldt/MyProfile">View Profile</a> / </li>
+      <li><a href="https://posting.northcoastjournal.com/humboldt/Logout">Log Out</a></li>
+    </ul>
+
+    <ul data-view="loggedout" style="display:none">
+      <li><a href="#LogIn">Log in</a> / </li>
+      <li><a href="#CreateAccount">Create Account</a></li>
+    </ul>
+  
+
+
+  
+
+    
+    
+    <form class="prepTextForm" id="searchbox_017793458706336421686:jlre5_bz3rs" action="https://posting.northcoastjournal.com/humboldt/Search">
+        <input type="hidden" name="cx" value="017793458706336421686:jlre5_bz3rs" />
+        <input type="hidden" name="cof" value="FORID:9" />
+        <input type="text" name="q" size="25" />
+        <input type="submit" name="sa" value="GO" />
+    </form>
+  
+
+
+  
+
+  
+      <ul class="icons">
+    
+    
+
+    <li>
+      
+        <a id="tql-Twitter" href="https://twitter.com/ncj_of_humboldt" style="vertical-align:top; word-spacing:normal !important" title="Twitter" target="_blank">Twitter</a>
+      
+    </li>
+
+    
+  
+    
+
+    <li>
+      
+        <a id="tql-Facebook" href="https://www.facebook.com/northcoastjournal" style="vertical-align:top; word-spacing:normal !important" title="Facebook" target="_blank">Facebook</a>
+      
+    </li>
+
+    
+  
+    
+
+    <li>
+      
+        <a id="tql-Instagram" href="https://www.instagram.com/northcoastjournal/" style="vertical-align:top; word-spacing:normal !important" title="Instagram" target="_blank">Instagram</a>
+      
+    </li>
+
+    
+  
+    
+
+    <li>
+      
+        <a id="tql-Issuu" href="http://issuu.com/ncjournal" style="vertical-align:top; word-spacing:normal !important" title="Issuu" target="_blank">Issuu</a>
+      
+    </li>
+
+    
+  
+    
+
+    <li>
+      
+        <a id="tql-NewsletterTopLink" href="/humboldt/Newsletters/Page" style="vertical-align:top; word-spacing:normal !important" title="Newsletter Top Link" target="_blank">Newsletter Top Link</a>
+      
+    </li>
+
+    
+  
+    
+
+    <li>
+      
+        <a id="tql-RSS" href="/humboldt/Syndication" style="vertical-align:top; word-spacing:normal !important" title="RSS" target="_self">RSS</a>
+      
+    </li>
+
+    
+  
+      </ul>
+    
+
+</div>
+
+
+
+  <script>
+    new Foundation.LoginRequiredComponent("LoginIconsSearch");
+  </script>
+
+<!-- End #LoginIconsSearch -->
+
+<div id="LogoHeaderAd" class="GlobalHeader BlogPost ">
+
+         
+
+    <div id="header-logo">
+      <div id="logo"><a href="https://www.northcoastjournal.com/" title="North Coast Journal">North Coast Journal</a></div>
+    </div>
+
+    <div id="leaderboardAdHeader" class="Ad Leaderboard">
+      <!-- /1046892/leaderboard_1 -->
+          <div id="div-gpt-ad-leaderboard_1" style="" data-content-type="ad" data-slot="/1046892/leaderboard_1" data-output="asynchronous" data-width="728" data-height="90">
+              <script type='text/javascript'>
+                googletag.cmd.push(function() {
+                  googletag.display('div-gpt-ad-leaderboard_1');
+                });
+              </script>
+          </div>
+    </div>
+
+   <div id="navTopBar"> 
+     
+    
+        <ul id="navTop">
+      
+      
+
+      
+
+      <li class="first" id="NavTopItem_Home">
+        <a href="https://www.northcoastjournal.com/humboldt/Home" target="_self">Home</a>
+      </li>
+      
+    
+      
+
+      
+
+      <li class="" id="NavTopItem_SupportNCJ">
+        <a href="https://www.ncjshop.com/" target="_self">Support NCJ</a>
+      </li>
+      
+    
+      
+
+      
+
+      <li class="" id="NavTopItem_BestofHumboldt">
+        <a href="https://www.northcoastjournal.com/humboldt/BestOf" target="_self">Best of Humboldt</a>
+      </li>
+      
+    
+      
+
+      
+
+      <li class="" id="NavTopItem_HumboldtCannabis">
+        <a href="https://www.humboldtcannabismagazine.com" target="_self">Cannabis Mag</a>
+      </li>
+      
+    
+      
+
+      
+
+      <li class="" id="NavTopItem_InsiderMag">
+        <a href="https://humboldtinsider.com" target="_self">Insider Mag</a>
+      </li>
+      
+    
+      
+
+      
+
+      <li class="" id="NavTopItem_TheEnterprise">
+        <a href="https://www.theenterprise.press/" target="_self">The Enterprise</a>
+      </li>
+      
+    
+      
+
+      
+
+      <li class="" id="NavTopItem_Lifelines">
+        <a href="https://www.northcoastjournal.com/humboldt/lifelines/Section?oid=20175455" target="_self">Lifelines</a>
+      </li>
+      
+    
+      
+
+      
+
+      <li class="last" id="NavTopItem_WeddingGuide">
+        <a href="https://www.humboldtinsider.com/humboldt/Weddings/Section?oid=13171936" target="_self">Weddings</a>
+      </li>
+      
+    
+        </ul>
+      
+   </div>    
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+  if (FloatingPanel) {
+    FloatingPanel.addMethods({
+      togglePanel: function (e) {
+        if ($(this.panel).visible()) {
+          this.closePanel();
+        } else {
+          this.event("beforeOpen");
+          var container = $(this.panelTarget).getOffsetParent();
+          var container_pos = $(container).cumulativeOffset();
+          var target_pos = $(this.panelTarget).cumulativeOffset();
+          var target_viewpos = $(this.panelTarget).viewportOffset();
+          var doc_height = document.viewport.getHeight();
+          var doc_width = document.viewport.getWidth();
+          var panel_height = $(this.panel).getHeight();
+          var panel_width = $(this.panel).getWidth();
+          var px_from_bottom = (doc_height - target_viewpos[1] - 10);
+          var px_from_right = (doc_width - target_viewpos[0] - 10);
+          var need_vert_px = (this.correctPosition) ? panel_height - px_from_bottom : 0;
+          var need_horiz_px = (this.correctPosition) ? panel_width - px_from_right : 0;
+          var panel_top = (need_vert_px > 0) ? (target_pos[1] - need_vert_px) : target_pos[1] + parseInt(this.topOffset);
+          var panel_left = (need_horiz_px > 0) ? (target_pos[0] - need_horiz_px) : target_pos[0] - container_pos[0] + $(this.panelTarget).getWidth() + parseInt(this.rightOffset);
+
+          $(this.panel).setStyle({ left: panel_left+'px', top: panel_top+'px' });
+          if (window.external && typeof window.XMLHttpRequest == "undefined") {
+            // if IE6, do iframe shim hack to preserve panel's z-index
+            this.insertIframe(panel_top,panel_left,panel_width,panel_height); 
+          }
+          if (this.effects) {
+            new Effect.Appear($(this.panel), { duration:this.effectDuration });
+          } else {
+            $(this.panel).show();
+          }
+          if (this.ajaxUrl) {
+            new Ajax.Updater($(this.panel), this.ajaxUrl, {method:'get', onComplete:this.event("afterOpen")});
+          } else {
+            this.event("afterOpen");
+          }
+        }
+        if (!this.allowDefault) Event.stop(e);
+      }
+    });
+  }
+</script>
+
+
+
+<script type="text/javascript">
+    Event.observe(document, "dom:loaded", function () {
+      var yOffset = jQuery('#NavigationHorizontal').offset().top
+      jQuery(window).scroll(function(){
+        var pos = jQuery(document).scrollTop() - yOffset
+        if (pos >= 0) {
+          jQuery("#NavigationHorizontal").addClass('sticky')
+        } else {
+          jQuery("#NavigationHorizontal").removeClass('sticky')
+        }
+      })
+    })
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div id="NavigationHorizontal" class="GlobalHeader BlogPost  ">
+    
+      
+      
+          <ul id="mainNav">
+        
+        
+
+        
+
+        
+
+        
+
+        <li class="first" id="NavItem_ThisWeek">
+          <a href="https://www.northcoastjournal.com/humboldt/IssueArchives?issue=today"  class="subnav_link" id="SNAVL_ThisWeek">This Week</a>
+        </li>
+        
+      
+        
+
+        
+
+        
+
+        
+
+        <li class="" id="NavItem_NCJDaily">
+          <a href="https://www.northcoastjournal.com/humboldt/NCJDaily/Page"  class="subnav_link" id="SNAVL_NCJDaily">NCJ Daily</a>
+        </li>
+        
+      
+        
+
+        
+
+        
+
+        
+
+        <li class="" id="NavItem_Calendar">
+          <a href="https://www.northcoastjournal.com/humboldt/EventSearch"  >Calendar</a>
+        </li>
+        
+      
+        
+
+        
+
+        
+
+        
+
+        <li class="" id="NavItem_Music">
+          <a href="https://www.northcoastjournal.com/humboldt/music/Section?oid=2124544"  class="subnav_link" id="SNAVL_Music">Music</a>
+        </li>
+        
+      
+        
+
+        
+
+        
+
+        
+
+        <li class="" id="NavItem_EatDrink">
+          <a href="https://www.northcoastjournal.com/humboldt/eat-and-drink/Section?oid=2124546"  class="subnav_link" id="SNAVL_EatDrink">Eat + Drink</a>
+        </li>
+        
+      
+        
+
+        
+
+        
+
+        
+
+        <li class="" id="NavItem_ArtsScene">
+          <a href="https://www.northcoastjournal.com/humboldt/arts-and-scene/Section?oid=2124545"  class="subnav_link" id="SNAVL_ArtsScene">Arts + Scene</a>
+        </li>
+        
+      
+        
+
+        
+
+        
+
+        
+
+        <li class="" id="NavItem_LifeOutdoors">
+          <a href="https://www.northcoastjournal.com/humboldt/life-and-outdoors/Section?oid=2124547"  class="subnav_link" id="SNAVL_LifeOutdoors">Life + Outdoors</a>
+        </li>
+        
+      
+        
+
+        
+
+        
+
+        
+
+        <li class="last" id="NavItem_Classifieds">
+          <a href="http://classified.northcoastjournal.com/"  class="subnav_link" id="SNAVL_Classifieds">Classifieds</a>
+        </li>
+        
+      
+          </ul>
+        
+
+      
+        
+        
+          
+            <h3 class="hidden">Browse This Week</h3>
+            <ul class="subnav_content" id="SNAV_ThisWeek" style="display:none;">
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/news/Category?oid=2124549"  title="">News</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/the-week-in-weed/Category?oid=2339089"  title="">The Week in Weed</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/letters-and-opinion/Section?oid=2165943"  title="">Letters &amp; Opinion</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/seriously/Category?oid=6788898"  title="">Seriously?</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/blogs/NCJPreview/"  title="">NCJ Preview | Video</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="http://issuu.com/ncjournal"  title="">E-Editions</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/WheretoPickUpTheNCJ/Page"  title="">Pick Up a Print Edition</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="searchItem">
+            <a href="https://www.northcoastjournal.com/humboldt/ArticleArchives?section=2124543"  title="">Browse Archives</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="submitItem">
+            <a href="https://www.northcoastjournal.com/humboldt/ContactUs/Page"  title="">Submit a Letter</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="submitItem">
+            <a href="https://www.northcoastjournal.com/humboldt/ContactUs/Page?category=Press%20releases,%20editorial%20staff,%20newstips"  title="">Submit News Tips</a>
+          </li>
+          
+            </ul>
+          
+        
+          
+            <h3 class="hidden">Browse Music</h3>
+            <ul class="subnav_content" id="SNAV_Music" style="display:none;">
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/the-setlist/Category?oid=2484195"  title="">The Setlist</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/blogs/AEBlog/"  title="">A+E</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="searchItem">
+            <a href="https://www.northcoastjournal.com/humboldt/EventSearch?eventCategory=2165982"  title="">Live Music</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="submitItem">
+            <a href="https://www.northcoastjournal.com/humboldt/Events/AddEvent"  title="">Submit an Event</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/Locations/Edit"  title="">Submit or Edit a Location</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="searchItem">
+            <a href="https://www.northcoastjournal.com/humboldt/ArticleArchives?section=2124544"  title="">Browse Archives</a>
+          </li>
+          
+            </ul>
+          
+        
+          
+            <h3 class="hidden">Browse Arts + Scene</h3>
+            <ul class="subnav_content" id="SNAV_ArtsScene" style="display:none;">
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/filmland/Category?oid=2124565"  title="">Screens</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/art-beat/Category?oid=2124551"  title="">Art Beat</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/art-walks-and-festivals/Section?oid=2185186"  title="">Art Walks</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/front-row/Category?oid=2737930"  title="">Front Row</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/poems/Category?oid=2124560"  title="">Poetry</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="submitItem">
+            <a href="https://www.northcoastjournal.com/humboldt/SubmitAPhoto/Page"  title="">Submit a Photo</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="submitItem">
+            <a href="https://www.northcoastjournal.com/humboldt/Events/AddEvent"  title="">Submit an Event</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/Locations/Edit"  title="">Submit or Edit a Location</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="searchItem">
+            <a href="https://www.northcoastjournal.com/humboldt/ArticleArchives?section=2124545"  title="">Browse Archives</a>
+          </li>
+          
+            </ul>
+          
+        
+          
+            <h3 class="hidden">Browse Eat + Drink</h3>
+            <ul class="subnav_content" id="SNAV_EatDrink" style="display:none;">
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/table-talk/Category?oid=2124570"  title="">On the Table</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/blogs/HumPlateBlog/"  title="">What&#39;s Good</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="searchItem">
+            <a href="https://www.northcoastjournal.com/humboldt/LocationSearch?locationCategory=2166261"  title="">Bars + Night Clubs A-Z</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="searchItem">
+            <a href="https://www.northcoastjournal.com/humboldt/LocationSearch?locationSection=2125068"  title="">Restaurants A-Z</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="searchItem">
+            <a href="https://www.northcoastjournal.com/humboldt/LocationSearch?locationCategory=2125091"  title="">Wineries + Tasting Rooms</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="searchItem">
+            <a href="https://www.northcoastjournal.com/humboldt/LocationSearch?locationCategory=2125074"  title="">Breweries + Tap Rooms</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="searchItem">
+            <a href="https://www.northcoastjournal.com/humboldt/LocationSearch?locationCategory=2190872"  title="">Other Tasty Treats</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/menu-of-menus-2017/Content?oid=5110022"  title="">Menu of Menus</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/Locations/Edit"  title="">Submit or Edit a Location</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="searchItem">
+            <a href="https://www.northcoastjournal.com/humboldt/ArticleArchives?section=2124546"  title="">Browse Archives</a>
+          </li>
+          
+            </ul>
+          
+        
+          
+            <h3 class="hidden">Browse Life + Outdoors</h3>
+            <ul class="subnav_content" id="SNAV_LifeOutdoors" style="display:none;">
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/down-and-dirty/Category?oid=2339091"  title="">Down and Dirty</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/field-notes/Category?oid=2124591"  title="">Field Notes</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/humbug/Category?oid=2850919"  title="">Hum Bug</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/outdoors/Category?oid=2124593"  title="">Get Out</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/trophy-case/Category?oid=18556375"  title="">Trophy Case</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/fishing-the-north-coast/Category?oid=18556383"  title="">Fishing the North Coast</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/its-personal/Category?oid=3566477"  title="">It&#39;s Personal</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/north-coast-night-lights/Category?oid=11412283"  title="">North Coast Night Lights</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/humboldt-geographic/Category?oid=21271364"  title="">Humboldt Geographic</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/washed-up/Category?oid=6095845"  title="">Washed Up</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/puzzles/Category?oid=16955233"  title="">Crossword Puzzles</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/humor/Section?oid=2188817"  title="">Cartoons</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/LocationSearch?locationSection=2181540"  title="">Wedding Guide</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="searchItem">
+            <a href="https://www.northcoastjournal.com/humboldt/ArticleArchives?section=2124547"  title="">Browse Archives</a>
+          </li>
+          
+            </ul>
+          
+        
+          
+            <h3 class="hidden">Browse NCJ Daily</h3>
+            <ul class="subnav_content" id="SNAV_NCJDaily" style="display:none;">
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/blogs/NewsBlog/"  title="">News</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/blogs/AEBlog/"  title="">A+E</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/blogs/HumPlateBlog/"  title="">What&#39;s Good</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/blogs/Obituaries/"  title="">Obituaries</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/Newsletters/Page"  title="">Newsletters</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="mailto:obituaries@northcoastjournal.com"  title="">Submit an Obituary</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/NewsWatch/Page"  title="">Local Blogs / News Watch</a>
+          </li>
+          
+            </ul>
+          
+        
+          
+            <h3 class="hidden">Browse Classifieds</h3>
+            <ul class="subnav_content" id="SNAV_Classifieds" style="display:none;">
+          
+
+          
+
+          <li class="">
+            <a href="http://classified.northcoastjournal.com/northcalifornia/employment/search?"  title="">Employment</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="http://classified.northcoastjournal.com/northcalifornia/legals/search"  title="">Legals</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="http://classified.northcoastjournal.com/"  title="">Marketplace</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/blogs/Obituaries/"  title="">Obituaries</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="mailto:obituaries@northcoastjournal.com"  title="">Submit an Obituary</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="http://classified.northcoastjournal.com/northcalifornia/housing/search"  title="">Real Estate</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="http://classified.northcoastjournal.com/northcalifornia/workshops/search"  title="">Workshops &amp; Classes</a>
+          </li>
+          
+            </ul>
+          
+        
+          
+            <h3 class="hidden">Browse Stories</h3>
+            <ul class="subnav_content" id="SNAV_Stories" style="display:none;">
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/stories/Section?oid=8039368"  title="">All Stories</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/profile/Category?oid=8039372"  title="">Profile</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/adventure/Category?oid=8039379"  title="">Adventure</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/feature/Category?oid=10691407"  title="">Feature</a>
+          </li>
+          
+            </ul>
+          
+        
+          
+            <h3 class="hidden">Browse Food &amp; Drink</h3>
+            <ul class="subnav_content" id="SNAV_FoodDrink" style="display:none;">
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/food-and-drink-insider/Section?oid=8039370"  title="">All Food &amp; Drink</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/dining/Category?oid=8039414"  title="">Dining</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/casual/Category?oid=8039421"  title="">Casual</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/drink/Category?oid=8039428"  title="">Drink</a>
+          </li>
+          
+            </ul>
+          
+        
+          
+            <h3 class="hidden">Browse Perfect Trips</h3>
+            <ul class="subnav_content" id="SNAV_PerfectTrips" style="display:none;">
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/perfect-trips-insider/Section?oid=8039369"  title="">All Perfect Trips</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/spring/Category?oid=8039386"  title="">Spring</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/summer/Category?oid=8039393"  title="">Summer</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/fall/Category?oid=8039400"  title="">Fall</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.northcoastjournal.com/humboldt/winter/Category?oid=8039407"  title="">Winter</a>
+          </li>
+          
+            </ul>
+          
+        
+
+        
+
+        
+        
+        
+      
+    
+  </div>
+
+
+  
+
+  
+  
+  
+    
+    
+
+      
+
+      <script>
+      "use strict";
+      (function(){
+        //
+        if(navigator.userAgent.match(/\b(iPad|iPhone|iPod|Android|Pre|BlackBerry|Windows Phone)\b/i)){
+          //
+          //
+            jQuery('#NavigationHorizontal .subnav_link').each(function(){
+          var navigationID = jQuery(this).attr('id');
+          var navigationSelector = '#'+navigationID;
+          var navMenuSelector = '#NavigationHorizontal #SNAV_'+navigationID.split('_')[1];
+          var navigationTimeout;
+          var focusNavigation = function(e){
+            window.clearTimeout(navigationTimeout);
+            jQuery(navMenuSelector).css('left',Math.round(jQuery(navigationSelector).position().left)+'px');
+            jQuery(navMenuSelector).show();
+          }
+          var blurNavigation = function(e){
+              jQuery(navMenuSelector).hide();
+            navigationTimeout = window.setTimeout(function(){
+            },75);
+          }
+          jQuery(navMenuSelector+', '+navigationSelector).hover(focusNavigation,blurNavigation);
+        });
+          //
+          //
+
+        //
+        }else{
+          jQuery('#NavigationHorizontal .subnav_link').each(function(){
+          var navigationID = jQuery(this).attr('id');
+          var navigationSelector = '#'+navigationID;
+          var navMenuSelector = '#NavigationHorizontal #SNAV_'+navigationID.split('_')[1];
+          var navigationTimeout;
+          var focusNavigation = function(e){
+            window.clearTimeout(navigationTimeout);
+            jQuery(navMenuSelector).css('left',Math.round(jQuery(navigationSelector).position().left)+'px');
+            jQuery(navMenuSelector).show();
+          }
+          var blurNavigation = function(e){
+              jQuery(navMenuSelector).hide();
+            navigationTimeout = window.setTimeout(function(){
+            },75);
+          }
+          jQuery(navMenuSelector+', '+navigationSelector).hover(focusNavigation,blurNavigation);
+        });
+        }
+      })();
+      </script>
+    
+  
+  <!-- true == "true"
+         && true == "devel" -->
+
+
+<!-- End #NavigationHorizontal -->
+
+  <div id="Pencil1" class="GlobalHeader BlogPost Pencil Ad">
+    <!-- /1046892/pencil_1 -->
+          <div id="div-gpt-ad-pencil_1" style="" data-content-type="ad" data-slot="/1046892/pencil_1" data-output="asynchronous" data-width="940" data-height="45">
+              <script type='text/javascript'>
+                googletag.cmd.push(function() {
+                  googletag.display('div-gpt-ad-pencil_1');
+                });
+              </script>
+          </div>
+  </div>
+
+
+  <!-- #northcoast no component output for northcoast -->
+
+  <!-- #northcoast no component output for northcoast -->
+
+  </div><!-- end gridHeader -->
+
+  <div id="gridMain">
+
+    <div id="gridFrame">
+
+      <div id="gridSpanningFeature">
+        
+
+
+
+  
+  
+  
+
+  <!-- UIkit CSS -->
+  <link rel="stylesheet" type="text/css" href="/fdn-system/assets/pub/styles/desktop.css?cb=9aaa4ede8eaa2e4bd01f915366f982fd" />
+
+  <!-- UIkit JS -->
+  <script src="/fdn-system/assets/pub/scripts/uikit.min.js?cb=9aaa4ede8eaa2e4bd01f915366f982fd"></script>
+  <script src="/fdn-system/assets/pub/scripts/uikit-icons-fdn.min.js?cb=9aaa4ede8eaa2e4bd01f915366f982fd"></script>
+
+
+  
+
+  <style>
+    @media (min-width: 640px){
+      div[id] .uk-child-width-1-3\@exs > * {
+         width: calc(100% * 1 / 3.001);
+      } 
+    }
+    #gridMainColumn .uk-width-1-2\@es {
+      width: 50%;
+    }
+
+    #gridMainColumn .uk-child-width-auto\@exs > * {
+      width: auto;
+    }
+    
+    .uk-root {
+      font-size: 14px;
+    }
+  </style>
+
+
+
+
+
+
+
+
+
+  
+  
+
+  
+
+  
+
+  <div id="BlogHeader" class="SpanningFeature BlogPost  topic_community NewsBlog">
+    <a href="https://www.northcoastjournal.com/blogs/NewsBlog/">
+    <h1 class="NewsBlog">
+      
+        News
+      
+    </h1>
+    </a>
+
+    
+
+    <p>
+      
+        <a href="https://www.northcoastjournal.com/humboldt/NewsBlog/blogs/Archives">Archives</a> |
+        <a href="/humboldt/Rss.xml?category=2125004">RSS</a>
+      
+      
+    </p>
+  </div>
+
+
+
+
+  
+  
+
+  <div id="BlogsPreviousNext" class="SpanningFeature BlogPost ">
+    <div class="prevNext">
+      
+        <a href="https://www.northcoastjournal.com/NewsBlog/archives/2020/09/14/red-salmon-fire-nearly-92000-acres" class="prev" rel="prev">&laquo;&nbsp;Red Salmon Fire Nearly 92,000 Acres</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.northcoastjournal.com/NewsBlog/archives/2020/09/14/deputies-not-after-cannabis-in-evacuation-zones" class="next" rel="next">Deputies Not After Cannabis in Evac&hellip;&nbsp;&raquo;</a>
+        
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <link type="text/css" href="/foundation/scripts/jplayer/skin/jplayer.blue.monday.css" rel="stylesheet" />
+  <script type="text/javascript" src="/foundation/scripts/jplayer/jquery.jplayer.min.js"></script>               
+  
+    <style>
+    div.jp-audio,
+    div.jp-video {
+      /* Edit the font-size to counteract inherited font sizing.
+       * Eg. 1.25em = 1 / 0.8em
+       */
+      font-size:1.25em;
+    }      
+    div.postBody div.inlineAudio,
+    div#AudioPlayer div.inlineAudio {
+      width: 400px;
+      margin: auto;
+      clear:both;
+      }      
+    </style>
+  
+
+
+  <div id="BlogsBlogPost" class="SpanningFeature BlogPost  topicView topic_community">
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+    
+
+    
+      
+      
+        <h2 class="blogDate">Monday, September 14, 2020</h2>
+      
+
+      
+      <div class="blogPost newsblog topic-community topic-emergency">
+    
+    
+      <div class="postCategories">
+                
+        <span class="postCategory CategoryNewsBlog">
+          <a href="https://www.northcoastjournal.com/NewsBlog/archives/community/" class="topic-community">Community</a> / <a href="https://www.northcoastjournal.com/NewsBlog/archives/emergency/" class="topic-emergency">Emergency</a>
+        </span>
+      </div>
+    
+    
+    <h3 class="postTitle" id="a18425387">
+      
+      
+      
+      
+      
+      
+        Slater, Devil Fires Continue to Grow
+      
+
+      
+    </h3>
+
+    
+
+    
+      <h4 class="postedBy">
+        
+
+        
+          <span class="byAttribute">Posted</span>
+        
+        
+        
+          
+          <span class="byAttribute">By</span> <a href="https://www.northcoastjournal.com/author/kimberly-wear" rel="author">Kimberly Wear</a>
+              
+                
+                  
+                    <span class="twitter"><a href="https://twitter.com/kimberly_wear" target="_blank">@kimberly_wear</a></span>
+        
+        
+          
+            on <span class="postTime">Mon, Sep 14, 2020</span> at <span class="postTime"> 3:36 PM</span>
+          
+        
+           
+      </h4>
+    
+
+   
+    
+    
+
+    
+
+    
+    
+
+    
+    
+
+    <div class="postBody">
+      
+          
+      
+
+
+      
+     
+       
+      
+      
+      
+      
+       
+      
+      
+
+      
+      
+
+      
+      
+        
+        <div class="contentImageCenter" style="overflow:hidden;">                                              <span class="clicktozoom">click to enlarge</span>                <a href="https://media2.fdncms.com/northcoast/imager/u/original/18425397/2020_09_14-07.49.37.784-cdt.jpeg" class="zoomable" rel="contentImg_gal-18425387" title="">                  <img src="https://media2.fdncms.com/northcoast/imager/u/blog/18425397/2020_09_14-07.49.37.784-cdt.jpeg?cb=1600122820" width="620" height="404" alt="2020_09_14-07.49.37.784-cdt.jpeg" srcset="" />                </a>                                                                                                           <ul style="width:620px;overflow:hidden;margin-left:auto;margin-right:auto;">                                                                                                                                                                                                                                          </ul>                                                       </div>     
+<p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+             The Slater Fire, which straddles the Oregon-California border and spans south to Happy Camp, and the Devil Fire to the east continued to grow yesterday.<o:p></o:p>     
+</p>
+          
+<p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+             <o:p> </o:p>     
+</p>
+          
+<p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+             The Slater Fire is now estimated to be 131,601 acres and 5 percent contained while the Devil Fire is estimated to be 4,429 acres and is 0 percent contained.<o:p></o:p>     
+</p>
+          
+<p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+             <o:p> </o:p>     
+</p>
+          
+<p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+             The Del Norte County Sheriff’s Office updated evacuation information earlier today, with everything from Pioneer Road to the state line moved to Level 2 "Be Set,” Gasquet reduced to Level 1 "Be Ready" and Hiouchi no longer under an evacuation warning<o:p></o:p>     
+</p>
+          
+<p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+             <o:p> </o:p>     
+</p>
+          
+<p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+             Big Flat remains at Level 1 "Be Ready"<o:p></o:p>     
+</p>
+          
+<p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+             <o:p> </o:p>     
+</p>
+          
+<p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+             Highway 199 remains closed from O’Brien south almost to Gasquet and State Route 96 remains closed from Portuguese Creek to Clear Creek. Where the fire is burning between Happy Camp and Seiad, some rocks came down on roadway, according to the update. <o:p></o:p>     
+</p>
+          
+<p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+             <o:p> </o:p>     
+</p>
+          
+<p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+             In the Gasquet area, firefighters focused on protecting homes and other structures to the southwest along Knopki Creek and strengthen control lines along Monkey Ridge and Oregon Mountain Road to prevent the fire’s westward spread. <o:p></o:p>     
+</p>
+          
+<p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+             <o:p> </o:p>     
+</p>
+          
+<p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+             “Since the fire crossed to the west side of Highway 199, fire managers are now adjusting their control strategy and falling back to employ different control points further to the northwest,” the update states. “A local crew, the Smith River Hotshots, have been assigned to the Slater Fire.”<br>
+                
+</p>
+  <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FSlaterAndDevilFireInformation%2Fvideos%2F766757850754879%2F&show_text=0&width=620" width="620" height="348" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>   <o:p></o:p>     
+<p></p>
+          
+<p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+             <o:p> </o:p>     
+</p>
+          
+<p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+             To the north, the Slater Fire has moved closer to Williams, Oregon, and firefighters are working to protect local communities there and are preparing to defend the Oregon Caves National Monument. <o:p></o:p>     
+</p>
+          
+<p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+             <o:p> </o:p>     
+</p>
+          
+<p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+             Crews were able to prevent any structures from being damaged or destroyed overnight in the Cedar Creek, Dwight Creek and Elk Creek areas, according to this morning’s update.<o:p></o:p>     
+</p>
+          
+<p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+             <o:p> </o:p>     
+</p>
+          
+<p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+             <o:p> </o:p>     
+</p>
+          
+<p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+             Read the full update below:<br>
+        <br>
+        <br>
+        <o:p></o:p>     
+</p>
+  <br>
+  <br>
+    
+<a name="more"></a>
+
+            
+<p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+             <o:p> </o:p>     
+</p>
+                 
+<blockquote>
+           
+  <p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+              <i>HAPPY CAMP, CALIFORNIA — The Slater Fire continued to back and flank at lower elevations in both California and Oregon yesterday. Fire activity remained relatively moderate in places that remained under the smoke inversion, but increased in places where the inversion lifted, especially on the Oregon side. Both the north and south edges of the fire experienced some spotting last night.  In Cedar Creek, Dwight Creek, and Elk Creek areas, fire-suppression efforts focused successfully protection around structures and utilities – no structures were damaged or destroyed overnight. The fire burned with less intensity around the Holland Loop area, so emphasis shifted to strengthening indirect firelines to increase community protection.  <o:p></o:p></i>             
+  </p>
+                  
+  <p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+                        <i><o:p></o:p></i>             
+  </p>
+                  
+  <p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+                       <i>Crews mopped up around hand and dozer lines down to Highway 96 along the fire’s eastern edge, reinforcing those control lines overnight. Fire burning near Highway 96 between Happy Camp and Seiad caused some rocks to roll onto the road. Firefighters are securing line west from China Point towards Happy Camp. Work to defend constructed fire lines around structures at Thompson Creek is ongoing as the Slater Fire approaches that neighborhood from the west and the Devil Fire burns to the northeast. <o:p></o:p></i>             
+  </p>
+                  
+  <p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+                        <i><o:p></o:p></i>             
+  </p>
+                  
+  <p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+                       <i>Operational priorities on the south side of the fire for today remain point protection around structures and utilities, and detecting and containing any spots across the highway or ahead of the main fire. Fire personnel are hiking into the Devil Fire again today looking for places to contain the fire along the Pacific Crest Trail, with the goal of keeping that fire west of Seiad Creek and out of the Applegate River.  <o:p></o:p></i>             
+  </p>
+                  
+  <p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+                        <i><o:p></o:p></i>             
+  </p>
+                  
+  <p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+                       <i>Near Gasquet, crews focused on structure protection to the southwest along Knopki Creek. Firefighters worked to strengthen control lines along Monkey Ridge and Oregon Mountain Road to prevent the fire’s spread west. Since the fire crossed to the west side of Highway 199, fire managers are now adjusting their control strategy and falling back to employ different control points further to the northwest. A local crew, the Smith River Hotshots, have been assigned to the Slater Fire. <o:p></o:p></i>             
+  </p>
+                  
+  <p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+                        <i><o:p></o:p></i>             
+  </p>
+                  
+  <p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+                       <i>Along the west side of the fire, Siskiyou Mountain Ranger District initial attack firefighting resources have continued to prep the 1040 road in the event that the Devil Fire should work its way out of the Red Buttes Wilderness. Portions of the 1040 road were treated in 2017 during the Miller Complex. With increased humidity, the Miller Complex Fire scar should slow or stop fire spread towards the Applegate Valley. The Slater Fire has not made it into Steve’s Fork; fire personnel scouted the area several days ago and completed a full reconnaissance before the smoke settled in. The Slater Fire is currently eight to ten miles from Williams, Oregon. Firefighting resources are scouting for the best places to put in direct, indirect and contingency lines to protect communities in this area. Firefighters are preparing Oregon Caves National Monument to protect it from the Slater Fire. <o:p></o:p></i>             
+  </p>
+                  
+  <p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+                        <i><o:p></o:p></i>             
+  </p>
+                  
+  <p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+                       <i>Winds out of the east have caused smoke impacts from the Slater and Devil Fires that have extended to the coast. Smoke continues to impact most of the west coast due to multiple large fires. The cool, wet smoke inversion is likely to remain into this afternoon, forecasts say. The inversion could begin mixing up into the atmosphere later this afternoon or tomorrow. Meanwhile, winds today are blowing 15 miles per hour on ridgetops. This could affect fire behavior at higher elevations in the Slater Fire’s interior and on the Devil Fire.  <o:p></o:p></i>             
+  </p>
+                  
+  <p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+                        <i><o:p></o:p></i>             
+  </p>
+                  
+  <p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+                       <i>Due to a record number of wildfires burning across the West and resulting resource drawdown, fire managers are moving resources around to respond to the highest threats to life and property on the Slater Fire. The Devil Fire is estimated at 4,429 acres,and is 0% contained. The Slater Fire is estimated at 131,601 acres, and is 5% contained.  <o:p></o:p></i>             
+  </p>
+                  
+  <p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+                        <i><o:p></o:p></i>             
+  </p>
+                  
+  <p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+                       <i>Incident Management Team 10 is readying to transfer command of the northern and western sides of the Slater Fire to an incoming Type 1 Team, while retaining command of the south and east sides of the Slater Fire and all of the Devil Fire. <o:p></o:p></i>             
+  </p>
+                  
+  <p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+                        <i><o:p></o:p></i>             
+  </p>
+                  
+  <p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+                       <i>Due to extreme fire danger, all National Forests in California have been closed from September 9 through 14, 2020. More details on these closure orders, along with fire restrictions orders, can be found on National Forest websites and on InciWeb.  <o:p></o:p></i>             
+  </p>
+                  
+  <p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+                        <i><o:p></o:p></i>             
+  </p>
+                  
+  <p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+                       <i>As a result of extreme fire activity, the Bureau of Land Management Medford District has temporarily closed all BLM-administered public lands south of Grants Pass, Interstate 5, and U.S. Route 199 to the border of the Rogue River-Siskiyou National Forest. Maps of the closure areas are available on the Bureau of Land Management’s website:  <a href="https://www.blm.gov/programs/public-safety-and-fire/fire-and-aviation/regional-info/oregon-washington/fire-restrictions" target="_blank" title="This external link will open in a new window">https://www.blm.gov/programs/public-safety-and-fire/fire-and-aviation/regional-info/oregon-washington/fire-restrictions</a>. <o:p></o:p></i>             
+  </p>
+                  
+  <p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+                        <i><o:p></o:p></i>             
+  </p>
+                  
+  <p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+                       <i>Highway 199 remains closed from O’Brien south almost to Gasquet. Highway 96 remains closed from Portuguese Creek to Clear Creek. <o:p></o:p></i>             
+  </p>
+                  
+  <p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+                        <i><o:p></o:p></i>             
+  </p>
+                  
+  <p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+                       <i><b>EVACUATION INFORMATION: </b><o:p></o:p></i>             
+  </p>
+                  
+  <p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+                       <i>Current evacuation orders are posted on Siskiyou County Sheriff’s Office Facebook page at <a href="https://www.facebook.com/SiskiyouCountySheriff/" target="_blank" title="This external link will open in a new window">www.facebook.com/SiskiyouCountySheriff/</a>. <o:p></o:p></i>             
+  </p>
+                  
+  <p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+                       <i>For Del Norte County evacuation information, see <a href="https://www.facebook.com/DelNorteOfficeOfEmergencyServices" target="_blank" title="This external link will open in a new window">www.facebook.com/DelNorteOfficeOfEmergencyServices</a>. <o:p></o:p></i>             
+  </p>
+                  
+  <p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+                       <i>Evacuation order/warning info and other resources for Josephine County can be found by calling Josephine County Fire Information Center 541-474-5305 (7am-10pm) or online at: <o:p></o:p></i>             
+  </p>
+                  
+  <p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:white">
+                       <i><a href="https://www.facebook.com/josephinecountyEM" target="_blank" title="This external link will open in a new window">https://www.facebook.com/josephinecountyEM</a>, <a href="https://www.co.josephine.or.us/fire" target="_blank" title="This external link will open in a new window">https://www.co.josephine.or.us/fire</a>, or <a href="http://www.rvem.org/" target="_blank" title="This external link will open in a new window">www.rvem.org</a></i> <o:p></o:p>             
+  </p>
+                  
+  <p class="MsoNormal">
+                       <o:p> </o:p>      
+  </p>
+   
+</blockquote>
+      
+      
+      <div class="clearfix"></div>
+      
+      
+      
+    </div>
+
+    
+    
+    
+      
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  
+  
+
+
+        <ul class="horizontalShareTools">
+          <li class="l0 first">
+            <div style="overflow:hidden;"><fb:like href="https://www.northcoastjournal.com/NewsBlog/archives/2020/09/14/slater-devil-fires-continue-to-grow" send="true" width="275" show_faces="false" action="like" font="tahoma" colorscheme="light" layout="button_count"></fb:like></div></li> <li class="l0"><a href="https://twitter.com/share?url=https%3A//www.northcoastjournal.com/NewsBlog/archives/2020/09/14/slater-devil-fires-continue-to-grow&text=Slater%2C%20Devil%20Fires%20Continue%20to%20Grow" class="twitter-share-button" data-count="none">Tweet</a>
+<script>
+  dnLoadScript("https://platform.twitter.com/widgets.js", true);
+</script></li> <li class="l0">
+
+
+  
+
+  
+
+  
+
+  <a href="https://pinterest.com/pin/create/button/?description=Slater%2C%20Devil%20Fires%20Continue%20to%20Grow&amp;media=https%3A%2F%2Fmedia2.fdncms.com%2Fnorthcoast%2Fimager%2Fu%2Fslideshow%2F18425397%2F2020_09_14-07.49.37.784-cdt.jpeg&amp;url=https%3A%2F%2Fwww.northcoastjournal.com%2FNewsBlog%2Farchives%2F2020%2F09%2F14%2Fslater-devil-fires-continue-to-grow" class="pin-it-button" count-layout="none">Pin It</a>
+  <script>
+  Foundation.documentReady.then(function () {
+    new Foundation.Script("https://assets.pinterest.com/js/pinit.js", true);
+  })
+  </script>
+
+</li> <li class="l0">
+
+
+  <a class="toggleActivator saveAction requiresLogin" title="My Favorites" href="https://posting.northcoastjournal.com/humboldt/Profile/MyFavorites?add=18425387">
+    Favorite
+  </a>
+  <div class="togglePanel" data-toolsoid="18425387" data-toolsajaxmacro="addObject" style="display:none">
+    <div class="loading">Saving&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+
+
+</li> <li class="l0">
+
+<a class="emailAction" title="Email" href="https://posting.northcoastjournal.com/humboldt/Tools/EmailFriend?oid=18425387" rel="nofollow" target="_blank" onclick="popupWindow('popupEmailFriend', this.href, 400, 650, 400, 10); return false">Email</a>
+
+</li> <li class="l0">
+
+
+
+
+  <div class="addthis_toolbox addthis_default_style"><a href="https://www.addthis.com/bookmark.php?v=300&pubid=xa-50b3cdb40bfa99c7" addthis:url="https://www.northcoastjournal.com/NewsBlog/archives/2020/09/14/slater-devil-fires-continue-to-grow" addthis:title="Slater, Devil Fires Continue to Grow" addthis:description="" class="addthis_button_compact">Share</a></div>
+  <script type="text/javascript">
+    dnLoadScript("https://s7.addthis.com/js/300/addthis_widget.js#pubid=xa-50b3cdb40bfa99c7", true);
+  </script>
+
+
+          </li>
+        </ul>
+      
+    
+
+    
+
+    
+      
+      <p class="tags">
+        Tags: <a href="https://www.northcoastjournal.com/humboldt/ArticleArchives?tag=Slater%20Fire" rel="tag">Slater Fire</a>, <a href="https://www.northcoastjournal.com/humboldt/ArticleArchives?tag=Devil%20Fire" rel="tag">Devil Fire</a>, <a href="https://www.northcoastjournal.com/humboldt/ArticleArchives?tag=Del%20Norte" rel="tag">Del Norte</a>, <a href="https://www.northcoastjournal.com/humboldt/ArticleArchives?tag=Oregon" rel="tag">Oregon</a>, <a href="https://www.northcoastjournal.com/humboldt/ArticleArchives?tag=Happy%20Camp" rel="tag">Happy Camp</a>, <a href="https://www.northcoastjournal.com/humboldt/ArticleArchives?tag=Gasquet" rel="tag">Gasquet</a>, <a href="https://www.northcoastjournal.com/humboldt/ArticleArchives?contentFeature=2184977" rel="tag">Image</a>
+      </p>
+    
+
+    
+
+  </div> <!-- end blogPost -->
+    
+    <div class="clear"></div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+
+
+
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    <div class="uk-root">
+  
+
+  
+
+
+
+
+
+<div class="componentGrid-TwoZones-Auto-Expand uk-root uk-width-1-1 uk-flex uk-flex-row uk-flex-wrap fdn-component-grid-row@m" uk-height-match data-component-grid-id="TopStoriesVideoPair">
+
+  <div class="uk-width-1-1 uk-width-auto@m uk-flex uk-flex-column uk-inline fdn-component-grid-zone">
+    
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+
+  
+
+    
+    
+    
+      
+      
+      
+    
+      
+      
+      
+    
+      
+      
+      
+    
+
+    
+    
+  
+
+  
+  
+
+
+  
+
+  
+    
+
+    
+
+    <div class="ComponentZoneA Real1PlayerTrendingPairresponsive  trending-by-day uk-root fdn-margin-vert TrendingContentList comp-landing-trending" data-component-id="TrendingContentList">
+      <div class="fdn-component-header-block uk-margin ">
+
+      
+
+      <h3 class="fdn-component-header-text uk-margin-remove ">
+        
+          Trending
+        
+      </h3>
+
+      
+
+      
+    </div>
+      <ul class="pres-ContentListHeadline uk-list uk-list-divider">
+      <li class="fdn-pres-item">
+    <a class="uk-flex uk-flex-top" href="https://www.northcoastjournal.com/NCJPreview/archives/2023/02/04/ncj-preview-shaky-hospitals-organic-waste-bohns-offensive-comment-and-good-eats">
+      <p class="fdn-teaser-headline">
+        NCJ Preview: Shaky Hospitals, Organic Waste, Bohn's Offensive Comment and Good Eats
+      </p>
+    </a>
+  </li>
+<li class="fdn-pres-item">
+    <a class="uk-flex uk-flex-top" href="https://www.northcoastjournal.com/humboldt/humboldt-county-still-working-to-implement-organic-waste-system/Content?oid=25876038">
+      <p class="fdn-teaser-headline">
+        Humboldt County Still Working to Implement Organic Waste System
+      </p>
+    </a>
+  </li>
+<li class="fdn-pres-item">
+    <a class="uk-flex uk-flex-top" href="https://www.northcoastjournal.com/humboldt/mad-river-hospital-ceo-deadline-for-upgrades-fails-to-recognize-rural-realities/Content?oid=25876033">
+      <p class="fdn-teaser-headline">
+        Mad River Hospital CEO: Deadline for Upgrades Fails to Recognize Rural Realities
+      </p>
+    </a>
+  </li>
+      </ul>
+    </div>
+  
+
+
+
+
+    
+  </div>
+
+  <div class="uk-width-1-1 uk-width-expand@m uk-flex uk-flex-column uk-inline fdn-component-grid-zone">
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+    <script src="https://www.voqally.com/hub/app/r.js?key=9b8b8f784a1cecbc29fbcafc032d56fc" async></script>
+
+  
+  
+
+
+    
+  </div>
+
+</div>
+
+
+  
+    </div>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+      <div id="RecentByTag" class="SpanningFeature BlogPost ">
+        <h3 class="latestnews_blog">
+          <span class="headingText">
+          
+            Speaking of...
+          
+          </span>
+        </h3>
+        
+        <ul class="moduleList">
+
+        
+        
+        
+    
+    
+
+    
+    
+
+    
+
+    
+      <li class="l0 storyItem">
+    
+      
+      <a href="https://www.northcoastjournal.com/NewsBlog/archives/2022/04/05/high-surf-advisory-breaking-waves-up-to-23-feet-possible">
+        <img src="https://media1.fdncms.com/northcoast/imager/u/bigsquare/23213043/high_surf.jpg"
+             alt="High Surf Advisory: Breaking Waves Up to 23 Feet Possible"
+             width="200"
+             height="200"
+             srcset="" />
+      </a>
+    
+    <h4 class="headline">
+      <a href="https://www.northcoastjournal.com/NewsBlog/archives/2022/04/05/high-surf-advisory-breaking-waves-up-to-23-feet-possible">High Surf Advisory: Breaking Waves Up to 23 Feet Possible</a>
+    </h4>
+    <div class="date"> Apr  5, 2022 </div>
+  </li>
+    
+
+    
+  
+    
+
+    
+    
+
+    
+
+    
+      <li class="l0 storyItem">
+    
+      
+      <a href="https://www.northcoastjournal.com/NewsBlog/archives/2021/12/13/winter-weather-advisory-snow-could-dip-down-to-1000-feet">
+        <img src="https://media2.fdncms.com/northcoast/imager/u/bigsquare/22253170/berry_summit.jpg"
+             alt="UDPATED: Winter Weather Advisory: Snow Could Dip Down to 1,000 Feet"
+             width="200"
+             height="200"
+             srcset="" />
+      </a>
+    
+    <h4 class="headline">
+      <a href="https://www.northcoastjournal.com/NewsBlog/archives/2021/12/13/winter-weather-advisory-snow-could-dip-down-to-1000-feet">UDPATED: Winter Weather Advisory: Snow Could Dip Down to 1,000 Feet</a>
+    </h4>
+    <div class="date"> Dec 13, 2021 </div>
+  </li>
+    
+
+    
+  
+    
+
+    
+    
+
+    
+
+    
+      <li class="l0 storyItem">
+    
+      
+      <a href="https://www.northcoastjournal.com/NewsBlog/archives/2021/12/10/forecast-rain-wind-and-snow">
+        <img src="https://media1.fdncms.com/northcoast/imager/u/bigsquare/22228171/snow_update.jpg"
+             alt="Forecast: Rain, Wind and Snow"
+             width="200"
+             height="200"
+             srcset="" />
+      </a>
+    
+    <h4 class="headline">
+      <a href="https://www.northcoastjournal.com/NewsBlog/archives/2021/12/10/forecast-rain-wind-and-snow">Forecast: Rain, Wind and Snow</a>
+    </h4>
+    <div class="date"> Dec 10, 2021 </div>
+  </li>
+    
+
+    
+  
+        
+
+        
+
+        
+          <li class="l0 storyItem more">
+            <a href="https://www.northcoastjournal.com/humboldt/ArticleArchives?tag=Slater%20Fire%7C%7CDevil%20Fire%7C%7CDel%20Norte%7C%7COregon%7C%7CHappy%20Camp%7C%7CGasquet" class="more">More &raquo;</a>
+          </li>
+        
+        </ul>
+      </div>
+    
+  
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+
+  
+
+  
+    
+      <style>
+        
+
+        div.commentsHeader form {
+          float:right;
+        }
+        div.CommentsComponent .memberThumb {margin-bottom:7px; margin-left:0;}
+        div.CommentsComponent .commentPublicControls {float:left;}
+        div.CommentsComponent .commentPublicControls a {text-decoration:none;}
+        div.comment {
+          position: relative;
+          float: none !important;
+          width: auto !important;
+          clear: both;
+          margin-top: 16px;
+          padding: 0;
+        }
+        .ProfileComments div#BrowseComments {
+          background-color: transparent;
+        }
+        div.commentText {
+          padding-bottom: 0px;
+          border-radius: 4px;
+          -moz-box-shadow: 0px 0px 2px #CCC;
+          -webkit-box-shadow: 0px 0px 2px #CCC;
+          box-shadow: 0px 0px 2px #CCC;
+          border: 1px solid #CCC;
+          overflow: visible;
+          font-size: 12px;
+          padding: 10px 10px 0px !important;
+          float:none !important;
+          width:auto !important;
+          margin: 0 !important;
+        }
+        .brandNewComment {
+          position: relative;
+        }
+        .brandNewComment .comment .commentText {
+          border: 1px solid #FFCC1C;
+          box-shadow: 0 0 4px #FFCC1C;
+        }
+        .newCommentOptions {
+          box-shadow: 0 0 4px #AAA;
+          background-color: #FFCC1C;
+          position: absolute;
+          right: 18px;
+          top: -16px;
+          border-bottom: none;
+          box-shadow-bottom: 0px;
+          font-size: 10px;
+          padding: 2px 4px;
+          border-radius: 3px;
+          padding-bottom: 8px;
+          color: #900;
+        }
+        .newCommentOptions a,
+        .newCommentoptions a:visited {
+          font-weight:bold;
+          text-decoration:none;
+          color: #900;
+        }
+        .newCommentOptions a:hover {
+          color: #c00;
+        }
+        div.commentText .commentToolbar {position: relative; height:18px; text-align:right; clear:both; border-top:1px solid #EEE; margin-top:4px;padding-top:1px;}
+        div.commentText p {margin-bottom:5px;padding:0;}
+        div.commentText img.memberThumb {
+            clear: left;
+            display: block;
+            float: left;
+            margin: 2px 8px 2px 2px;
+            overflow: hidden;
+            width: 50px;
+            padding:0;
+        }
+        div.commentAuthor {
+          background-image: none !important;
+          padding-left: 10px !important;
+          padding-top: 3px !important;
+          float: none !important;
+        }
+        #showMoreComments,
+        #showAllComments,
+        .userCommentForm  p.commentFormSubmit input{
+          color: #335770;
+          padding:4px 0;
+          width:160px;
+          text-decoration:none;
+          margin: 4px;
+          font-family: Verdana;
+          font-size:12px;
+          border-radius: 3px;
+          border-right: 1px solid #f3f3f3;
+          background-color: #FFF;
+          border: 1px solid #DDD;
+          box-shadow: 0 0 4px #CCC;
+          display:inline-block;
+        }
+        .userCommentForm  p.commentFormSubmit input {
+          width:120px;
+        }
+        div.commentSpinner {
+          background-image: url("/foundation/images/loaders/comment_spinner.gif");
+          background-repeat: no-repeat;
+          background-position: 50% 50%;
+          height:30px;
+        }
+        div.sortSpinner {
+          background-image: url("/foundation/images/loaders/comment_spinner_small.gif");
+          background-repeat: no-repeat;
+          background-position: 50% 50%;
+          height:16px;
+          width:16px;
+          float: left;
+          position: relative;
+          top: 3px;
+          left: -2px;
+        }
+        div.pagination div.commentSpinner {
+          width:100%;
+          position:absolute;
+        }
+
+        div.pagination {
+          height:30px;
+          padding: 0;
+          position: relative;
+          margin:20px 16px 8px;
+          text-align: left;
+          font-size: 11px;
+          text-align:center;
+        }
+
+        #showMoreComments:hover,
+        #showAllComments:hover,
+        .userCommentForm  p.commentFormSubmit input:hover {
+          background-color:#eeeedd;
+          color: #CC0000;
+          box-shadow: 0 0 2px #CCC;
+        }
+
+        .currentLikePositive,
+        .currentLikeNegative {
+          font-family: Arial;
+          font-size: 13px;
+          font-weight: bold;
+          color: #999;
+        }
+        .likeLink{
+          border-radius: 3px;
+          padding: 0 3px;
+          font-family: Verdana, Arial;
+          position: relative;
+          padding-left:20px;
+          display: inline-block; /* for IE8 and opacity */
+          font-weight: normal;
+          text-decoration: none !important;
+        }
+        .likeLink img {
+          position: absolute;
+          left:0px;
+          bottom: -2px;
+        }
+
+        .likeLink.like {
+          text-decoration:none;
+          color: #66bb66 !important;
+        }
+        .likeLink.like:hover {
+          background-color: #66bb66;
+          color: #FFF !important;
+        }
+        .likeLink.dislike {
+          text-decoration:none;
+          color: #bb6666 !important;
+        }
+        .likeLink.dislike:hover {
+          background-color: #bb6666;
+          color: #FFF !important;
+        }
+        .likeLink.like.dimmed,
+        .likeLink.dislike.dimmed {
+          background-color: #FFF;
+          text-decoration:none;
+          color: #666;
+        }
+        .likeLink.like.dimmed:hover,
+        .likeLink.dislike.dimmed:hover {
+          background-color: #FFF;
+          color: #666 !important;
+        }
+        .likeError {
+          color: #AA9;
+        }
+        .commentCurrentRating {
+          font-family:Arial;
+          color: #AA9;
+          font-size:11px;
+        }
+        .likeLoader {
+          margin-right:8px;
+        }
+        .reportCommentContainer {
+          position: absolute;
+          background-color: #ccccbb;
+          border: 1px solid #c9c9b9;
+          border-radius: 3px;
+          bottom: 0px;
+          left: 0;
+          width:250px;
+          opacity:0.95;
+          -moz-box-shadow: 0 0 10px #aaa;
+          -webkit-box-shadow: 0 0 10px #aaa;
+          box-shadow: 0 0 10px #aaa;
+          text-align:left;
+          font-family: Arial;
+          z-index: 10;
+        }
+        .reportCommentContainer a {
+          text-decoration: none !important;
+        }
+        .reportContainer a {
+          font-weight: normal;
+        }
+        .reportCommentContainer .reportHeader {
+          font-family: Arial;
+          font-size:14px;
+          text-align: left;
+          margin:2px 8px;
+          border-bottom:1px solid #aaaa99;
+          padding-bottom:2px;
+          font-weight:bold;
+          position: relative;
+        }
+        .reportCommentContainer .reportHeader a.reportClose{
+          position: absolute;
+          right:0;
+        }
+
+        .reportCommentContainer dl.formElements {
+          float:left;
+          margin:6px 0 0;
+        }
+        .reportCommentContainer dl.formElements dt {
+          width: auto; min-height: 0;
+          float:none;
+          font-family: Arial;
+          font-weight: bold;
+          font-size: 12px;
+          color: #444;
+        }
+        .reportCommentContainer dl.formElements dd{
+          width: auto !important;
+          float:none;
+          min-height:0;
+          margin-bottom:8px;
+          margin-left:0 !important;
+        }
+        .reportCommentContainer form {
+          margin: 0 8px 0 !important;
+        }
+        .reportCommentContainer .formSubmit {
+          clear:both;
+          text-align:right;
+          padding: 0 8px;
+        }
+        .reportCommentContainer .formSubmit a {
+          position: relative;
+          border-radius: 3px;
+          padding-left: 20px;
+        }
+
+        .reportCommentContainer .formSubmit a img {
+          position: absolute;
+          left: 0;
+          bottom: -1px;
+        }
+
+        .reportCommentContainer .formInput {
+          border:1px;
+          background-color: #FFE;
+          border:1px solid #BBA;
+          padding:2px;
+          width:228px;
+          border-radius: 3px;
+        }
+
+        .reportCommentContainer textarea {
+          border:1px;
+          background-color: #FFE;
+          border:1px solid #BBA;
+          padding:2px;
+          width:228px !important;
+          height:60px !important;
+          border-radius: 3px;
+          resize: none;
+        }
+
+        .reportCommentContainer .errorDisplay {
+          background-color: transparent;
+          color: #933;
+          font-weight: bold;
+          padding: 10px 10px 4px;
+        }
+
+        .reportCommentContainer .reportSuccess {
+          text-align: center;
+          color: #fff;
+          font-family: Arial;
+          font-weight: bold;
+          padding: 30px 15px 40px;
+        }
+        .reportCommentLink {
+          border-radius: 3px;
+          font-family: Verdana, Arial;
+          /*padding: 0 3px 0 23px;*/
+          padding:0 3px;
+          position: relative;
+          color: #AAAA99 !important;
+          font-weight: normal;
+          text-decoration: none !important;
+        }
+        .reportCommentLink img {
+          position: absolute;
+          left: 3px;
+          bottom: 1px;
+        }
+        .reportCommentLink:hover {
+          background-color: #CCCCBB;
+          color: #FFF !important;
+        }
+        .userCommentForm {
+          margin-left:15px;
+          margin-right:15px;
+        }
+        .userCommentForm div.errorDisplay,
+        div.editErrorDisplay {
+          margin-top: 8px;
+          border: 1px solid #FCC;
+          border-radius: 2px;
+          box-shadow: 0 0 4px #CCC;
+          background-color: #FCC;
+          }
+        div.editErrorDisplay {padding:4px; margin-bottom:8px;}
+        .userCommentForm div.errorDisplay ol li,
+        div.editErrorDisplay ol li {
+          font-size: 1.1em;
+         }
+        .userCommentForm textarea {
+          border: 1px solid #CCC;
+          -moz-box-shadow: 0 0 2px #CCCCCC;
+          -webkit-box-shadow: 0 0 2px #CCCCCC;
+          box-shadow: 0 0 2px #CCCCCC;
+          border-radius: 4px;
+        }
+        .userCommentForm dl.formElements dt {
+          min-height: 0;
+        }
+        .userCommentForm dl.formElements {margin:15px 0;}
+        .userCommentForm  p.commentFormSubmit {
+          margin: 10px 0px 0 0;
+          text-align: right;
+        }
+        div.commentFormRating{
+          background-color: #FFF;
+          border:1px solid #FFCC1C;
+          float:left;
+          padding: 5px 8px;
+          -moz-box-shadow: 0 0 2px #CCCCCC;
+          -webkit-box-shadow: 0 0 2px #CCCCCC;
+          box-shadow: 0 0 2px #CCCCCC;
+          width:auto;
+        }
+
+        div.CommentsComponent p.showing, div#BrowseComments p.showing {
+          float:left;
+          width: auto;
+          margin: 0 0 10px 15px;
+          font-style:normal;
+        }
+        .commentsTopBar{
+          position: relative;
+        }
+
+        div.bottomOptionBar {
+          padding: 0;
+          position: relative;
+          margin:20px 16px 8px;
+          text-align: left;
+          font-family: Verdana, Arial, Helvetica, sans-serif;
+          font-size: 12px;
+          border: 1px solid #D0d0d0;
+          background-color: #e0e0e0;
+          box-shadow: 0 0 5px #ccc inset;
+          border-radius:2px;
+          clear:both;
+        }
+        div.bottomOptionBar div.showing {
+          margin-bottom:6px;
+          /*font-style: italic;*/
+          float:right;
+          padding:4px 6px 4px;
+          font-size:12px;
+          font-family: Verdana, Arial, Helvetica, sans-serif;
+          /* border-right: 1px solid #f3f3f3; */
+          margin: 4px 0;
+          color: #333;
+
+        }
+
+        .bottomOptionBar .togglePanel {
+          position: absolute;
+          left:-40px;
+          top:35px;
+          background-color: #DDC;
+          white-space: nowrap;
+          border-width: 1px 0;
+          border-radius: 2px;
+          color: #666;
+          opacity: 0.95;
+          padding: 16px;
+          border: 1px solid #CCB;
+          -moz-box-shadow: 0 0 5px #CCC;
+          -webkit-box-shadow: 0 0 5px #CCC;
+          box-shadow: 0 0 5px #CCC;
+          z-index:1;
+        }
+        .bottomOptionBar .togglePanel a {
+          color: #335770;
+        }
+        .bottomOptionBar .togglePanel a:hover {
+          color: #CC0000;
+        }
+        .bottomOptionBar .togglePanel .toggleArrow {
+          content:"";
+          position:absolute;
+          border-width:7px;
+          border-color: transparent transparent #DDC transparent;
+          display:block;
+          width:0;
+          top:-14px;
+          left:78px;
+          border-style: solid;
+        }
+        .bottomOptionBar .togglePanel .toggleArrowBorder {
+          content:"";
+          position:absolute;
+          border-width:8px;
+          border-color: transparent transparent #CCB transparent;
+          display:block;
+          width:0;
+          top:-17px;
+          left:77px;
+          border-style: solid;
+          opacity: 0.95;
+        }
+
+        .bottomOptionBar .togglePanel div {
+          /*float:left;*/
+          text-align: center;
+        }
+        .bottomOptionBar .loading,
+        .bottomOptionBar .toolsInner {
+          background-color: transparent;
+          white-space: nowrap;
+          padding: 0;
+          border:none;
+        }
+
+        .bottomOptionBar .togglePanelClose {
+          float:right;
+          position:absolute;
+          font-size:14px;
+          right:0;
+          top:-1px;
+          padding: 4px;
+          margin-left:10px;
+          text-decoration:none;
+        }
+
+        .bottomOptionBar .commentRSSLink,
+        .bottomOptionBar .commentSubscribeLink {
+          margin:4px 0;
+          padding:4px 2px 4px;
+          float:left;
+        }
+        .bottomOptionBar .loading,
+        .bottomOptionBar .ajaxUpdater {
+          width:140px;
+          text-align:center;
+
+        }
+
+        .bottomOptionBar .togglePanel a.feedLink,
+        .bottomOptionBar .togglePanel div.commentSubscribeLink a,
+        .bottomOptionBar a.feedLink,
+        .bottomOptionBar div.commentSubscribeLink a {
+          background-position: 4px center;
+          padding: 3px 4px 3px 20px;
+          border-radius: 3px;
+          margin:2px;
+          background-repeat:no-repeat;
+          font-size:12px;
+          text-decoration: none;
+        }
+
+        .bottomOptionBar .togglePanel a.feedLink:hover,
+        .bottomOptionBar .togglePanel div.commentSubscribeLink a:hover,
+        .bottomOptionBar a.feedLink:hover,
+        .bottomOptionBar div.commentSubscribeLink a:hover {
+          background-color: #eeeedd;
+        }
+        .bottomOptionBar a.feedLink {
+          background-image:url(/images/rss-small.gif);
+        }
+        .bottomOptionBar div.commentSubscribeLink a {
+          background-image:url(/images/icons/article_tools/email.gif);
+          padding-left:26px;
+        }
+        #comment.validationError {
+          border: 1px solid #D99;
+          box-shadow: 0 0 4px #D99;
+          }
+        div.commentEditCont {
+          margin-left:60px;
+        }
+        div.commentEditCont textarea {
+          width: 99%;
+          min-height: 70px;
+          border: 1px solid #CCC;
+          background-color: #F9F9F9;
+          border-radius: 2px;
+          box-shadow: inset 0 0 4px #DDD;
+          padding: 2px;
+          margin-bottom: 4px;
+          overflow:hidden;
+        }
+        .doneEditLink,
+        .doneEditLink:visited {
+          float: right;
+          margin-top: 1px;
+          padding: 1px 4px;
+          background-color: #333;
+          border-radius: 3px;
+          color: #9BE;
+          text-decoration: none;
+          box-shadow: 0 0 4px #AAA;
+          text-transform: uppercase;
+          font-size: 11px;
+          margin-bottom:4px;
+        }
+        .doneEditLink:hover{
+          color: #333;
+          background-color: #9be;
+        }
+        .cancelEditLink{
+          float:right;
+          font-size:11px;
+          margin-top:1px;
+          margin-left:4px;
+          padding:1px 4px;
+          text-decoration:none;
+        }
+        .commentTemp {
+          display:none;
+        }
+        div.comment.limitMsg {
+          position: relative;
+          float: none !important;
+          width: auto !important;
+          clear: both;
+          margin-top: 16px;
+          padding: 8px;
+          border: 1px solid #FF5555;
+          box-shadow: 0 0 4px #FF3333;
+          padding: 8px;
+          background-color: #FF6666;
+          color: #FFF;
+        }
+
+      </style>
+      <div id="BlogComments" class="SpanningFeature BlogPost CommentsComponent ">
+        
+        
+
+        
+        
+
+        <div class="commentsHeader clearfix" id="readerComments">
+
+          
+          
+          
+          <h3 class="clearfix">
+            <div style="float:left;">
+              Comments 
+            </div>
+            
+          </h3>
+        </div>
+        
+        
+        <div id="BlogComments_commentContent" class="commentContent">
+          
+        </div>
+        
+
+        
+          <div class="bottomOptionBar clearfix">
+            
+              <div style="float:left;">
+      <div style="float:left;margin:4px 0; padding:4px 6px;">Subscribe to this thread:</div>
+      <div style="position:relative;float:left">
+      <div class="commentSubscribeLink">
+        <a class="toggleActivator saveAction" id="doSubscribe" href="javascript://Subscribe">By Email</a>
+      </div>
+      <div class="togglePanel" data-toolsoid="18425387" data-toolsajaxmacro="commentSubscribe" style="display:none">
+        <div class="toggleArrowBorder"></div>
+        <div class="toggleArrow"></div>
+        <a href="javascript://close" class="togglePanelClose"><img src="/foundation/images/icons/cross.png" width="14" height="14"></a>
+        <div class="loading">Subscribing&hellip;</div>
+        <div class="ajaxUpdater" style="display:none;"></div>
+      </div>
+      </div>
+      <div class="commentRSSLink"><a href="/humboldt/Rss.xml?id=comments&amp;oid=18425387" class="feedLink" title="Subscribe to this story's comments" target="_blank">With RSS</a></div>
+      </div>
+            
+            
+          </div>          
+          
+        <hr />
+
+        
+
+        
+          
+
+          <form id="BlogCommentsPostCommentForm" method="post" class="userCommentForm validateForm" data-validate="login" data-validate-login-options="{&quot;feelingShy&quot;:false}">
+            <input type="hidden" name="commentType" value="comment" />
+            <input type="hidden" name="oid" value="18425387" />
+            <input type="hidden" name="source" value="desktop">
+
+            
+            
+
+            <label for="comment" class="hidden">Comment</label>
+            
+              <h4 class="commentFormAddHeader"><a name="readerComments">Add a comment</a></h4>
+            
+
+            
+            
+            
+
+            <div class="errorDisplay" style="display:none">
+              <ol></ol>
+            </div>
+            <dl class="formElements clearfix">
+            
+              <dd><textarea name="comment" style="height:112px;overflow:hidden;" tabindex="1" class="expandableBox required" id="comment" data-validate="required"></textarea></dd>
+            </dl>
+
+            
+
+            
+
+            <input type="checkbox" name="subscribe" id="BlogComments_commentSubscribe" value="yes"> <label for="BlogComments_commentSubscribe" style="margin-right:24px;">Subscribe to this thread</label>
+            
+            
+
+            <p class="commentFormSubmit">
+              <input type="submit" name="commentSubmit" tabindex="2" value="Post Comment" id="commentSubmit" />
+            </p>
+
+          </form>
+          <script>
+            jQuery("textarea.expandableBox").autoBoxResize();
+          </script>
+        
+      </div><!-- comments -->
+      <script type="text/javascript">
+        var componentId = "BlogComments";
+
+        function updateCommentTotals (showing,total){
+          if (showing) {
+            jQuery(".commentsShowingUpdate").each(function(){jQuery(this).html(showing)});
+          }
+          if (total==0) total="0";
+          if (total){
+            jQuery(".commentsTotalUpdate").each(function(){jQuery(this).html(total)});
+          }
+        }
+
+        
+
+        
+        function getMoreComments (e) {
+          if (e) e.preventDefault();
+          if (jQuery(this).attr("id") == "showAllComments" || jQuery(this).attr("id") == "showMoreComments"){
+            jQuery(this).parent().html('<div class="commentSpinner">&nbsp;</div>');
+          } else if (jQuery(this).attr("id") == "sortSelect"){
+            jQuery("#BlogComments .sortSpinner").show();
+          }
+
+          var url = "/NewsBlog/archives/2020/09/14/slater-devil-fires-continue-to-grow";
+          var myStart = jQuery(this).attr("id") == "sortSelect" ? "1" : jQuery(this).attr("rel");
+          var showAllComments = jQuery(this).attr("id") == "showAllComments" ? "yes" : "no";
+          if (!myStart) var myStart = "1";
+          var mySort = jQuery("#sortSelect").val() || "desc";
+          var params = {
+            sort: mySort,
+            ajaxComponent: componentId,
+            startIndex: myStart,
+            showAll: showAllComments
+          };
+          jQuery.ajax({
+              url: url,
+              data: (params),
+              success: function (data) {
+                  jQuery("#"+componentId+"_PaginationBottom").remove();
+                  jQuery("#"+componentId+"_commentContent .brandNewComment").remove();
+                  jQuery("#BlogComments .sortSpinner").hide();
+                  if (myStart == "1") jQuery("#"+componentId+"_commentContent").html(data);
+                  else jQuery("#"+componentId+"_commentContent").append(data);
+              }
+          });
+        };
+
+        function removeEdit(oid){
+          if (oid){
+            var cont = jQuery("#BlogComments-comment-"+oid).closest(".brandNewComment");
+            cont.find(".newCommentOptions").fadeOut("fast", function(){
+              jQuery(this).remove();
+            });
+          }
+        }
+
+        function getComment(oid, commentLimit){
+          var url = "/NewsBlog/archives/2020/09/14/slater-devil-fires-continue-to-grow";
+          var limitMsg = commentLimit?"<div class=\"comment limitMsg\">\r\n\r\n      \r\n      \r\n        Note: Since you've already made  live comments to day(s)ay, this and any additional comments in this timeframe will be reviewed by our staff before being made live.  Thank you for your contribution!\r\n          \r\n    <\/div>":'';
+          if (oid){
+            var params = {
+              ajaxComponent: componentId,
+              commentOid: oid
+            };
+            jQuery.ajax({
+                url: url,
+                data: (params),
+                success: function (data) {
+                  if (!jQuery.trim(jQuery("#"+componentId+"_commentContent").html())){
+                    jQuery("#"+componentId+"_commentContent").append(limitMsg+data).find(".brandNewComment").fadeIn("fast");
+                  } else {
+                    jQuery("#"+componentId+"_commentContent").children("div.comment, div.brandNewComment, div.limitMsg").filter(":last").after(limitMsg+data).parent().find(".brandNewComment").fadeIn("fast");
+                  }
+                  var t=setTimeout(function(){removeEdit(oid)},300000);
+                  var myTotal = parseInt(jQuery("#comments_total").text(), 10);
+                  myTotal++;
+                  updateCommentTotals(false,myTotal);
+                }
+            });
+          }
+        }
+
+        function doLikeComment(e){
+          e.preventDefault();
+          if (!this.clicked){
+            var oid = jQuery(this).attr("data-commentOid");
+            jQuery("#BlogComments #"+oid+"_likeLinks a").addClass("dimmed").css("opacity","0.4").each(function(){this.clicked = true;});
+
+            var myCurrentLikes = jQuery("#"+oid+"_rating_likes").html() || 0;
+            var myCurrentDislikes = jQuery("#"+oid+"_rating_dislikes").html() || 0;
+
+            var thisRating = jQuery(this).attr("rel");
+            if (thisRating == "Like"){
+              myCurrentLikes = parseFloat(myCurrentLikes)+1;
+            } else {
+              myCurrentDislikes = parseFloat(myCurrentDislikes)+1;
+            }
+            var myNewLine = '<span id="'+oid+'_rating_likes">' + myCurrentLikes + '</span> like';
+            if (myCurrentLikes != 1) {
+              myNewLine += 's';
+            }
+            myNewLine += ', ' + '<span id="'+oid+'_rating_dislikes">' + myCurrentDislikes + '</span> dislike';
+            if (myCurrentDislikes != 1) {
+              myNewLine += "s";
+            }
+
+            jQuery("#"+oid+"_rating_sub").html(myNewLine);
+            jQuery("#"+oid+"_rating_sub").show();
+
+            var params = {
+              oid: oid,
+              rating: thisRating
+            };
+            jQuery.ajax({
+                url: "/gyrobase/Tools/AjaxLike",
+                type: "POST",
+                data: (params),
+                success: function (data) {
+                  jQuery("#"+oid+"_rating_sub").html(data);
+                  if (thisRating == "Like"){
+                    jQuery("#BlogComments #"+oid+"_likeLinks a.dislike").removeClass("dimmed").css("opacity","1").each(function(){this.clicked = false;});
+                  } else {
+                    jQuery("#BlogComments #"+oid+"_likeLinks a.like").removeClass("dimmed").css("opacity","1").each(function(){this.clicked = false;});
+                  }
+                }
+            });
+          }
+        }
+
+        function reportComment(e){
+          e.preventDefault();
+          e.stopPropagation();
+          var oid = jQuery(this).attr("rel");
+          var elem = jQuery("#"+oid+"_report");
+          elem.click(function(e){e.stopPropagation();})
+          if (!elem.is(":visible")){
+            jQuery("#BlogComments .reportCommentContainer").hide();
+            if (elem.is(":empty")){
+              var params = {
+                oid: oid,
+                ajaxComponent: "ReportComment"
+              };
+              jQuery.ajax({
+                  url: "/gyrobase/Tools/ReportComment",
+                  data: (params),
+                  success: function (data) {
+                    elem.html(data);
+                    elem.fadeIn("fast");
+                  }
+              });
+            } else {
+              elem.fadeIn("fast");
+            }
+          }
+          // attach close event handler to the html
+          jQuery("html").one("click", function(){
+            jQuery("#BlogComments .reportCommentContainer:visible").hide();
+          });
+        }
+
+        function closeReport(obj){
+          jQuery(obj).closest(".reportCommentContainer").fadeOut("fast");
+        }
+
+        function submitReport(e){
+          var params = jQuery(e).closest("form").serialize()+"&ajaxComponent=ReportComment";
+          jQuery.ajax({
+              url: "/gyrobase/Tools/ReportComment",
+              type: "POST",
+              data: (params),
+              success: function (data) {
+                jQuery(e).closest(".reportCommentContainer").html(data);
+              }
+          });
+        }
+
+        (function($) {
+          var subscribed=false;
+
+          function showFollowPanel(e){
+            e.preventDefault();
+            myPanel = $(this).parent().next(".togglePanel");
+            myPanel.fadeIn("fast");
+          }
+
+          function doSubscribe(obj){
+            var myPanel = obj.parent().next(".togglePanel");
+            myPanel.fadeIn("fast");
+            if (!subscribed){
+              var myLink = obj.parent();
+              var myLoader = myPanel.children(".loading");
+              var myUpdater = myPanel.children(".ajaxUpdater");
+              var params = {
+                object: myPanel.attr("data-toolsoid"),
+                macro: myPanel.attr("data-toolsajaxmacro"),
+                url: window.location
+              };
+
+              $.ajax({
+                url: "/gyrobase/Macros/ToolsAjax",
+                data: (params),
+                type: "POST",
+                dataType: "html",
+                success: function (data) {
+                  subscribed = true;
+                  if (myUpdater){
+                    myUpdater.html(data);
+                    myLoader.fadeOut("fast", function(){
+                      myUpdater.fadeIn("fast", function(){
+                        setTimeout(function(){
+                          myPanel.fadeOut("fast");
+                        }, 3000);
+                      });
+                    });
+                  } else {
+                    myPanel.fadeOut("fast");
+                  }
+                }
+              });
+            }
+          }
+
+          function activateSubscribe(e){
+            e.preventDefault();
+            var myObj = $(this);
+            var isAuthenticated = Foundation.SessionManager.sharedSessionManager().isAuthenticated();
+            if (!isAuthenticated){
+              new Foundation.Login.Dialog({
+                  "feelingShy": false,
+                  "callback": function(){doSubscribe(myObj);}
+              });
+              return false;
+            } else {
+              // Proceed
+              doSubscribe(myObj);
+            }
+          }
+
+          function deleteComment(e){
+            e.preventDefault();
+            var thisComment = $(this);
+            var params = {
+              macro: "deleteComment",
+              comment: thisComment.attr("data-comment")
+            };
+            $.ajax({
+              url: "/gyrobase/Macros/ToolsAjax",
+              data: (params),
+              type: "POST",
+              dataType: "html",
+              success: function (data) {
+                thisComment.closest(".brandNewComment").fadeOut("fast", function(){
+                  $(this).remove();
+                  var myTotal = parseInt(jQuery("#comments_total").text(), 10);
+                  myTotal--;
+                  updateCommentTotals(false,myTotal);
+                });
+              }
+            });
+          }
+
+          function editComment(e){
+            e.preventDefault();
+            var thisComment = $(this);
+            var commentCont = thisComment.closest(".brandNewComment").find(".description");
+            var commentTemp = thisComment.closest(".brandNewComment").find(".commentTemp");
+            var commentText = commentTemp.html();
+            var toolbar = thisComment.closest(".brandNewComment").find(".commentToolbar");
+            commentCont.next(".commentEditCont").remove();
+            commentCont.after('<div class="commentEditCont clearfix" style="display:none;"><div class="editErrorDisplay" style="display:none"><ol></ol></div><textarea class="expandableBox">'+commentText+'</textarea><a href="#" class="cancelEditLink">Cancel</a> <a href="#" class="doneEditLink" data-comment="'+thisComment.attr("data-comment")+'">SAVE</a></div>');
+            toolbar.fadeOut("fast");
+            commentCont.fadeOut("fast", function(){
+              commentCont.next(".commentEditCont").fadeIn("fast", function(){
+                $(".brandNewComment textarea.expandableBox").autoBoxResize();
+                $(".brandNewComment textarea.expandableBox").focus();
+              });
+            });
+          }
+
+          function editCommentSave(e){
+            e.preventDefault();
+            var thisComment = $(this);
+            var editCont = thisComment.closest(".commentEditCont");
+            var commentTemp = thisComment.closest(".brandNewComment").find(".commentTemp");
+            var newText = thisComment.prevAll("textarea").val();
+            var toolbar = thisComment.closest(".brandNewComment").find(".commentToolbar");
+
+            var params = {
+              macro: "editComment",
+              comment: thisComment.attr("data-comment"),
+              commentText: newText
+            };
+            $.ajax({
+              url: "/gyrobase/Macros/ToolsAjax",
+              data: (params),
+              type: "POST",
+              success: function (data) {
+                if (data.error){
+                  $(".editErrorDisplay").html("<ol><li>"+data.error+"</li></ol>").fadeIn("fast");
+                } else if (data.result){
+                  editCont.fadeOut("fast", function(){
+                    $(".editErrorDisplay").hide().html("<ol></ol>");
+                    editCont.prev(".description").html($.trim(data.result));
+                    commentTemp.html(newText);
+                    editCont.prev(".description").fadeIn("fast");
+                    toolbar.fadeIn("fast");
+                  });
+                }
+              }
+            });
+          }
+
+          function editCommentCancel(e){
+            e.preventDefault();
+            var editCont = $(this).closest(".commentEditCont");
+            var toolbar = $(this).closest(".brandNewComment").find(".commentToolbar");
+            editCont.fadeOut("fast", function(){
+              $(".editErrorDisplay").hide().html("<ol></ol>");
+              editCont.prev(".description").fadeIn("fast");
+              toolbar.fadeIn("fast");
+              editCont.remove();
+            });
+          }
+
+          $("#BlogComments").on('click', ".bottomOptionBar a#doSubscribe", activateSubscribe);
+          $("#BlogComments").on('click', ".bottomOptionBar a.togglePanelClose", function(){$(this).parent().fadeOut("fast"); return false;});
+          $("#BlogComments").on('click', ".brandNewComment a.commentDeleteLink", deleteComment);
+          $("#BlogComments").on('click', ".brandNewComment a.commentEditLink", editComment);
+          $("#BlogComments").on('click', ".brandNewComment a.doneEditLink", editCommentSave);
+          $("#BlogComments").on('click', ".brandNewComment a.cancelEditLink", editCommentCancel);
+        })(jQuery);
+
+
+        jQuery(document).ready(function($){
+          $("#BlogComments").on('click', '#showMoreComments,#showAllComments', getMoreComments);
+          $("#BlogComments #sortSelect").change(getMoreComments);
+          getMoreComments();
+          new Foundation.PostCommentComponent(componentId);
+          var nc = Foundation.NotificationCenter.sharedNotificationCenter();
+          nc.observe("comment:added", function (e) {
+            var comment = e.data;
+              getComment(comment.get("oid"), comment.get("commentLimit"));
+            // clear rating
+            if (jQuery(".commentFormRating").length!=0){
+              jQuery(".commentFormRating input[name='reviewRating']").val("");
+              jQuery(".commentFormRating .goldStarContainer").css("left", zeroPos+"px");
+            }
+          });
+          var subscribeCheckBox = $("#BlogComments_commentSubscribe");
+          subscribeCheckBox.prop("checked", getCookie("subscribeToThread") === "true" ? true : false);
+          subscribeCheckBox.change(function (e) {
+              var subscribeToThread = $(this).prop("checked");
+              setCookie("subscribeToThread", subscribeToThread ? "true" : "false", 30);
+          });
+          var shareFacebookBox = $("#BlogComments_postCommentToFacebook");
+          shareFacebookBox.prop("checked", getCookie("shareOnFacebook") === "true" ? true : false);
+          shareFacebookBox.change(function (e) {
+              var shareOnFacebook = $(this).prop("checked");
+              setCookie("shareOnFacebook", shareOnFacebook ? "true" : "false", 30);
+          });
+          $("#BlogComments").on('click', 'a.likeLink', doLikeComment);
+          $("#BlogComments").on('click', 'a.reportCommentLink', reportComment);
+        });
+      </script>
+    
+  
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+        <div id="PeopleWhoLiked" class="SpanningFeature BlogPost ">
+          <h3><span class="headingText">Readers also liked&hellip;</span></h3>
+          <ul>
+      
+      
+      
+      <li class="l0 storyItem">
+    
+
+    
+
+    <h4 class="headline">
+      <a href="https://www.northcoastjournal.com/NewsBlog/archives/2021/07/09/arcata-denounces-acts-of-hate-and-violence">Arcata Denounces 'Acts of Hate and Violence'</a>
+    </h4>
+    
+    <ul>
+      
+        <li class="l1 byline">By Kimberly Wear</li>
+      
+      
+        <li class="l1 longOnly">
+          <span class="date">Jul  9, 2021</span>
+        </li>
+      
+    </ul>
+  </li>
+      
+      
+    
+      
+      
+      <li class="l0 storyItem">
+    
+
+    
+
+    <h4 class="headline">
+      <a href="https://www.northcoastjournal.com/NewsBlog/archives/2021/08/17/notorious-humboldt-county-murderer-dies-in-prison">Notorious Humboldt County Murderer Dies in Prison</a>
+    </h4>
+    
+    <ul>
+      
+        <li class="l1 byline">By Thadeus Greenson</li>
+      
+      
+        <li class="l1 longOnly">
+          <span class="date">Aug 17, 2021</span>
+        </li>
+      
+    </ul>
+  </li>
+      
+      
+    
+          </ul>
+        </div>
+      
+               
+
+
+
+
+
+
+
+      </div><!-- gridSpanningFeature -->
+      
+      <div id="gridSpanningFeature2">
+        
+      </div><!-- gridSpanningFeature2 -->
+
+      <div id="gridColumnContainer" class="clearfix">
+
+        <div id="gridMainColumn1">
+          
+        </div><!-- gridMainColumn1 -->
+        
+        <div id="gridMainColumn2">
+          
+        </div><!-- gridMainColumn2 -->
+
+      </div><!-- end gridColumnContainer -->
+
+    </div><!-- end gridFrame -->
+
+    <div id="gridRightColumn">   
+      <div id="gridSpanningIsland">
+        
+
+<script type="text/javascript">
+  function setBioLink(){
+    jQuery(".bio .readMore").click(function(e){
+      e.preventDefault();
+      var elem = jQuery(this);
+      if (elem.prevAll(".authorBioLong").is(":hidden")){
+        elem.prevAll(".authorBioShort").fadeOut("fast", function(){
+          elem.prevAll(".authorBioLong").fadeIn("fast");
+          elem.html("less");
+        });          
+      } else {
+        elem.prevAll(".authorBioLong").fadeOut("fast", function(){
+          elem.prevAll(".authorBioShort").fadeIn("fast");                   
+          elem.html("more");
+        });          
+      }
+    })
+  }
+</script>
+
+
+
+
+
+
+  <div id="AbouttheauthorWrapper" class="SpanningIsland BlogPost Wrapper">
+  
+    <div id="Abouttheauthor" class="SpanningIsland BlogPost  clearfix">
+      
+        <h3><span class="headingText">About The Author</span></h3>
+        
+      <a href="https://www.northcoastjournal.com/author/kimberly-wear">
+      
+        
+          <img src="/images/icons/user_generic-thumb.gif" border="0" alt="" />
+          
+      
+      </a>
+      <a href="https://www.northcoastjournal.com/author/kimberly-wear"><h4>Kimberly Wear</h4></a> 
+
+      
+        
+          <div class="email"><a href="mailto:kim@northcoastjournal.com">kim@northcoastjournal.com</a></div>
+        
+      
+    
+      
+
+      
+        <div class="twitter"><a href="https://twitter.com/kimberly_wear" target="_blank">@kimberly_wear</a></div>
+      
+    
+      
+
+      
+        <div class="bio">
+          <span class="label"><b>Bio:</b><br /></span>
+          
+            Kimberly Wear is the assistant editor of the <i>North Coast Journal. </i>
+                  
+        </div>
+      
+    
+    </div> <!-- Abouttheauthor -->
+  
+  </div>
+  
+  <script type="text/javascript">
+  Foundation.documentReady.then(function () {
+    var twitterLinkSelector = '#Abouttheauthor div.twitter a';
+    jQuery(twitterLinkSelector).each(function(){
+      jQuery(this).clone().insertAfter(this).addClass('twitter-follow-button').removeClass('twitter').attr('data-show-count','true').attr('data-lang','en').attr('data-show-screen-name','false');
+    });
+    (new Foundation.Script("https://platform.twitter.com/widgets.js", true)).then(function () {
+      !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+      });
+  });
+  </script>
+
+<script>setBioLink();</script>
+
+
+  <div id="HalfPage1" class="SpanningIsland BlogPost HalfPage Ad">
+    <!-- /1046892/halfpage_1 -->
+          <div id="div-gpt-ad-halfpage_1" style="" data-content-type="ad" data-slot="/1046892/halfpage_1" data-output="asynchronous" data-width="300" data-height="600">
+              <script type='text/javascript'>
+                googletag.cmd.push(function() {
+                  googletag.display('div-gpt-ad-halfpage_1');
+                });
+              </script>
+          </div>
+  </div>
+
+
+  <!-- #northcoast no component output for northcoast -->
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+    <div id="MorebyThisAuthorWrapper" class="SpanningIsland BlogPost Wrapper">
+
+    
+      
+      
+          <div id="MorebyThisAuthor" class="SpanningIsland BlogPost ">
+            <h3><span class="headingText">more from the author</span></h3>
+            <ul class="moduleList">
+        
+        
+        
+        <li class="l0 storyItem">
+    
+
+    
+
+    <h4 class="headline">
+      <a href="https://www.northcoastjournal.com/NewsBlog/archives/2023/01/30/quakes-damage-hits-32m-disaster-loan-center-moves-to-rio-dell-contractors-wanted-for-state-earthquake-retrofitting-program">Quakes Damage Hits $32M, Disaster Loan Center Moves to Rio Dell, Contractors Wanted for State Earthquake Retrofitting Program</a>
+    </h4>
+    
+    <ul>
+      
+        <li class="l1 byline">By Kimberly Wear</li>
+      
+      
+        <li class="l1 longOnly">
+          <span class="date">Jan 30, 2023</span>
+        </li>
+      
+    </ul>
+  </li>
+        
+        
+
+      
+        
+        
+        <li class="l0 storyItem">
+    
+
+    
+
+    <h4 class="headline">
+      <a href="https://www.northcoastjournal.com/humboldt/high-intensity/Content?oid=25814591">High Intensity</a>
+    </h4>
+    
+      <h5 class="subhead">
+        Why Rio Dell bore the brunt of the Dec. 20 earthquake
+      </h5>
+    
+    <ul>
+      
+        <li class="l1 byline">By Kimberly Wear</li>
+      
+      
+        <li class="l1 longOnly">
+          <span class="date">Jan 26, 2023</span>
+        </li>
+      
+    </ul>
+  </li>
+        
+        
+
+      
+        
+        
+        <li class="l0 storyItem">
+    
+
+    
+
+    <h4 class="headline">
+      <a href="https://www.northcoastjournal.com/NewsBlog/archives/2023/01/20/atv-crash-kills-78-year-old-near-alderpoint">ATV Crash Kills 76 Year Old Near Alderpoint</a>
+    </h4>
+    
+    <ul>
+      
+        <li class="l1 byline">By Kimberly Wear</li>
+      
+      
+        <li class="l1 longOnly">
+          <span class="date">Jan 20, 2023</span>
+        </li>
+      
+    </ul>
+  </li>
+        
+        
+
+      
+             <li class="l0 storyItem more">
+               <a href="https://www.northcoastjournal.com/humboldt/ArticleArchives?author=3886599" class="more">More &raquo;</a>
+             </li>
+             </ul>
+          </div>
+        
+    
+   </div>  
+   
+  
+
+
+
+
+  <div id="MediumRectangle1" class="SpanningIsland BlogPost MediumRectangle Ad">
+    <!-- /1046892/mediumrectangle_1 -->
+          <div id="div-gpt-ad-mediumrectangle_1" style="" data-content-type="ad" data-slot="/1046892/mediumrectangle_1" data-output="asynchronous" data-width="300" data-height="250">
+              <script type='text/javascript'>
+                googletag.cmd.push(function() {
+                  googletag.display('div-gpt-ad-mediumrectangle_1');
+                });
+              </script>
+          </div>
+  </div>
+
+
+ <div id="SupportLocalJournalismPromo" class="SpanningIsland BlogPost ">
+
+  <div class="headerBar">
+    <h2><a href="https://www.ncjshop.com/support">support local journalism</a></h2>
+  </div>
+
+  <div style="display: flex; flex-direction: row;">
+
+    <div style="margin: 0 10px 0 0;">
+      <a href="https://www.ncjshop.com/support" target="_blank">
+        <img src="/binary/d76f/megaphone.jpg"
+             width=""
+             height=""
+             style="width: 140px; height: auto;">
+      </a>
+    </div>
+
+    <div>
+      <h4 class="headline" style="margin-top: 0;">
+        <a href="https://www.ncjshop.com/support" target="_blank">
+          Become a VIP<br>
+          Member or make<br>
+          a one-time<br>
+          contribution<br>
+          to support NCJ
+        </a>
+      </h4>
+      <div class="tagline">
+        <span class="byline">
+        </span>
+      </div>
+    </div>
+
+  </div>
+
+</div>
+
+
+ <div id="PartnerPromo3" class="SpanningIsland BlogPost ">
+
+  <div class="headerBar">
+    <h2><a href="https://www.ncjshop.com/">Shop</a></h2>
+  </div>
+
+  <div style="display: flex; flex-direction: row;">
+
+    <div style="margin: 0 10px 0 0;">
+      <a href="https://www.ncjshop.com/" target="_blank">
+        <img src="/binary/2cff/ncjshop-tshirt.jpg"
+             width=""
+             height=""
+             style="width: 140px; height: auto;">
+      </a>
+    </div>
+
+    <div>
+      <h4 class="headline" style="margin-top: 0;">
+        <a href="https://www.ncjshop.com/" target="_blank">
+          Shop for<br>
+          swag, deals,<br>
+          subscriptions<br>
+          and cool stuff
+        </a>
+      </h4>
+      <div class="tagline">
+        <span class="byline">
+        </span>
+      </div>
+    </div>
+
+  </div>
+
+</div>
+
+
+  <!-- #northcoast no component output for northcoast -->
+
+
+
+
+
+
+
+
+  
+  
+      <div id="LatestInCategory" class="SpanningIsland BlogPost ">
+        <h3 class="latestnews_blog"><span class="headingText">Latest in News Blog</span></h3>
+        <ul class="moduleList ui list grouped expanded">
+    
+    
+    <li class="l0 storyItem">
+    
+
+    
+
+    <h4 class="headline">
+      <a href="https://www.northcoastjournal.com/NewsBlog/archives/2023/02/03/california-lawmakers-try-again-to-cap-insulin-costs">California Lawmakers Try Again to Cap Insulin Costs</a>
+    </h4>
+    
+    <ul>
+      
+        <li class="l1 byline">By Ana B. Ibarra/Calmatters</li>
+      
+      
+        <li class="l1 longOnly">
+          <span class="date">Feb  3, 2023</span>
+        </li>
+      
+    </ul>
+  </li>
+    
+  
+    
+    <li class="l0 storyItem">
+    
+
+    
+
+    <h4 class="headline">
+      <a href="https://www.northcoastjournal.com/NewsBlog/archives/2023/02/01/public-health-reports-two-new-covid-deaths">Public Health Reports Two New COVID Deaths</a>
+    </h4>
+    
+    <ul>
+      
+        <li class="l1 byline">By Thadeus Greenson</li>
+      
+      
+        <li class="l1 longOnly">
+          <span class="date">Feb  1, 2023</span>
+        </li>
+      
+    </ul>
+  </li>
+    
+  
+    
+    <li class="l0 storyItem">
+    
+
+    
+
+    <h4 class="headline">
+      <a href="https://www.northcoastjournal.com/NewsBlog/archives/2023/01/31/supervisor-bohn-apologizes-for-misognystic-comment-at-fundraiser">Supervisor Bohn Apologizes for Misogynistic Comment at Fundraiser</a>
+    </h4>
+    
+    <ul>
+      
+        <li class="l1 byline">By Thadeus Greenson</li>
+      
+      
+        <li class="l1 longOnly">
+          <span class="date">Jan 31, 2023</span>
+        </li>
+      
+    </ul>
+  </li>
+    
+  
+        
+            <li class="l0 storyItem more">
+              <a href="https://www.northcoastjournal.com/humboldt/ArticleArchives?category=2125004" class="more">More &raquo;</a>
+            </li>
+          </ul>
+        
+      </div>
+    
+
+
+
+
+  <div id="MediumRectangle2" class="SpanningIsland BlogPost MediumRectangle Ad">
+    <!-- /1046892/mediumrectangle_2 -->
+          <div id="div-gpt-ad-mediumrectangle_2" style="" data-content-type="ad" data-slot="/1046892/mediumrectangle_2" data-output="asynchronous" data-width="300" data-height="250">
+              <script type='text/javascript'>
+                googletag.cmd.push(function() {
+                  googletag.display('div-gpt-ad-mediumrectangle_2');
+                });
+              </script>
+          </div>
+  </div>
+
+
+
+
+
+
+
+
+
+<div id="CovidLatestBox" class="SpanningIsland BlogPost ">
+  <div class="headerBar">
+    <h2 class="sectionHeader">Covid-19</h2>
+  </div>
+  <h2 class="tabs"><a href="https://www.northcoastjournal.com/humboldt/ArticleArchives?tag=Covid-19" class="current">All</a> 
+    | <a href="/humboldt/Locations/Edit">UPDATE YOUR BUSINESS INFO</a>
+  </h2>
+  <div class="clear"><!-- clear --></div>  
+  
+  <div class="tabBody">
+    <ul class="body">
+        
+          <li>
+    <h4>News Blog</h4>
+    <h3>
+      <a href="https://www.northcoastjournal.com/NewsBlog/archives/2023/01/24/public-meetings-when-the-covid-state-of-emergency-ends">Public Meetings When the COVID State of Emergency Ends</a>
+      
+    </h3>
+  </li>
+          
+          <li>
+    <h4>News Blog</h4>
+    <h3>
+      <a href="https://www.northcoastjournal.com/NewsBlog/archives/2023/01/18/humboldt-sees-another-covid-death">Humboldt Sees Another COVID Death</a>
+      
+    </h3>
+  </li>
+          
+          <li>
+    <h4>News Blog</h4>
+    <h3>
+      <a href="https://www.northcoastjournal.com/NewsBlog/archives/2023/01/11/public-health-reports-two-new-covid-deaths-amid-uptick-in-hospitalizations">Public Health Reports Two New COVID Deaths Amid Uptick in Hospitalizations</a>
+      
+    </h3>
+  </li>
+          
+      
+    </ul>
+    <a class="more" href="https://www.northcoastjournal.com/humboldt/ArticleArchives?tag=Covid-19">More&raquo;</a>
+  </div>
+
+</div>
+
+<!-- End CovidLatestBox -->
+
+  <!-- #northcoast no component output for northcoast -->
+
+
+  <div id="MediumRectangle3" class="SpanningIsland BlogPost MediumRectangle Ad">
+    <!-- /1046892/mediumrectangle_3 -->
+          <div id="div-gpt-ad-mediumrectangle_3" style="" data-content-type="ad" data-slot="/1046892/mediumrectangle_3" data-output="asynchronous" data-width="300" data-height="250">
+              <script type='text/javascript'>
+                googletag.cmd.push(function() {
+                  googletag.display('div-gpt-ad-mediumrectangle_3');
+                });
+              </script>
+          </div>
+  </div>
+
+
+
+
+
+  
+<div id="PartnerPromo1" class="SpanningIsland BlogPost ">
+
+  <div class="headerBar">
+    <h2><a href="http://www.humboldtlastweek.com/">humboldt last week</a></h2>
+  </div>
+
+  <div style="display: flex; flex-direction: row;">
+
+    <div style="margin: 0 10px 0 0;">
+      <a href="http://www.humboldtlastweek.com/" target="_blank">
+        <img src="/binary/1788/HumboldtLastWeek.jpg"
+             width=""
+             height=""
+             style="width: 140px; height: auto;">
+      </a>
+    </div>
+
+    <div>
+      <h4 class="headline" style="margin-top: 0;">
+        <a href="http://www.humboldtlastweek.com/" target="_blank">
+          Quick Local Stories
+        </a>
+      </h4>
+      <div class="tagline">
+        <span class="byline">
+          From our podcast partner
+        </span>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+
+
+<div id="SocialMedia" class="SpanningIsland BlogPost ">
+  <div class="headerBar">
+    <h2 class="sectionHeader">socialize</h2>
+  </div>
+  <h2 class="tabs"><a href="#" class="current">Facebook</a> | <a href="#">Twitter</a></h2>
+  <div class="clear"><!-- clear --></div>
+
+  
+
+  <div class="tabBody SocialMediaFacebook" style="display:none">
+    <div class="fb-page" 
+      data-href="https://www.facebook.com/northcoastjournal/"
+      data-tabs="timeline"
+      data-width="300" 
+      data-height="800" 
+      data-hide-cover="false"
+      data-show-facepile="false"></div>
+  </div>
+
+  
+
+  <div class="tabBody SocialMediaTwitter" style="display:none">
+
+    <a class="twitter-timeline"  href="https://twitter.com/ncj_of_humboldt"  data-widget-id="349987841994022912" data-chrome="nofooter" width="300" height="800">Tweets by @ncj_of_humboldt</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+  </div>  
+
+</div>
+
+
+
+<script type="text/javascript" src="/foundation/scripts/twitterwidget.js"></script>
+<script type="text/javascript">
+  function refreshTwitter() {
+    getTwitters("SocialMedia_twitter_div", { 
+      id: '', 
+      count: 5, 
+      enableLinks: true, 
+      ignoreReplies: true, 
+      clearContents: true,
+      template: '%text% <a class="twitterTime" href="https://twitter.com/%user_screen_name%/statuses/%id%/">%time%</a>'
+    });
+  }
+  refreshTwitter();
+</script>
+
+<script type="text/javascript"><!--
+  Event.observe(document, "dom:loaded", function () {
+      dnSetupTabGroup(
+        $$("#SocialMedia h2.tabs>a"),
+        $$("#SocialMedia div.tabBody"),
+        "current", "back"
+        );
+
+      // Deactivate links.
+      $$("#SocialMedia h2.tabs> a").each(function (a) {
+        a.onclick = function () { return false; };
+        });
+      });
+//--></script>
+<!-- End SocialMedia -->
+
+      </div><!-- end gridSpanningIsland -->  
+     
+      <div id="gridMainSidebar">
+        
+      </div><!-- end gridMainSidebar -->
+
+      <div id="gridAdSidebar">
+        
+      </div><!-- end gridAdSidebar -->
+      
+      <div id="gridBottomSidebar">
+        
+      </div>
+    </div><!-- end gridRightColumn -->
+    
+    <!-- Footer -->
+    <div id="gridFooter">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <style type="text/css">
+      div#WeekByWeek a, div#WeekByWeek a:focus, 
+      div#WeekByWeek a:active, div#WeekByWeek:focus 
+        {user-focus: none;  outline:expression(hideFocus=true); outline:0; 
+         outline : none; -moz-user-focus: none; -moz-outline: none;}
+      div#WeekByWeek .sliderContainer {width:398px;margin-left:0px;}
+      div#WeekByWeek .sliderOuter {position:relative;overflow:hidden;width:398px;}
+      div#WeekByWeek .sliderInner {position:relative;width:3264px;left:-5px;}
+      * html div#WeekByWeek .sliderInner {width:3266px;} /* for IE6 Win only */
+      div#WeekByWeek .sliderMain {position:relative;float:left;width:398px;text-align:center;padding:0px;}
+      div#WeekByWeek .Vignette {width:126px;float:left;margin:5px;}
+      
+      div#WeekByWeek .sliderScrollBar {width:398px;height:4px;background-color:#D9D9D9;overflow:hidden;margin-bottom:5px;}
+      div#WeekByWeek .sliderScrollMarker {width:126px;height:4px;background-color:#D2232A;}
+    </style>
+
+    <div id="WeekByWeek" class="GlobalFooter BlogPost ">
+      <div class="headerBar">
+        <h2 class="sectionHeader">week by week</h2>
+      </div>
+
+      <div class="sliderScrollBar">
+        <div class="sliderScrollMarker">
+        </div>
+      </div>
+  
+      
+      <a href="javascript://Left" class="prev">&laquo;</a>
+      
+
+      <div class="sliderContainer">
+        <div class="sliderOuter">
+          <div id="WeekByWeekinnerSlide" class="sliderInner">
+  
+
+  
+
+            
+            <div class="Vignette" id="WeekByWeek-Vignette-1">
+              <a class="coverImg" href="https://www.northcoastjournal.com/humboldt/IssueArchives?issue=25874387">
+                
+                  <img src="/imager/b/homecoverslider/25874387/4634/NCJCover020223.jpg" alt="Hospitals Are Struggling to Meet Earthquake Safety Deadline" class="storyImg" />
+                
+              </a>
+              <div class="clear"></div>
+            </div>
+
+  
+
+
+
+  
+
+            
+            <div class="Vignette" id="WeekByWeek-Vignette-2">
+              <a class="coverImg" href="https://www.northcoastjournal.com/humboldt/IssueArchives?issue=25813157">
+                
+                  <img src="/imager/b/homecoverslider/25813157/634e/NCJCover012623.jpg" alt="Anatomy of an Embezzlement" class="storyImg" />
+                
+              </a>
+              <div class="clear"></div>
+            </div>
+
+  
+
+
+
+  
+
+            
+            <div class="Vignette" id="WeekByWeek-Vignette-3">
+              <a class="coverImg" href="https://www.northcoastjournal.com/humboldt/IssueArchives?issue=25752744">
+                
+                  <img src="/imager/b/homecoverslider/25752744/d603/NCJCover011923.jpg" alt="Health &amp; Wellness" class="storyImg" />
+                
+              </a>
+              <div class="clear"></div>
+            </div>
+
+  
+
+
+
+  
+
+            
+            <div class="Vignette" id="WeekByWeek-Vignette-4">
+              <a class="coverImg" href="https://www.northcoastjournal.com/humboldt/IssueArchives?issue=25692659">
+                
+                  <img src="/imager/b/homecoverslider/25692659/dad7/NCJCover011223.jpg" alt="&lsquo;Still Downhill&rsquo;" class="storyImg" />
+                
+              </a>
+              <div class="clear"></div>
+            </div>
+
+  
+
+
+
+  
+
+            
+            <div class="Vignette" id="WeekByWeek-Vignette-5">
+              <a class="coverImg" href="https://www.northcoastjournal.com/humboldt/IssueArchives?issue=25628127">
+                
+                  <img src="/imager/b/homecoverslider/25628127/c267/NCJCover010523.jpg" alt="Through Mark Larson&rsquo;s Lens" class="storyImg" />
+                
+              </a>
+              <div class="clear"></div>
+            </div>
+
+  
+
+
+
+  
+
+            
+            <div class="Vignette" id="WeekByWeek-Vignette-6">
+              <a class="coverImg" href="https://www.northcoastjournal.com/humboldt/IssueArchives?issue=25566279">
+                
+                  <img src="/imager/b/homecoverslider/25566279/ee88/NCJCover122922.jpg" alt="Top 10 Stories of 2022" class="storyImg" />
+                
+              </a>
+              <div class="clear"></div>
+            </div>
+
+  
+
+
+
+  
+
+            
+            <div class="Vignette" id="WeekByWeek-Vignette-7">
+              <a class="coverImg" href="https://www.northcoastjournal.com/humboldt/IssueArchives?issue=25506693">
+                
+                  <img src="/imager/b/homecoverslider/25506693/b2de/NCJCover122222.jpg" alt="The Billionaire&rsquo;s Press Dominates Censorship Beat" class="storyImg" />
+                
+              </a>
+              <div class="clear"></div>
+            </div>
+
+  
+
+
+
+  
+
+            
+            <div class="Vignette" id="WeekByWeek-Vignette-8">
+              <a class="coverImg" href="https://www.northcoastjournal.com/humboldt/IssueArchives?issue=25444234">
+                
+                  <img src="/imager/b/homecoverslider/25444234/c03e/NCJCover121522.jpg" alt="The Hoopa Valley Versus the Digital Divide" class="storyImg" />
+                
+              </a>
+              <div class="clear"></div>
+            </div>
+
+  
+
+
+
+  
+
+            
+            <div class="Vignette" id="WeekByWeek-Vignette-9">
+              <a class="coverImg" href="https://www.northcoastjournal.com/humboldt/IssueArchives?issue=25384571">
+                
+                  <img src="/imager/b/homecoverslider/25384571/eba2/NCJCover120822.jpg" alt="California&rsquo;s Mild 2022 Wildfire Season" class="storyImg" />
+                
+              </a>
+              <div class="clear"></div>
+            </div>
+
+  
+
+
+
+  
+
+            
+            <div class="Vignette" id="WeekByWeek-Vignette-10">
+              <a class="coverImg" href="https://www.northcoastjournal.com/humboldt/IssueArchives?issue=25326927">
+                
+                  <img src="/imager/b/homecoverslider/25326927/a1b4/NCJCover120122.jpg" alt="Flash Fiction 2022" class="storyImg" />
+                
+              </a>
+              <div class="clear"></div>
+            </div>
+
+  
+
+
+
+  
+
+            
+            <div class="Vignette" id="WeekByWeek-Vignette-11">
+              <a class="coverImg" href="https://www.northcoastjournal.com/humboldt/IssueArchives?issue=25266558">
+                
+                  <img src="/imager/b/homecoverslider/25266558/283b/ncjcover-112422.jpg" alt="2022 Holiday Gift Guide" class="storyImg" />
+                
+              </a>
+              <div class="clear"></div>
+            </div>
+
+  
+
+
+
+  
+
+            
+            <div class="Vignette" id="WeekByWeek-Vignette-12">
+              <a class="coverImg" href="https://www.northcoastjournal.com/humboldt/IssueArchives?issue=25206192">
+                
+                  <img src="/imager/b/homecoverslider/25206192/3371/NCJCover111722.jpg" alt="Profit and Pain" class="storyImg" />
+                
+              </a>
+              <div class="clear"></div>
+            </div>
+
+  
+
+
+
+  
+
+            
+            <div class="Vignette" id="WeekByWeek-Vignette-13">
+              <a class="coverImg" href="https://www.northcoastjournal.com/humboldt/IssueArchives?issue=25143247">
+                
+                  <img src="/imager/b/homecoverslider/25143247/0342/NCJCover111022.jpg" alt="&lsquo;Time is Running Out&rsquo;" class="storyImg" />
+                
+              </a>
+              <div class="clear"></div>
+            </div>
+
+  
+
+
+
+  
+
+            
+            <div class="Vignette" id="WeekByWeek-Vignette-14">
+              <a class="coverImg" href="https://www.northcoastjournal.com/humboldt/IssueArchives?issue=25079270">
+                
+                  <img src="/imager/b/homecoverslider/25079270/2893/NCJCover110322.jpg" alt="Expanding Food Recovery" class="storyImg" />
+                
+              </a>
+              <div class="clear"></div>
+            </div>
+
+  
+
+
+
+  
+
+            
+            <div class="Vignette" id="WeekByWeek-Vignette-15">
+              <a class="coverImg" href="https://www.northcoastjournal.com/humboldt/IssueArchives?issue=25019121">
+                
+                  <img src="/imager/b/homecoverslider/25019121/75b8/NCJCover102722.jpg" alt="Jadence Clifton Comes Forward" class="storyImg" />
+                
+              </a>
+              <div class="clear"></div>
+            </div>
+
+  
+
+
+
+  
+
+            
+            <div class="Vignette" id="WeekByWeek-Vignette-16">
+              <a class="coverImg" href="https://www.northcoastjournal.com/humboldt/IssueArchives?issue=24958190">
+                
+                  <img src="/imager/b/homecoverslider/24958190/af00/NCJCover102022.jpg" alt="&lsquo;Unbelievable&rsquo;" class="storyImg" />
+                
+              </a>
+              <div class="clear"></div>
+            </div>
+
+  
+
+
+
+  
+
+            
+            <div class="Vignette" id="WeekByWeek-Vignette-17">
+              <a class="coverImg" href="https://www.northcoastjournal.com/humboldt/IssueArchives?issue=24896831">
+                
+                  <img src="/imager/b/homecoverslider/24896831/44e1/NCJCover101322.jpg" alt="&lsquo;The Value of an Indigenous Life&rsquo;" class="storyImg" />
+                
+              </a>
+              <div class="clear"></div>
+            </div>
+
+  
+
+
+
+  
+
+            
+            <div class="Vignette" id="WeekByWeek-Vignette-18">
+              <a class="coverImg" href="https://www.northcoastjournal.com/humboldt/IssueArchives?issue=24831904">
+                
+                  <img src="/imager/b/homecoverslider/24831904/fd8e/NCJCover100622.jpg" alt="They Were Entitled to Free Care." class="storyImg" />
+                
+              </a>
+              <div class="clear"></div>
+            </div>
+
+  
+
+
+
+  
+
+            
+            <div class="Vignette" id="WeekByWeek-Vignette-19">
+              <a class="coverImg" href="https://www.northcoastjournal.com/humboldt/IssueArchives?issue=24768429">
+                
+                  <img src="/imager/b/homecoverslider/24768429/05c5/NCJCover092922.jpg" alt="The Wall" class="storyImg" />
+                
+              </a>
+              <div class="clear"></div>
+            </div>
+
+  
+
+
+
+  
+
+            
+            <div class="Vignette" id="WeekByWeek-Vignette-20">
+              <a class="coverImg" href="https://www.northcoastjournal.com/humboldt/IssueArchives?issue=24705073">
+                
+                  <img src="/imager/b/homecoverslider/24705073/69ac/NCJCover092222.jpg" alt="Burger Week 2022" class="storyImg" />
+                
+              </a>
+              <div class="clear"></div>
+            </div>
+
+  
+
+
+
+  
+
+            
+            <div class="Vignette" id="WeekByWeek-Vignette-21">
+              <a class="coverImg" href="https://www.northcoastjournal.com/humboldt/IssueArchives?issue=24640394">
+                
+                  <img src="/imager/b/homecoverslider/24640394/c476/ncj091522-issuu.jpg" alt="44 Feet" class="storyImg" />
+                
+              </a>
+              <div class="clear"></div>
+            </div>
+
+  
+
+
+
+  
+
+            
+            <div class="Vignette" id="WeekByWeek-Vignette-22">
+              <a class="coverImg" href="https://www.northcoastjournal.com/humboldt/IssueArchives?issue=24575183">
+                
+                  <img src="/imager/b/homecoverslider/24575183/4ad1/ncj090822-issuu.jpg" alt="Uniting for Ukraine" class="storyImg" />
+                
+              </a>
+              <div class="clear"></div>
+            </div>
+
+  
+
+
+
+  
+
+            
+            <div class="Vignette" id="WeekByWeek-Vignette-23">
+              <a class="coverImg" href="https://www.northcoastjournal.com/humboldt/IssueArchives?issue=24511175">
+                
+                  <img src="/imager/b/homecoverslider/24511175/3952/ncj090122-issuu.jpg" alt="&lsquo;Chipping Away&rsquo;" class="storyImg" />
+                
+              </a>
+              <div class="clear"></div>
+            </div>
+
+  
+
+
+
+  
+
+            
+            <div class="Vignette" id="WeekByWeek-Vignette-24">
+              <a class="coverImg" href="https://www.northcoastjournal.com/humboldt/IssueArchives?issue=24446416">
+                
+                  <img src="/imager/b/homecoverslider/24446416/cf01/ncj082522-issuu.jpg" alt="Broken Trust" class="storyImg" />
+                
+              </a>
+              <div class="clear"></div>
+            </div>
+
+  
+
+
+          </div>
+        </div>
+      </div>
+
+      
+      <a href="javascript://right" class="next">&raquo;</a>
+      
+
+      <div class="clear"></div>
+
+      <style type="text/css">
+        #WeekByWeek .thisweek {
+          border-top: 2px dotted #DFEBEB;
+          margin-right: -9px;
+          text-align: left;
+          padding-left: 48px;
+          padding-top:10px;
+          padding-bottom:10px;
+        }
+        #WeekByWeek .thisweek p, #WeekByWeek .thisweek p a{
+          margin:0;
+          font-size:14px;
+          color:#000000;
+          font-family: Georgia, 'Times New Roman', serif;
+        }
+        #WeekByWeek .thisweek p a:hover{
+          color:#777777;
+        }
+        #WeekByWeek .thisweek .issueinfo{
+          color:#777777;
+          font-family: 'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;
+        }
+        #WeekByWeek .thisweek .digEd{
+          margin-top:5px;
+        }
+      </style>
+
+      <div class="thisweek">
+        <p>
+          <a href="https://www.northcoastjournal.com/humboldt/IssueArchives?issue=25874387">
+            In Print This Week: 
+            <span class="issueinfo">
+              Feb  2, 2023 
+              vol XXXIV issue 5
+              <br/>
+              Hospitals Are Struggling to Meet Earthquake Safety Deadline
+            </span>
+          </a>
+        </p>
+        
+          <a class="digEd" href="https://issuu.com/ncjournal/docs/ncj020223-issuu" target="_blank">
+            Digital Edition
+          </a>
+        
+      </div>
+
+      <div class="clear"></div>
+    </div>
+
+    <script type="text/javascript">
+    <!--
+    function WeekByWeeksetUpSlider(componentID, sliderInnerWidth, visibleWidth, sliderItemWidth){
+
+      var startPos = parseInt($(componentID+'innerSlide').getStyle('left'));
+      var scrollBarWidth = jQuery("#"+componentID+" div.sliderScrollBar").width();
+      var scrollMarkerWidth = jQuery("#"+componentID+" div.sliderScrollMarker").width();
+      var slideAmount = (scrollBarWidth - scrollMarkerWidth) / (jQuery("#"+componentID+"innerSlide div.Vignette").length - Math.round(visibleWidth / sliderItemWidth));
+
+      window[componentID+'scrollGuides'] = function (dir){ 
+
+        var currentPos = parseInt($(componentID+'innerSlide').getStyle('left'));
+
+        if (dir=="right" && Math.round((currentPos+sliderInnerWidth-visibleWidth+startPos)/sliderItemWidth) > 0){
+            // move right only if there is more than half a sliderItem's width left
+           new Effect.Parallel([
+             new Effect.Move($(componentID+'innerSlide'), { sync: true,y: 00, x: -sliderItemWidth, mode: 'relative'}),
+             new Effect.Move($$("div#"+componentID+" div.sliderScrollMarker")[0], { sync: true,y: 00, x: slideAmount, mode: 'relative'})
+           ], {
+             duration: 0.1         
+           });
+        } else if (dir=="left" && currentPos < startPos ){
+           new Effect.Parallel([
+             new Effect.Move($(componentID+'innerSlide'), { sync: true,y: 00, x: sliderItemWidth, mode: 'relative'}),
+             new Effect.Move($$("div#"+componentID+" div.sliderScrollMarker")[0], { sync: true,y: 00, x: -slideAmount, mode: 'relative' })
+           ], {
+             duration: 0.1            
+           });
+        }
+
+      }
+
+      Event.observe(document, "dom:loaded", function () {
+        $$("div#"+componentID+" a.prev").invoke("observe","click",function () {
+          window[componentID+'scrollGuides']('left');return false;
+        });
+        $$("div#"+componentID+" a.next").invoke("observe","click",function () {
+          window[componentID+'scrollGuides']('right');return false;
+        });  
+      });
+
+    };
+
+    WeekByWeeksetUpSlider('WeekByWeek',
+                3264,
+                398,
+                136);
+    // -->
+    </script>
+    <!-- End #WeekByWeek-->
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <style type="text/css">
+      div#Guides a, div#Guides a:focus, 
+      div#Guides a:active, div#Guides:focus 
+        {user-focus: none;  outline:expression(hideFocus=true); outline:0; 
+         outline : none; -moz-user-focus: none; -moz-outline: none;}
+      div#Guides .sliderContainer {width:398px;margin-left:0px;}
+      div#Guides .sliderOuter {position:relative;overflow:hidden;width:398px;}
+      div#Guides .sliderInner {position:relative;width:816px;left:-5px;}
+      * html div#Guides .sliderInner {width:818px;} /* for IE6 Win only */
+      div#Guides .sliderMain {position:relative;float:left;width:398px;text-align:center;padding:0px;}
+      div#Guides .vignette {width:126px;float:left;margin:5px;}
+    
+      div#Guides .sliderScrollBar {width:398px;height:4px;background-color:#D9D9D9;overflow:hidden;margin-bottom:5px;}
+      div#Guides .sliderScrollMarker {width:126px;height:4px;background-color:#D2232A;}
+    </style>
+
+    <div id="Guides" class="GlobalFooter BlogPost ">
+      <div class="headerBar">
+        <h2 class="sectionHeader"><a href="https://www.northcoastjournal.com/humboldt/special-sections/Section?oid=2124548">guides</a></h2>
+      </div>
+
+      <div class="sliderScrollBar">
+        <div class="sliderScrollMarker">
+        </div>
+      </div>
+
+      
+      <a href="javascript://Left" class="prev">&laquo;</a>
+      
+
+      <div class="sliderContainer">
+        <div class="sliderOuter">
+          <div id="GuidesinnerSlide" class="sliderInner">
+  
+
+  
+
+  
+       
+           
+              <div class="vignette" id="Guides-vignette-1">
+          <a href="https://www.humboldtinsider.com/humboldt/IssueArchives?issue=25335764" class="no-foundation-imgeditor">
+            <img src="/imager/b/homecoverslider/25335764/a204/Humboldt_Insider-01.jpg" 
+              alt="Fall/Winter 2022"
+              title="Fall/Winter 2022"
+              width="124"
+              srcset="/imager/b/homecoverslider2x/25335764/a204/Humboldt_Insider-01.jpg 1.5x, /imager/b/homecoverslider3x/25335764/a204/Humboldt_Insider-01.jpg 2.5x" />
+          </a>
+        <div class="clear"></div>
+      </div>   
+              
+              
+
+            
+            <div class="vignette" id="Guides-vignette-1">
+              
+                <a class="coverImg" href="https://www.northcoastjournal.com/humboldt/humboldt-cannabis-magazine/Category?oid=18750375">
+              
+
+                
+                  
+                  <img src="https://media1.fdncms.com/northcoast/imager/u/homecoverslider/22997537/hc22-cover.jpg"
+                       width="124"
+                       height="165"
+                       alt=""
+                       srcset="" />
+                
+              </a>
+              <div class="clear"></div>
+            </div>
+            
+            
+
+  
+
+  
+
+
+
+  
+
+  
+       
+              
+
+            
+            <div class="vignette" id="Guides-vignette-1">
+              
+                <a class="coverImg" href="https://www.northcoastjournal.com/humboldt/wedding-guide-2022/Content?oid=22997550">
+              
+
+                
+                  
+                  <img src="https://media1.fdncms.com/northcoast/imager/u/homecoverslider/22997549/wg22-cover.jpg"
+                       width="124"
+                       height="124"
+                       alt=""
+                       srcset="" />
+
+                
+              </a>
+              <div class="clear"></div>
+            </div>
+            
+            
+
+  
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+  
+
+  
+       
+              
+
+            
+            <div class="vignette" id="Guides-vignette-1">
+              
+                <a class="coverImg" href="https://www.northcoastjournal.com/humboldt/2022-north-coast-open-studios/Content?oid=23714688">
+              
+
+                
+                  
+                  <img src="https://media2.fdncms.com/northcoast/imager/u/homecoverslider/23714687/ncos22-cover.jpg"
+                       width="124"
+                       height="158"
+                       alt=""
+                       srcset="" />
+
+                
+              </a>
+              <div class="clear"></div>
+            </div>
+            
+            
+
+  
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+  
+
+  
+       
+              
+
+            
+            <div class="vignette" id="Guides-vignette-1">
+              
+                <a class="coverImg" href="https://www.northcoastjournal.com/humboldt/promotions/Category?oid=20107479">
+              
+
+                
+                  
+                  <img src="https://media1.fdncms.com/northcoast/imager/u/homecoverslider/23114942/promotions-0a61d440d9524b90.jpg"
+                       width="124"
+                       height="54"
+                       alt=""
+                       srcset="" />
+                
+              </a>
+              <div class="clear"></div>
+            </div>
+            
+            
+
+  
+
+  
+
+
+
+  
+
+  
+       
+              
+
+            
+            <div class="vignette" id="Guides-vignette-1">
+              
+                <a class="coverImg" href="https://www.northcoastjournal.com/humboldt/2022-holiday-gift-guide/Content?oid=25266971">
+              
+
+                
+                  
+                  <img src="https://media2.fdncms.com/northcoast/imager/u/homecoverslider/25266970/giftguide.jpg"
+                       width="124"
+                       height="58"
+                       alt=""
+                       srcset="" />
+                
+              </a>
+              <div class="clear"></div>
+            </div>
+            
+            
+
+  
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+          </div>
+        </div>
+      </div>
+
+      
+      <a href="javascript://right" class="next">&raquo;</a>
+      
+
+      <div class="clear"></div>
+    </div>
+
+    <script type="text/javascript">
+    <!--
+    function GuidessetUpSlider(componentID, sliderInnerWidth, visibleWidth, sliderItemWidth){
+
+      var startPos = parseInt($(componentID+'innerSlide').getStyle('left'));
+      var scrollBarWidth = jQuery("#"+componentID+" div.sliderScrollBar").width();
+      var scrollMarkerWidth = jQuery("#"+componentID+" div.sliderScrollMarker").width();
+      var slideAmount = (scrollBarWidth - scrollMarkerWidth) / (jQuery("#"+componentID+"innerSlide div.vignette").length - Math.round(visibleWidth / sliderItemWidth));
+
+      window[componentID+'scrollGuides'] = function (dir){ 
+
+        var currentPos = parseInt($(componentID+'innerSlide').getStyle('left'));
+
+        if (dir=="right" && Math.round((currentPos+sliderInnerWidth-visibleWidth+startPos)/sliderItemWidth) > 0){
+            // move right only if there is more than half a sliderItem's width left
+           new Effect.Parallel([
+             new Effect.Move($(componentID+'innerSlide'), { sync: true,y: 00, x: -sliderItemWidth, mode: 'relative'}),
+             new Effect.Move($$("div#"+componentID+" div.sliderScrollMarker")[0], { sync: true,y: 00, x: slideAmount, mode: 'relative'})
+           ], {
+             duration: 0.1         
+           });
+        } else if (dir=="left" && currentPos < startPos ){
+           new Effect.Parallel([
+             new Effect.Move($(componentID+'innerSlide'), { sync: true,y: 00, x: sliderItemWidth, mode: 'relative'}),
+             new Effect.Move($$("div#"+componentID+" div.sliderScrollMarker")[0], { sync: true,y: 00, x: -slideAmount, mode: 'relative' })
+           ], {
+             duration: 0.1            
+           });
+        }
+
+      }
+
+      Event.observe(document, "dom:loaded", function () {
+        $$("div#"+componentID+" a.prev").invoke("observe","click",function () {
+          window[componentID+'scrollGuides']('left');return false;
+        });
+        $$("div#"+componentID+" a.next").invoke("observe","click",function () {
+          window[componentID+'scrollGuides']('right');return false;
+        });  
+      });
+
+    };
+
+    GuidessetUpSlider('Guides',
+                816,
+                398,
+                136);
+    // -->
+    </script>
+    <!-- End #Guides-->
+  
+
+
+
+    <div id="FooterNavigation" class="GlobalFooter BlogPost ">
+      <ul>
+  
+  
+  <li class="">
+    <a href="https://www.northcoastjournal.com/humboldt/About/Page" target="_self">
+      
+        About
+      
+    </a>
+    
+    
+      <span>|</span>
+    
+  </li> 
+  
+
+  
+  <li class="">
+    <a href="https://www.northcoastjournal.com/humboldt/ContactUs/Page" target="_self">
+      
+        Contact Us
+      
+    </a>
+    
+    
+      <span>|</span>
+    
+  </li> 
+  
+
+  
+  <li class="">
+    <a href="mailto:editor@northcoastjournal.com" target="_self">
+      
+        Submit a News Tip
+      
+    </a>
+    
+    
+      <span>|</span>
+    
+  </li> 
+  
+
+  
+  <li class="">
+    <a href="https://www.northcoastjournal.com/humboldt/IssueArchives" target="_self">
+      
+        Archives
+      
+    </a>
+    
+    
+      <span>|</span>
+    
+  </li> 
+  
+
+  
+  <li class="">
+    <a href="https://www.northcoastjournal.com/humboldt/Advertise/Page" target="_self">
+      
+        Advertise
+      
+    </a>
+    
+    
+      <span>|</span>
+    
+  </li> 
+  
+
+  
+  <li class="">
+    <a href="https://www.northcoastjournal.com/humboldt/Subscribe/Page" target="_self">
+      
+        Subscribe
+      
+    </a>
+    
+    
+      <span>|</span>
+    
+  </li> 
+  
+
+  
+  <li class="">
+    <a href="https://www.northcoastjournal.com/humboldt/WritersGuidelines/Page" target="_self">
+      
+        Writer's Guidelines
+      
+    </a>
+    
+    
+      <span>|</span>
+    
+  </li> 
+  
+
+  
+  <li class="">
+    <a href="https://www.northcoastjournal.com/humboldt/PrivacyPolicy/Page" target="_self">
+      
+        Privacy Policy
+      
+    </a>
+    
+    
+  </li> 
+  
+
+      </ul>
+    </div>
+  
+
+
+
+
+
+<div id="footerCopyright">
+  <p>
+   &copy; 2023
+   North Coast Journal 
+   <br><br>
+   Website powered by <a href="https://www.publishwithfoundation.com/" target="_blank">Foundation</a>
+  </p>
+</div>
+
+
+  
+    <!-- 
+     ======================================
+     NORTHCOAST JOURNAL  STATS TRACKING CODE 
+     ======================================
+     -->
+
+    <!-- QUANTCAST -->
+
+    <script type="text/javascript">
+    _qoptions={qacct:"p-7apeS9pNVYMQo"};
+    </script>
+    <script type="text/javascript" src="https://edge.quantserve.com/quant.js"></script>
+    <noscript><div><img src="https://pixel.quantserve.com/pixel/p-7apeS9pNVYMQo.gif" style="display: none; border: 0px; height: 1px; width: 1px;" alt="Quantcast"/></div></noscript>
+
+
+    <!-- GOOGLE ANALYTICS -->
+    
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-4670010-2', 'northcoastjournal.com');
+
+      
+      
+        ga('set', 'contentGroup1', 'Print');
+      
+
+      ga('send', 'pageview');
+    </script>
+    
+      
+
+<!-- END STATS TRACKING CODES -->
+
+
+
+  <img src="/foundation/images/icons/pixel.gif?oid=18425387" alt="" />
+
+
+    </div><!-- end gridFooter -->
+
+  </div><!-- end gridMain -->
+
+</div><!-- end gridClamp -->
+
+<!-- Closer -->
+<div id="gridCloser">
+  
+
+
+
+<div id="BackgroundAd" class="Closer BlogPost ">
+  
+  <style>
+    div#gridClamp {z-index:1; position:relative; background-color:white; padding-left:0; padding-right:0;}
+    div#BackgroundAd {position:fixed; top:-10px; left:50%; width:1590px; margin:0 auto;}
+    div#BackgroundAd .adWrapper {display:block; z-index: 0; margin:0 0 0 -50%;}
+  </style>
+
+  
+  <div class="adWrapper">
+    <!-- /1046892/web_skin -->
+          <div id="div-gpt-ad-web_skin" style="" data-content-type="ad" data-slot="/1046892/web_skin" data-output="asynchronous" data-width="1590" data-height="600">
+              <script type='text/javascript'>
+                googletag.cmd.push(function() {
+                  googletag.display('div-gpt-ad-web_skin');
+                });
+              </script>
+          </div>
+  </div>
+</div>
+
+
+
+
+  <!-- #northcoast no component output for northcoast -->
+
+  <!-- #northcoast no component output for northcoast -->
+
+</div><!-- end gridCloser -->
+    </body>
+</html>
+  
+
+

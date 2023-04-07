@@ -1,0 +1,1074 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html lang="en-US" class="no-js ie6"> <![endif]-->
+<!--[if IE 7]>    <html lang="en-US" class="no-js ie7"> <![endif]-->
+<!--[if IE 8]>    <html lang="en-US" class="no-js ie8"> <![endif]-->
+<!--[if IE 9]>    <html lang="en-US" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en-US" class="no-js"> <!--<![endif]-->
+<head><script data-no-optimize="1">var litespeed_docref=sessionStorage.getItem("litespeed_docref");litespeed_docref&&(Object.defineProperty(document,"referrer",{get:function(){return litespeed_docref}}),sessionStorage.removeItem("litespeed_docref"));</script>
+<style id="" media="all">/* vietnamese */
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/josefinsans/v25/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjQbMlhLybpUVzEEaq2.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/josefinsans/v25/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjQbMhhLybpUVzEEaq2.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/josefinsans/v25/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjQbMZhLybpUVzEEQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUtiZSSUhiCXABTV.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUJiZSSUhiCXABTV.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUliZSSUhiCXABTV.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUhiZSSUhiCXABTV.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiZSSUhiCXAA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu72xKKTU1Kvnz.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxKKTU1Kvnz.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7mxKKTU1Kvnz.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4WxKKTU1Kvnz.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7WxKKTU1Kvnz.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7GxKKTU1Kvnz.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+</style>
+<script src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" defer data-deferred="1"></script>
+<script src="data:text/javascript;base64,KGFkc2J5Z29vZ2xlPXdpbmRvdy5hZHNieWdvb2dsZXx8W10pLnB1c2goe2dvb2dsZV9hZF9jbGllbnQ6ImNhLXB1Yi0zMDU3NDUxNzM2NTc2MzM1IixlbmFibGVfcGFnZV9sZXZlbF9hZHM6ITB9KQ==" defer></script>
+<meta name="google-site-verification" content="JH747qvihYfCLMAhl3_ajUANMbGpb5h7XbuotKZorRQ" />
+<meta name="google-site-verification" content="S0x4cgaY9fKrtguUegqjdN_FRD0pVnIWDbMDYw6u5eA" />
+<meta name="google-site-verification" content="eiCgNixAzZIPEyBsKAH6g-U-19QEDZGrZ6J15fzTGuY" />
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<title>
+		&quot;East Fire&quot; in Little Lake Valley under control at one acre in size -- evacuation cancelled (updated 5:10 pm) &bull; The Mendocino Voice | Mendocino County, CAThe Mendocino Voice | Mendocino County, CA	</title>
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://mendovoice.com/xmlrpc.php" />
+<script src="data:text/javascript;base64,ZnVuY3Rpb24gd2hpY2hIZWFkZXIoKXt2YXIgc2NyZWVuV2lkdGg9ZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50LmNsaWVudFdpZHRoLGhlYWRlcl9pbWc7aWYoc2NyZWVuV2lkdGg8PTc2Nyl7aGVhZGVyX2ltZz0naHR0cHM6Ly9tZW5kb3ZvaWNlLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxOC8wNi9Kb3NlZmluLU1hc3RoZWFkLTc2OC5wbmcnfWVsc2UgaWYoc2NyZWVuV2lkdGg+NzY3JiZzY3JlZW5XaWR0aDw9OTc5KXtoZWFkZXJfaW1nPSdodHRwczovL21lbmRvdm9pY2UuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE4LzA2L0pvc2VmaW4tTWFzdGhlYWQtOTgwLTEucG5nJ31lbHNle2hlYWRlcl9pbWc9J2h0dHBzOi8vbWVuZG92b2ljZS5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTgvMDYvMjB0aC1jZW50dXJ5LU1hc3RoZWFkLUF1dHVtbi0yMDE5LWNvbG9ycy02LTIucG5nJ30KcmV0dXJuIGhlYWRlcl9pbWd9CnZhciBiYW5uZXJfaW1nX3NyYz13aGljaEhlYWRlcigp" defer></script>
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+<title>&quot;East Fire&quot; in Little Lake Valley under control at one acre in size -- evacuation cancelled (updated 5:10 pm) &bull; The Mendocino Voice | Mendocino County, CA</title>
+<meta name="description" content="An air response is under way as well." />
+<link rel="canonical" href="https://mendovoice.com/2019/10/firefighters-responding-to-small-vegetation-fire-in-little-lake-valley-spread-into-structure/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="&quot;East Fire&quot; in Little Lake Valley under control at one acre in size -- evacuation cancelled (updated 5:10 pm) &bull; The Mendocino Voice | Mendocino County, CA" />
+<meta property="og:description" content="An air response is under way as well." />
+<meta property="og:url" content="https://mendovoice.com/2019/10/firefighters-responding-to-small-vegetation-fire-in-little-lake-valley-spread-into-structure/" />
+<meta property="og:site_name" content="The Mendocino Voice | Mendocino County, CA" />
+<meta property="article:publisher" content="https://www.facebook.com/MendoVoice/" />
+<meta property="article:published_time" content="2019-10-28T22:37:39+00:00" />
+<meta property="article:modified_time" content="2019-10-29T05:47:13+00:00" />
+<meta property="og:image" content="https://mendovoice.com/wp-content/uploads/2018/06/IMG_20180629_010643.jpg" />
+<meta property="og:image:width" content="1000" />
+<meta property="og:image:height" content="600" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta name="author" content="Kate B. Maxwell, Adrian Fernandez Baumann" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@TheMendoVoice" />
+<meta name="twitter:site" content="@TheMendoVoice" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"NewsArticle","@id":"https://mendovoice.com/2019/10/firefighters-responding-to-small-vegetation-fire-in-little-lake-valley-spread-into-structure/#article","isPartOf":{"@id":"https://mendovoice.com/2019/10/firefighters-responding-to-small-vegetation-fire-in-little-lake-valley-spread-into-structure/"},"author":[{"@id":"https://mendovoice.com/#/schema/person/4f91d8821a0cf7b9a59b393ee0fa9c3d"},{"@id":"https://mendovoice.com/#/schema/person/e097e66475d598d30d53ea06c6d84dbe"}],"headline":"&#8220;East Fire&#8221; in Little Lake Valley under control at one acre in size &#8212; evacuation cancelled (updated 5:10 pm)","datePublished":"2019-10-28T22:37:39+00:00","dateModified":"2019-10-29T05:47:13+00:00","mainEntityOfPage":{"@id":"https://mendovoice.com/2019/10/firefighters-responding-to-small-vegetation-fire-in-little-lake-valley-spread-into-structure/"},"wordCount":568,"commentCount":0,"publisher":{"@id":"https://mendovoice.com/#organization"},"image":{"@id":"https://mendovoice.com/2019/10/firefighters-responding-to-small-vegetation-fire-in-little-lake-valley-spread-into-structure/#primaryimage"},"thumbnailUrl":"https://mendovoice.com/wp-content/uploads/2018/06/IMG_20180629_010643.jpg","keywords":["Little Lake Fire Department","MCSO","Willits"],"articleSection":["Fire &amp; Emergency"],"inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://mendovoice.com/2019/10/firefighters-responding-to-small-vegetation-fire-in-little-lake-valley-spread-into-structure/#respond"]}]},{"@type":"WebPage","@id":"https://mendovoice.com/2019/10/firefighters-responding-to-small-vegetation-fire-in-little-lake-valley-spread-into-structure/","url":"https://mendovoice.com/2019/10/firefighters-responding-to-small-vegetation-fire-in-little-lake-valley-spread-into-structure/","name":"\"East Fire\" in Little Lake Valley under control at one acre in size -- evacuation cancelled (updated 5:10 pm) &bull; The Mendocino Voice | Mendocino County, CA","isPartOf":{"@id":"https://mendovoice.com/#website"},"primaryImageOfPage":{"@id":"https://mendovoice.com/2019/10/firefighters-responding-to-small-vegetation-fire-in-little-lake-valley-spread-into-structure/#primaryimage"},"image":{"@id":"https://mendovoice.com/2019/10/firefighters-responding-to-small-vegetation-fire-in-little-lake-valley-spread-into-structure/#primaryimage"},"thumbnailUrl":"https://mendovoice.com/wp-content/uploads/2018/06/IMG_20180629_010643.jpg","datePublished":"2019-10-28T22:37:39+00:00","dateModified":"2019-10-29T05:47:13+00:00","description":"An air response is under way as well.","breadcrumb":{"@id":"https://mendovoice.com/2019/10/firefighters-responding-to-small-vegetation-fire-in-little-lake-valley-spread-into-structure/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://mendovoice.com/2019/10/firefighters-responding-to-small-vegetation-fire-in-little-lake-valley-spread-into-structure/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://mendovoice.com/2019/10/firefighters-responding-to-small-vegetation-fire-in-little-lake-valley-spread-into-structure/#primaryimage","url":"https://mendovoice.com/wp-content/uploads/2018/06/IMG_20180629_010643.jpg","contentUrl":"https://mendovoice.com/wp-content/uploads/2018/06/IMG_20180629_010643.jpg","width":1000,"height":600,"caption":"Mendocino Voice fire graphic."},{"@type":"BreadcrumbList","@id":"https://mendovoice.com/2019/10/firefighters-responding-to-small-vegetation-fire-in-little-lake-valley-spread-into-structure/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://mendovoice.com/"},{"@type":"ListItem","position":2,"name":"&#8220;East Fire&#8221; in Little Lake Valley under control at one acre in size &#8212; evacuation cancelled (updated 5:10 pm)"}]},{"@type":"WebSite","@id":"https://mendovoice.com/#website","url":"https://mendovoice.com/","name":"The Mendocino Voice | Mendocino County, CA","description":"Useful news, for all of Mendocino County, CA","publisher":{"@id":"https://mendovoice.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://mendovoice.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://mendovoice.com/#organization","name":"The Mendocino Voice","url":"https://mendovoice.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://mendovoice.com/#/schema/logo/image/","url":"https://mendovoice.com/wp-content/uploads/2018/02/Favicon-Prime.png","contentUrl":"https://mendovoice.com/wp-content/uploads/2018/02/Favicon-Prime.png","width":152,"height":152,"caption":"The Mendocino Voice"},"image":{"@id":"https://mendovoice.com/#/schema/logo/image/"},"sameAs":["https://www.instagram.com/mendovoice/","https://www.youtube.com/channel/UCPLFjE2By4eiUwyRRkt5gRw","https://www.facebook.com/MendoVoice/","https://twitter.com/TheMendoVoice"]},{"@type":"Person","@id":"https://mendovoice.com/#/schema/person/4f91d8821a0cf7b9a59b393ee0fa9c3d","name":"Kate B. Maxwell","description":"Kate Maxwell is the publisher and a founder of The Mendocino Voice. She lives inland but goes to the ocean as much as possible.","url":"https://mendovoice.com/author/katemaxwell/"},{"@type":"Person","@id":"https://mendovoice.com/#/schema/person/e097e66475d598d30d53ea06c6d84dbe","name":"Adrian Fernandez Baumann","description":"Adrian Fernandez Baumann is the managing editor of The Mendocino Voice and a founder. He lives in the Willits area and has a dog named Bravo.","url":"https://mendovoice.com/author/adrianfernandezbaumann/"}]}</script>
+
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel="alternate" type="application/rss+xml" title="The Mendocino Voice | Mendocino County, CA &raquo; Feed" href="https://mendovoice.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Mendocino Voice | Mendocino County, CA &raquo; Comments Feed" href="https://mendovoice.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Mendocino Voice | Mendocino County, CA &raquo; &#8220;East Fire&#8221; in Little Lake Valley under control at one acre in size &#8212; evacuation cancelled (updated 5:10 pm) Comments Feed" href="https://mendovoice.com/2019/10/firefighters-responding-to-small-vegetation-fire-in-little-lake-valley-spread-into-structure/feed/" />
+<script id="mendo-ready" src="data:text/javascript;base64,d2luZG93LmFkdmFuY2VkX2Fkc19yZWFkeT1mdW5jdGlvbihlLGEpe2E9YXx8ImNvbXBsZXRlIjt2YXIgZD1mdW5jdGlvbihlKXtyZXR1cm4iaW50ZXJhY3RpdmUiPT09YT8ibG9hZGluZyIhPT1lOiJjb21wbGV0ZSI9PT1lfTtkKGRvY3VtZW50LnJlYWR5U3RhdGUpP2UoKTpkb2N1bWVudC5hZGRFdmVudExpc3RlbmVyKCJyZWFkeXN0YXRlY2hhbmdlIiwoZnVuY3Rpb24oYSl7ZChhLnRhcmdldC5yZWFkeVN0YXRlKSYmZSgpfSkse29uY2U6ImludGVyYWN0aXZlIj09PWF9KX0sd2luZG93LmFkdmFuY2VkX2Fkc19yZWFkeV9xdWV1ZT13aW5kb3cuYWR2YW5jZWRfYWRzX3JlYWR5X3F1ZXVlfHxbXQ==" defer></script>
+<link rel='stylesheet' id='wp-block-library-css' href='https://mendovoice.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='mediaelement-css' href='https://mendovoice.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://mendovoice.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='awsm-ead-public-css' href='https://mendovoice.com/wp-content/plugins/embed-any-document/css/embed-public.min.css?ver=2.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://mendovoice.com/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='widgetopts-styles-css' href='https://mendovoice.com/wp-content/plugins/widget-options/assets/css/widget-options.css' type='text/css' media='all' />
+<link rel='stylesheet' id='largo-stylesheet-css' href='https://mendovoice.com/wp-content/themes/largo-0.5.5.4/css/style.min.css?ver=0.5.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='navis-slick-css' href='https://mendovoice.com/wp-content/themes/largo-0.5.5.4/lib/navis-slideshows/vendor/slick/slick.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='navis-slides-css' href='https://mendovoice.com/wp-content/themes/largo-0.5.5.4/lib/navis-slideshows/css/slides.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='your-theme-css' href='https://mendovoice.com/wp-content/themes/Largo-Sample-Child-Theme-master/css/child.min.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='social-logos-css' href='https://mendovoice.com/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=11.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css' href='https://mendovoice.com/wp-content/plugins/jetpack/css/jetpack.css?ver=11.7.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://mendovoice.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://mendovoice.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js' defer data-deferred="1"></script>
+<script type='text/javascript' src='https://mendovoice.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js' defer data-deferred="1"></script>
+<script type='text/javascript' src='https://mendovoice.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js' defer data-deferred="1"></script>
+<script type='text/javascript' src='https://mendovoice.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js' defer data-deferred="1"></script>
+<script type='text/javascript' src='https://mendovoice.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js' defer data-deferred="1"></script>
+<script type='text/javascript' id='wp-i18n-js-after' src="data:text/javascript;base64,d3AuaTE4bi5zZXRMb2NhbGVEYXRhKHsndGV4dCBkaXJlY3Rpb25cdTAwMDRsdHInOlsnbHRyJ119KQ==" defer></script>
+<script type='text/javascript' src='https://mendovoice.com/wp-content/plugins/jetpack-protect/jetpack_vendor/automattic/jetpack-assets/build/i18n-loader.js?minify=true&#038;ver=e69db286c9c94bd98790' id='wp-jp-i18n-loader-js' defer data-deferred="1"></script>
+<script type='text/javascript' id='wp-jp-i18n-loader-js-after' src="data:text/javascript;base64,d3AuanBJMThuTG9hZGVyLnN0YXRlPXsiYmFzZVVybCI6Imh0dHBzOi8vbWVuZG92b2ljZS5jb20vd3AtY29udGVudC9sYW5ndWFnZXMvIiwibG9jYWxlIjoiZW5fVVMiLCJkb21haW5NYXAiOnsiamV0cGFjay1hZG1pbi11aSI6InBsdWdpbnMvamV0cGFjay1wcm90ZWN0IiwiamV0cGFjay1hc3NldHMiOiJwbHVnaW5zL2pldHBhY2stcHJvdGVjdCIsImpldHBhY2stY29uZmlnIjoicGx1Z2lucy9qZXRwYWNrIiwiamV0cGFjay1jb25uZWN0aW9uIjoicGx1Z2lucy9qZXRwYWNrIiwiamV0cGFjay1pZGMiOiJwbHVnaW5zL2pldHBhY2stcHJvdGVjdCIsImpldHBhY2staml0bSI6InBsdWdpbnMvamV0cGFjayIsImpldHBhY2stbGljZW5zaW5nIjoicGx1Z2lucy9qZXRwYWNrLXByb3RlY3QiLCJqZXRwYWNrLW15LWpldHBhY2siOiJwbHVnaW5zL2pldHBhY2siLCJqZXRwYWNrLXBhc3N3b3JkLWNoZWNrZXIiOiJwbHVnaW5zL2pldHBhY2stcHJvdGVjdCIsImpldHBhY2stcGx1Z2lucy1pbnN0YWxsZXIiOiJwbHVnaW5zL2pldHBhY2stcHJvdGVjdCIsImpldHBhY2stc3luYyI6InBsdWdpbnMvamV0cGFjayIsImpldHBhY2stdHJhbnNwb3J0LWhlbHBlciI6InBsdWdpbnMvamV0cGFjay1wcm90ZWN0IiwiamV0cGFjay13YWYiOiJwbHVnaW5zL2pldHBhY2stcHJvdGVjdCIsImpldHBhY2stYWN0aW9uLWJhciI6InBsdWdpbnMvamV0cGFjayIsImpldHBhY2stYmFja3VwLXBrZyI6InBsdWdpbnMvamV0cGFjayIsImpldHBhY2stYmxhemUiOiJwbHVnaW5zL2pldHBhY2siLCJqZXRwYWNrLWNvbXBhdCI6InBsdWdpbnMvamV0cGFjayIsImpldHBhY2stZ29vZ2xlLWZvbnRzLXByb3ZpZGVyIjoicGx1Z2lucy9qZXRwYWNrIiwiamV0cGFjay1sYXp5LWltYWdlcyI6InBsdWdpbnMvamV0cGFjayIsImpldHBhY2stcG9zdC1saXN0IjoicGx1Z2lucy9qZXRwYWNrIiwiamV0cGFjay1wdWJsaWNpemUtcGtnIjoicGx1Z2lucy9qZXRwYWNrIiwiamV0cGFjay1zZWFyY2gtcGtnIjoicGx1Z2lucy9qZXRwYWNrIiwiamV0cGFjay1zdGF0cyI6InBsdWdpbnMvamV0cGFjayIsImpldHBhY2stc3RhdHMtYWRtaW4iOiJwbHVnaW5zL2pldHBhY2siLCJqZXRwYWNrLXZpZGVvcHJlc3MtcGtnIjoicGx1Z2lucy9qZXRwYWNrIiwiamV0cGFjay13b3JkYWRzIjoicGx1Z2lucy9qZXRwYWNrIn0sImRvbWFpblBhdGhzIjp7ImpldHBhY2stYWRtaW4tdWkiOiJqZXRwYWNrX3ZlbmRvci9hdXRvbWF0dGljL2pldHBhY2stYWRtaW4tdWkvIiwiamV0cGFjay1hc3NldHMiOiJqZXRwYWNrX3ZlbmRvci9hdXRvbWF0dGljL2pldHBhY2stYXNzZXRzLyIsImpldHBhY2stY29uZmlnIjoiamV0cGFja192ZW5kb3IvYXV0b21hdHRpYy9qZXRwYWNrLWNvbmZpZy8iLCJqZXRwYWNrLWNvbm5lY3Rpb24iOiJqZXRwYWNrX3ZlbmRvci9hdXRvbWF0dGljL2pldHBhY2stY29ubmVjdGlvbi8iLCJqZXRwYWNrLWlkYyI6ImpldHBhY2tfdmVuZG9yL2F1dG9tYXR0aWMvamV0cGFjay1pZGVudGl0eS1jcmlzaXMvIiwiamV0cGFjay1qaXRtIjoiamV0cGFja192ZW5kb3IvYXV0b21hdHRpYy9qZXRwYWNrLWppdG0vIiwiamV0cGFjay1saWNlbnNpbmciOiJqZXRwYWNrX3ZlbmRvci9hdXRvbWF0dGljL2pldHBhY2stbGljZW5zaW5nLyIsImpldHBhY2stbXktamV0cGFjayI6ImpldHBhY2tfdmVuZG9yL2F1dG9tYXR0aWMvamV0cGFjay1teS1qZXRwYWNrLyIsImpldHBhY2stcGFzc3dvcmQtY2hlY2tlciI6ImpldHBhY2tfdmVuZG9yL2F1dG9tYXR0aWMvamV0cGFjay1wYXNzd29yZC1jaGVja2VyLyIsImpldHBhY2stcGx1Z2lucy1pbnN0YWxsZXIiOiJqZXRwYWNrX3ZlbmRvci9hdXRvbWF0dGljL2pldHBhY2stcGx1Z2lucy1pbnN0YWxsZXIvIiwiamV0cGFjay1zeW5jIjoiamV0cGFja192ZW5kb3IvYXV0b21hdHRpYy9qZXRwYWNrLXN5bmMvIiwiamV0cGFjay10cmFuc3BvcnQtaGVscGVyIjoiamV0cGFja192ZW5kb3IvYXV0b21hdHRpYy9qZXRwYWNrLXRyYW5zcG9ydC1oZWxwZXIvIiwiamV0cGFjay13YWYiOiJqZXRwYWNrX3ZlbmRvci9hdXRvbWF0dGljL2pldHBhY2std2FmLyIsImpldHBhY2stYWN0aW9uLWJhciI6ImpldHBhY2tfdmVuZG9yL2F1dG9tYXR0aWMvamV0cGFjay1hY3Rpb24tYmFyLyIsImpldHBhY2stYmFja3VwLXBrZyI6ImpldHBhY2tfdmVuZG9yL2F1dG9tYXR0aWMvamV0cGFjay1iYWNrdXAvIiwiamV0cGFjay1ibGF6ZSI6ImpldHBhY2tfdmVuZG9yL2F1dG9tYXR0aWMvamV0cGFjay1ibGF6ZS8iLCJqZXRwYWNrLWNvbXBhdCI6ImpldHBhY2tfdmVuZG9yL2F1dG9tYXR0aWMvamV0cGFjay1jb21wYXQvIiwiamV0cGFjay1nb29nbGUtZm9udHMtcHJvdmlkZXIiOiJqZXRwYWNrX3ZlbmRvci9hdXRvbWF0dGljL2pldHBhY2stZ29vZ2xlLWZvbnRzLXByb3ZpZGVyLyIsImpldHBhY2stbGF6eS1pbWFnZXMiOiJqZXRwYWNrX3ZlbmRvci9hdXRvbWF0dGljL2pldHBhY2stbGF6eS1pbWFnZXMvIiwiamV0cGFjay1wb3N0LWxpc3QiOiJqZXRwYWNrX3ZlbmRvci9hdXRvbWF0dGljL2pldHBhY2stcG9zdC1saXN0LyIsImpldHBhY2stcHVibGljaXplLXBrZyI6ImpldHBhY2tfdmVuZG9yL2F1dG9tYXR0aWMvamV0cGFjay1wdWJsaWNpemUvIiwiamV0cGFjay1zZWFyY2gtcGtnIjoiamV0cGFja192ZW5kb3IvYXV0b21hdHRpYy9qZXRwYWNrLXNlYXJjaC8iLCJqZXRwYWNrLXN0YXRzIjoiamV0cGFja192ZW5kb3IvYXV0b21hdHRpYy9qZXRwYWNrLXN0YXRzLyIsImpldHBhY2stc3RhdHMtYWRtaW4iOiJqZXRwYWNrX3ZlbmRvci9hdXRvbWF0dGljL2pldHBhY2stc3RhdHMtYWRtaW4vIiwiamV0cGFjay12aWRlb3ByZXNzLXBrZyI6ImpldHBhY2tfdmVuZG9yL2F1dG9tYXR0aWMvamV0cGFjay12aWRlb3ByZXNzLyIsImpldHBhY2std29yZGFkcyI6ImpldHBhY2tfdmVuZG9yL2F1dG9tYXR0aWMvamV0cGFjay13b3JkYWRzLyJ9fQ==" defer></script>
+<script type='text/javascript' id='advanced-ads-advanced-js-js-extra' src="data:text/javascript;base64,dmFyIGFkdmFkc19vcHRpb25zPXsiYmxvZ19pZCI6IjEiLCJwcml2YWN5Ijp7ImVuYWJsZWQiOiExLCJzdGF0ZSI6Im5vdF9uZWVkZWQifX0=" defer></script>
+<script type='text/javascript' src='https://mendovoice.com/wp-content/plugins/advanced-ads/public/assets/js/advanced.min.js?ver=1.39.4' id='advanced-ads-advanced-js-js' defer data-deferred="1"></script>
+<script type='text/javascript' src='https://mendovoice.com/wp-content/themes/largo-0.5.5.4/js/load-more-posts.min.js?ver=0.5.5.4' id='load-more-posts-js' defer data-deferred="1"></script>
+<script type='text/javascript' src='https://mendovoice.com/wp-content/themes/largo-0.5.5.4/js/modernizr.custom.js?ver=0.5.5.4' id='largo-modernizr-js' defer data-deferred="1"></script>
+
+<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-83666118-1' id='google_gtagjs-js' defer data-deferred="1"></script>
+<script type='text/javascript' id='google_gtagjs-js-after' src="data:text/javascript;base64,d2luZG93LmRhdGFMYXllcj13aW5kb3cuZGF0YUxheWVyfHxbXTtmdW5jdGlvbiBndGFnKCl7ZGF0YUxheWVyLnB1c2goYXJndW1lbnRzKX0KZ3RhZygnc2V0JywnbGlua2VyJyx7ImRvbWFpbnMiOlsibWVuZG92b2ljZS5jb20iXX0pO2d0YWcoImpzIixuZXcgRGF0ZSgpKTtndGFnKCJzZXQiLCJkZXZlbG9wZXJfaWQuZFpUTmlNVCIsITApO2d0YWcoImNvbmZpZyIsIlVBLTgzNjY2MTE4LTEiKTtndGFnKCJjb25maWciLCJHLUU5REQyWlA5NTYiKQ==" defer></script>
+
+<link rel="https://api.w.org/" href="https://mendovoice.com/wp-json/" /><link rel="alternate" type="application/json" href="https://mendovoice.com/wp-json/wp/v2/posts/254761" /><link rel='shortlink' href='https://mendovoice.com/?p=254761' />
+<link rel="alternate" type="application/json+oembed" href="https://mendovoice.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmendovoice.com%2F2019%2F10%2Ffirefighters-responding-to-small-vegetation-fire-in-little-lake-valley-spread-into-structure%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://mendovoice.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmendovoice.com%2F2019%2F10%2Ffirefighters-responding-to-small-vegetation-fire-in-little-lake-valley-spread-into-structure%2F&#038;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.93.0" /> <style>img#wpstats{display:none}</style>
+<script type="text/javascript" src="data:text/javascript;base64,dmFyIGFkdmFkc0NmcFF1ZXVlPVtdO3ZhciBhZHZhZHNDZnBBZD1mdW5jdGlvbihhZElEKXtpZigndW5kZWZpbmVkJz09dHlwZW9mIGFkdmFkc1Byb0NmcCl7YWR2YWRzQ2ZwUXVldWUucHVzaChhZElEKX1lbHNle2FkdmFkc1Byb0NmcC5hZGRFbGVtZW50KGFkSUQpfX0=" defer></script>
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@themendovoice">
+<meta property="og:title" content="&#8220;East Fire&#8221; in Little Lake Valley under control at one acre in size &#8212; evacuation cancelled (updated 5:10 pm)" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://mendovoice.com/2019/10/firefighters-responding-to-small-vegetation-fire-in-little-lake-valley-spread-into-structure/" />
+<meta property="og:description" content="An air response is under way as well." />
+<meta name="description" content="An air response is under way as well." />
+<meta property="og:site_name" content="The Mendocino Voice | Mendocino County, CA" /><meta property="og:image" content="https://mendovoice.com/wp-content/uploads/2018/06/IMG_20180629_010643.jpg" /><link rel="apple-touch-icon" href="https://mendovoice.com/wp-content/uploads/2018/06/Favicon-Autumn-2019-colors-5.jpg" /><link rel="shortcut icon" href="https://mendovoice.com/wp-content/uploads/2018/06/Favicon-Autumn-2019-colors-6.jpg" /><meta name="news_keywords" content="Fire &amp; Emergency, Little Lake Fire Department, MCSO, Willits"><meta name="original-source" content="https://mendovoice.com/2019/10/firefighters-responding-to-small-vegetation-fire-in-little-lake-valley-spread-into-structure/" /><meta name="syndication-source" content="https://mendovoice.com/2019/10/firefighters-responding-to-small-vegetation-fire-in-little-lake-valley-spread-into-structure/" /><meta name="standout" content="https://mendovoice.com/2019/10/firefighters-responding-to-small-vegetation-fire-in-little-lake-valley-spread-into-structure/" /> <script src="data:text/javascript;base64,dmFyIF9nYXE9X2dhcXx8W107X2dhcS5wdXNoKFsibGFyZ28uX3NldEFjY291bnQiLCJVQS0xNzU3ODY3MC00Il0sWyJsYXJnby5fc2V0Q3VzdG9tVmFyIiwxLCJTaXRlTmFtZSIsIlRoZSBNZW5kb2Npbm8gVm9pY2UgfCBNZW5kb2Npbm8gQ291bnR5LCBDQSJdLFsibGFyZ28uX3NldERvbWFpbk5hbWUiLCJtZW5kb3ZvaWNlLmNvbSJdLFsibGFyZ28uX3NldEFsbG93TGlua2VyIiwhMF0sWyJsYXJnby5fdHJhY2tQYWdldmlldyJdKTsoZnVuY3Rpb24oKXt2YXIgZ2E9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7Z2EudHlwZT0ndGV4dC9qYXZhc2NyaXB0JztnYS5hc3luYz0hMDtnYS5zcmM9KCdodHRwczonPT1kb2N1bWVudC5sb2NhdGlvbi5wcm90b2NvbD8naHR0cHM6Ly9zc2wnOidodHRwOi8vd3d3JykrJy5nb29nbGUtYW5hbHl0aWNzLmNvbS9nYS5qcyc7dmFyIHM9ZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ3NjcmlwdCcpWzBdO3MucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoZ2Escyl9KSgp" defer></script>
+<link rel="icon" href="https://mendovoice.com/wp-content/uploads/2018/06/cropped-Favicon-Autumn-2019-colors-5-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://mendovoice.com/wp-content/uploads/2018/06/cropped-Favicon-Autumn-2019-colors-5-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://mendovoice.com/wp-content/uploads/2018/06/cropped-Favicon-Autumn-2019-colors-5-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://mendovoice.com/wp-content/uploads/2018/06/cropped-Favicon-Autumn-2019-colors-5-270x270.jpg" />
+<style type="text/css" id="wp-custom-css">
+			.donate-btn { color: white
+}
+.icon-heart { color: white
+}
+#mc-embedded-subscribe { background-color: #f67c3c !important; }
+#mc-embedded-subscribe:hover { background-color: #efa51e !important; }
+
+h2 a {color: black}
+h3 a {color: black}
+h4 a {color: black}
+h5 a {color: black}
+
+
+h5 img {
+    display: none;
+}
+
+/*
+* — Body Background Color —
+*/
+body {
+	background:#f7f7f7;
+}
+
+.btn.btn-primary {
+
+    margin-bottom: 20px;
+
+}
+
+h2.widget-title.widget-heading {
+    font-size: 17px;
+    line-height: 10px;
+    font-weight: bold;
+    font-family: josefin sans;
+    font-style: italic;
+    margin-bottom: 10px;
+    color: #000;
+    padding-top: 10px;
+}
+
+#homepage-featured .sub-stories p {
+  color: #000;
+	font-size: 14.672px;
+    margin-bottom: 12px;
+}
+#site-header {
+	margin: 0px;
+}
+
+/*
+* — Adjust Homepage Widget Featured Images —
+*/
+
+.widget img.attachment-large, .widget img.attachment-medium {
+    padding: 0 0 .66em;
+    width: 100%;
+		height: 250px
+}
+
+###.home a {
+	color: #000;
+}
+.widget h5 {
+    margin-bottom: .2em;
+    font-size: 15px;
+}
+
+.alert-wrapper {
+    background: 0 0;
+    border: none;
+    margin: 0px;
+}
+#alert-container {
+    padding: 1em 0 0 1em;
+    margin: 0px;
+    background-color: #FFD900;
+}
+
+.alert-wrapper a {
+	color: #2275bb !important;
+}
+
+#site-footer a {
+	color:#fff !important
+}
+
+img.icon_title {
+    float: right;
+}
+.home img.icon_title {
+    display: none;
+}
+
+h1.entry-title, h2 {
+    font-size: 34px;
+}
+
+aside#largo-donate-widget-3 {
+    border: 1px solid #e3e3e3;
+    padding: 20px 20px;
+    background: #f5f5f5;
+	border-top:2px solid #333;
+}
+
+#sidebar .widget {
+    padding: 0 0 0 0px;
+}
+.widgettitle {
+    font-size: 19px;
+}
+.footer-bg {
+    background-color: #2d4e5b;
+}
+
+aside.scaip.scaip-1 {
+    clear: both;
+    margin: auto;
+    width: 50%;
+}
+aside.scaip.scaip-2 {
+    clear: both;
+    margin: auto;
+    width: 50%;
+}
+
+#homepage-featured .top-story p {
+    font-size: 14px;
+    margin-bottom: 12px;
+    font-family: Robot;
+}
+
+h1.entry-title, h2 {
+    font-size: 34px;
+    font-family: Oswald;
+}
+
+
+.stories h2.entry-title {
+    font-size: 32px;
+    margin-bottom: 8px;
+    line-height: 1.1;
+    font-family: oswald;
+}
+
+.stories .entry-content p {
+    font-family: roboto;
+}
+
+/*
+* — Navigation Text —
+*/
+
+.navbar .nav>li>a {
+    color: #484848;
+    font-family: oswald;
+		font-size:22px;
+}
+
+/*
+* — Headline Link Color for Cats —
+*/
+.stories h2.entry-title a {
+    color: #333 !important;
+}
+
+.widget p, .widget ul {
+    font-family: roboto;
+}
+
+#homepage-featured .sub-stories p {
+    font-family: Roboto;
+}
+
+#homepage-featured .top-story p {
+    font-size: 18px;
+    margin-bottom: 12px;
+    font-family: Roboto;
+}
+
+
+
+#homepage-featured .sub-stories h3 {
+    font-size: 16px;
+    margin-bottom: 6px;
+    line-height: 1.2;
+    font-family: oswald;
+    letter-spacing: 1px;
+}
+
+.dropdown-menu li {
+	font-family: Oswald;
+}
+
+/*
+* — In Post Ad Size For Mobile Devices —
+*/
+@media only screen and (max-width: 600px) {
+aside.scaip.scaip-2 {
+    clear: both;
+    margin: auto;
+    width: 100%;
+
+	}
+}
+@media only screen and (max-width: 600px) {	
+	aside.scaip.scaip-1 {
+    clear: both;
+    margin: auto;
+    width: 100%;
+}
+}
+
+.breadcrumbs span div img{
+	display: none;
+}
+.home-featured-widget-area {
+    margin-top: 20px;
+    border-top: 1px solid #ddd;
+    padding-top: 11px;
+}
+
+.entry-title img {
+    margin-top: 20px;
+}
+
+.footer-credit-padding-inn-logo-missing {
+display: none;
+}		</style>
+</head>
+<body class="post-template-default single single-post postid-254761 single-format-standard jps-theme-Largo-Sample-Child-Theme-master aa-prefix-mendo- classic">
+<div id="top"></div>
+<div class="global-nav-bg">
+<div class="global-nav">
+<nav id="top-nav" class="span12">
+<span class="visuallyhidden">
+<a href="#main" title="Skip to content">Skip to content</a>
+</span>
+<ul id="menu-global-navigation" class="menu"><li id="menu-item-10348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10348"><a href="https://mendovoice.com/about/">About Us</a></li>
+<li id="menu-item-149323" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149323"><a href="https://mendovoice.com/about/">Contact</a></li>
+<li id="menu-item-10349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10349"><a href="https://mendovoice.com/advertise/">Advertise</a></li>
+<li id="menu-item-10347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10347"><a href="https://mendovoice.com/tips/">Tips &#038; Submissions</a></li>
+<li id="menu-item-10350" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10350"><a href="/cdn-cgi/l/email-protection#0c65626a634c61696268637a63656f69226f6361"><span class="__cf_email__" data-cfemail="3f565159507f525a515b504950565c5a115c5052">[email&#160;protected]</span></a></li>
+</ul> <div class="nav-right">
+<div class="donate-btn"><a href="https://bit.ly/3fUQYW3"><i class="icon-heart"></i>Support local news!</a></div> 
+<div id="header-search">
+<form class="form-search" role="search" method="get" action="https://mendovoice.com/">
+<div class="input-append">
+<input type="text" placeholder="Search" class="input-medium appendedInputButton search-query" value="" name="s" /><button type="submit" class="search-submit btn">GO</button>
+</div>
+</form>
+</div>
+
+</div>
+</nav>
+</div> 
+</div> 
+<div id="page" class="hfeed clearfix">
+<div class="sticky-nav-wrapper nocontent">
+<div class="sticky-nav-holder">
+<div class="sticky-nav-container">
+<nav id="sticky-nav" class="sticky-navbar navbar clearfix">
+<div class="container">
+<div class="nav-right">
+<ul id="header-extras">
+<li class="donate">
+<a class="donate-link" href="https://bit.ly/3fUQYW3">
+<span><i class="icon-heart"></i>Support local news!</span>
+</a>
+</li> <li id="sticky-nav-search">
+<a href="#" class="toggle">
+<i class="icon-search" title="Search" role="button"></i>
+</a>
+<form class="form-search" role="search" method="get" action="https://mendovoice.com/">
+<div class="input-append">
+<span class="text-input-wrapper">
+<input type="text" placeholder="Search" class="input-medium appendedInputButton search-query" value="" name="s" />
+</span>
+<button type="submit" class="search-submit btn">Go</button>
+</div>
+</form>
+</li>
+<li>
+
+<a class="btn btn-navbar toggle-nav-bar" title="More">
+<div class="bars">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</div>
+</a>
+</li>
+</ul>
+</div>
+
+<div class="nav-left">
+<ul>
+<li class="home-icon"><a href="https://mendovoice.com/"><img src="https://mendovoice.com/wp-content/uploads/2018/06/20th-century-stick-graphic-Autumn-2019-colors.jpg" class="attachment-home-logo" alt="logo"></a></li>
+</ul>
+</div>
+
+
+<div class="nav-shelf">
+<ul class="nav">
+<li class="home-icon">
+<a href="https://mendovoice.com/">
+<img src="https://mendovoice.com/wp-content/uploads/2018/06/20th-century-stick-graphic-Autumn-2019-colors.jpg" class="attachment-home-logo" alt="logo"> </a>
+</li>
+<li id="menu-item-156624" class="menu-item menu-item-type-taxonomy menu-item-object-prominence current-post-ancestor current-menu-parent current-post-parent menu-item-has-children dropdown menu-item-156624"><a href="https://mendovoice.com/prominence/homepage-featured/" class="dropdown-toggle">News <b class="caret"></b></a></a>
+<ul class="dropdown-menu">
+<li id="menu-item-69410" class="menu-item menu-item-type-taxonomy menu-item-object-prominence current-post-ancestor current-menu-parent current-post-parent menu-item-69410"><a href="https://mendovoice.com/prominence/homepage-featured/">Top News</a></li>
+<li id="menu-item-454707" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-454707"><a href="https://mendovoice.com/tag/community-info/">Notices &#038; Announcements</a></li>
+<li id="menu-item-62664" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62664"><a href="https://mendovoice.com/latest-news/">Latest News</a></li>
+<li id="menu-item-354" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-354"><a href="https://mendovoice.com/category/police-courts/">Police &amp; Courts</a></li>
+<li id="menu-item-10468" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10468"><a href="https://mendovoice.com/category/food-farm/">Food &#038; Ag</a></li>
+<li id="menu-item-454691" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-454691"><a href="https://mendovoice.com/category/cannabis/">Cannabis</a></li>
+<li id="menu-item-11391" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11391"><a href="https://mendovoice.com/category/education/">Education</a></li>
+<li id="menu-item-11390" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11390"><a href="https://mendovoice.com/category/business/">Business &#038; Economy</a></li>
+<li id="menu-item-11392" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11392"><a href="https://mendovoice.com/category/health/">Health</a></li>
+<li id="menu-item-10467" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10467"><a href="https://mendovoice.com/category/environment-natural-resources/">Environment</a></li>
+<li id="menu-item-406" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-406"><a href="https://mendovoice.com/category/weather/">Weather</a></li>
+</ul>
+</li>
+<li id="menu-item-10795" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-10795"><a href="https://mendovoice.com/tag/community-info/" class="dropdown-toggle">Announcements <b class="caret"></b></a></a>
+<ul class="dropdown-menu">
+<li id="menu-item-454706" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-454706"><a href="https://mendovoice.com/tag/community-info/">Events &#038; Announcements</a></li>
+<li id="menu-item-185668" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children dropdown menu-item-185668"><a href="https://mendovoice.com/category/arts-culture/">Arts &amp; Culture <i class="icon-arrow-right"></i></a>
+<ul class="dropdown-menu sub-menu">
+<li id="menu-item-454708" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-454708"><a href="https://mendovoice.com/tag/opinion">Opinions &#038; Voices</a></li>
+</ul>
+</li>
+<li id="menu-item-185669" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-185669"><a href="https://mendovoice.com/category/food-farm/">Food &amp; Farming</a></li>
+<li id="menu-item-185670" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-185670"><a href="https://mendovoice.com/category/health/">Health</a></li>
+<li id="menu-item-454705" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-454705"><a href="https://mendovoice.com/tag/opinion">Columns &#038; Opinion</a></li>
+</ul>
+</li>
+<li id="menu-item-632" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children dropdown menu-item-632"><a href="https://mendovoice.com/category/fire-emergency/" class="dropdown-toggle">Fire &amp; Emergency <b class="caret"></b></a></a>
+<ul class="dropdown-menu">
+<li id="menu-item-454699" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-454699"><a href="https://mendovoice.com/tag/calfire/">Cal Fire</a></li>
+<li id="menu-item-454700" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-454700"><a href="https://mendovoice.com/tag/earthquake/">Earthquakes</a></li>
+<li id="menu-item-454695" class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-454695"><a href="https://mendovoice.com/series/2020-fire-season/">Fire Season 2020</a></li>
+<li id="menu-item-454693" class="menu-item menu-item-type-taxonomy menu-item-object-series current-post-ancestor current-menu-parent current-post-parent menu-item-454693"><a href="https://mendovoice.com/series/2019-fire-season/">Fire Season 2019</a></li>
+<li id="menu-item-454690" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-454690"><a href="https://mendovoice.com/category/weather/">Weather</a></li>
+</ul>
+</li>
+<li id="menu-item-6330" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6330"><a href="https://mendovoice.com/category/traffic-roads/">Roads</a></li>
+<li id="menu-item-355" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children dropdown menu-item-355"><a href="https://mendovoice.com/category/politics-government/" class="dropdown-toggle">Politics <b class="caret"></b></a></a>
+<ul class="dropdown-menu">
+<li id="menu-item-454694" class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-454694"><a href="https://mendovoice.com/series/2020-election/">Election 2020</a></li>
+<li id="menu-item-454692" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-454692"><a href="https://mendovoice.com/tag/board-of-supervisors/">Board of Supervisors</a></li>
+<li id="menu-item-380" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-380"><a href="https://mendovoice.com/category/cannabis/">Cannabis</a></li>
+<li id="menu-item-10466" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10466"><a href="https://mendovoice.com/tag/opinion">Opinion</a></li>
+</ul>
+</li>
+<li id="menu-item-454689" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children dropdown menu-item-454689"><a href="https://mendovoice.com/category/health/" class="dropdown-toggle">Health <b class="caret"></b></a></a>
+<ul class="dropdown-menu">
+<li id="menu-item-454688" class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-454688"><a href="https://mendovoice.com/series/coronavirus-covid-19/">Coronavirus</a></li>
+</ul>
+</li>
+<li id="menu-item-9790" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9790"><a href="https://mendovoice.com/membership/">Membership</a></li>
+<li id="menu-item-430" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-430"><a href="https://mendovoice.com/advertise/" class="dropdown-toggle">Ads <b class="caret"></b></a></a>
+<ul class="dropdown-menu">
+<li id="menu-item-454678" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-454678"><a href="https://mendovoice.com/advertise/">Advertise with Mendo Voice</a></li>
+<li id="menu-item-454679" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-454679"><a href="https://mendovoice.com/advertise/fire-coverage-community-partners-2019/">Fire Coverage Community Partners, 2019</a></li>
+</ul>
+</li>
+<li id="menu-item-436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-436"><a href="https://mendovoice.com/about/" class="dropdown-toggle">About Us <b class="caret"></b></a></a>
+<ul class="dropdown-menu">
+<li id="menu-item-149318" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149318"><a href="https://mendovoice.com/about/">Contact Us</a></li>
+<li id="menu-item-113862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113862"><a href="https://mendovoice.com/about/">About Us</a></li>
+<li id="menu-item-444" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-444"><a href="https://mendovoice.com/about/staff/">Staff</a></li>
+<li id="menu-item-435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-435"><a href="https://mendovoice.com/tips/">Tips &#038; Submissions</a></li>
+<li id="menu-item-156647" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-156647"><a href="https://mendovoice.com/commenting-and-letter-to-editor-policy/">Our policies</a></li>
+</ul>
+</li>
+<li id="menu-item-454696" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-454696"><a href="https://mendovoice.com/category/weather/">Weather</a></li>
+<li class="donate">
+<a class="donate-link" href="https://bit.ly/3fUQYW3">
+<span>Support local news!</span>
+</a>
+</li> <li class="menu-item menu-item-has-childen dropdown">
+<a href="javascript:void(0);" class="dropdown-toggle">Global Navigation <b class="caret"></b>
+</a>
+<ul id="menu-global-navigation-1" class="dropdown-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10348"><a href="https://mendovoice.com/about/">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149323"><a href="https://mendovoice.com/about/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10349"><a href="https://mendovoice.com/advertise/">Advertise</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10347"><a href="https://mendovoice.com/tips/">Tips &#038; Submissions</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10350"><a href="/cdn-cgi/l/email-protection#d5bcbbb3ba95b8b0bbb1baa3babcb6b0fbb6bab8"><span class="__cf_email__" data-cfemail="b4dddad2dbf4d9d1dad0dbc2dbddd7d19ad7dbd9">[email&#160;protected]</span></a></li>
+</ul> </li>
+</ul>
+</div>
+</div>
+</nav>
+</div>
+</div>
+</div>
+<header id="site-header" class="clearfix nocontent" itemscope itemtype="http://schema.org/Organization">
+<h2 class="visuallyhidden">
+<a itemprop="url" href="https://mendovoice.com/">
+<span class="sitename" itemprop="name">The Mendocino Voice | Mendocino County, CA</span>
+<span class="tagline" itemprop="description"> - Useful news, for all of Mendocino County, CA</span>
+</a>
+</h2>
+<a itemprop="url" href="https://mendovoice.com/"><div class="mendo-leaderboard" style="text-align: center; " id="mendo-548045326"><div data-mendo-trackid="722910" data-mendo-trackbid="1" class="mendo-target" id="mendo-1761772514"><a href="https://info.adventisthealth.org/ncn/mendocino/nursing-careers/?hcmacid=a0i3m00000Dzw1T&#038;utm_campaign=NCR_MENDO_RECRUITMENT&#038;utm_medium=Print&#038;utm_content=AD_NCR_MENDO_RECRUITMENT_NURSING_728x90" rel="noopener" class="adv-link" target="_blank"><img loading="lazy" src="https://mendovoice.com/wp-content/uploads/2022/06/MendocinoRecruitment_StaticBanner_728x90_Nurses2_FINAL_AD.jpg" alt="" class="no-lazyload" width="728" height="90" /></a></div></div><img class="header_img" src="" alt="" /></a><meta itemprop="logo" content="https://mendovoice.com/wp-content/uploads/2018/06/Favicon-Autumn-2019-colors-5.jpg" /></header>
+<header class="print-header nocontent">
+<p>
+<strong>The Mendocino Voice | Mendocino County, CA</strong>
+(https://mendovoice.com/2019/10/firefighters-responding-to-small-vegetation-fire-in-little-lake-valley-spread-into-structure/)
+</p>
+</header>
+<nav id="main-nav" class="navbar clearfix">
+<div class="navbar-inner">
+<div class="container">
+<div class="nav-shelf">
+<ul class="nav">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-prominence current-post-ancestor current-menu-parent current-post-parent menu-item-has-children dropdown menu-item-156624"><a href="https://mendovoice.com/prominence/homepage-featured/" class="dropdown-toggle">News <b class="caret"></b></a></a>
+<ul class="dropdown-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-prominence current-post-ancestor current-menu-parent current-post-parent menu-item-69410"><a href="https://mendovoice.com/prominence/homepage-featured/">Top News</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-454707"><a href="https://mendovoice.com/tag/community-info/">Notices &#038; Announcements</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62664"><a href="https://mendovoice.com/latest-news/">Latest News</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-354"><a href="https://mendovoice.com/category/police-courts/">Police &amp; Courts</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10468"><a href="https://mendovoice.com/category/food-farm/">Food &#038; Ag</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-454691"><a href="https://mendovoice.com/category/cannabis/">Cannabis</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11391"><a href="https://mendovoice.com/category/education/">Education</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11390"><a href="https://mendovoice.com/category/business/">Business &#038; Economy</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11392"><a href="https://mendovoice.com/category/health/">Health</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10467"><a href="https://mendovoice.com/category/environment-natural-resources/">Environment</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-406"><a href="https://mendovoice.com/category/weather/">Weather</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-10795"><a href="https://mendovoice.com/tag/community-info/" class="dropdown-toggle">Announcements <b class="caret"></b></a></a>
+<ul class="dropdown-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-454706"><a href="https://mendovoice.com/tag/community-info/">Events &#038; Announcements</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children dropdown menu-item-185668"><a href="https://mendovoice.com/category/arts-culture/">Arts &amp; Culture <i class="icon-arrow-right"></i></a>
+<ul class="dropdown-menu sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-454708"><a href="https://mendovoice.com/tag/opinion">Opinions &#038; Voices</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-185669"><a href="https://mendovoice.com/category/food-farm/">Food &amp; Farming</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-185670"><a href="https://mendovoice.com/category/health/">Health</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-454705"><a href="https://mendovoice.com/tag/opinion">Columns &#038; Opinion</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children dropdown menu-item-632"><a href="https://mendovoice.com/category/fire-emergency/" class="dropdown-toggle">Fire &amp; Emergency <b class="caret"></b></a></a>
+<ul class="dropdown-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-454699"><a href="https://mendovoice.com/tag/calfire/">Cal Fire</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-454700"><a href="https://mendovoice.com/tag/earthquake/">Earthquakes</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-454695"><a href="https://mendovoice.com/series/2020-fire-season/">Fire Season 2020</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-series current-post-ancestor current-menu-parent current-post-parent menu-item-454693"><a href="https://mendovoice.com/series/2019-fire-season/">Fire Season 2019</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-454690"><a href="https://mendovoice.com/category/weather/">Weather</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6330"><a href="https://mendovoice.com/category/traffic-roads/">Roads</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children dropdown menu-item-355"><a href="https://mendovoice.com/category/politics-government/" class="dropdown-toggle">Politics <b class="caret"></b></a></a>
+<ul class="dropdown-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-454694"><a href="https://mendovoice.com/series/2020-election/">Election 2020</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-454692"><a href="https://mendovoice.com/tag/board-of-supervisors/">Board of Supervisors</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-380"><a href="https://mendovoice.com/category/cannabis/">Cannabis</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10466"><a href="https://mendovoice.com/tag/opinion">Opinion</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children dropdown menu-item-454689"><a href="https://mendovoice.com/category/health/" class="dropdown-toggle">Health <b class="caret"></b></a></a>
+<ul class="dropdown-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-454688"><a href="https://mendovoice.com/series/coronavirus-covid-19/">Coronavirus</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9790"><a href="https://mendovoice.com/membership/">Membership</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-430"><a href="https://mendovoice.com/advertise/" class="dropdown-toggle">Ads <b class="caret"></b></a></a>
+<ul class="dropdown-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-454678"><a href="https://mendovoice.com/advertise/">Advertise with Mendo Voice</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-454679"><a href="https://mendovoice.com/advertise/fire-coverage-community-partners-2019/">Fire Coverage Community Partners, 2019</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-436"><a href="https://mendovoice.com/about/" class="dropdown-toggle">About Us <b class="caret"></b></a></a>
+<ul class="dropdown-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149318"><a href="https://mendovoice.com/about/">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113862"><a href="https://mendovoice.com/about/">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-444"><a href="https://mendovoice.com/about/staff/">Staff</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-435"><a href="https://mendovoice.com/tips/">Tips &#038; Submissions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-156647"><a href="https://mendovoice.com/commenting-and-letter-to-editor-policy/">Our policies</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-454696"><a href="https://mendovoice.com/category/weather/">Weather</a></li>
+</ul>
+</div>
+</div>
+</div>
+</nav>
+<div id="main" class="row-fluid clearfix">
+<div id="content" class="span8" role="main">
+<article id="post-254761" class="hnews item post-254761 post type-post status-publish format-standard has-post-thumbnail hentry category-fire-emergency tag-little-lake-fire-department tag-mcso tag-willits prominence-homepage-featured series-2019-fire-season featured-media featured-media-image" itemscope itemtype="http://schema.org/Article">
+<header>
+<h1 class="entry-title mush" itemprop="headline">&#8220;East Fire&#8221; in Little Lake Valley under control at one acre in size &#8212; evacuation cancelled (updated 5:10 pm)</h1>
+<h5 class="byline"><span class="by-author"><span class="by">By</span> <span class="author vcard" itemprop="author"> <a class="url fn n" href="https://mendovoice.com/author/katemaxwell/" title="Read All Posts By Kate B. Maxwell" rel="author">Kate B. Maxwell</a> <span class="and">and</span> <a class="url fn n" href="https://mendovoice.com/author/adrianfernandezbaumann/" title="Read All Posts By Adrian Fernandez Baumann" rel="author">Adrian Fernandez Baumann</a></span></span><span class="sep"> |</span> <time class="entry-date updated dtstamp pubdate" datetime="2019-10-28T15:37:39-07:00">October 28, 2019</time></h5>
+<div class="mendo-fire-sponsorship-place-v2ment" id="mendo-1239829273"><div data-mendo-trackid="723356" data-mendo-trackbid="1" id="mendo-438910823"><img loading="lazy" src="https://mendovoice.com/wp-content/uploads/2021/07/Fire-sponsorship-graphic.jpeg" alt="" class="no-lazyload" width="457" height="177" /></div></div><div class="largo-follow post-social clearfix"><span class="more-social-links">
+<a class="popover-toggle" href="#"><i class="icon-plus"></i><span class="hidden-phone">More</span></a>
+<span class="popover">
+<ul>
+<li><a href="https://mendovoice.com/category/fire-emergency/"><i class="icon-link"></i> <span>More on Fire &amp; Emergency</span></a></li>
+<li><a href="https://mendovoice.com/category/fire-emergency/feed/"><i class="icon-rss"></i> <span>Subscribe to Fire &amp; Emergency</span></a></li>
+</ul>
+</span>
+</span></div>
+<meta itemprop="description" content="An air response is under way as well.
+Share this:TwitterFacebook" />
+<meta itemprop="datePublished" content="2019-10-28T15:37:39-07:00" />
+<meta itemprop="dateModified" content="2019-10-28T22:47:13-07:00" />
+<meta itemprop="image" content="https://mendovoice.com/wp-content/uploads/2018/06/IMG_20180629_010643-140x140.jpg" />
+</header><div class="breadcrumbs" typeof="BreadcrumbList" vocab="http://schema.org/">
+<div class="entry-content clearfix" itemprop="articleBody">
+<p><em>Editor&#8217;s note: Due to the outages internet speeds are very slow, though we&#8217;re not sure the specific reason why. As a result we are drastically limiting the number of photos and videos in this post. We will put photos on Facebook instead.</em></p>
+<p>UPDATE 5:10 p.m. — MCSO has cancelled the evacuation, everyone can return to their homes, according to the most recent alert. However, East Side Road between Mitomki and Valley Road are currently only open to residents due to the ongoing fire response. The exact size of the fire is only an estimate but has been controlled at between 1/8 of an acre and one acre in size.</p>
+<p>UPDATE 5 p.m. — The fire is approximately one acre and is under control, according to Cal Fire&#8217;s Public Information Officer Tricia Austin. The fire burned through or damaged several structures — which may be either houses or outbuildings — but a quick response from local fire crews have subdued the blaze. </p><div class="mendo-inline-placement" style="text-align: center; " id="mendo-290714913"><div class="mendo-adlabel">Advertisements</div><div data-mendo-trackid="722897" data-mendo-trackbid="1" class="mendo-target" id="mendo-799789474"><a href="https://www.sonomawater.org/current-water-supply-levels" rel="noopener" class="adv-link" target="_blank"><img loading="lazy" src="https://mendovoice.com/wp-content/uploads/2023/01/SonomaWater_Ad_DroughtAlert_300x250_v78.jpg" alt="" class="no-lazyload" width="300" height="250" /></a></div></div><br style="clear: both; display: block; float: none;" />
+<p>UPDATE 4:30 p.m. &#8212; The Sheriff&#8217;s Office has downgraded the evacuation order to a warning. For those of you who can&#8217;t see the photo due to slow internet access, the area under a warning is roughly from the end fo Valley Rd. where it meats Eastside Rd. all the way to Mitomki Rd. and then east into the hills about a mile and a half. </p>
+<figure class="wp-block-image"><img decoding="async" width="680" height="369" src="https://mendovoice.com/wp-content/uploads/2019/10/EIAJzWVUEAASNzU.jpeg" alt="" class="wp-image-254791" srcset="https://mendovoice.com/wp-content/uploads/2019/10/EIAJzWVUEAASNzU.jpeg 680w, https://mendovoice.com/wp-content/uploads/2019/10/EIAJzWVUEAASNzU-336x182.jpeg 336w, https://mendovoice.com/wp-content/uploads/2019/10/EIAJzWVUEAASNzU-610x331.jpeg 610w" sizes="(max-width: 680px) 100vw, 680px" /></figure>
+<p>UPDATE 4:13 p.m. &#8212; The fire is now being called the &#8220;East Fire.&#8221; Additionally there is a major accident near the Hopland fire station on U.S. Route 101, so expect delays there</p><div class="mendo-inline-repeating" style="text-align: center; " id="mendo-463911352"><div class="mendo-adlabel">Advertisements</div><div data-mendo-trackid="724559" data-mendo-trackbid="1" class="mendo-target" id="mendo-2142062782"><a href="https://info.adventisthealth.org/ncn/mendocino/nursing-careers/?hcmacid=a0i3m00000Dzw19&#038;utm_campaign=NCR_MENDO_RECRUITMENT&#038;utm_medium=Print&#038;utm_content=AD_NCR_MENDO_RECRUITMENT_NURSING_300x250" rel="noopener" class="adv-link" target="_blank"><img loading="lazy" src="https://mendovoice.com/wp-content/uploads/2022/06/MendocinoRecruitment_StaticBanner_300x250_Nurses2_FINAL_AD.jpg" alt="" class="no-lazyload" width="300" height="250" /></a></div></div>
+<p>UPDATE 4:05 p.m. &#8212; The Sheriff&#8217;s Office has revised their evacuation order and is now saying that the order pertains only to the area of:</p>
+<p>&#8220;Eastside Rd area, and Mitomki areas only, other area disregard.&#8221;</p>
+<p>Again, if you are in Willits or west of Eastside Rd. the new message is saying to DISREGARD the evacuation order. It appears that the initial Nixle evacuation order was sent to a larger number of people over a larger area than necessary. Still, the fire continues to burn in that area with Cal Fire making helicopter drops, and it is always good to be vigilant.</p>
+<p>UPDATE 3:55 p.m. &#8212; The Mendocino County Sheriff&#8217;s Office has issued an evacuation order for areas of the Little Lake Valley saying:</p>
+<p>&#8220;There is a wildfire in your area. Please evacuate at this time. From Mitomki Rd. head S on Eastside Rd. from Valley Rd, head west to Hwy 10 [sic]&#8221;</p><div class="mendo-inline-repeating" style="text-align: center; " id="mendo-879674144"><div class="mendo-adlabel">Advertisements</div><div data-mendo-trackid="724559" data-mendo-trackbid="1" class="mendo-target" id="mendo-1445060639"><a href="https://info.adventisthealth.org/ncn/mendocino/nursing-careers/?hcmacid=a0i3m00000Dzw19&#038;utm_campaign=NCR_MENDO_RECRUITMENT&#038;utm_medium=Print&#038;utm_content=AD_NCR_MENDO_RECRUITMENT_NURSING_300x250" rel="noopener" class="adv-link" target="_blank"><img loading="lazy" src="https://mendovoice.com/wp-content/uploads/2022/06/MendocinoRecruitment_StaticBanner_300x250_Nurses2_FINAL_AD.jpg" alt="" class="no-lazyload" width="300" height="250" /></a></div></div>
+<p>Two tanker airplanes are circling the fire and making drops, and the 101 copter was also in the vicinity. Additionally the Air Attack control plane is circling overhead. </p>
+<p>MENDOCINO Co., 10/29/19 — A small brush fire that began in the vicinity of the 22600 block of East Side Road in Willits has spread into a structure, and firefighters and several engines from Little Lake Valley Fire and neighboring departments are responding. There is also a helicopter and bomber conducting attack by air, and &#8220;hitting it pretty hard,&#8221; according to Michelle Schnitzius at LLFD.</p>
+<p> Crews were requesting an additional water tender to be safe from Brooktrails Fire, but Schnitzius that it appeared as if the fire was getting under control. As of 3:35 p.m., reports indicate that the smoke plume has died down. This is a developing situation and we will update with more information as soon it is becomes available. </p><div class="mendo-half-page-inline" style="text-align: center; " id="mendo-1107386313"><div class="mendo-adlabel">Advertisements</div><div data-mendo-trackid="724561" data-mendo-trackbid="1" class="mendo-target" id="mendo-206633875"><a href="https://info.adventisthealth.org/ncn/mendocino/nursing-careers/?hcmacid=a0i3m00000Dzw1J&#038;utm_campaign=NCR_MENDO_RECRUITMENT&#038;utm_medium=Print&#038;utm_content=AD_NCR_MENDO_RECRUITMENT_NURSING_300x600" rel="noopener" class="adv-link" target="_blank"><img loading="lazy" src="https://mendovoice.com/wp-content/uploads/2022/06/MendocinoRecruitment_StaticBanner_300x600_Nurses2_FINAL_AD.jpg" alt="" class="no-lazyload" width="300" height="600" /></a></div></div>
+<p></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-254761" class="share-twitter sd-button share-icon" href="https://mendovoice.com/2019/10/firefighters-responding-to-small-vegetation-fire-in-little-lake-valley-spread-into-structure/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-254761" class="share-facebook sd-button share-icon" href="https://mendovoice.com/2019/10/firefighters-responding-to-small-vegetation-fire-in-little-lake-valley-spread-into-structure/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"></li></ul></div></div></div> </div>
+<footer class="post-meta bottom-meta">
+</footer>
+</article>
+<div class="article-bottom nocontent"><aside id="media_image-4" class="widget widget-1 odd default hidden-phone widget widget_media_image clearfix"><img width="664" height="57" src="https://mendovoice.com/wp-content/uploads/2020/12/Bottom-article-line-3.png" class="image wp-image-542716  attachment-full size-full" alt="" decoding="async" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://mendovoice.com/wp-content/uploads/2020/12/Bottom-article-line-3.png 664w, https://mendovoice.com/wp-content/uploads/2020/12/Bottom-article-line-3-336x29.png 336w" sizes="(max-width: 664px) 100vw, 664px" /></aside><aside class="widget widget-2 even default widget mendo-widget clearfix"><div data-mendo-trackid="723370" data-mendo-trackbid="1" class="mendo-target" id="mendo-34740838"><a href="https://info.adventisthealth.org/ncn/mendocino/nursing-careers/?hcmacid=a0i3m00000Dzw1O&#038;utm_campaign=NCR_MENDO_RECRUITMENT&#038;utm_medium=Print&#038;utm_content=AD_NCR_MENDO_RECRUITMENT_NURSING_550x50" rel="noopener" class="adv-link" target="_blank"><img loading="lazy" src="https://mendovoice.com/wp-content/uploads/2021/01/Adventist-Health-Jan-2021-sponsorship-logo.jpg" alt="" class="no-lazyload" width="534" height="121" /></a></div></aside><aside id="largo-donate-widget-3" class="widget widget-3 odd default widget largo-donate clearfix"><h3 class="widgettitle">DID YOU ENJOY THIS ARTICLE? Do you want more local news about Mendo?</h3>
+<p>Contribute and help sustain local independent journalism.</p>
+<a class="btn btn-primary" href="https://bit.ly/3TwEZMk">Support our work</a>
+</aside><aside id="largo-recent-posts-widget-36" class="widget widget-4 even default widget largo-recent-posts clearfix"><h3 class="widgettitle">Read more local news:</h3><ul><li> <a href="https://mendovoice.com/2023/01/ediewillits-supercentenarian-edie-ceccarelli-will-turn-115-on-feb-5-with-a-drive-by-parade-now-worlds-third-oldest-person/"><img width="60" height="60" src="https://mendovoice.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-24-at-2.17.16-PM-60x60.png" class="left-align attachment-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://mendovoice.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-24-at-2.17.16-PM-60x60.png 60w, https://mendovoice.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-24-at-2.17.16-PM-140x140.png 140w" sizes="(max-width: 60px) 100vw, 60px" /></a>
+<h5>
+<a href="https://mendovoice.com/2023/01/ediewillits-supercentenarian-edie-ceccarelli-will-turn-115-on-feb-5-with-a-drive-by-parade-now-worlds-third-oldest-person/">Willits&#8217; supercentenarian Edie Ceccarelli will turn 115 on Feb. 5 with a &#8220;drive-by parade,” now world&#8217;s third oldest person </a>
+</h5>
+</li><li> <a href="https://mendovoice.com/2023/02/oneill-full-steam-with-starting-seeds-column/"><img width="60" height="60" src="https://mendovoice.com/wp-content/uploads/2018/11/img_4791-60x60.jpg" class="left-align attachment-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://mendovoice.com/wp-content/uploads/2018/11/img_4791-60x60.jpg 60w, https://mendovoice.com/wp-content/uploads/2018/11/img_4791-140x140.jpg 140w, https://mendovoice.com/wp-content/uploads/2018/11/img_4791-336x336.jpg 336w, https://mendovoice.com/wp-content/uploads/2018/11/img_4791-600x600.jpg 600w, https://mendovoice.com/wp-content/uploads/2018/11/img_4791-250x250.jpg 250w, https://mendovoice.com/wp-content/uploads/2018/11/img_4791-65x65.jpg 65w, https://mendovoice.com/wp-content/uploads/2018/11/img_4791-e1542858385539.jpg 500w" sizes="(max-width: 60px) 100vw, 60px" /></a>
+<h5>
+<a href="https://mendovoice.com/2023/02/oneill-full-steam-with-starting-seeds-column/">O&#8217;Neill: Full steam with starting seeds (column) </a>
+</h5>
+</li><li> <a href="https://mendovoice.com/2023/02/good-farm-fund-grant-applications-open-to-mendocino-lake-co-farmers-until-feb-15/"><img width="60" height="60" src="https://mendovoice.com/wp-content/uploads/2020/11/Green-Uprising-Building-the-Hoop-60x60.jpg" class="left-align attachment-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://mendovoice.com/wp-content/uploads/2020/11/Green-Uprising-Building-the-Hoop-60x60.jpg 60w, https://mendovoice.com/wp-content/uploads/2020/11/Green-Uprising-Building-the-Hoop-140x140.jpg 140w" sizes="(max-width: 60px) 100vw, 60px" /></a>
+<h5>
+<a href="https://mendovoice.com/2023/02/good-farm-fund-grant-applications-open-to-mendocino-lake-co-farmers-until-feb-15/">Good Farm Fund grant applications open to Mendocino &#038; Lake Co. farmers until Feb. 15 </a>
+</h5>
+</li><li> <a href="https://mendovoice.com/2023/02/cal-fire-to-update-on-jdsf-fuel-break-plans-on-feb-7-following-community-feedback/"><img width="60" height="60" src="https://mendovoice.com/wp-content/uploads/2019/06/Jackson_Demonstration_Forest_Sign_-Photo-by-Sarah_Stierch-60x60.jpg" class="left-align attachment-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://mendovoice.com/wp-content/uploads/2019/06/Jackson_Demonstration_Forest_Sign_-Photo-by-Sarah_Stierch-60x60.jpg 60w, https://mendovoice.com/wp-content/uploads/2019/06/Jackson_Demonstration_Forest_Sign_-Photo-by-Sarah_Stierch-140x140.jpg 140w, https://mendovoice.com/wp-content/uploads/2019/06/Jackson_Demonstration_Forest_Sign_-Photo-by-Sarah_Stierch-250x250.jpg 250w, https://mendovoice.com/wp-content/uploads/2019/06/Jackson_Demonstration_Forest_Sign_-Photo-by-Sarah_Stierch-65x65.jpg 65w" sizes="(max-width: 60px) 100vw, 60px" /></a>
+<h5>
+<a href="https://mendovoice.com/2023/02/cal-fire-to-update-on-jdsf-fuel-break-plans-on-feb-7-following-community-feedback/">Cal Fire to update on JDSF fuel break plans on Feb. 7, following community feedback </a>
+</h5>
+</li><li> <a href="https://mendovoice.com/2023/02/the-mendocino-setlist-february-3-8/"><img width="60" height="60" src="https://mendovoice.com/wp-content/uploads/2023/02/Tres-Souls-60x60.jpg" class="left-align attachment-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://mendovoice.com/wp-content/uploads/2023/02/Tres-Souls-60x60.jpg 60w, https://mendovoice.com/wp-content/uploads/2023/02/Tres-Souls-140x140.jpg 140w" sizes="(max-width: 60px) 100vw, 60px" /></a>
+<h5>
+<a href="https://mendovoice.com/2023/02/the-mendocino-setlist-february-3-8/">The Mendocino Setlist: February 3-8 </a>
+</h5>
+</li></ul></aside><aside class="widget widget-5 odd default widget mendo-widget clearfix"><div data-mendo-trackid="722910" data-mendo-trackbid="1" class="mendo-target" id="mendo-1682737051"><a href="https://info.adventisthealth.org/ncn/mendocino/nursing-careers/?hcmacid=a0i3m00000Dzw1T&#038;utm_campaign=NCR_MENDO_RECRUITMENT&#038;utm_medium=Print&#038;utm_content=AD_NCR_MENDO_RECRUITMENT_NURSING_728x90" rel="noopener" class="adv-link" target="_blank"><img loading="lazy" src="https://mendovoice.com/wp-content/uploads/2022/06/MendocinoRecruitment_StaticBanner_728x90_Nurses2_FINAL_AD.jpg" alt="" class="no-lazyload" width="728" height="90" /></a></div></aside><aside id="largo-tag-list-widget-2" class="widget widget-6 even default widget largo-tag-list clearfix"> 
+<div class="tags clearfix">
+<h5>Filed Under:</h5>
+<ul>
+<li class="post-category-link"><a href="https://mendovoice.com/category/fire-emergency/" title="Read Articles in the Fire &amp; Emergency category">Fire &amp; Emergency</a></li><li class="post-tag-link"><a href="https://mendovoice.com/tag/little-lake-fire-department/" title="Read Articles tagged with: Little Lake Fire Department">Little Lake Fire Department</a></li><li class="post-tag-link"><a href="https://mendovoice.com/tag/mcso/" title="Read Articles tagged with: MCSO">MCSO</a></li><li class="post-tag-link"><a href="https://mendovoice.com/tag/willits/" title="Read Articles tagged with: Willits">Willits</a></li> </ul>
+</div>
+</aside></div> <div id="comments" class="clearfix">
+<div id="respond" class="comment-respond">
+<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2019/10/firefighters-responding-to-small-vegetation-fire-in-little-lake-valley-spread-into-structure/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://mendovoice.com/wp-comments-post.php" method="post" id="commentform" class="comment-form"><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> <span class="required-field-message">Required fields are marked <span class="required">*</span></span></p><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required="required" /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" autocomplete="email" required="required" /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" autocomplete="url" /></p>
+<div class="c4wp_captcha_field" style="margin-bottom: 10px;"><div id="c4wp_captcha_field_1" class="c4wp_captcha_field_div"></div></div><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='254761' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="24808589c4" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="178" /><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="data:text/javascript;base64,ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoImFrX2pzXzEiKS5zZXRBdHRyaWJ1dGUoInZhbHVlIiwobmV3IERhdGUoKSkuZ2V0VGltZSgpKQ==" defer></script></p></form> </div>
+</div>
+</div>
+<aside id="sidebar" class="span4 nocontent">
+<div class="widget-area" role="complementary">
+<aside class="widget widget-1 odd default widget mendo-widget clearfix"><div class="mendo-top-box" style="text-align: center; " id="mendo-266307110"><div class="mendo-adlabel">Advertisements</div><div data-mendo-trackid="724560" data-mendo-trackbid="1" class="mendo-target" id="mendo-1704334512"><a href="https://info.adventisthealth.org/ncn/mendocino/nursing-careers/?hcmacid=a0i3m00000Dzw14&#038;utm_campaign=NCR_MENDO_RECRUITMENT&#038;utm_medium=Print&#038;utm_content=AD_NCR_MENDO_RECRUITMENT_NURSING_300x125" rel="noopener" class="adv-link" target="_blank"><img src="https://mendovoice.com/wp-content/uploads/2022/06/MendocinoRecruitment_StaticBanner_300x125_Nurses2_finalAD.jpg" alt="" class="no-lazyload" width="300" height="125" /></a></div></div></aside><aside id="largo-tag-list-widget-3" class="widget widget-2 even default widget largo-tag-list clearfix"> 
+<div class="tags clearfix">
+<h5>Filed Under:</h5>
+<ul>
+<li class="post-category-link"><a href="https://mendovoice.com/category/fire-emergency/" title="Read Articles in the Fire &amp; Emergency category">Fire &amp; Emergency</a></li><li class="post-tag-link"><a href="https://mendovoice.com/tag/little-lake-fire-department/" title="Read Articles tagged with: Little Lake Fire Department">Little Lake Fire Department</a></li><li class="post-tag-link"><a href="https://mendovoice.com/tag/mcso/" title="Read Articles tagged with: MCSO">MCSO</a></li><li class="post-tag-link"><a href="https://mendovoice.com/tag/willits/" title="Read Articles tagged with: Willits">Willits</a></li> </ul>
+</div>
+</aside><aside class="widget widget-3 odd default widget mendo-widget clearfix"><div class="mendo-half-page" style="text-align: center; " id="mendo-1458871020"><div data-mendo-trackid="724561" data-mendo-trackbid="1" class="mendo-target" id="mendo-1612641933"><a href="https://info.adventisthealth.org/ncn/mendocino/nursing-careers/?hcmacid=a0i3m00000Dzw1J&#038;utm_campaign=NCR_MENDO_RECRUITMENT&#038;utm_medium=Print&#038;utm_content=AD_NCR_MENDO_RECRUITMENT_NURSING_300x600" rel="noopener" class="adv-link" target="_blank"><img src="https://mendovoice.com/wp-content/uploads/2022/06/MendocinoRecruitment_StaticBanner_300x600_Nurses2_FINAL_AD.jpg" alt="" class="no-lazyload" width="300" height="600" /></a></div></div></aside><aside id="custom_html-10" class="widget_text widget widget-4 even default widget widget_custom_html clearfix"><div class="textwidget custom-html-widget"><link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#05629a; clear:left; color:#ffffff; font:14px Helvetica,Arial,sans-serif; }
+</style>
+<div id="mc_embed_signup">
+<form action="https://mendovoice.us13.list-manage.com/subscribe/post?u=eb08d77e189e1f09ae024290d&amp;id=8d029c6263" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<div id="mc_embed_signup_scroll">
+<h2>Sign up now &#38; get FREE news right to your inbox!</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+<label for="mce-EMAIL">Email Address <span class="asterisk">*</span>
+</label>
+<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group">
+<label for="mce-FNAME">First Name </label>
+<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+<label for="mce-LNAME">Last Name </label>
+<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+</div>
+<div id="mce-responses" class="clear">
+<div class="response" id="mce-error-response" style="display:none"></div>
+<div class="response" id="mce-success-response" style="display:none"></div>
+</div> 
+<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_eb08d77e189e1f09ae024290d_8d029c6263" tabindex="-1" value=""></div>
+<div class="clear" background-color=#f67c3c><input type="submit" value="Subscribe Now!" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js' defer data-deferred="1"></script><script type='text/javascript' src="data:text/javascript;base64,KGZ1bmN0aW9uKCQpe3dpbmRvdy5mbmFtZXM9bmV3IEFycmF5KCk7d2luZG93LmZ0eXBlcz1uZXcgQXJyYXkoKTtmbmFtZXNbMF09J0VNQUlMJztmdHlwZXNbMF09J2VtYWlsJztmbmFtZXNbMV09J0ZOQU1FJztmdHlwZXNbMV09J3RleHQnO2ZuYW1lc1syXT0nTE5BTUUnO2Z0eXBlc1syXT0ndGV4dCc7Zm5hbWVzWzNdPSdBRERSRVNTJztmdHlwZXNbM109J2FkZHJlc3MnO2ZuYW1lc1s0XT0nUEhPTkUnO2Z0eXBlc1s0XT0ncGhvbmUnfShqUXVlcnkpKTt2YXIgJG1jaj1qUXVlcnkubm9Db25mbGljdCghMCk=" defer></script></div></aside><aside class="widget widget-5 odd default widget mendo-widget clearfix"><div class="mendo-mid-box" id="mendo-1968365861"><div data-mendo-trackid="724874" data-mendo-trackbid="1" id="mendo-754463892"><img src="https://mendovoice.com/wp-content/uploads/2021/07/Vocality-inline-graphic.png" alt="" class="no-lazyload" width="600" height="500" /></div></div></aside><aside id="largo-recent-posts-widget-22" class="widget widget-6 even default widget largo-recent-posts clearfix"><h3 class="widgettitle">Recent Articles</h3><ul><li> <a href="https://mendovoice.com/2023/02/mendocino-county-residents-suffering-storm-damage-can-now-apply-for-fema-disaster-assistance/"><img width="60" height="60" src="https://mendovoice.com/wp-content/uploads/2023/02/IMG_1961-60x60.jpg" class="left-align attachment-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://mendovoice.com/wp-content/uploads/2023/02/IMG_1961-60x60.jpg 60w, https://mendovoice.com/wp-content/uploads/2023/02/IMG_1961-140x140.jpg 140w" sizes="(max-width: 60px) 100vw, 60px" /></a>
+<h5>
+<a href="https://mendovoice.com/2023/02/mendocino-county-residents-suffering-storm-damage-can-now-apply-for-fema-disaster-assistance/">Mendocino County residents suffering storm damage can now apply for FEMA disaster assistance </a>
+</h5>
+</li><li> <a href="https://mendovoice.com/2023/02/mendocino-county-aims-to-codify-wetland-protections-but-it-could-take-years/"><img width="60" height="60" src="https://mendovoice.com/wp-content/uploads/2020/07/159407108227857711-60x60.jpg" class="left-align attachment-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://mendovoice.com/wp-content/uploads/2020/07/159407108227857711-60x60.jpg 60w, https://mendovoice.com/wp-content/uploads/2020/07/159407108227857711-140x140.jpg 140w" sizes="(max-width: 60px) 100vw, 60px" /></a>
+<h5>
+<a href="https://mendovoice.com/2023/02/mendocino-county-aims-to-codify-wetland-protections-but-it-could-take-years/">Mendocino County aims to codify wetland protections, but it could take years </a>
+</h5>
+</li><li> <a href="https://mendovoice.com/2023/02/mendocino-county-fire-safe-council-offers-free-training-march-13-14-for-contractors-architects-building-supply-stores-and-more/"><img width="60" height="34" src="https://mendovoice.com/wp-content/uploads/2018/05/IMG_2434.jpg" class="left-align attachment-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://mendovoice.com/wp-content/uploads/2018/05/IMG_2434.jpg 640w, https://mendovoice.com/wp-content/uploads/2018/05/IMG_2434-300x169.jpg 300w" sizes="(max-width: 60px) 100vw, 60px" /></a>
+<h5>
+<a href="https://mendovoice.com/2023/02/mendocino-county-fire-safe-council-offers-free-training-march-13-14-for-contractors-architects-building-supply-stores-and-more/">Mendocino County Fire Safe Council offers free training March 13 &#8211; 14 for contractors, architects, building supply stores and more </a>
+</h5>
+</li><li> <a href="https://mendovoice.com/2023/02/where-should-we-put-electric-vehicle-chargers-in-inland-mendocino-county/"><img width="60" height="60" src="https://mendovoice.com/wp-content/uploads/2020/07/img_9725-60x60.jpg" class="left-align attachment-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://mendovoice.com/wp-content/uploads/2020/07/img_9725-60x60.jpg 60w, https://mendovoice.com/wp-content/uploads/2020/07/img_9725-140x140.jpg 140w" sizes="(max-width: 60px) 100vw, 60px" /></a>
+<h5>
+<a href="https://mendovoice.com/2023/02/where-should-we-put-electric-vehicle-chargers-in-inland-mendocino-county/">Where should we put electric vehicle chargers in inland Mendocino County? </a>
+</h5>
+</li><li> <a href="https://mendovoice.com/2023/01/mendocino-county-announces-wildlife-exclusion-plan-will-collect-metrics-to-shape-program/"><img width="60" height="60" src="https://mendovoice.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-31-at-10.18.14-AM-60x60.png" class="left-align attachment-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://mendovoice.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-31-at-10.18.14-AM-60x60.png 60w, https://mendovoice.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-31-at-10.18.14-AM-140x140.png 140w" sizes="(max-width: 60px) 100vw, 60px" /></a>
+<h5>
+<a href="https://mendovoice.com/2023/01/mendocino-county-announces-wildlife-exclusion-plan-will-collect-metrics-to-shape-program/">Mendocino County announces wildlife exclusion plan, will collect metrics to shape program </a>
+</h5>
+</li></ul></aside><aside id="largo-prev-next-post-links-widget-2" class="widget widget-7 odd default widget largo-prev-next-post-links clearfix">
+<nav id="nav-below" class="pager post-nav clearfix">
+<div class="previous"><a href="https://mendovoice.com/2019/10/burris-fire-holding-steady-at-350-acres-forward-progress-stopped-though-still-smoking/"><img class="thumb" src="https://mendovoice.com/wp-content/uploads/2019/10/unnamed-8-140x140.jpg" /><h5>Previous Article</h5><span class="meta-nav">Potter Valley placed under evacuation warning -- Burris Fire holding steady at 350 acres, with 50% containment, evacuations reduced (updated 9:30pm)</span></a></div><div class="next"><a href="https://mendovoice.com/2019/10/power-outages-continue-till-at-least-wed-or-longer-public-officials-denounce-pge/"><img class="thumb" src="https://mendovoice.com/wp-content/uploads/2019/10/IMG_7328-140x140.jpg" /><h5>Next Article</h5><span class="meta-nav">South Coast may gain power tonight, Philo & Ukiah tomorrow, Willits & Fort Bragg unclear -- Ukiah schools closed (updated 2am)</span></a></div> </nav>
+</aside><aside class="widget widget-8 even default widget mendo-widget clearfix"><div class="mendo-bonus-box" style="text-align: center; " id="mendo-70757291"><div data-mendo-trackid="722925" data-mendo-trackbid="1" id="mendo-201223475"><img src="https://mendovoice.com/wp-content/uploads/2021/07/Vocality-inline-graphic.png" alt="" class="no-lazyload" width="600" height="500" /></div></div></aside><aside class="widget widget-9 odd default widget mendo-widget clearfix"><div class="mendo-top-box" style="text-align: center; " id="mendo-753973156"><div class="mendo-adlabel">Advertisements</div><div data-mendo-trackid="724560" data-mendo-trackbid="1" class="mendo-target" id="mendo-645499159"><a href="https://info.adventisthealth.org/ncn/mendocino/nursing-careers/?hcmacid=a0i3m00000Dzw14&#038;utm_campaign=NCR_MENDO_RECRUITMENT&#038;utm_medium=Print&#038;utm_content=AD_NCR_MENDO_RECRUITMENT_NURSING_300x125" rel="noopener" class="adv-link" target="_blank"><img src="https://mendovoice.com/wp-content/uploads/2022/06/MendocinoRecruitment_StaticBanner_300x125_Nurses2_finalAD.jpg" alt="" class="no-lazyload" width="300" height="125" /></a></div></div></aside><aside class="widget widget-10 even default widget mendo-widget clearfix"><div class="mendo-top-box" style="text-align: center; " id="mendo-807461695"><div class="mendo-adlabel">Advertisements</div><div data-mendo-trackid="724560" data-mendo-trackbid="1" class="mendo-target" id="mendo-1566733868"><a href="https://info.adventisthealth.org/ncn/mendocino/nursing-careers/?hcmacid=a0i3m00000Dzw14&#038;utm_campaign=NCR_MENDO_RECRUITMENT&#038;utm_medium=Print&#038;utm_content=AD_NCR_MENDO_RECRUITMENT_NURSING_300x125" rel="noopener" class="adv-link" target="_blank"><img src="https://mendovoice.com/wp-content/uploads/2022/06/MendocinoRecruitment_StaticBanner_300x125_Nurses2_finalAD.jpg" alt="" class="no-lazyload" width="300" height="125" /></a></div></div></aside> </div>
+</aside>
+</div> 
+</div>
+<div class="before-footer-wrapper nocontent">
+<div id="before-footer">
+</div>
+</div>
+<div class="footer-bg clearfix nocontent">
+<footer id="site-footer">
+<div id="supplementary" class="row-fluid _3col-default">
+<div class="span3 widget-area" role="complementary">
+<aside id="largo-about-widget-2" class="widget widget-1 odd default widget largo-about clearfix"><h3 class="widgettitle">About The Mendocino Voice</h3>
+<p>The Mendocino Voice is a local, worker-owned, news service — based in, and covering Mendocino County, California. We believe in useful news for all of Mendocino.</p>
+</aside></div>
+<div class="span6 widget-area" role="complementary">
+<aside id="categories-6" class="widget widget-1 odd default widget widget_categories clearfix"><h3 class="widgettitle">Categories</h3><form action="https://mendovoice.com" method="get"><label class="screen-reader-text" for="cat">Categories</label><select name='cat' id='cat' class='postform'>
+<option value='-1'>Select Category</option>
+<option class="level-0" value="78">Arts &amp; Culture</option>
+<option class="level-0" value="47">Business &amp; Labor</option>
+<option class="level-0" value="43">Cannabis</option>
+<option class="level-0" value="60">Education</option>
+<option class="level-0" value="50">Environment &amp; Natural Resources</option>
+<option class="level-0" value="40">Fire &amp; Emergency</option>
+<option class="level-0" value="48">Food &amp; Farming</option>
+<option class="level-0" value="1770">Health</option>
+<option class="level-0" value="4">Mendocino</option>
+<option class="level-0" value="41">Police &amp; Courts</option>
+<option class="level-0" value="38">Politics &amp; Government</option>
+<option class="level-0" value="305">Roads &amp; Transportation</option>
+<option class="level-0" value="85">Weather</option>
+</select>
+</form>
+<script type="text/javascript" src="data:text/javascript;base64,KGZ1bmN0aW9uKCl7dmFyIGRyb3Bkb3duPWRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJjYXQiKTtmdW5jdGlvbiBvbkNhdENoYW5nZSgpe2lmKGRyb3Bkb3duLm9wdGlvbnNbZHJvcGRvd24uc2VsZWN0ZWRJbmRleF0udmFsdWU+MCl7ZHJvcGRvd24ucGFyZW50Tm9kZS5zdWJtaXQoKX19CmRyb3Bkb3duLm9uY2hhbmdlPW9uQ2F0Q2hhbmdlfSkoKQ==" defer></script>
+</aside></div>
+<div class="span3 widget-area" role="complementary">
+<div class="widget widget_search"><h2 class="widgettitle">Search This Site</h2><form class="form-search" role="search" method="get" action="https://mendovoice.com/">
+<div class="input-append">
+<input type="text" placeholder="Search" class="searchbox search-query" value="" name="s" /><button type="submit" name="search submit" class="search-submit btn">Go</button>
+</div>
+</form>
+</div><div class="widget widget_archive"><h2 class="widgettitle">Browse Archives</h2> <label class="screen-reader-text" for="archives-dropdown--1">Browse Archives</label>
+<select id="archives-dropdown--1" name="archive-dropdown">
+<option value="">Select Month</option>
+<option value='https://mendovoice.com/2023/02/'> February 2023 </option>
+<option value='https://mendovoice.com/2023/01/'> January 2023 </option>
+<option value='https://mendovoice.com/2022/12/'> December 2022 </option>
+<option value='https://mendovoice.com/2022/11/'> November 2022 </option>
+<option value='https://mendovoice.com/2022/10/'> October 2022 </option>
+<option value='https://mendovoice.com/2022/09/'> September 2022 </option>
+<option value='https://mendovoice.com/2022/08/'> August 2022 </option>
+<option value='https://mendovoice.com/2022/07/'> July 2022 </option>
+<option value='https://mendovoice.com/2022/06/'> June 2022 </option>
+<option value='https://mendovoice.com/2022/05/'> May 2022 </option>
+<option value='https://mendovoice.com/2022/04/'> April 2022 </option>
+<option value='https://mendovoice.com/2022/03/'> March 2022 </option>
+<option value='https://mendovoice.com/2022/02/'> February 2022 </option>
+<option value='https://mendovoice.com/2022/01/'> January 2022 </option>
+<option value='https://mendovoice.com/2021/12/'> December 2021 </option>
+<option value='https://mendovoice.com/2021/11/'> November 2021 </option>
+<option value='https://mendovoice.com/2021/10/'> October 2021 </option>
+<option value='https://mendovoice.com/2021/09/'> September 2021 </option>
+<option value='https://mendovoice.com/2021/08/'> August 2021 </option>
+<option value='https://mendovoice.com/2021/07/'> July 2021 </option>
+<option value='https://mendovoice.com/2021/06/'> June 2021 </option>
+<option value='https://mendovoice.com/2021/05/'> May 2021 </option>
+<option value='https://mendovoice.com/2021/04/'> April 2021 </option>
+<option value='https://mendovoice.com/2021/03/'> March 2021 </option>
+<option value='https://mendovoice.com/2021/02/'> February 2021 </option>
+<option value='https://mendovoice.com/2021/01/'> January 2021 </option>
+<option value='https://mendovoice.com/2020/12/'> December 2020 </option>
+<option value='https://mendovoice.com/2020/11/'> November 2020 </option>
+<option value='https://mendovoice.com/2020/10/'> October 2020 </option>
+<option value='https://mendovoice.com/2020/09/'> September 2020 </option>
+<option value='https://mendovoice.com/2020/08/'> August 2020 </option>
+<option value='https://mendovoice.com/2020/07/'> July 2020 </option>
+<option value='https://mendovoice.com/2020/06/'> June 2020 </option>
+<option value='https://mendovoice.com/2020/05/'> May 2020 </option>
+<option value='https://mendovoice.com/2020/04/'> April 2020 </option>
+<option value='https://mendovoice.com/2020/03/'> March 2020 </option>
+<option value='https://mendovoice.com/2020/02/'> February 2020 </option>
+<option value='https://mendovoice.com/2020/01/'> January 2020 </option>
+<option value='https://mendovoice.com/2019/12/'> December 2019 </option>
+<option value='https://mendovoice.com/2019/11/'> November 2019 </option>
+<option value='https://mendovoice.com/2019/10/'> October 2019 </option>
+<option value='https://mendovoice.com/2019/09/'> September 2019 </option>
+<option value='https://mendovoice.com/2019/08/'> August 2019 </option>
+<option value='https://mendovoice.com/2019/07/'> July 2019 </option>
+<option value='https://mendovoice.com/2019/06/'> June 2019 </option>
+<option value='https://mendovoice.com/2019/05/'> May 2019 </option>
+<option value='https://mendovoice.com/2019/04/'> April 2019 </option>
+<option value='https://mendovoice.com/2019/03/'> March 2019 </option>
+<option value='https://mendovoice.com/2019/02/'> February 2019 </option>
+<option value='https://mendovoice.com/2019/01/'> January 2019 </option>
+<option value='https://mendovoice.com/2018/12/'> December 2018 </option>
+<option value='https://mendovoice.com/2018/11/'> November 2018 </option>
+<option value='https://mendovoice.com/2018/10/'> October 2018 </option>
+<option value='https://mendovoice.com/2018/09/'> September 2018 </option>
+<option value='https://mendovoice.com/2018/08/'> August 2018 </option>
+<option value='https://mendovoice.com/2018/07/'> July 2018 </option>
+<option value='https://mendovoice.com/2018/06/'> June 2018 </option>
+<option value='https://mendovoice.com/2018/05/'> May 2018 </option>
+<option value='https://mendovoice.com/2018/04/'> April 2018 </option>
+<option value='https://mendovoice.com/2018/03/'> March 2018 </option>
+<option value='https://mendovoice.com/2018/02/'> February 2018 </option>
+<option value='https://mendovoice.com/2018/01/'> January 2018 </option>
+<option value='https://mendovoice.com/2017/12/'> December 2017 </option>
+<option value='https://mendovoice.com/2017/11/'> November 2017 </option>
+<option value='https://mendovoice.com/2017/10/'> October 2017 </option>
+<option value='https://mendovoice.com/2017/09/'> September 2017 </option>
+<option value='https://mendovoice.com/2017/08/'> August 2017 </option>
+<option value='https://mendovoice.com/2017/07/'> July 2017 </option>
+<option value='https://mendovoice.com/2017/06/'> June 2017 </option>
+<option value='https://mendovoice.com/2017/05/'> May 2017 </option>
+<option value='https://mendovoice.com/2017/04/'> April 2017 </option>
+<option value='https://mendovoice.com/2017/03/'> March 2017 </option>
+<option value='https://mendovoice.com/2017/02/'> February 2017 </option>
+<option value='https://mendovoice.com/2017/01/'> January 2017 </option>
+<option value='https://mendovoice.com/2016/12/'> December 2016 </option>
+<option value='https://mendovoice.com/2016/11/'> November 2016 </option>
+<option value='https://mendovoice.com/2016/10/'> October 2016 </option>
+<option value='https://mendovoice.com/2016/09/'> September 2016 </option>
+</select>
+<script type="text/javascript" src="data:text/javascript;base64,KGZ1bmN0aW9uKCl7dmFyIGRyb3Bkb3duPWRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJhcmNoaXZlcy1kcm9wZG93bi0tMSIpO2Z1bmN0aW9uIG9uU2VsZWN0Q2hhbmdlKCl7aWYoZHJvcGRvd24ub3B0aW9uc1tkcm9wZG93bi5zZWxlY3RlZEluZGV4XS52YWx1ZSE9PScnKXtkb2N1bWVudC5sb2NhdGlvbi5ocmVmPXRoaXMub3B0aW9uc1t0aGlzLnNlbGVjdGVkSW5kZXhdLnZhbHVlfX0KZHJvcGRvd24ub25jaGFuZ2U9b25TZWxlY3RDaGFuZ2V9KSgp" defer></script>
+</div></div>
+</div>
+<div id="boilerplate">
+<div class="row-fluid clearfix">
+<div class="span6">
+<ul id="footer-social" class="social-icons">
+<li><a href="https://www.facebook.com/MendoVoice/" title="Link to Facebook Profile"><i class="icon-facebook"></i></a></li><li><a href="https://twitter.com/themendovoice" title="Link to Twitter Page"><i class="icon-twitter"></i></a></li><li><a href="https://www.youtube.com/channel/UCPLFjE2By4eiUwyRRkt5gRw" title="Link to YouTube Page"><i class="icon-youtube"></i></a></li><li><a href="https://www.instagram.com/mendovoice/" title="Link to Instagram Page"><i class="icon-instagram"></i></a></li><li><a href="https://mendovoice.com/feed/" title="Link to RSS Feed"><i class="icon-rss"></i></a></li> </ul>
+<div class="footer-bottom clearfix">
+
+<p class="footer-credit">&copy; Copyright 2023, The Mendocino Voice, Mendocino News Media LLC</p>
+<ul id="menu-footer-bottom" class="menu"><li id="menu-item-149319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149319"><a href="https://mendovoice.com/about/">About Us</a></li>
+<li id="menu-item-149320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149320"><a href="https://mendovoice.com/about/">Contact</a></li>
+<li id="menu-item-149321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149321"><a href="https://mendovoice.com/tips/">Tips &#038; Submissions</a></li>
+<li id="menu-item-149322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149322"><a href="https://mendovoice.com/advertise/">Advertise</a></li>
+<li id="menu-item-156626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-156626"><a href="https://mendovoice.com/commenting-and-letter-to-editor-policy/">Policies</a></li>
+</ul> </div>
+</div>
+<div class="span6 right">
+<p class="footer-credit footer-credit-padding-inn-logo-missing">Built with the <a href="http://largoproject.org">Largo WordPress Theme</a> from the <a href="http://inn.org">Institute for Nonprofit News</a>.</p>
+</div>
+</div>
+<p class="back-to-top visuallyhidden"><a href="#top">Back to top &uarr;</a></p>
+</div>
+</footer>
+</div>
+<script src="data:text/javascript;base64,KGZ1bmN0aW9uKCl7dmFyIGFkdmFuY2VkX2Fkc19nYV9VSUQ9IlVBLTgzNjY2MTE4LTEiLGFkdmFuY2VkX2Fkc19nYV9hbm9ueW1JUD0hITE7ZnVuY3Rpb24gQWR2QWRzQWRCbG9ja0NvdW50ZXJHQSh0KXt0aGlzLlVJRD10LHRoaXMuYW5hbHl0aWNzT2JqZWN0PSJmdW5jdGlvbiI9PXR5cGVvZiBndGFnO3ZhciBuPXRoaXM7cmV0dXJuIHRoaXMuY291bnQ9ZnVuY3Rpb24oKXtndGFnKCJldmVudCIsIkFkQmxvY2siLHtldmVudF9jYXRlZ29yeToiQWR2YW5jZWQgQWRzIixldmVudF9sYWJlbDoiWWVzIixub25faW50ZXJhY3Rpb246ITAsc2VuZF90bzpuLlVJRH0pfSxmdW5jdGlvbigpe2lmKCFuLmFuYWx5dGljc09iamVjdCl7dmFyIGU9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7ZS5zcmM9Imh0dHBzOi8vd3d3Lmdvb2dsZXRhZ21hbmFnZXIuY29tL2d0YWcvanM/aWQ9Iit0LGUuYXN5bmM9ITAsZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChlKSx3aW5kb3cuZGF0YUxheWVyPXdpbmRvdy5kYXRhTGF5ZXJ8fFtdLHdpbmRvdy5ndGFnPWZ1bmN0aW9uKCl7ZGF0YUxheWVyLnB1c2goYXJndW1lbnRzKX0sbi5hbmFseXRpY3NPYmplY3Q9ITAsZ3RhZygianMiLG5ldyBEYXRlKX12YXIgYT17c2VuZF9wYWdlX3ZpZXc6ITEsdHJhbnNwb3J0X3R5cGU6ImJlYWNvbiJ9O3dpbmRvdy5hZHZhbmNlZF9hZHNfZ2FfYW5vbnltSVAmJihhLmFub255bWl6ZV9pcD0hMCksZ3RhZygiY29uZmlnIix0LGEpfSgpLHRoaXN9d2luZG93LmFkdmFuY2VkX2Fkc19jaGVja19hZGJsb2NrZXI9ZnVuY3Rpb24odCl7dmFyIG49W10sZT1udWxsO2Z1bmN0aW9uIGEodCl7KHdpbmRvdy5yZXF1ZXN0QW5pbWF0aW9uRnJhbWV8fHdpbmRvdy5tb3pSZXF1ZXN0QW5pbWF0aW9uRnJhbWV8fHdpbmRvdy53ZWJraXRSZXF1ZXN0QW5pbWF0aW9uRnJhbWV8fGZ1bmN0aW9uKHQpe3JldHVybiBzZXRUaW1lb3V0KHQsMTYpfSkuY2FsbCh3aW5kb3csdCl9cmV0dXJuIGEoKGZ1bmN0aW9uKCl7dmFyIHQ9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgiZGl2Iik7dC5pbm5lckhUTUw9IiZuYnNwOyIsdC5zZXRBdHRyaWJ1dGUoImNsYXNzIiwiYWRfdW5pdCBhZC11bml0IHRleHQtYWQgdGV4dF9hZCBwdWJfMzAweDI1MCIpLHQuc2V0QXR0cmlidXRlKCJzdHlsZSIsIndpZHRoOiAxcHggIWltcG9ydGFudDsgaGVpZ2h0OiAxcHggIWltcG9ydGFudDsgcG9zaXRpb246IGFic29sdXRlICFpbXBvcnRhbnQ7IGxlZnQ6IDBweCAhaW1wb3J0YW50OyB0b3A6IDBweCAhaW1wb3J0YW50OyBvdmVyZmxvdzogaGlkZGVuICFpbXBvcnRhbnQ7IiksZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZCh0KSxhKChmdW5jdGlvbigpe3ZhciBhPXdpbmRvdy5nZXRDb21wdXRlZFN0eWxlJiZ3aW5kb3cuZ2V0Q29tcHV0ZWRTdHlsZSh0KSxvPWEmJmEuZ2V0UHJvcGVydHlWYWx1ZSgiLW1vei1iaW5kaW5nIik7ZT1hJiYibm9uZSI9PT1hLmdldFByb3BlcnR5VmFsdWUoImRpc3BsYXkiKXx8InN0cmluZyI9PXR5cGVvZiBvJiYtMSE9PW8uaW5kZXhPZigiYWJvdXQ6Iik7Zm9yKHZhciBpPTAsZD1uLmxlbmd0aDtpPGQ7aSsrKW5baV0oZSk7bj1bXX0pKX0pKSxmdW5jdGlvbih0KXtudWxsIT09ZT90KGUpOm4ucHVzaCh0KX19KCksYWR2YW5jZWRfYWRzX2NoZWNrX2FkYmxvY2tlcigoZnVuY3Rpb24odCl7dCYmbmV3IEFkdkFkc0FkQmxvY2tDb3VudGVyR0EoYWR2YW5jZWRfYWRzX2dhX1VJRCkuY291bnQoKX0pKX0pKCk=" defer></script> <div class="jetpack-instant-search__widget-area" style="display: none">
+<div id="jetpack-search-filters-3" class="widget widget-1 odd widget jetpack-filters widget_search"> <div id="jetpack-search-filters-3-wrapper" class="jetpack-instant-search-wrapper">
+</div></div> </div>
+<script type="text/template" id="tmpl-floating-social-buttons"><div class="largo-follow post-social clearfix"><span class="more-social-links">
+	<a class="popover-toggle" href="#"><i class="icon-plus"></i><span class="hidden-phone">More</span></a>
+	<span class="popover">
+	<ul>
+		<li><a href="https://mendovoice.com/category/fire-emergency/"><i class="icon-link"></i> <span>More on Fire &amp; Emergency</span></a></li>
+<li><a href="https://mendovoice.com/category/fire-emergency/feed/"><i class="icon-rss"></i> <span>Subscribe to Fire &amp; Emergency</span></a></li>
+	</ul>
+	</span>
+</span></div></script> <script type="text/javascript" id="floating-social-buttons-width-json" src="data:text/javascript;base64,d2luZG93LmZsb2F0aW5nX3NvY2lhbF9idXR0b25zX3dpZHRoPXsibWluIjoiMTQwMCIsIm1heCI6Ijk5OTkifQ==" defer></script>
+<script type="text/javascript" src="https://mendovoice.com/wp-content/themes/largo-0.5.5.4/js/floating-social-buttons.min.js?ver=0.5.5.4" defer data-deferred="1"></script>
+
+<script type="text/javascript" src="data:text/javascript;base64,dmFyIF9xZXZlbnRzPV9xZXZlbnRzfHxbXTsoZnVuY3Rpb24oKXt2YXIgZWxlbT1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTtlbGVtLnNyYz0oZG9jdW1lbnQubG9jYXRpb24ucHJvdG9jb2w9PSJodHRwczoiPyJodHRwczovL3NlY3VyZSI6Imh0dHA6Ly9lZGdlIikrIi5xdWFudHNlcnZlLmNvbS9xdWFudC5qcyI7ZWxlbS5hc3luYz0hMDtlbGVtLnR5cGU9InRleHQvamF2YXNjcmlwdCI7dmFyIHNjcHQ9ZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ3NjcmlwdCcpWzBdO3NjcHQucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoZWxlbSxzY3B0KX0pKCk7X3FldmVudHMucHVzaCh7cWFjY3Q6InAtcWRMQ3hRUWhrYWNKayIsc291cmNlOiJ3cCJ9KQ==" defer></script>
+<noscript>
+		<div style="display:none;">
+			<img src="//pixel.quantserve.com/pixel/p-qdLCxQQhkacJk.gif" border="0" height="1" width="1" alt="Quantcast"/>
+		</div>
+		</noscript>
+
+<script type="text/javascript" src="data:text/javascript;base64,d2luZG93LldQQ09NX3NoYXJpbmdfY291bnRzPXsiaHR0cHM6XC9cL21lbmRvdm9pY2UuY29tXC8yMDE5XC8xMFwvZmlyZWZpZ2h0ZXJzLXJlc3BvbmRpbmctdG8tc21hbGwtdmVnZXRhdGlvbi1maXJlLWluLWxpdHRsZS1sYWtlLXZhbGxleS1zcHJlYWQtaW50by1zdHJ1Y3R1cmVcLyI6MjU0NzYxfQ==" defer></script>
+<script type='text/javascript' src='https://mendovoice.com/wp-includes/js/comment-reply.min.js?ver=6.1.1' id='comment-reply-js' defer data-deferred="1"></script>
+<script type='text/javascript' src='https://mendovoice.com/wp-content/plugins/embed-any-document/js/pdfobject.min.js?ver=2.7.2' id='awsm-ead-pdf-object-js' defer data-deferred="1"></script>
+<script type='text/javascript' id='awsm-ead-public-js-extra' src="data:text/javascript;base64,dmFyIGVhZFB1YmxpYz1bXQ==" defer></script>
+<script type='text/javascript' src='https://mendovoice.com/wp-content/plugins/embed-any-document/js/embed-public.min.js?ver=2.7.2' id='awsm-ead-public-js' defer data-deferred="1"></script>
+<script type='text/javascript' id='jetpack-instant-search-js-before' src="data:text/javascript;base64,dmFyIEpldHBhY2tJbnN0YW50U2VhcmNoT3B0aW9ucz1KU09OLnBhcnNlKGRlY29kZVVSSUNvbXBvbmVudCgiJTdCJTIyb3ZlcmxheU9wdGlvbnMlMjIlM0ElN0IlMjJjb2xvclRoZW1lJTIyJTNBJTIybGlnaHQlMjIlMkMlMjJlbmFibGVJbmZTY3JvbGwlMjIlM0F0cnVlJTJDJTIyZW5hYmxlU29ydCUyMiUzQXRydWUlMkMlMjJoaWdobGlnaHRDb2xvciUyMiUzQSUyMiUyM0ZGQyUyMiUyQyUyMm92ZXJsYXlUcmlnZ2VyJTIyJTNBJTIyc3VibWl0JTIyJTJDJTIycmVzdWx0Rm9ybWF0JTIyJTNBJTIyZXhwYW5kZWQlMjIlMkMlMjJzaG93UG93ZXJlZEJ5JTIyJTNBdHJ1ZSUyQyUyMmRlZmF1bHRTb3J0JTIyJTNBJTIycmVsZXZhbmNlJTIyJTJDJTIyZXhjbHVkZWRQb3N0VHlwZXMlMjIlM0ElNUIlNUQlN0QlMkMlMjJob21lVXJsJTIyJTNBJTIyaHR0cHMlM0ElNUMlMkYlNUMlMkZtZW5kb3ZvaWNlLmNvbSUyMiUyQyUyMmxvY2FsZSUyMiUzQSUyMmVuLVVTJTIyJTJDJTIycG9zdHNQZXJQYWdlJTIyJTNBNSUyQyUyMnNpdGVJZCUyMiUzQTExNDE2NjczMiUyQyUyMnBvc3RUeXBlcyUyMiUzQSU3QiUyMnBvc3QlMjIlM0ElN0IlMjJzaW5ndWxhcl9uYW1lJTIyJTNBJTIyUG9zdCUyMiUyQyUyMm5hbWUlMjIlM0ElMjJQb3N0cyUyMiU3RCUyQyUyMnBhZ2UlMjIlM0ElN0IlMjJzaW5ndWxhcl9uYW1lJTIyJTNBJTIyUGFnZSUyMiUyQyUyMm5hbWUlMjIlM0ElMjJQYWdlcyUyMiU3RCUyQyUyMmF0dGFjaG1lbnQlMjIlM0ElN0IlMjJzaW5ndWxhcl9uYW1lJTIyJTNBJTIyTWVkaWElMjIlMkMlMjJuYW1lJTIyJTNBJTIyTWVkaWElMjIlN0QlN0QlMkMlMjJ3ZWJwYWNrUHVibGljUGF0aCUyMiUzQSUyMmh0dHBzJTNBJTVDJTJGJTVDJTJGbWVuZG92b2ljZS5jb20lNUMlMkZ3cC1jb250ZW50JTVDJTJGcGx1Z2lucyU1QyUyRmpldHBhY2slNUMlMkZqZXRwYWNrX3ZlbmRvciU1QyUyRmF1dG9tYXR0aWMlNUMlMkZqZXRwYWNrLXNlYXJjaCU1QyUyRmJ1aWxkJTVDJTJGaW5zdGFudC1zZWFyY2glNUMlMkYlMjIlMkMlMjJpc1Bob3RvbkVuYWJsZWQlMjIlM0FmYWxzZSUyQyUyMmlzRnJlZVBsYW4lMjIlM0FmYWxzZSUyQyUyMmFwaVJvb3QlMjIlM0ElMjJodHRwcyUzQSU1QyUyRiU1QyUyRm1lbmRvdm9pY2UuY29tJTVDJTJGd3AtanNvbiU1QyUyRiUyMiUyQyUyMmFwaU5vbmNlJTIyJTNBJTIyZTRhNmE3ODY2ZiUyMiUyQyUyMmlzUHJpdmF0ZVNpdGUlMjIlM0FmYWxzZSUyQyUyMmlzV3Bjb20lMjIlM0FmYWxzZSUyQyUyMmhhc092ZXJsYXlXaWRnZXRzJTIyJTNBdHJ1ZSUyQyUyMndpZGdldHMlMjIlM0ElNUIlN0IlMjJmaWx0ZXJzJTIyJTNBJTVCJTdCJTIybmFtZSUyMiUzQSUyMlBvc3QlMjBUeXBlcyUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwb3N0X3R5cGUlMjIlMkMlMjJjb3VudCUyMiUzQTUlMkMlMjJ3aWRnZXRfaWQlMjIlM0ElMjJqZXRwYWNrLXNlYXJjaC1maWx0ZXJzLTMlMjIlMkMlMjJmaWx0ZXJfaWQlMjIlM0ElMjJwb3N0X3R5cGVfMCUyMiU3RCUyQyU3QiUyMm5hbWUlMjIlM0ElMjJQb3N0JTIwUHJvbWluZW5jZSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJ0YXhvbm9teSUyMiUyQyUyMnRheG9ub215JTIyJTNBJTIycHJvbWluZW5jZSUyMiUyQyUyMmNvdW50JTIyJTNBNSUyQyUyMndpZGdldF9pZCUyMiUzQSUyMmpldHBhY2stc2VhcmNoLWZpbHRlcnMtMyUyMiUyQyUyMmZpbHRlcl9pZCUyMiUzQSUyMnRheG9ub215XzElMjIlN0QlMkMlN0IlMjJuYW1lJTIyJTNBJTIyU2VyaWVzJTIyJTJDJTIydHlwZSUyMiUzQSUyMnRheG9ub215JTIyJTJDJTIydGF4b25vbXklMjIlM0ElMjJzZXJpZXMlMjIlMkMlMjJjb3VudCUyMiUzQTUlMkMlMjJ3aWRnZXRfaWQlMjIlM0ElMjJqZXRwYWNrLXNlYXJjaC1maWx0ZXJzLTMlMjIlMkMlMjJmaWx0ZXJfaWQlMjIlM0ElMjJ0YXhvbm9teV8yJTIyJTdEJTJDJTdCJTIybmFtZSUyMiUzQSUyMkNhdGVnb3JpZXMlMjIlMkMlMjJ0eXBlJTIyJTNBJTIydGF4b25vbXklMjIlMkMlMjJ0YXhvbm9teSUyMiUzQSUyMmNhdGVnb3J5JTIyJTJDJTIyY291bnQlMjIlM0E1JTJDJTIyd2lkZ2V0X2lkJTIyJTNBJTIyamV0cGFjay1zZWFyY2gtZmlsdGVycy0zJTIyJTJDJTIyZmlsdGVyX2lkJTIyJTNBJTIydGF4b25vbXlfMyUyMiU3RCUyQyU3QiUyMm5hbWUlMjIlM0ElMjJUYWdzJTIyJTJDJTIydHlwZSUyMiUzQSUyMnRheG9ub215JTIyJTJDJTIydGF4b25vbXklMjIlM0ElMjJwb3N0X3RhZyUyMiUyQyUyMmNvdW50JTIyJTNBNSUyQyUyMndpZGdldF9pZCUyMiUzQSUyMmpldHBhY2stc2VhcmNoLWZpbHRlcnMtMyUyMiUyQyUyMmZpbHRlcl9pZCUyMiUzQSUyMnRheG9ub215XzQlMjIlN0QlMkMlN0IlMjJuYW1lJTIyJTNBJTIyWWVhciUyMiUyQyUyMnR5cGUlMjIlM0ElMjJkYXRlX2hpc3RvZ3JhbSUyMiUyQyUyMmNvdW50JTIyJTNBNSUyQyUyMmZpZWxkJTIyJTNBJTIycG9zdF9kYXRlJTIyJTJDJTIyaW50ZXJ2YWwlMjIlM0ElMjJ5ZWFyJTIyJTJDJTIyd2lkZ2V0X2lkJTIyJTNBJTIyamV0cGFjay1zZWFyY2gtZmlsdGVycy0zJTIyJTJDJTIyZmlsdGVyX2lkJTIyJTNBJTIyZGF0ZV9oaXN0b2dyYW1fNSUyMiU3RCU1RCUyQyUyMndpZGdldF9pZCUyMiUzQSUyMmpldHBhY2stc2VhcmNoLWZpbHRlcnMtMyUyMiU3RCU1RCUyQyUyMndpZGdldHNPdXRzaWRlT3ZlcmxheSUyMiUzQSU1QiU1RCUyQyUyMmhhc05vblNlYXJjaFdpZGdldHMlMjIlM0FmYWxzZSU3RCIpKQ==" defer></script>
+<script type='text/javascript' src='https://mendovoice.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-search/build/instant-search/jp-search.js?minify=false&#038;ver=cccf5593aef3de8e9b3f' id='jetpack-instant-search-js' defer data-deferred="1"></script>
+<script type='text/javascript' src='//stats.wp.com/w.js?ver=202306' id='jp-tracks-js' defer data-deferred="1"></script>
+<script type='text/javascript' id='advanced-ads-pro/front-js-extra' src="data:text/javascript;base64,dmFyIGFkdmFkc0NmcEluZm89eyJjZnBFeHBIb3VycyI6IjMiLCJjZnBDbGlja0xpbWl0IjoiMyIsImNmcEJhbiI6IjciLCJjZnBQYXRoIjoiIiwiY2ZwRG9tYWluIjoiIn0=" defer></script>
+<script type='text/javascript' src='https://mendovoice.com/wp-content/plugins/advanced-ads-pro/assets/js/advanced-ads-pro.min.js?ver=2.21.1' id='advanced-ads-pro/front-js' defer data-deferred="1"></script>
+<script type='text/javascript' src='https://mendovoice.com/home/mvwpv4usr/webapps/mvwpv4/wp-content/themes/Largo-Sample-Child-Theme-master/js/your_theme.js?ver=0.1.0' id='your_theme-js' defer data-deferred="1"></script>
+<script type='text/javascript' id='largoCore-js-extra' src="data:text/javascript;base64,dmFyIExhcmdvPXsiaXNfaG9tZSI6IiIsImlzX3NpbmdsZSI6IjEiLCJzdGlja3lfbmF2X29wdGlvbnMiOnsic3RpY2t5X25hdl9kaXNwbGF5IjohMCwibWFpbl9uYXZfaGlkZV9hcnRpY2xlIjohMSwibmF2X292ZXJmbG93X2xhYmVsIjoiTW9yZSJ9fQ==" defer></script>
+<script type='text/javascript' src='https://mendovoice.com/wp-content/themes/largo-0.5.5.4/js/largoCore.min.js?ver=0.5.5.4' id='largoCore-js' defer data-deferred="1"></script>
+<script type='text/javascript' src='https://mendovoice.com/wp-content/themes/largo-0.5.5.4/js/navigation.min.js?ver=0.5.5.4' id='largo-navigation-js' defer data-deferred="1"></script>
+<script type='text/javascript' src='https://mendovoice.com/wp-content/themes/largo-0.5.5.4/js/largoPlugins.js?ver=0.5.5.4' id='largoPlugins-js' defer data-deferred="1"></script>
+<script type='text/javascript' src='https://mendovoice.com/wp-content/themes/largo-0.5.5.4/lib/navis-slideshows/vendor/slick/slick.min.js?ver=3.0' id='jquery-slick-js' defer data-deferred="1"></script>
+<script type='text/javascript' src='https://mendovoice.com/wp-content/themes/largo-0.5.5.4/lib/navis-slideshows/js/navis-slideshows.js?ver=0.11' id='navis-slideshows-js' defer data-deferred="1"></script>
+<script type='text/javascript' id='advadsTrackingScript-js-extra' src="data:text/javascript;base64,dmFyIGFkdmFkc1RyYWNraW5nPXsiaW1wcmVzc2lvbkFjdGlvbk5hbWUiOiJhYXRyYWNrLXJlY29yZHMiLCJjbGlja0FjdGlvbk5hbWUiOiJhYXRyYWNrLWNsaWNrIiwidGFyZ2V0Q2xhc3MiOiJtZW5kby10YXJnZXQiLCJibG9nSWQiOiIxIiwiZnJvbnRlbmRQcmVmaXgiOiJtZW5kby0ifQ==" defer></script>
+<script type='text/javascript' src='https://mendovoice.com/wp-content/plugins/advanced-ads-tracking/public/assets/js/dist/tracking.min.js?ver=2.4.3' id='advadsTrackingScript-js' defer data-deferred="1"></script>
+<script defer type='text/javascript' src='https://mendovoice.com/wp-content/plugins/akismet/_inc/akismet-frontend.js?ver=1669951068' id='akismet-frontend-js'></script>
+<script type='text/javascript' id='sharing-js-js-extra' src="data:text/javascript;base64,dmFyIHNoYXJpbmdfanNfb3B0aW9ucz17ImxhbmciOiJlbiIsImNvdW50cyI6IjEiLCJpc19zdGF0c19hY3RpdmUiOiIxIn0=" defer></script>
+<script type='text/javascript' src='https://mendovoice.com/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=11.7.1' id='sharing-js-js' defer data-deferred="1"></script>
+<script type='text/javascript' id='sharing-js-js-after' src="data:text/javascript;base64,dmFyIHdpbmRvd09wZW47KGZ1bmN0aW9uKCl7ZnVuY3Rpb24gbWF0Y2hlcyhlbCxzZWwpe3JldHVybiEhKGVsLm1hdGNoZXMmJmVsLm1hdGNoZXMoc2VsKXx8ZWwubXNNYXRjaGVzU2VsZWN0b3ImJmVsLm1zTWF0Y2hlc1NlbGVjdG9yKHNlbCkpfQpkb2N1bWVudC5ib2R5LmFkZEV2ZW50TGlzdGVuZXIoJ2NsaWNrJyxmdW5jdGlvbihldmVudCl7aWYoIWV2ZW50LnRhcmdldCl7cmV0dXJufQp2YXIgZWw7aWYobWF0Y2hlcyhldmVudC50YXJnZXQsJ2Euc2hhcmUtdHdpdHRlcicpKXtlbD1ldmVudC50YXJnZXR9ZWxzZSBpZihldmVudC50YXJnZXQucGFyZW50Tm9kZSYmbWF0Y2hlcyhldmVudC50YXJnZXQucGFyZW50Tm9kZSwnYS5zaGFyZS10d2l0dGVyJykpe2VsPWV2ZW50LnRhcmdldC5wYXJlbnROb2RlfQppZihlbCl7ZXZlbnQucHJldmVudERlZmF1bHQoKTtpZih0eXBlb2Ygd2luZG93T3BlbiE9PSd1bmRlZmluZWQnKXt3aW5kb3dPcGVuLmNsb3NlKCl9CndpbmRvd09wZW49d2luZG93Lm9wZW4oZWwuZ2V0QXR0cmlidXRlKCdocmVmJyksJ3dwY29tdHdpdHRlcicsJ21lbnViYXI9MSxyZXNpemFibGU9MSx3aWR0aD02MDAsaGVpZ2h0PTM1MCcpO3JldHVybiExfX0pfSkoKTt2YXIgd2luZG93T3BlbjsoZnVuY3Rpb24oKXtmdW5jdGlvbiBtYXRjaGVzKGVsLHNlbCl7cmV0dXJuISEoZWwubWF0Y2hlcyYmZWwubWF0Y2hlcyhzZWwpfHxlbC5tc01hdGNoZXNTZWxlY3RvciYmZWwubXNNYXRjaGVzU2VsZWN0b3Ioc2VsKSl9CmRvY3VtZW50LmJvZHkuYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLGZ1bmN0aW9uKGV2ZW50KXtpZighZXZlbnQudGFyZ2V0KXtyZXR1cm59CnZhciBlbDtpZihtYXRjaGVzKGV2ZW50LnRhcmdldCwnYS5zaGFyZS1mYWNlYm9vaycpKXtlbD1ldmVudC50YXJnZXR9ZWxzZSBpZihldmVudC50YXJnZXQucGFyZW50Tm9kZSYmbWF0Y2hlcyhldmVudC50YXJnZXQucGFyZW50Tm9kZSwnYS5zaGFyZS1mYWNlYm9vaycpKXtlbD1ldmVudC50YXJnZXQucGFyZW50Tm9kZX0KaWYoZWwpe2V2ZW50LnByZXZlbnREZWZhdWx0KCk7aWYodHlwZW9mIHdpbmRvd09wZW4hPT0ndW5kZWZpbmVkJyl7d2luZG93T3Blbi5jbG9zZSgpfQp3aW5kb3dPcGVuPXdpbmRvdy5vcGVuKGVsLmdldEF0dHJpYnV0ZSgnaHJlZicpLCd3cGNvbWZhY2Vib29rJywnbWVudWJhcj0xLHJlc2l6YWJsZT0xLHdpZHRoPTYwMCxoZWlnaHQ9NDAwJyk7cmV0dXJuITF9fSl9KSgp" defer></script>
+<script src="data:text/javascript;base64,d2luZG93LmFkdmFkc19hZG1pbl9iYXJfaXRlbXM9W3sidGl0bGUiOiJIZWFsdGggU3BvbnNvcnNoaXAgUm90YXRpb24iLCJ0eXBlIjoiZ3JvdXAifSx7InRpdGxlIjoiSGVhbHRoIFNwb25zb3JzaGlwIFJvdGF0aW9uIiwidHlwZSI6Imdyb3VwIn0seyJ0aXRsZSI6IlNvbm9tYSBXYXRlciBEcm91Z2h0IFN1bW1lciBJbmxpbmUiLCJ0eXBlIjoiYWQifSx7InRpdGxlIjoiSW5saW5lIFJvdGF0aW9uIiwidHlwZSI6Imdyb3VwIn0seyJ0aXRsZSI6IklubGluZSBwbGFjZW1lbnQiLCJ0eXBlIjoicGxhY2VtZW50In0seyJ0aXRsZSI6IkFkdmVudGlzdCBJbmxpbmUgU3VtbWVyIDIwMjEiLCJ0eXBlIjoiYWQifSx7InRpdGxlIjoiSW5saW5lIFJvdGF0aW9uIiwidHlwZSI6Imdyb3VwIn0seyJ0aXRsZSI6IklubGluZSByZXBlYXRpbmciLCJ0eXBlIjoicGxhY2VtZW50In0seyJ0aXRsZSI6IkFkdmVudGlzdCBJbmxpbmUgU3VtbWVyIDIwMjEiLCJ0eXBlIjoiYWQifSx7InRpdGxlIjoiSW5saW5lIFJvdGF0aW9uIiwidHlwZSI6Imdyb3VwIn0seyJ0aXRsZSI6IklubGluZSByZXBlYXRpbmciLCJ0eXBlIjoicGxhY2VtZW50In0seyJ0aXRsZSI6IkFkdmVudGlzdCBIYWxmIFBhZ2UgU3VtbWVyIDIwMjEiLCJ0eXBlIjoiYWQifSx7InRpdGxlIjoiSGFsZiBQYWdlIFJvdGF0aW9uIiwidHlwZSI6Imdyb3VwIn0seyJ0aXRsZSI6IkhhbGYgUGFnZSBJbmxpbmUiLCJ0eXBlIjoicGxhY2VtZW50In0seyJ0aXRsZSI6IkFkdmVudGlzdCBIZWFsdGggaGVhbHRoIHNwb25zb3JzaGlwIiwidHlwZSI6ImFkIn0seyJ0aXRsZSI6IkhlYWx0aCBTcG9uc29yc2hpcCBSb3RhdGlvbiIsInR5cGUiOiJncm91cCJ9LHsidGl0bGUiOiJBZHZlbnRpc3QgU3VtbWVyIDIwMjEgTGVhZGVyYm9hcmQiLCJ0eXBlIjoiYWQifSx7InRpdGxlIjoiTGVhZGVyYm9hcmQgUm90YXRpb24iLCJ0eXBlIjoiZ3JvdXAifSx7InRpdGxlIjoiQWR2ZW50aXN0IFRvcCBCb3ggU3VtbWVyIDIwMjEiLCJ0eXBlIjoiYWQifSx7InRpdGxlIjoiVG9wIEJveCBSb3RhdGlvbiIsInR5cGUiOiJncm91cCJ9LHsidGl0bGUiOiJUb3AgQm94IiwidHlwZSI6InBsYWNlbWVudCJ9LHsidGl0bGUiOiJBZHZlbnRpc3QgSGFsZiBQYWdlIFN1bW1lciAyMDIxIiwidHlwZSI6ImFkIn0seyJ0aXRsZSI6IkhhbGYgUGFnZSBSb3RhdGlvbiIsInR5cGUiOiJncm91cCJ9LHsidGl0bGUiOiJIYWxmIFBhZ2UiLCJ0eXBlIjoicGxhY2VtZW50In0seyJ0aXRsZSI6IlZvY2FsaXR5IG1pZCBib3ggU3VtbWVyIDIwMjEiLCJ0eXBlIjoiYWQifSx7InRpdGxlIjoiTWlkIEJveCBSb3RhdGlvbiIsInR5cGUiOiJncm91cCJ9LHsidGl0bGUiOiJNaWQgQm94IiwidHlwZSI6InBsYWNlbWVudCJ9LHsidGl0bGUiOiJWb2NhbGl0eSBCb251cyBTdW1tZXIgMjAyMSIsInR5cGUiOiJhZCJ9LHsidGl0bGUiOiJCb251cyBCb3ggUm90YXRpb24iLCJ0eXBlIjoiZ3JvdXAifSx7InRpdGxlIjoiQm9udXMgQm94IiwidHlwZSI6InBsYWNlbWVudCJ9LHsidGl0bGUiOiJBZHZlbnRpc3QgVG9wIEJveCBTdW1tZXIgMjAyMSIsInR5cGUiOiJhZCJ9LHsidGl0bGUiOiJUb3AgQm94IFJvdGF0aW9uIiwidHlwZSI6Imdyb3VwIn0seyJ0aXRsZSI6IlRvcCBCb3giLCJ0eXBlIjoicGxhY2VtZW50In0seyJ0aXRsZSI6IkFkdmVudGlzdCBUb3AgQm94IFN1bW1lciAyMDIxIiwidHlwZSI6ImFkIn0seyJ0aXRsZSI6IlRvcCBCb3ggUm90YXRpb24iLCJ0eXBlIjoiZ3JvdXAifSx7InRpdGxlIjoiVG9wIEJveCIsInR5cGUiOiJwbGFjZW1lbnQifSx7InRpdGxlIjoiRmlyZSBzcG9uc29yc2hpcCBKdW5lIDIwMjEiLCJ0eXBlIjoiYWQifSx7InRpdGxlIjoiRmlyZSBTcG9uc29yc2hpcCBSb3RhdGlvbiIsInR5cGUiOiJncm91cCJ9LHsidGl0bGUiOiJGaXJlIFNwb25zb3JzaGlwIFBsYWNlIHYybWVudCIsInR5cGUiOiJwbGFjZW1lbnQifSx7InRpdGxlIjoiQWR2ZW50aXN0IFN1bW1lciAyMDIxIExlYWRlcmJvYXJkIiwidHlwZSI6ImFkIn0seyJ0aXRsZSI6IkxlYWRlcmJvYXJkIFJvdGF0aW9uIiwidHlwZSI6Imdyb3VwIn0seyJ0aXRsZSI6IkxlYWRlcmJvYXJkIiwidHlwZSI6InBsYWNlbWVudCJ9LHsidGl0bGUiOiJMZWFkZXJib2FyZCBSb3RhdGlvbiIsInR5cGUiOiJncm91cCJ9XQ==" defer></script><script src="data:text/javascript;base64,IWZ1bmN0aW9uKCl7d2luZG93LmFkdmFuY2VkX2Fkc19yZWFkeV9xdWV1ZT13aW5kb3cuYWR2YW5jZWRfYWRzX3JlYWR5X3F1ZXVlfHxbXSxhZHZhbmNlZF9hZHNfcmVhZHlfcXVldWUucHVzaD13aW5kb3cuYWR2YW5jZWRfYWRzX3JlYWR5O2Zvcih2YXIgZD0wLGE9YWR2YW5jZWRfYWRzX3JlYWR5X3F1ZXVlLmxlbmd0aDtkPGE7ZCsrKWFkdmFuY2VkX2Fkc19yZWFkeShhZHZhbmNlZF9hZHNfcmVhZHlfcXVldWVbZF0pfSgpOw==" defer></script> <script src='https://stats.wp.com/e-202306.js' defer></script>
+<script src="data:text/javascript;base64,X3N0cT13aW5kb3cuX3N0cXx8W107X3N0cS5wdXNoKFsndmlldycse3Y6J2V4dCcsYmxvZzonMTE0MTY2NzMyJyxwb3N0OicyNTQ3NjEnLHR6OictOCcsc3J2OidtZW5kb3ZvaWNlLmNvbScsajonMToxMS43LjEnfV0pO19zdHEucHVzaChbJ2NsaWNrVHJhY2tlckluaXQnLCcxMTQxNjY3MzInLCcyNTQ3NjEnXSk=" defer></script> <script type="text/javascript" src="data:text/javascript;base64,dmFyIGM0d3Bfb25sb2FkQ2FsbGJhY2s9ZnVuY3Rpb24oKXtmb3IodmFyIGk9MDtpPGRvY3VtZW50LmZvcm1zLmxlbmd0aDtpKyspe3ZhciBmb3JtPWRvY3VtZW50LmZvcm1zW2ldO3ZhciBjYXB0Y2hhX2Rpdj1mb3JtLnF1ZXJ5U2VsZWN0b3IoJy5jNHdwX2NhcHRjaGFfZmllbGRfZGl2Om5vdCgucmVuZGVyZWQpJyk7aWYobnVsbD09PWNhcHRjaGFfZGl2KQpjb250aW51ZTtjYXB0Y2hhX2Rpdi5pbm5lckhUTUw9Jyc7KGZ1bmN0aW9uKGZvcm0pe3ZhciBjNHdwX2NhcHRjaGE9Z3JlY2FwdGNoYS5yZW5kZXIoY2FwdGNoYV9kaXYseydzaXRla2V5JzonNkxkR3BGZ2RBQUFBQUhCLXllRjNsdC1TTnhvczd4SE5UTEpJb19kRycsJ3NpemUnOidub3JtYWwnLCd0aGVtZSc6J2xpZ2h0J30pO2NhcHRjaGFfZGl2LmNsYXNzTGlzdC5hZGQoJ3JlbmRlcmVkJyl9KShmb3JtKX19" defer></script>
+<script src="https://www.google.com/recaptcha/api.js?onload=c4wp_onloadCallback&#038;render=explicit&#038;hl=en" async defer>
+			</script>
+<script id="mendo-tracking" src="data:text/javascript;base64,dmFyIGFkdmFkc190cmFja2luZ19hZHM9eyIxIjpbNzIyODk3LDcyNDU1OSw3MjQ1NTksNzI0NTYxLDcyMzM3MCw3MjI5MTAsNzI0NTYwLDcyNDU2MSw3MjQ4NzQsNzIyOTI1LDcyNDU2MCw3MjQ1NjAsNzIzMzU2LDcyMjkxMF19O3ZhciBhZHZhZHNfdHJhY2tpbmdfdXJscz17IjEiOiJodHRwczpcL1wvbWVuZG92b2ljZS5jb21cL3dwLWNvbnRlbnRcL2FqYXgtaGFuZGxlci5waHAifTt2YXIgYWR2YWRzX3RyYWNraW5nX21ldGhvZHM9eyIxIjoiZnJvbnRlbmQifTt2YXIgYWR2YWRzX3RyYWNraW5nX3BhcmFsbGVsPXsiMSI6ITF9O3ZhciBhZHZhZHNfdHJhY2tpbmdfbGlua2Jhc2VzPXsiMSI6Imh0dHBzOlwvXC9tZW5kb3ZvaWNlLmNvbVwvbGlua291dFwvIn0=" defer></script>
+<script data-no-optimize="1">var litespeed_vary=document.cookie.replace(/(?:(?:^|.*;\s*)_lscache_vary\s*\=\s*([^;]*).*$)|^.*$/,"");litespeed_vary||fetch("/wp-content/plugins/litespeed-cache/guest.vary.php",{method:"POST",cache:"no-cache",redirect:"follow"}).then(e=>e.json()).then(e=>{console.log(e),e.hasOwnProperty("reload")&&"yes"==e.reload&&(sessionStorage.setItem("litespeed_docref",document.referrer),window.location.reload(!0))});</script><script>(function(){var js = "window['__CF$cv$params']={r:'7955e1d0982ffad6',m:'HVbQfFbwV03YSX.L1U.Bqi1ys0tvArge41QcWBmkePo-1675707441-0-AcG+sbXOqKfcPxZoeZUZltpKTE6fWZ808hqAYmmlgoaCOkQJWa691JtM5//GEbtr7Wwz9N8rDwmZBccWVR3GDePZvtVaYYlr6ot0N5p1c+I3dJQV5KKDkYSrf2UwHJSr7P7ThFVE7FbsFNu9YqEDPaY9P8PIUrjC6J3b2xzOk4ozCOfJ8Zfsltd98aq08n0t94qZAwU0gbS2WE8Y0YCrRAzc+czjJInZ3wlkAQb4zOXPtmBF1i/rUNCbKFxfCFXdsA==',s:[0x78c640c3b1,0xc48f6228d7],u:'/cdn-cgi/challenge-platform/h/g'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/g/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"7955e1d0982ffad6","token":"f48b0f6711dd4193baf037a597edca40","version":"2022.11.3","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
+

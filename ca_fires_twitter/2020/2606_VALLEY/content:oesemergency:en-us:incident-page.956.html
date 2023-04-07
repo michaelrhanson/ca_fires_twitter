@@ -1,0 +1,495 @@
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML >
+<html  lang="en">
+
+	
+
+
+
+
+
+
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content=""/>
+    <meta name="description" content=""/>
+    
+    
+
+
+
+
+<link rel="stylesheet" href="/etc/clientlibs/foundation/main.css" type="text/css">
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/utils.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery/granite.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/main.js"></script>
+
+<link rel="stylesheet" href="/etc/designs/oesemergency/clientlibs.css" type="text/css">
+
+
+<script type="text/javascript">
+    //global variable needed for home page random image rotation
+    var homebackground = null;
+    
+ 	// Fix for incorrect viewport width setting in IE 10 on Windows Phone 8.
+	if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+		var msViewportStyle = document.createElement("style");
+		msViewportStyle.appendChild(document.createTextNode("@-ms-viewport{width:auto!important}"));
+		document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+	}
+</script>
+
+<!--[if lt IE 9]>
+	<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<!--[if lt IE 10]>
+	<script src="~/js/formdata.js"></script>
+<![endif]-->
+
+
+    
+
+    
+    
+    
+    <link rel="icon" type="image/vnd.microsoft.icon" href="/etc/designs/oesemergency/favicon.ico"/>
+
+    <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/etc/designs/oesemergency/favicon.ico"/>
+
+    
+    
+    <title>Incident Page</title>
+    
+    
+        
+
+    <!-- Adobe Analytics START-->
+    <script src="//assets.adobedtm.com/f79cf53c56a50a65aff8f56f975225a9c952e351/satelliteLib-4c04d1ca7be64d09229601bd7ec2035c876c8a03.js"></script>
+
+	<script type="text/javascript">
+	var digitalData = {
+        pageInfo:{
+            pageName:"incident-page"
+            }
+	}
+    </script>
+    <!-- Adobe Analytics END-->
+</head>
+
+
+
+	
+
+
+
+<body>
+
+    
+<div class="header iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="header iparsys parsys"><div class="header-comp section">
+
+            <div id="header-area" class="masthead hidden-xs">
+                <div class="container">
+                    <div class="toolbar">
+                        <div class="toolbar-row">
+                            <div class="toolbar-item">
+                                <div class="btn-toolbar" role="toolbar"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="xrm-editable-html xrm-attribute">
+                        <div class="xrm-attribute-value">
+                            <div style="clear: both;">&nbsp;</div>
+                            <div class="header-logo-div" style="float: left;">
+                                
+                                
+                                        <a href="/content/oesemergency/en-us.html">
+                                            <img src="/content/dam/oesemergency/images/header/County_Transp100.png" alt="County Seal"/>
+                                        </a>
+                                
+                            </div>
+                            <div class="header-nav-div" style="float: left;">
+                                <ul class="header-nav-tabs">
+									<li class="  ready-back col-md-3"><a href="https://www.readysandiego.org">ReadySanDiego</a></li>
+									<li class=" active emergency-back col-md-4"><a href="https://sdcountyemergency.com/content/oesemergency/en-us.html">SDCountyEmergency</a></li>
+									<li class="  recovery-back col-md-3"><a href="https://www.sdcountyrecovery.com">SDCountyRecovery</a></li>                                    
+                                </ul>
+                                <div class="header-nav-banner-div">
+                                    
+                                        <img src="/content/dam/oesemergency/images/header/emergency-logo.jpg" alt="OES Header"/>
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- HEADER END -->
+
+            <!-- NAVIGATION START -->
+            <div id="navigation-area" class="header-navbar navbar navbar-default navbar-static-top   emergency-back-menu" role="navigation">
+
+              <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#header-navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <div class="navbar-left visible-xs">
+                        <div class="xrm-editable-html xrm-attribute">
+                            <div class="xrm-attribute-value">
+                                <div>
+                                    
+                                    
+                                        <a class="navbar-brand" href="/content/oesemergency/en-us.html">
+                                            <img style="height: 30px; width: auto; margin-right: 5px; vertical-align: bottom;" src="/content/dam/oesemergency/images/header/County_Transp100.png" alt="County Seal"/>
+                                                    SDCountyEmergency
+                                        </a>
+                                    
+                                </div>
+                                
+
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="header-navbar-collapse" class="navbar-collapse collapse">
+                    <div class="navbar-left hidden-xs">
+                        <div class="xrm-editable-html xrm-attribute no-value"><div class="xrm-attribute-value"></div></div>
+                    </div>
+                    <div class="visible-xs navbar-left">
+                        <ul class="nav navbar-nav">
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                    <span class="fa fa-home" aria-hidden="true"></span>Select site<span class="caret"></span>
+                                </a>
+                                <ul class="dropdown-menu" role="menu">
+                                    <li><a href="https://www.readysandiego.org">ReadySanDiego</a></li>
+                                    <li><a href="https://sdcountyemergency.com/content/oesemergency/en-us.html">SDCountyEmergency</a></li>
+                                    <li><a href="https://www.sdcountyrecovery.com">SDCountyRecovery</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                    <span class="fa fa-globe" aria-hidden="true"></span>Select Language<span class="caret"></span>
+                                </a>
+                                <ul class="dropdown-menu" role="menu">
+                                    <li><a href="/content/oesemergency/en-us/incident-page.956.html">English</a></li>
+                                
+                                    <li><a href="/content/oesemergency/es-us/incident-page.956.html">Español</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <form class="navbar-form navbar-search" role="search" type="POST" action="/content/oesemergency/en-us/search">
+                        <!-- <form class="navbar-form navbar-search" method="GET" action="search/index.html" role="search"> -->
+                        <div class="input-group">
+                            <label for="q-xs" class="sr-only">Search</label>
+                            <input type="text" class="form-control" id="q-xs" name="q"/>
+                            <!-- <input type="text" class="form-control" id="q-xs" name="q" placeholder="Search" value="" title="Search"> -->
+                            <div class="input-group-btn">
+                                <button type="submit" class="btn btn-default" title="Search"><span class="fa fa-search" aria-hidden="true"></span></button>
+                            </div>
+                        </div>
+                        </form>
+                    </div>
+                    <div class="weblinks navbar-left">
+                        <ul class="weblinks-depth-1 nav navbar-nav" data-sitemap-ancestor="active" data-sitemap-current="active" data-state="sitemap" data-weblinks-depth="1">
+                            <li data-sitemap-node="/content/oesemergency/en-us.html">
+                                <a href="/content/oesemergency/en-us.html" title="Home">Home</a>
+                            </li>
+                        
+                            <li data-sitemap-node="/content/oesemergency/en-us/shelters.html">
+                                <a href="/content/oesemergency/en-us/shelters.html" title="Shelters">Shelters</a>
+                            </li>
+                        
+                            <li data-sitemap-node="/content/oesemergency/en-us/local-assistance-centers-map.html">
+                                <a href="/content/oesemergency/en-us/local-assistance-centers-map.html" title="Local Assistance Centers">Local Assistance Centers</a>
+                            </li>
+                        
+                            <li data-sitemap-node="/content/oesemergency/en-us/resources.html">
+                                <a href="/content/oesemergency/en-us/resources.html" title="Other Agencies">Other Agencies</a>
+                            </li>
+                        
+                            <li data-sitemap-node="/content/oesemergency/en-us/reunification.html">
+                                <a href="/content/oesemergency/en-us/reunification.html" title="Reunification">Reunification</a>
+                            </li>
+                        
+                            <li data-sitemap-node="/content/oesemergency/en-us/volunteering.html">
+                                <a href="/content/oesemergency/en-us/volunteering.html" title="Volunteering">Volunteering</a>
+                            </li>
+                        
+                            <li data-sitemap-node="/content/oesemergency/en-us/donations.html">
+                                <a href="/content/oesemergency/en-us/donations.html" title="Donations">Donations</a>
+                            </li>
+                        
+                            <li data-sitemap-node="/content/oesemergency/en-us/rumor-control.html">
+                                <a href="/content/oesemergency/en-us/rumor-control.html" title="Rumor Control">Rumor Control</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="navbar-right hidden-xs">
+                        <div class="btn-group">
+                            <a href="#" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+                                <span class="fa fa-globe" aria-hidden="true"></span>English<span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="/content/oesemergency/en-us/incident-page.956.html">English</a></li>
+                            
+                                <li><a href="/content/oesemergency/es-us/incident-page.956.html">Español</a></li>
+                            </ul>
+                        </div>
+                        <div class="xrm-editable-html xrm-attribute no-value"><div class="xrm-attribute-value"></div></div>
+                    </div>
+                </div>
+            </div>
+          </div> 
+          <!-- NAVIGATION END --></div>
+<div class="breadcrumb section">
+<script>
+
+</script>
+<ul class="breadcrumb">
+
+ 
+
+		 
+
+		<li><a href="/content/oesemergency/en-us.html" onclick="CQ_Analytics.record({event:'followBreadcrumb',values: { breadcrumbPath: '/content/oesemergency/en-us' },collect: false,options: { obj: this },componentPath: 'oesshared/components/content/breadcrumb'})">Home</a></li> 
+
+		 
+
+		<li><a href="/content/oesemergency/en-us/incident-page.html" onclick="CQ_Analytics.record({event:'followBreadcrumb',values: { breadcrumbPath: '/content/oesemergency/en-us/incident-page' },collect: false,options: { obj: this },componentPath: 'oesshared/components/content/breadcrumb'})">Incident Page</a></li>
+</ul></div>
+
+</div>
+</div>
+</div>
+
+
+    
+
+
+
+
+<!-- CONTENT WRAPPER START -->
+<div id="content-area" class="container">
+	 <div class="page-heading"></div>
+	 <div class="row">
+		<!-- CONTENT MAIN START -->
+		<div id="content" class="col-sm-9">
+		  <div class="page-copy">
+              <div class="oes-content-par parsys">
+</div>
+
+              <div class="oes-content parsys">
+</div>
+
+                <br>
+                <div class="incident_item cf-incident-item">
+
+
+<!-- AddThis Button BEGIN --> 
+<div class="addthis_toolbox addthis_default_style "> 
+ <script>
+var addthis_config = {
+     ui_header_color: "#ffffff",
+     ui_header_background: "#d32424",
+     ui_cobrand: "County of San Diego"
+}
+
+var addthis_share =  {  
+    templates: { twitter: ':  via @SanDiegoCounty'  } 
+}
+
+</script> 
+ <a class="addthis_button_facebook"></a> 
+ <a class="addthis_button_twitter"></a> 
+ <a class="addthis_button_email"></a> 
+ <a class="addthis_button_compact"></a> 
+</div> 
+<script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e9df2301f16cc18">
+</script> 
+<!-- AddThis Button END -->
+<p style="color: red;font-weight: bold;"></p>
+
+	<p class="news-date">09/11/2020 12:20 PM PDT</p>
+	
+		<p class="news-headline">All Evacuation Orders, Warnings Lifted, Final Evacuation Point Location Closed</p>
+		<p class="news-text"><p>The Valley Fire is now 39% contained and remains at 17,665 acres.</p>
+ <p>All remaining evacuation orders and warnings are lifted. All road
+  closures are also lifted.</p>
+ <p>The Cleveland National Forest also remains under the Emergency
+  Forest Closure Order.</p>
+ <p>Non-residents should avoid the area as there may be traffic flow
+  congestion due to fire crews and utility works still working in the area.</p>
+ <p>Use extreme caution around trees, power poles and other tall objects
+  that may have been weakened by fire,</p>
+ <p>The San Diego County Sheriff’s Department will have increased
+  patrols in the area to ensure public safety and prevent looting.
+  Residents should call the San Diego Sheriff’s Department if they
+  notice suspicious people in the area.</p>
+ <p>The remaining Temporary Evacuation Point at Steele Canyon High
+  School at 12440 Campo Road in Spring Valley has closed. All evacuation
+  centers are now closed.</p>
+ <p>The County of San Diego is opening a Local Assistance Center to help
+  residents affected by the Valley Fire starting at 10 a.m. on Saturday
+  at the Rancho San Diego library branch in El Cajon.</p>
+ <p>For the latest emergency updates in English and Spanish, visit <a href="https://www.sdcountyemergency.com/"><b>sdcountyemergency.com</b></a> and
+  download the <a href="https://www.readysandiego.org/content/oesready/en-us/SDEmergencyApp.html">SD
+  Emergency</a> app.</p>
+</p>
+	
+	
+	
+	  <p class="news-link"><a href="http://ahasalerts.com/updates.aspx?id=956" target="_blank">ASL | Audio</a></p>
+	
+</div>
+
+		  </div>
+		</div>
+		<!-- CONTENT MAIN END -->
+		
+		<!-- CONTENT SIDEBAR INHERITED -->
+		<div id="sidebar-inherited" class="col-sm-3">
+			<div class="oes-sidebar-inherited iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="oes-sidebar-inherited iparsys parsys"><div class="oes-search section">	
+
+
+
+
+
+
+	<form role="search" type="POST" action="/content/oesemergency/en-us/search.html">
+		<div class="input-group  hide-me-mobile">
+			<label for="q-xs" class="sr-only">Search</label>
+			<input type="text" class="form-control" name="q" value="" class="form-control" placeholder="Search">
+			<div class="input-group-btn">
+				<button type="submit" class="btn btn-default" alt="Search" value="Search"><span class="fa fa-search" aria-hidden="true"></span></button>
+			</div>
+		</div>
+	</form>
+
+
+
+
+</div>
+<div class="social section">
+
+<div class="row">
+    <div id="socialComponentAd" class="col-sm-12">
+        <div class="ad-copy">
+            <div class="oes-box">
+                
+                <h3 class="oes-box-title">Stay Informed</h3>
+                
+
+                
+
+                <p style="text-align: center;">
+                   <a href="http://readysandiego.org/SDEmergencyApp/" target="_blank">
+                       <img alt="SD Emergency App" title="SD Emergency App" src="/content/dam/oesemergency/images/social/SD-Emergency-Icon-NEW-505px.png" width="40"/>
+                   </a>
+                
+                   <a href="http://twitter.com/readysandiego" target="_blank">
+                       <img alt="Twitter feed link" title="Twitter feed link" src="/content/dam/oesemergency/images/social/icon-twitter.png"/>
+                   </a>
+                
+                   <a href="http://www.facebook.com/readysandiego" target="_blank">
+                       <img alt="Facebook link" title="Facebook link" src="/content/dam/oesemergency/images/social/icon-facebook.png"/>
+                   </a>
+                
+                   <a href="/bin/oesemergency/en-us/gsvc/feeds/rss.xml" target="_blank">
+                       <img alt="Emergency Incident Update RSS feed link" title="Emergency Incident Update RSS feed link" src="/content/dam/oesemergency/images/social/icon-rss.png"/>
+                   </a>
+                </p>
+                <p style="text-align: center;">
+                    <a href="http://www.readysandiego.org/alertsandiego/">
+                        <img src="/content/dam/oesemergency/images/social/AlertSanDiego-171x44.png" alt="AlertSanDiego Registration Signup link"/>
+                    </a>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+		<!-- CONTENT SIDEBAR INHERITED END -->
+		<!-- CONTENT SIDEBAR START -->
+			<div class="oes-sidebar parsys">
+</div>
+
+		</div>
+		<!-- CONTENT SIDEBAR END -->
+	</div>
+</div>
+<!-- CONTENT WRAPPER END -->
+
+
+
+	
+<div class="footer iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer iparsys parsys"><div class="footer-comp section">
+    <div id="footer-area" class="footer well" role="complementary" style="padding: 0;">
+    <div class="container">
+        <div class="row">
+            <div class="" data-weblinks-maxdepth="2">
+                <ul class="list-unstyled" style="text-align: center; margin-top: 10px;">
+                    
+                        <li style="display:inline;">
+                            <a href="/content/oesemergency/en-us/about.html">About
+                            </a>
+                        </li>
+                        
+                            <li class="seperator" style="display: inline;">&nbsp;|&nbsp;</li>
+                        
+                    
+                        <li style="display:inline;">
+                            <a href="/content/oesemergency/en-us/contact.html">Contact
+                            </a>
+                        </li>
+                        
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+    </div>
+</div>
+
+</div>
+</div>
+</div>
+
+
+
+<script type="text/javascript" src="/etc/designs/oesemergency/clientlibs.js"></script>
+
+
+    <script type="text/javascript">_satellite.pageBottom();</script>
+
+</body>
+
+	
+
+</html>

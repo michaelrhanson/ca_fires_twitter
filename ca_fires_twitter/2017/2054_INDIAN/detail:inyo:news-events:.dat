@@ -1,0 +1,1162 @@
+<!-- ltt Default begin --><!-- 
+<link href='/Internet/FSE_DOCUMENTS/fseprd927032.css' rel="styleSheet" type="text/css" />
+<script src="/Internet/FSE_DOCUMENTS/fseprd927033.js"  type="text/javascript" defer></script>
+ -->
+ <!-- <base href=""/>  -->
+<!--  Default_FS ver 1.0 -->     
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="google-site-verification" content="Ax0L7VHnhaVUM12uQO_hUgIiJA_vP_rRWuV9JkSEywM" />
+<!-- rel=dynamic-content indicates an element that is replaced with the contents produced by the specified href. 
+    dyn-cs:* URIs are resolved using the values within the 'wp_dyncs_simple' theme module. --><!--    
+<link rel="dynamic-content" href="co:head">
+<link rel="dynamic-content" href="dyn-cs:id:st_head">
+ -->
+ 
+ <!-- Google Tag Manager for r10 -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NDRWDH6');</script>
+<!-- End Google Tag Manager -->
+ 
+ 
+ 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" type="text/javascript"></script>
+
+<script>
+	var $pjq = jQuery.noConflict();
+</script>
+
+<link href='/Internet/FSE_DOCUMENTS/fseprd927032.css' rel="styleSheet" type="text/css" />
+<script src="/Internet/FSE_DOCUMENTS/fseprd927033.js"  type="text/javascript" ></script>
+
+	<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-47791907-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);var _gaq = _gaq || [];
+  
+	  _gaq.push(['b._setAccount', 'UA-22225025-1']);
+	  _gaq.push(['b._setDomainName', 'usda.gov']);
+	  _gaq.push(['b._setAllowLinker', true]);
+	  _gaq.push(['b._trackPageview']);
+
+	  _gaq.push(['a._setAccount', 'UA-27627304-16']);
+	  _gaq.push(['a._setDomainName', 'usda.gov']);
+	  _gaq.push(['a._setAllowLinker', true]);
+	  _gaq.push(['a._trackPageview']);
+
+	  _gaq.push(['b._setAccount', 'UA-27627304-1']);
+	  _gaq.push(['b._setDomainName', 'usda.gov']);
+	  _gaq.push(['b._setAllowLinker', true]);
+	  _gaq.push(['b._trackPageview']);
+
+
+  
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();ga("send", "pageview");
+  
+	</script>
+
+	<!-- Google Analytics -->
+	<script type="text/javascript">function googleAna(gkey){try{
+	//var pageTracker=_gat._getTracker(gkey);
+	//pageTracker._trackPageview();
+	// The new asynchronous syntax
+	_gaq.push(['_setAccount', gkey]);
+	_gaq.push(['_trackPageview']);
+	}catch(err){}}
+	</script>
+	<!-- script type="text/javascript">var gaJsHost=(("https:"==document.location.protocol)?"https://ssl.":"http://www.");document.write(unescape("%3Cscript src='"+gaJsHost+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script -->
+	<!-- Google Analytics -->
+
+	<script id="_fed_an_ua_tag" type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=USDA&amp;subagency=FS"></script>
+
+	<title>
+	
+		Inyo National Forest - News &amp; Events
+	</title>
+
+
+
+        
+
+		<script>
+			djConfig = {
+				parseOnLoad : true,
+				isDebug : false,
+				async: true
+			};
+		</script>
+		
+		<link rel="stylesheet" type="text/css" href="/Internet/scr/dojo/dojo-1.16/dijit/themes/claro/claro.css">
+		<script type="text/javascript" src="/Internet/scr/dojo/dojo-1.16/dojo/dojo.js"></script>
+        
+        
+        <!-- Script for new foresee START 2-->
+
+	<script type="text/javascript">
+		var subsiteCode = "110504";
+
+		// ForeSee Production Embed Script v2.01
+		// DO NOT MODIFY BELOW THIS LINE *****************************************
+		;(function (g) {
+			var d = document, am = d.createElement('script'), h = d.head || d.getElementsByTagName("head")[0], fsr = 'fsReady',
+					aex = {
+						"src": "//gateway.foresee.com/sites/fs-fed-us/production/gateway.min.js",
+						"type": "text/javascript",
+						"async": "true",
+						"data-vendor": "fs",
+						"data-role": "gateway"
+					};
+			for (var attr in aex) { am.setAttribute(attr, aex[attr]); } h.appendChild(am); g[fsr] || (g[fsr] = function () { var aT = '__' + fsr + '_stk__'; g[aT] = g[aT] || []; g[aT].push(arguments); });
+		})(window);
+		// DO NOT MODIFY ABOVE THIS LINE *****************************************
+
+	</script>
+	<!-- Script for new foresee END -->
+<script >bazadebezolkohpepadr="467215575"</script><script type="text/javascript" src="https://www.fs.usda.gov/akam/13/1bd92438"  defer></script></head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body id="content" class="lotusui30dojo tundra claro locale_en">
+
+<!-- Google Tag Manager (noscript) for r10 -->
+<noscript><iframe src=https://www.googletagmanager.com/ns.html?id=GTM-NDRWDH6
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	
+	<div id="stPageFrame">
+
+		<!-- these wptheme* classes are required for the hidden widget container -->
+		<div class="stMainContent wpthemeMainContent" role="main" aria-label="IBM Digital Experience Main">
+			<!-- required - do not remove -->
+
+			<div id="layoutContainers" class="stLayoutContainers stLayoutContainersHidden stGroup wpthemeLayoutContainersHidden">
+				<!-- this layout has one container 
+     Note that the st-* classes are the grid layout classes from the st_layoutGrid module.
+     These should be removed if using a different grid system. -->
+<div class="st-section">
+	
+	<div id='header' class="header" class="st-row">
+		<div class="st-col st-col-whole">
+			<div class='component-container wpthemeFull st-container ibmDndColumn id-Z7_CP74L5LD5057MFSCGG7AAV7H12' name='header' ><div class='component-control id-Z7_3P981242LOMMA0Q5UBBSQ930M3' >        <!-- Begin WIDTopNavPortletView3.jsp -->
+
+
+	<div id="masthead">
+
+
+		<section class="usa-banner" aria-label="Official government website">
+			<div class="usa-accordion">
+				<header class="usa-banner__header">
+					<div class="usa-banner__inner">
+						<div class="grid-col-auto">
+							<img class="usa-banner__header-flag"
+								src="https://www.usda.gov/themes/usda/img/favicons/flag-favicon-57.png"
+								alt="U.S. flag">
+						</div>
+						<div class="grid-col-fill tablet:grid-col-auto">
+							<p class="usa-banner__header-text">An official website of the
+								United States government</p>
+							<p class="usa-banner__header-action" aria-hidden="true">Here&apos;s
+								how you know</p>
+						</div>
+						<button class="usa-accordion__button usa-banner__button"
+							aria-expanded="false" aria-controls="gov-banner-demo">
+							<span class="usa-banner__button-text">Here&apos;s how you
+								know</span>
+						</button>
+					</div>
+				</header>
+				<div class="usa-banner__content usa-accordion__content"
+					id="gov-banner-demo" hidden="">
+					<div class="grid-row grid-gap-lg">
+						<div class="usa-banner__guidance tablet:grid-col-6">
+							<img class="usa-banner__icon usa-media-block__img"
+								src="https://www.usda.gov/themes/usda/img/icon-dot-gov.svg"
+								role="img" alt="Dot gov">
+							<div class="usa-media-block__body">
+								<p>
+									<strong>Official websites use .gov</strong> <br> A <strong>.gov</strong>
+									website belongs to an official government organization in the
+									United States.
+								</p>
+							</div>
+						</div>
+						<div class="usa-banner__guidance tablet:grid-col-6">
+							<img class="usa-banner__icon usa-media-block__img"
+								src="https://www.usda.gov/themes/usda/img/icon-https.svg"
+								role="img" alt="Https">
+							<div class="usa-media-block__body">
+								<p>
+									<strong>Secure .gov websites use HTTPS</strong> <br> A <strong>lock</strong>
+									( <span class="icon-lock"><svg
+											xmlns="http://www.w3.org/2000/svg" width="52" height="64"
+											viewBox="0 0 52 64" class="usa-banner__lock-image" role="img"
+											aria-labelledby="banner-lock-title banner-lock-description">
+											<title id="banner-lock-title">Lock</title><desc
+												id="banner-lock-description">A locked padlock</desc>
+											<path fill="#000000" fill-rule="evenodd"
+												d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z" /></svg></span>
+									) or <strong>https://</strong> means you&apos;ve safely
+									connected to the .gov website. Share sensitive information only
+									on official, secure websites.
+
+								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<div id="logoSkipNav" class="WIDBackgroundColor">
+			<!-- Begin Skip Top Navigation -->
+			<a tabindex="1" href="#main_content" title="Skip to main content">Skip
+				to main content</a>
+			<!-- End Skip Top Navigation -->
+		</div>
+		<header class="usa-header usa-header--extended">
+			<div class="usa-navbar">
+				<div class="usa-logo extended-mega-logo">
+					<img src="/FSCSThemeStatic/themes/usda_nfs/img/usda-symbol.svg" alt="usda logo"
+						class="agency-logo"> <img src="/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
+						alt="usfs shield" class="agency-logo">
+					<div class="logo-text">
+						<em class="usa-logo__text"><a aria-label="Forest Service National Website" href="/"
+							title="Forest Service National Website">Forest Service</a></em>
+						<p>Caring For the Land and Serving People</p>
+					</div>
+					<button class="usa-menu-btn">Menu</button>
+				</div>
+			</div>
+			<nav aria-label="Primary navigation" class="usa-nav">
+				<div class="usa-nav__inner">
+
+					<button class="usa-nav__close">
+						<img alt="close" src="/FSCSThemeStatic/themes/usda_nfs/img/close-white.svg">
+					</button>
+
+					<div class="usa-nav__secondary">
+						<div id="foresttitle">
+							<a href="/inyo">Inyo National Forest</a>
+						</div>
+
+
+						<ul class="usa-nav__secondary-links">
+							<li class="usa-nav__secondary-item"><a
+								href="/"
+								title="Forest Service Home, National Website">Forest Service Home</a></li>
+							<li class="usa-nav__secondary-item"><a
+								href="https://www.fs.usda.gov/about-agency">About the Agency</a>
+							</li>
+
+							<li class="usa-nav__secondary-item"><a
+								href="https://www.fs.usda.gov/about-agency/contact-us">Contact
+									the National Office</a></li>
+							<li class="usa-nav__secondary-item"><a
+								href="https://www.fs.usda.gov/inside-fs">Inside the FS</a></li>
+						</ul>
+
+
+
+					</div>
+				</div>
+
+
+
+<!-- Begin inserting Main Navigation.jsp -->
+
+				<script type="text/javascript">
+<!--
+	var eURL = "";
+	var nType ="";
+	var title ="";
+
+	
+	//test script
+		function initSelectOffice(oControl,encodedUrl,b,name)
+	{
+	    var theSelect = document.getElementById(oControl.name);
+	    eURL =encodedUrl;
+	    nType =name;
+	    theSelect.changed = false;
+	    theSelect.onfocus = selectOfficeFocussed;
+	    theSelect.onchange =  selectOfficeChanged ;	  	  
+	    theSelect.onkeydown = selectOfficeKeyed;
+	    theSelect.onclick = selectOfficeClicked;
+		
+	     return true;
+	}
+	
+	 
+	function selectOfficeChanged(theElement)
+	{
+	    var theSelect;
+	
+	    if (theElement && theElement.value)
+	    {
+	        theSelect = theElement;
+	    }
+	    else
+	    {
+	        theSelect = this;
+	    }
+	
+	    if (!theSelect.changed)
+	    {
+	        return false;
+	    }
+	    
+	    var paramArray = theSelect.value.split(".");	
+	    var queryParameters = document.getElementById("offices").value;
+	    document.NationalOffices.action =eURL+queryParameters;
+   	   	document.NationalOffices.submit();
+	   
+	}
+	
+	function selectOfficeClicked()
+	{
+	    this.changed = true;
+	  
+	}
+	
+	function selectOfficeFocussed()
+	{
+	    this.initValue = this.value;
+		
+	    return true;
+	}
+	
+	function selectOfficeKeyed(e)
+	{
+	    var theEvent;
+	    var keyCodeTab = "9";
+	    var keyCodeEnter = "13";
+	    var keyCodeEsc = "27";
+		
+	    if (e)
+	    {
+	        theEvent = e;
+	    }
+	    else
+	    {
+	        theEvent = event;
+	    }
+	
+	    if ((theEvent.keyCode == keyCodeEnter ) && this.value != this.initValue)
+	    {
+	        this.changed = true;
+	        selectOfficeChanged(this);
+	    }
+	    else if (theEvent.keyCode == keyCodeEsc)
+	    {
+	        this.value = this.initValue;
+	    }
+	    else
+	    {
+	        this.changed = false;
+	    }
+		
+	    return true;
+	}	
+//-->
+</script>
+
+				
+
+				<div class="navleft">
+					
+					<script type="text/javascript">
+	var portalLinks = {
+	
+			"Home": {
+				"href" : "/inyo"
+			},
+		
+			"Special Places":{
+
+				"href"	: "/attmain/inyo/specialplaces",
+			},
+		
+			"Recreation":{
+
+				"href"	: "/recmain/inyo/recreation",
+			},
+		
+			"Bicycling":{
+
+				"href"	: "/activity/inyo/recreation/bicycling",
+			},
+		
+			"Camping &amp; Cabins":{
+
+				"href"	: "/activity/inyo/recreation/camping-cabins",
+			},
+		
+			"Climbing":{
+
+				"href"	: "/activity/inyo/recreation/climbing",
+			},
+		
+			"Fishing":{
+
+				"href"	: "/activity/inyo/recreation/fishing",
+			},
+		
+			"Hiking":{
+
+				"href"	: "/activity/inyo/recreation/hiking",
+			},
+		
+			"Horse Riding &amp; Camping":{
+
+				"href"	: "/activity/inyo/recreation/horseriding-camping",
+			},
+		
+			"Hunting":{
+
+				"href"	: "/activity/inyo/recreation/hunting",
+			},
+		
+			"Nature Viewing":{
+
+				"href"	: "/activity/inyo/recreation/natureviewing",
+			},
+		
+			"OHV Riding &amp; Camping":{
+
+				"href"	: "/activity/inyo/recreation/ohv",
+			},
+		
+			"Outdoor Learning":{
+
+				"href"	: "/activity/inyo/recreation/outdoorlearning",
+			},
+		
+			"Picnicking":{
+
+				"href"	: "/activity/inyo/recreation/picnickinginfo",
+			},
+		
+			"Scenic Driving":{
+
+				"href"	: "/activity/inyo/recreation/scenicdrivinginfo",
+			},
+		
+			"Water Activities":{
+
+				"href"	: "/activity/inyo/recreation/wateractivities",
+			},
+		
+			"Winter Sports":{
+
+				"href"	: "/activity/inyo/recreation/wintersports",
+			},
+		
+			"Alerts &amp; Notices":{
+
+				"href"	: "/alerts/inyo/alerts-notices",
+			},
+		
+			"Passes &amp; Permits":{
+
+				"href"	: "/main/inyo/passes-permits",
+			},
+		
+			"Recreation Passes &amp; Permits":{
+
+				"href"	: "/main/inyo/passes-permits/recreation",
+			},
+		
+			"Forest Products Permits":{
+
+				"href"	: "/main/inyo/passes-permits/forestproducts",
+			},
+		
+			"Event/Commercial Permits":{
+
+				"href"	: "/main/inyo/passes-permits/event-commercial",
+			},
+		
+			"Other Permits":{
+
+				"href"	: "/main/inyo/passes-permits/other",
+			},
+		
+			"Maps &amp; Publications":{
+
+				"href"	: "/main/inyo/maps-pubs",
+			},
+		
+			"Land &amp; Resources Management":{
+
+				"href"	: "/land/inyo/landmanagement",
+			},
+		
+			"Planning":{
+
+				"href"	: "/main/inyo/landmanagement/planning",
+			},
+		
+			"Projects":{
+
+				"href"	: "/projects/inyo/landmanagement/projects",
+			},
+		
+			"Resource Management":{
+
+				"href"	: "/resources/inyo/landmanagement/resourcemanagement",
+			},
+		
+			"Geospatial Data":{
+
+				"href"	: "/main/inyo/landmanagement/gis",
+			},
+		
+			"Fire Management":{
+
+				"href"	: "/main/inyo/fire",
+			},
+		
+			"Learning Center":{
+
+				"href"	: "/main/inyo/learning",
+			},
+		
+			"Nature &amp; Science":{
+
+				"href"	: "/main/inyo/learning/nature-science",
+			},
+		
+			"History &amp; Culture":{
+
+				"href"	: "/main/inyo/learning/history-culture",
+			},
+		
+			"Outdoor Safety &amp; Ethics":{
+
+				"href"	: "/main/inyo/learning/safety-ethics",
+			},
+		
+			"Just for Kids":{
+
+				"href"	: "/main/inyo/learning/kids",
+			},
+		
+			"Parents &amp; Teachers":{
+
+				"href"	: "/main/inyo/learning/parents-teacher",
+			},
+		
+			"Working Together":{
+
+				"href"	: "/main/inyo/workingtogether",
+			},
+		
+			"Volunteering":{
+
+				"href"	: "/main/inyo/workingtogether/volunteering",
+			},
+		
+			"Partnerships":{
+
+				"href"	: "/main/inyo/workingtogether/partnerships",
+			},
+		
+			"Tribal Relations":{
+
+				"href"	: "/main/inyo/workingtogether/tribalrelations",
+			},
+		
+			"About the Forest":{
+
+				"href"	: "/main/inyo/about-forest",
+			},
+		
+			"Contact Us":{
+
+				"href"	: "/contactus/inyo/about-forest/contactus",
+			},
+		
+			"Offices":{
+
+				"href"	: "/detail/inyo/about-forest/offices",
+			},
+		
+			"Districts":{
+
+				"href"	: "/main/inyo/about-forest/districts",
+			},
+		
+			"Employment":{
+
+				"href"	: "/main/inyo/about-forest/jobs",
+			},
+		
+			"About the Area":{
+
+				"href"	: "/main/inyo/about-forest/about-area",
+			},
+		
+			"News &amp; Events":{
+
+				"href"	: "/news/inyo/news-events",
+			},
+		
+	}
+	</script>
+
+
+
+					
+
+				</div>
+
+				<!-- End inserting WIDLeftNavPortletView.jsp -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			</nav>
+
+		</header>
+
+
+	</div>    <!-- end  masthead-->
+
+
+<script type="text/javascript">googleAna('UA-15953587-4');googleAna('UA-15887590-1');</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div>
+	</div>
+	<div id='content_container'>
+		<div id='main_content' class="main_content" class="st-row">
+			<div class="st-col st-col-whole">
+				<div class='component-container wpthemeFull st-container ibmDndColumn id-Z7_D0T1FGFJ4KV7VOD28JPECEQQ97' name='main_content' ><div class='component-control id-Z7_3P981242LOMMA0Q5UBBSQ930E2' >        
+</div><div class='component-control id-Z7_3P981242LOMMA0Q5UBBSQ930E1' >        
+
+
+
+
+
+
+
+
+
+
+
+<!-- Begin WIDDetailPortletView.jsp -->
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+	
+
+	
+		
+		
+		
+			
+			
+			
+			
+		
+		
+				
+					
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+			
+      
+			
+			
+			
+			
+
+
+		
+					
+		
+		
+						
+					
+					
+				
+			
+				
+				<h1>Indian Fire Update</h1> 
+
+
+				<meta property="og:description" content="Indian Fire Update">	
+
+
+				
+				
+				
+				
+					
+						<p>Release Date:&nbsp;Aug 9, 2017</p>
+				
+				
+				
+				
+				
+				
+			<!-- gets dynamic conversion of content -->
+				<p><strong><img alt="Small FS Emblem" src="/Internet/FSE_MEDIA/stelprdb5405310.gif" style="height: 70px; width: 63px" /></strong></p>
+
+<p><a href="/Internet/FSE_DOCUMENTS/fseprd554342.pdf"><strong>Printable Document</strong></a></p>
+
+<p><a href="/Internet/FSE_MEDIA/fseprd554343.jpg"><strong>Indian Fire Photo</strong></a></p>
+
+<p><strong>News Release</strong></p>
+
+<p>August 9, 2017</p>
+
+<p>Media Contact: Deb Schweizer<br />
+(760) 873-2427<br />
+<a href="mailto:debraaschweizer@fs.fed.us">debraaschweizer@fs.fed.us</a></p>
+
+<p><a href="http://www.facebook.com/inyonf">www.facebook.com/inyonf</a></p>
+
+<p>Twitter: @inyoinfo<br />
+<a href="https://inciweb.nwcg.gov/incident/5469">https://inciweb.nwcg.gov/incident/5469</a></p>
+
+<p>&nbsp;</p>
+
+<p align="center"><strong>Indian Fire Update</strong></p>
+
+<p>The Indian Fire is estimated to be 421 acres and 0% contained. It continues to grow slowly to the north and east. Three helicopters are being used to cool the fire&rsquo;s edge and slow fire growth to confine and contain the fire.</p>
+
+<p>The fire is burning in the 2002 McNally Fire footprint in whitethorn brush and Jeffrey pine at 8,400 ft. Snags (standing dead or dying trees) present a substantial safety concern for fire crews, so only aerial resources are being used at this time.</p>
+
+<p>Fire behavior includes creeping, smoldering, and backing between dead and down trees with moderate uphill runs when slope and fuels align. Aerial resources are checking the fire&rsquo;s growth during the day, however the fire continues to grow slowly overnight.</p>
+
+<p>There is currently no threat to life or property.</p>
+
+<p>The forest has implemented an emergency closure of the following trails:</p>
+
+<ul>
+	<li>Casa Vieja to Red Rock Meadow via Jordon Hot Springs</li>
+	<li>Casa Vieja to Red Rock Meadow via Lost Trout Creek (Beer Keg Meadow)</li>
+	<li>Red Rock Meadow to Templeton Cow Camp</li>
+	<li>Red Rock Meadow to Little Whitney Meadow</li>
+</ul>
+
+<p>These closures are due to the fire and due to the substantial hazard created by falling snags. Hikers are advised to avoid this and the nearby area during the fire response. Fire crews are using Jordon Hot Springs for fire operations.</p>
+
+<p>Smoke is visible and drifting into the southern Owens Valley near Olancha as well as areas throughout the southern Sierra.</p>
+
+<p>The fire appears to be lightning-caused and ignited on August 2. It is burning in the Golden Trout Wilderness, near Indian Head Peak, north of the Jordon Hot Springs.</p>
+
+<p align="center"><em>xxx-</em></p>
+		
+		
+				
+			
+								
+				<br />
+			
+			
+			
+			<br/>
+			
+	
+	
+
+
+</div></div></div>
+		</div>
+		<div id='right_column'>
+			<div id='critical'  class="st-row">
+				<div class="st-col st-col-whole">
+					<div class='component-container wpthemeFull st-container ibmDndColumn id-Z7_UC1F870SABHSO7RP97MPRTKTV0' name='critical' ><div class='component-control id-Z7_O84C14O0017D9060T4II8R0000' >        
+</div><div class='component-control id-Z7_3P981242LOMMA0Q5UBBSQ930E3' >        
+</div><div class='component-control id-Z7_G0C0HB411PTU20609J255S00S2' >        
+</div></div></div>
+			</div>
+			<div id='secondary_navigation'  class="st-row">
+				<div class="st-col st-col-whole">
+					<div class='component-container wpthemeFull st-container ibmDndColumn id-Z7_BF8AR0FB6CLNKG5LPV08C4IUM3' name='secondary_navigation' ><div class='component-control id-Z7_3P981242LOMMA0Q5UBBSQ930U0' >        
+</div><div class='component-control id-Z7_3P981242LOMMA0Q5UBBSQ930U2' >        
+</div><div class='component-control id-Z7_3P981242LOMMA0Q5UBBSQ930U1' >        
+</div><div class='component-control id-Z7_3P981242LOMMA0Q5UBBSQ930U3' >        
+</div><div class='component-control id-Z7_3P981242LOMMA0Q5UBBSQ93010' >        
+</div><div class='component-control id-Z7_3P981242LOMMA0Q5UBBSQ93012' >        
+</div></div></div>
+			</div>
+		</div>
+
+	</div>
+	</main><div id='footer' class="footer" class="st-row">
+		<div class="st-col st-col-whole">
+			<div class='component-container wpthemeFull st-container ibmDndColumn id-Z7_2L5UHK1UC1GEPQ6RAKFLMFDAQ7' name='footer' ><div class='component-control id-Z7_3P981242LOMMA0Q5UBBSQ93011' >        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Begin WIDFooterNavContactInfoPortletView.jsp -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<footer class='usa-footer usa-footer--slim'>
+	<div class="grid-container usa-footer__return-to-top">
+	    <a href="#main_content">Return to top</a>
+	</div>
+	<div class="usa-footer__primary-section"></div>
+	<div class='usa-footer__secondary-section'>
+		<div  class="grid-container tablet:flex">
+			<div class="grid-row">       
+				<div id="leftcont" class="desktop:grid-col-3 desktop:order-1 mobile-lg:order-2">  	
+				 
+	<!-- 
+	<p class="heading">Contact Information</p>
+	 -->
+	<p><strong>Inyo National Forest</strong><br />
+351 Pacu Lane<br />
+Suite 200<br />
+Bishop, CA 93514</p>
+
+<p>760-873-2400<br />
+&nbsp;</p>
+
+<p class="heading" style="margin-bottom: 12px;">Stay Connected</p>
+
+<p><a href="https://twitter.com/Inyo_NF"><img alt="Twitter logo icon" src="https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/social-icons/twitter-color.svg" style="width: 35px; height: 35px;" /></a> <a href="https://www.flickr.com/photos/usfsregion5/collections/72157719073856087/"><img alt="graphic: Flickr icon. Select to go to Flickr album." src="https://www.fs.usda.gov//FSCSThemeStatic/themes/usda_nfs/img/social-icons/flickr-color.svg" style="width: 35px; height: 35px;" /></a> <a href="https://www.facebook.com/inyonf/"><img alt="Facebook icon" src="https://www.fs.usda.gov//FSCSThemeStatic/themes/usda_nfs/img/social-icons/facebook-color.svg" style="width: 35px; height: 35px;" /></a></p>
+
+	
+	<p>
+		<a id="localContactUSURL" name="localContactUSURL"
+			href="/contactus/inyo/about-forest/contactus">Contact Us</a>
+	</p>
+	
+	
+				
+				</div>   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				<div
+					class="desktop:grid-col-8 desktop:grid-offset-1 desktop:order-2 mobile-lg:order-1">
+					<ul class="usa-list--unstyled grid-row padding-top-2">
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.recreation.gov">Recreation.gov</a></li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://ask.usda.gov/s/">askUSDA</a></li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.usda.gov/oig/forms/contractor-fraud">Report Fraud
+								on USDA Contracts</a></li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.usda.gov/accessibility-statement">Accessibility Statement</a></li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.whitehouse.gov">WhiteHouse.gov</a></li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.usda.gov/policies-and-links">Policies and Links</a>
+						</li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.usda.gov/oig">Visit OIG</a></li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.usda.gov/privacy-policy">Privacy Policy</a></li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.usda.gov/federal-web-site-inventory">eGov</a></li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.usda.gov/our-agency/about-usda/performance">Our Performance</a></li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.usda.gov/plain-writing">Plain Writing</a></li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.usda.gov/non-discrimination-statement">Non-Discrimination Statement</a></li>
+						
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.usda.gov/oascr/civil-rights-statements">Anti-Harassment Policy</a></li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.fs.usda.gov/about-agency/civil-rights#noFEARAct">No FEAR Act Data</a></li>
+						
+						
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.usda.gov/open">Open Government</a></li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.fs.usda.gov/working-with-us/jobs">Careers</a></li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.fs.usda.gov/about-agency/foia">FOIA</a></li>
+						
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.usda.gov/ocio/guidelines-and-compliance-resources/information-quality-activities">Information Quality</a></li>
+
+						<li class="tablet:grid-col-4 desktop:grid-col-4"><a
+							href="https://www.usa.gov">USA.gov</a></li>
+					</ul>
+				</div>
+				
+
+
+
+
+
+			</div>  
+		</div>   
+	</div>
+
+
+	<div class="usa-footer__agency-branding grid-container">
+		<div class="grid-row">
+			<div class="usa-logo extended-mega-logo">
+				<img alt="usda logo" class="agency-logo"
+					src="/FSCSThemeStatic/themes/usda_nfs/img/usda-symbol.svg">
+				<img alt="usfs shield" class="agency-logo"
+					src="/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg">
+				<div class="logo-text">
+					<em class="usa-logo__text"><a aria-label="Forest Service National Website" href="/"
+						title="Forest Service National Website">Forest Service</a></em>
+					<p>U.S. Department of Agriculture</p>
+				</div>
+			</div>
+			<div
+				class="usa-footer__contact-links mobile-lg:grid-col-fill display-flex flex-align-center mobile-lg:flex-justify-end">
+				<div
+					class="usa-footer__social-links grid-row grid-gap-2 desktop:grid-gap-3 flex-no-wrap">
+					<div class="grid-col-auto">
+						<a class="fs-social-link fs-social-link--twitter"
+							href="https://twitter.com/forestservice" target="_blank"
+							rel="noopener"> <span>Twitter</span>
+						</a>
+					</div>
+					<div class="grid-col-auto">
+						<a class="fs-social-link fs-social-link--facebook"
+							href="https://www.facebook.com/USForestService" target="_blank"
+							rel="noopener"> <span>Facebook</span>
+						</a>
+					</div>
+					<div class="grid-col-auto">
+						<a class="fs-social-link fs-social-link--youtube"
+							href="https://www.youtube.com/user/usdaForestService"
+							target="_blank" rel="noopener"> <span>Youtube</span>
+						</a>
+					</div>
+					<div class="grid-col-auto">
+						<a class="fs-social-link fs-social-link--flickr"
+							href="https://www.flickr.com/photos/usforestservice/"
+							target="_blank" rel="noopener"> <span>Flickr</span>
+						</a>
+					</div>
+					<div class="grid-col-auto">
+						<a class="fs-social-link fs-social-link--instagram"
+							href="https://www.instagram.com/u.s.forestservice/"
+							target="_blank" rel="noopener"> <span>Instagram</span>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+
+
+	
+</footer>
+
+</div></div></div>
+	</div>
+</div>
+</div>
+		</div><!--end main content-->
+
+	</div>
+
+	
+<style>
+.hidewebpageurl {
+display: none;
+visibility: hidden;
+}
+</style>
+<div class="hidewebpageurl" id="webpage_url">https://www.fs.usda.gov/detail/inyo/news-events/?cid=FSEPRD554345</div><noscript><img src="https://www.fs.usda.gov/akam/13/pixel_1bd92438?a=dD1jOTIyY2QxNjg4M2U0NDBiNGM2YTRhMjRjY2VjNzIzZGFkYTdlNjE3JmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;" /></noscript></body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ltt Default end -->

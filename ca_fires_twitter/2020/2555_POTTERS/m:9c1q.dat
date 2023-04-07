@@ -1,0 +1,110 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html prefix="og: http://ogp.me/ns#">
+<head>
+  <meta content='True' name='HandheldFriendly'/>
+  <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=0, viewport-fit=cover"/>
+  <meta name="format-detection" content="telephone=no"/>
+
+  <meta property="og:title" content="Lightning Fire Public - SARTopo"/>
+  <meta property="og:url" content="https://sartopo.com/m/S9c1q"/>
+  <meta property="og:image" content="https://sartopo.com/pv/S9c1q"/>
+  <meta property="og:type" content="website"/>
+  
+    
+    
+      <meta name="description" content="User created map: Lightning Fire Public, ID S9c1q, on SARTopo. Backcountry or your backyard; research, plan, share, and take maps with you on your mobile device. View real time data, choose layers that suit your needs, print maps, record tracks and more."/>
+      <meta property="og:description" content="User created map: Lightning Fire Public, ID S9c1q, on SARTopo. Backcountry or your backyard; research, plan, share, and take maps with you on your mobile device. View real time data, choose layers that suit your needs, print maps, record tracks and more."/>
+    
+  
+
+  <link rel="canonical" href="https://sartopo.com/m/S9c1q"/>
+  <title>Lightning Fire Public - SARTopo</title>
+
+  <script type="text/javascript">
+    sarsoft = window.sarsoft || {};
+    sarsoft.tenant ={"mode":"sar","accountId":"0GFV44","cfgUpdated":1597776588282,"description":"","id":"9c1q","title":"Lightning Fire Public","sharing":"URL","class":"CollaborativeMap","updated":1597797156161,"config":"{\"activeLayers\":[[\"om\",1]]}"};
+    sarsoft.permission =10;
+  </script>
+  
+
+
+<meta property="fb:admins" content="1651102182"/>
+
+
+
+
+<script type="text/javascript">
+  sarsoft = { ...(window.sarsoft || {}), ...{"app":false,"pdf_sizes":"8.5x11,8.27x11.69,8.5x14,11x17,11.69x16.53,13x19,18x24,24x36,36x48,48x72,48x96","settings":{"firstVisit":true},"upstream":true,"googleapikey":"AIzaSyAo0g0nZh5aOEhMW2S876KMjJ8OqaN-VwQ","px_limit":"324000000","version":"SARTopo","map_viewer":"mixed","mode":"SAR","features":{"offlineApp":false,"layerExports":false,"pro":false,"icons":false,"maxTeamSize":1,"offlineTier":0,"offlineData":false,"gis":false,"maxPDFSize":12,"superOverlay":false,"staticContent":false,"id":"free","privateMaps":false,"retainPDFs":false,"smsLocators":false},"map_modes":{"sar":"SAR","cal":"Recreation"},"map_native":false,"view_altitudes":"25 ft=6;50 ft=15;100 ft=30;250 ft=76;1000 ft=304;2500 ft=762;10000 ft=3048;25000 ft=7620;60000 ft=18288;120000 ft=36576","pdf_scales":"12000,24000,25000,50000,62500,63360","providerNames":["google","apple","facebook","msft","yahoo"],"stripeapikey":"pk_live_tpg0LlpHkLVSbVwiew7s4W1h","view_layers":"Imagery=n;Topo=t;WireImagery=,n;WireTopo=,t","external_print_enabled":true,"liveTrackLimits":{"idleTime":1440,"points":3000},"browserCacheTS":1675701333195,"providers":{"apple":"Apple","yahoo":"Yahoo","facebook":"Facebook","msft":"Microsoft","google":"Google"}} };
+
+  
+
+  if (typeof org == "undefined") org = new Object();
+  org.sarsoft = org.sarsoft || {};
+  org.sarsoft.preload = {};
+</script>
+
+
+
+<script src="/static/js/main.js?ts=1675701333195"></script>
+<link rel="stylesheet" href="/static/css/main.css?ts=1675701333195" type="text/css" media="all">
+
+
+
+  <script>
+    var _paq = window._paq = window._paq || [];
+    _paq.push(['requireCookieConsent']);
+    _paq.push(['trackPageView']);
+    (function() {
+      var u="https://caltopo.matomo.cloud/";
+      _paq.push(['setTrackerUrl', u+'matomo.php']);
+      _paq.push(['setSiteId', '7']);
+      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+      g.async=true; g.src='//cdn.matomo.cloud/caltopo.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+    })();
+  </script>
+
+
+
+  <link rel="stylesheet" href="/static/css/cookie-controls-1.css" type="text/css" media="all">
+  <script src="/static/js/cookie-controls-1.js"></script>
+  <script>
+    var cookies = new org.sarsoft.Cookies(sarsoft.settings);
+    cookies.initializeControls(function(cookiesAllowed) {
+      _paq = window._paq;
+      if(_paq && cookiesAllowed) {
+        _paq.push(['setCookieConsentGiven']);
+      }
+    });
+  </script>
+
+  <script type="text/javascript">
+    function doload() {
+      org.sarsoft.Loader.queue(function() {
+
+        page = new sarsoft.Page({
+          config: org.sarsoft.view.PersistedConfigWidget,
+          url: false,
+          title: sarsoft.tenant.title
+        });
+        page.create();
+
+
+        if (sarsoft.app && window.renderReact) {
+          window.renderReact();
+        }
+      });
+    }
+  </script>
+</head>
+<body onload="doload()" class="yui-skin-sam" style="border: 0px; margin: 0px; padding: 0px; width: 100%; height: 100%; position: fixed">
+
+<div id="map_canvas" style="width: 100%; height: 100%">
+  
+</div>
+
+</body>
+</html>
